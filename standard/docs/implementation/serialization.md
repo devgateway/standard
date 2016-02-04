@@ -42,7 +42,7 @@ In each case, fields are identified by the [json pointer](http://tools.ietf.org/
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/serialization-flat.json
+.. jsoninclude:: docs/examples/serialization-flat.json
    :jsonpointer: 
    :expand: releases, tender, items
 
@@ -54,7 +54,7 @@ In each case, fields are identified by the [json pointer](http://tools.ietf.org/
 
 .. csv-table::
    :header-rows: 1
-   :file: standard/docs/en/examples/serialization-flat.csv
+   :file: standard/docs/examples/serialization-flat.csv
    
 ```
 
@@ -74,7 +74,7 @@ For example, to represent a tender release with two items, the CSV file would in
 
 .. csv-table::
    :header-rows: 1
-   :file: standard/docs/en/examples/serialization-flat-two-items.csv
+   :file: standard/docs/examples/serialization-flat-two-items.csv
    
 ```
 
@@ -82,7 +82,7 @@ The JSON equivalent of this would be:
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/serialization-flat-two-items.json
+.. jsoninclude:: docs/examples/serialization-flat-two-items.json
    :jsonpointer: 
    :expand: releases, tender, items
 

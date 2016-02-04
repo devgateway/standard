@@ -71,7 +71,7 @@ For example, common building blocks are provided for:
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/record.json
+.. jsoninclude:: docs/examples/record.json
    :jsonpointer: /records/0/compiledRelease/buyer
    :expand: identifier, address, contactPoint
    :title: organization
@@ -80,7 +80,7 @@ For example, common building blocks are provided for:
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/record.json
+.. jsoninclude:: docs/examples/record.json
    :jsonpointer: /records/0/compiledRelease/awards/0/value
    :expand: 
    :title: amounts
@@ -89,7 +89,7 @@ For example, common building blocks are provided for:
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/record.json
+.. jsoninclude:: docs/examples/record.json
    :jsonpointer: /records/0/compiledRelease/awards/0/items
    :expand: classification, unit, additionalClassifications, value
    :title: items
@@ -98,7 +98,7 @@ For example, common building blocks are provided for:
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/record.json
+.. jsoninclude:: docs/examples/record.json
    :jsonpointer: /records/0/compiledRelease/awards/0/contractPeriod
    :expand: 
    :title: period
@@ -107,7 +107,7 @@ For example, common building blocks are provided for:
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/record.json
+.. jsoninclude:: docs/examples/record.json
    :jsonpointer: /records/0/compiledRelease/awards/0/documents
    :expand: 
    :title: documents
@@ -116,7 +116,7 @@ For example, common building blocks are provided for:
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/record.json
+.. jsoninclude:: docs/examples/record.json
    :jsonpointer: /records/0/compiledRelease/tender/milestones/0
    :expand: 
    :title: milestones

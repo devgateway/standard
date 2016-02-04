@@ -22,7 +22,7 @@ If the record is complete with versioning information, then the versioning secti
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/merging/merge-tender-1.json
+.. jsoninclude:: docs/examples/merging/merge-tender-1.json
    :jsonpointer: /releases
    :expand: releases, tender
    :title: Tender
@@ -31,7 +31,7 @@ If the record is complete with versioning information, then the versioning secti
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/merging/merge-tender-2.json
+.. jsoninclude:: docs/examples/merging/merge-tender-2.json
    :jsonpointer: /releases
    :expand: releases, tender
    :title: Tender_update
@@ -40,7 +40,7 @@ If the record is complete with versioning information, then the versioning secti
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/merging/merge-award-1.json
+.. jsoninclude:: docs/examples/merging/merge-award-1.json
    :jsonpointer: /releases
    :expand: releases, award
    :title: Award_One
@@ -49,7 +49,7 @@ If the record is complete with versioning information, then the versioning secti
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/merging/merge-award-2.json
+.. jsoninclude:: docs/examples/merging/merge-award-2.json
    :jsonpointer: /releases
    :expand: releases, award
    :title: Award_Two
@@ -58,7 +58,7 @@ If the record is complete with versioning information, then the versioning secti
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/merging/merged.json
+.. jsoninclude:: docs/examples/merging/merged.json
    :jsonpointer: 
    :expand: releases, tender, award
    :title: Merged
@@ -134,7 +134,7 @@ As a result, the history of any field can be easily read from the data structure
 
 ```eval_rst
 
-.. jsoninclude:: docs/en/examples/merging/versioned.json
+.. jsoninclude:: docs/examples/merging/versioned.json
    :jsonpointer: /records/0/versionedRelease/tender/value
    :expand: value, amount
    :title: Versioned_Example

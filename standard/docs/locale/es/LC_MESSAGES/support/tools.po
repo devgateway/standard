@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-04 11:07+0000\n"
+"POT-Creation-Date: 2016-02-08 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,8 +29,8 @@ msgstr ""
 
 #: ../../standard/docs/en/support/tools.md:5
 msgid ""
-"Tools developed by the core team will be available at https://github.com"
-"/open-contracting/."
+"Tools developed by the core team will be available at [https://github.com"
+"/open-contracting/](https://github.com/open-contracting/)."
 msgstr ""
 
 #: ../../standard/docs/en/support/tools.md
@@ -43,8 +43,9 @@ msgstr ""
 
 #: ../../standard/docs/en/support/tools.md:11
 msgid ""
-"The OCDS validator can be found at http://standard.open-"
-"contracting.org/validator/ and can be used to:"
+"The OCDS validator can be found at [http://standard.open-"
+"contracting.org/validator/](http://standard.open-"
+"contracting.org/validator/) and can be used to:"
 msgstr ""
 
 #: ../../standard/docs/en/support/tools.md:13
@@ -72,8 +73,9 @@ msgstr ""
 
 #: ../../standard/docs/en/support/tools.md:21
 msgid ""
-"ocdsmerge is available as a python package, or on GitHub along with usage"
-" instructions."
+"```ocdsmerge``` is available as a python package, [or on "
+"GitHub](https://github.com/open-contracting/ocds-merge) along with usage "
+"instructions."
 msgstr ""
 
 #: ../../standard/docs/en/support/tools.md
@@ -97,11 +99,35 @@ msgstr ""
 #: ../../standard/docs/en/support/tools.md:31
 msgid ""
 "A number of older tools, created during the development of the standard, "
-"can be found in the Open Contracting Archive github organization."
+"can be found in the [Open Contracting Archive github "
+"organization](https://github.com/open-contracting-archive)."
 msgstr ""
 
 #~ msgid ""
-#~ "Consult the mailing list for details "
-#~ "of other community generated tools."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Tools developed by the core team "
+#~ "will be available at https://github.com"
+#~ "/open-contracting/."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The OCDS validator can be found at"
+#~ " http://standard.open-contracting.org/validator/ and"
+#~ " can be used to:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "ocdsmerge is available as a python "
+#~ "package, or on GitHub along with "
+#~ "usage instructions."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A number of older tools, created "
+#~ "during the development of the standard,"
+#~ " can be found in the Open "
+#~ "Contracting Archive github organization."
 #~ msgstr ""
 

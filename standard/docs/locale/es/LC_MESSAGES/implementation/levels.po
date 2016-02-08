@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2015, OCDS
+# Copyright (C)
 # This file is distributed under the same license as the OCDS package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-21 15:18+0000\n"
+"POT-Creation-Date: 2016-02-08 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,7 +35,7 @@ msgid ""
 msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:8
-msgid "Levels"
+msgid "![Levels](../../../assets/levels_en.png)"
 msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:11
@@ -60,9 +60,9 @@ msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:18
 msgid ""
-"The basic level captures data that should already be available in most "
-"contracting data systems, and that provides users with an overview of "
-"contracting processes."
+"The **basic** level captures data that should already be available in "
+"most contracting data systems, and that provides users with an overview "
+"of contracting processes."
 msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:20
@@ -110,7 +110,7 @@ msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:33
 msgid ""
-"The intermediate level may require publishers to take extra steps to "
+"The **intermediate** level may require publishers to take extra steps to "
 "provide identifiers that join up data between systems, and that enable "
 "users to see changes in contracting processes over time."
 msgstr ""
@@ -174,8 +174,8 @@ msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:51
 msgid ""
-"The advanced level incorporates fields which are important to connect "
-"open contracting data with other data sources, and with the real-world "
+"The **advanced level** incorporates fields which are important to connect"
+" open contracting data with other data sources, and with the real-world "
 "impacts of contracting. Publishing this data may require planning for "
 "additional data collection and management."
 msgstr ""
@@ -252,8 +252,9 @@ msgstr ""
 #: ../../standard/docs/en/implementation/levels.md:81
 msgid ""
 "Alongside the the basic, intermediate, advanced model, we have mapped "
-"OCDS against Tim Berners-Lee’s Five Stars of Linked Open Data approach "
-"and have set out how publishers can achieve 3 ☆ data and higher."
+"OCDS against Tim Berners-Lee’s [Five Stars of Linked Open "
+"Data](http://www.w3.org/DesignIssues/LinkedData.html) approach and have "
+"set out how publishers can achieve 3 ☆ data and higher."
 msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:83
@@ -312,8 +313,11 @@ msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:102
 msgid ""
-"The documentation on flat CSV file serialization of the standard, and the"
-" OCDS mapper, may be useful for those seeking to publish at this level."
+"The documentation on [flat CSV file "
+"serialization](../../../implementation/serialization/#csv) of the "
+"standard, and the [OCDS mapper](https://github.com/open-"
+"contracting/mapper), may be useful for those seeking to publish at this "
+"level."
 msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:105
@@ -339,8 +343,8 @@ msgstr ""
 #: ../../standard/docs/en/implementation/levels.md:112
 msgid ""
 "OCDS provides guidance on the fields to include, and how to structure "
-"them using a JSON schema so that third-parties can re-use your data "
-"effectively."
+"them using [a JSON schema](../../../schema/reference/) so that third-"
+"parties can re-use your data effectively."
 msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:114
@@ -382,8 +386,8 @@ msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:127
 msgid ""
-"Make each release and record describing a contracting process accessible "
-"at its own persistent URI (web address)."
+"Make each **release** and **record** describing a contracting process "
+"accessible at its own persistent URI (web address)."
 msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:129
@@ -395,10 +399,10 @@ msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:131
 msgid ""
-"Use established protocols to support discovery of your data, and to "
-"provide atom feeds of recently updated data. At this level, publishers "
-"may also expose data through an API, following community established "
-"conventions for API operation."
+"Use [established protocols](../../hosting#discovery-and-apis) to support "
+"discovery of your data, and to provide atom feeds of recently updated "
+"data. At this level, publishers may also expose data through an API, "
+"following community established conventions for API operation."
 msgstr ""
 
 #: ../../standard/docs/en/implementation/levels.md:133
@@ -469,8 +473,90 @@ msgstr ""
 #: ../../standard/docs/en/implementation/levels.md:154
 msgid ""
 "Whatever level you are at - publishing data is only part of the process. "
-"It is important to also engage with users and to think about how to build"
-" your open data back into your organizational processes, closing the "
-"feedback loop."
+"It is important to also [engage with "
+"users](http://www.opendataimpacts.net/engagement/) and to think about how"
+" to build your open data back into your organizational processes, closing"
+" the feedback loop."
 msgstr ""
+
+#~ msgid "Levels"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The basic level captures data that "
+#~ "should already be available in most "
+#~ "contracting data systems, and that "
+#~ "provides users with an overview of "
+#~ "contracting processes."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The intermediate level may require "
+#~ "publishers to take extra steps to "
+#~ "provide identifiers that join up data"
+#~ " between systems, and that enable "
+#~ "users to see changes in contracting "
+#~ "processes over time."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The advanced level incorporates fields "
+#~ "which are important to connect open "
+#~ "contracting data with other data "
+#~ "sources, and with the real-world "
+#~ "impacts of contracting. Publishing this "
+#~ "data may require planning for additional"
+#~ " data collection and management."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Alongside the the basic, intermediate, "
+#~ "advanced model, we have mapped OCDS "
+#~ "against Tim Berners-Lee’s Five Stars "
+#~ "of Linked Open Data approach and "
+#~ "have set out how publishers can "
+#~ "achieve 3 ☆ data and higher."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The documentation on flat CSV file "
+#~ "serialization of the standard, and the"
+#~ " OCDS mapper, may be useful for "
+#~ "those seeking to publish at this "
+#~ "level."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "OCDS provides guidance on the fields "
+#~ "to include, and how to structure "
+#~ "them using a JSON schema so that"
+#~ " third-parties can re-use your "
+#~ "data effectively."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Make each release and record describing"
+#~ " a contracting process accessible at "
+#~ "its own persistent URI (web address)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Use established protocols to support "
+#~ "discovery of your data, and to "
+#~ "provide atom feeds of recently updated"
+#~ " data. At this level, publishers may"
+#~ " also expose data through an API, "
+#~ "following community established conventions "
+#~ "for API operation."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Whatever level you are at - "
+#~ "publishing data is only part of "
+#~ "the process. It is important to "
+#~ "also engage with users and to "
+#~ "think about how to build your open"
+#~ " data back into your organizational "
+#~ "processes, closing the feedback loop."
+#~ msgstr ""
 

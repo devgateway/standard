@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-04 11:07+0000\n"
+"POT-Creation-Date: 2016-02-08 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,9 +23,11 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:3
 msgid ""
-"In OCDS, merging involves combining individual releases of data during a "
-"contracting process into a record which provides an at-a-glance view of "
-"the current state and history of that process."
+"In OCDS, merging involves combining individual "
+"[releases](../../../getting_started/releases_and_records/) of data during"
+" a contracting process into a "
+"[record](../getting_started/releases_and_records/) which provides an "
+"at-a-glance view of the current state and history of that process."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:9
@@ -82,9 +84,9 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:74
 msgid ""
-"All releases with the same ocid should be compiled together, processed by"
-" order of the release date, and starting with the oldest first. Compare "
-"each pair or releases in turn following the rules below."
+"All releases with the same ```ocid``` should be compiled together, "
+"processed by order of the release date, and starting with the oldest "
+"first. Compare each pair or releases in turn following the rules below."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:76
@@ -106,19 +108,19 @@ msgid ""
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:86
-msgid "award.suppliers"
+msgid "```award.suppliers```"
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:87
-msgid "organization.additionalIdentifiers"
+msgid "```organization.additionalIdentifiers```"
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:88
-msgid "item.additionalClassifications"
+msgid "```item.additionalClassifications```"
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:89
-msgid "amendment.changes"
+msgid "```amendment.changes```"
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:91
@@ -127,15 +129,15 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:93
 msgid ""
-"When all releases are merged, remove the release.id and release.date from"
-" the resulting data structure, and add compiled to the list of "
-"release.tag values."
+"When all releases are merged, remove the ```release.id``` and "
+"```release.date``` from the resulting data structure, and add "
+"```compiled``` to the list of ```release.tag``` values."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:95
 msgid ""
-"A reference implementation of the merge routine in python is available on"
-" GitHub."
+"A reference implementation of the merge routine in python [is available "
+"on GitHub](https://github.com/open-contracting/ocds-merge)."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md
@@ -145,7 +147,7 @@ msgstr ""
 #: ../../standard/docs/en/schema/merging.md:99
 msgid ""
 "For merging to work effectively, all the releases to be merged must share"
-" a common ocid and a number of other criteria must be met."
+" a common ```ocid``` and a number of other criteria must be met."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:101
@@ -212,8 +214,9 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:117
 msgid ""
-"Other lists with .id properties do not need to be republished in full, "
-"but publishers should note the guidance on emptying fields and values."
+"Other lists with ```.id``` properties do not need to be republished in "
+"full, but publishers should note the [guidance on emptying fields and "
+"values](../../reference/#emptying-fields-and-values)."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md
@@ -265,7 +268,7 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:147
 msgid ""
-"Version 1.0 of the OCDS schema includes a series of mergeStrategy "
+"Version 1.0 of the OCDS schema includes a series of ```mergeStrategy``` "
 "properties which were designed to indicate how releases should be "
 "compiled together. In initial implementation, we have found these can "
 "create some confusion, and so propose that future versions will omit all "
@@ -308,8 +311,9 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:159
 msgid ""
-"The OCDS merging has been based on the open source jsonmerge library, but"
-" can be implemented in other software as required."
+"The OCDS merging has been based on the open source [jsonmerge "
+"library](https://github.com/avian2/jsonmerge), but can be implemented in "
+"other software as required."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:161
@@ -320,9 +324,11 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:163
 msgid ""
-"We inherit the existing merge strategies from jsonmerge and add a number "
-"of specific strategies for OCDS, which are currently only available in "
-"the OCDS fork of jsonmerge and which are described below."
+"We inherit the existing merge strategies from "
+"[jsonmerge](https://github.com/avian2/jsonmerge#merge-strategies) and add"
+" a number of specific strategies for OCDS, which are currently only "
+"available in the [OCDS fork of jsonmerge](https://github.com/open-"
+"contracting/jsonmerge) and which are described below."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md
@@ -362,8 +368,8 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:185
 msgid ""
-"To keep the versioning as clean as possible, the list of objects should "
-"always be given in the same order in each release, so as not to "
+"To keep the versioning as clean as possible, the list of objects should  "
+"**always be given in the same order** in each release, so as not to "
 "mistakenly mark a change when actually only order has shifted."
 msgstr ""
 
@@ -371,7 +377,7 @@ msgstr ""
 msgid ""
 "This merging strategy has the advantage of not requiring unique "
 "identifiers on every object, but has the downside of requiring every "
-"release to publish the whole block of data, not just an incremental "
+"release to publish the  whole block of data, not just an incremental "
 "change."
 msgstr ""
 
@@ -403,7 +409,8 @@ msgstr ""
 #: ../../standard/docs/en/schema/merging.md:210
 msgid ""
 "To remove an entry it would have to have it's field values set to null, "
-"as per the guidance on emptying fields and values."
+"as per the [guidance on emptying fields and values](../../reference"
+"/#emptying-fields-and-values)."
 msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md
@@ -422,19 +429,133 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/merging.md:218
 msgid ""
-"For example, the field for tag should not be updated to the latest "
-"version, it should be updated to compiled for it to make sense."
+"For example, the field for `tag` should not be updated to the latest "
+"version, it should be updated to `compiled` for it to make sense."
 msgstr ""
 
 #~ msgid "TODO - EXAMPLE"
 #~ msgstr ""
 
 #~ msgid ""
-#~ "We inhert the existing merge strategies"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In OCDS, merging involves combining "
+#~ "individual releases of data during a "
+#~ "contracting process into a record which"
+#~ " provides an at-a-glance view of the"
+#~ " current state and history of that"
+#~ " process."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "All releases with the same ocid "
+#~ "should be compiled together, processed "
+#~ "by order of the release date, and"
+#~ " starting with the oldest first. "
+#~ "Compare each pair or releases in "
+#~ "turn following the rules below."
+#~ msgstr ""
+
+#~ msgid "award.suppliers"
+#~ msgstr ""
+
+#~ msgid "organization.additionalIdentifiers"
+#~ msgstr ""
+
+#~ msgid "item.additionalClassifications"
+#~ msgstr ""
+
+#~ msgid "amendment.changes"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "When all releases are merged, remove "
+#~ "the release.id and release.date from the"
+#~ " resulting data structure, and add "
+#~ "compiled to the list of release.tag "
+#~ "values."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A reference implementation of the merge"
+#~ " routine in python is available on"
+#~ " GitHub."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For merging to work effectively, all "
+#~ "the releases to be merged must "
+#~ "share a common ocid and a number"
+#~ " of other criteria must be met."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Other lists with .id properties do "
+#~ "not need to be republished in "
+#~ "full, but publishers should note the "
+#~ "guidance on emptying fields and values."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Version 1.0 of the OCDS schema "
+#~ "includes a series of mergeStrategy "
+#~ "properties which were designed to "
+#~ "indicate how releases should be compiled"
+#~ " together. In initial implementation, we"
+#~ " have found these can create some "
+#~ "confusion, and so propose that future"
+#~ " versions will omit all but the "
+#~ "essential properties required to indicate "
+#~ "the exceptions to the general rule "
+#~ "in (4) above."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The OCDS merging has been based on"
+#~ " the open source jsonmerge library, "
+#~ "but can be implemented in other "
+#~ "software as required."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "We inherit the existing merge strategies"
 #~ " from jsonmerge and add a number "
 #~ "of specific strategies for OCDS, which"
 #~ " are currently only available in the"
 #~ " OCDS fork of jsonmerge and which "
 #~ "are described below."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To keep the versioning as clean as"
+#~ " possible, the list of objects should"
+#~ " always be given in the same "
+#~ "order in each release, so as not"
+#~ " to mistakenly mark a change when "
+#~ "actually only order has shifted."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This merging strategy has the advantage"
+#~ " of not requiring unique identifiers "
+#~ "on every object, but has the "
+#~ "downside of requiring every release to"
+#~ " publish the whole block of data, "
+#~ "not just an incremental change."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To remove an entry it would have"
+#~ " to have it's field values set "
+#~ "to null, as per the guidance on"
+#~ " emptying fields and values."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For example, the field for tag "
+#~ "should not be updated to the "
+#~ "latest version, it should be updated "
+#~ "to compiled for it to make sense."
 #~ msgstr ""
 

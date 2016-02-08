@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-04 11:07+0000\n"
+"POT-Creation-Date: 2016-02-08 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,15 +25,15 @@ msgstr ""
 msgid ""
 "The Open Contracting Data Standard schema references a number of "
 "codelists in order to enable the interoperability of data. There are two "
-"kinds of codelist, open and closed"
+"kinds of codelist, **open** and **closed**"
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:5
 msgid ""
-"An open codelist provides suggested codes, but publishers can extend "
-"these lists with new codes on the basis of consensus with other "
-"publishers, or by using a codes prefixed with 'x_' to indicate that it is"
-" a local 'eXtensions' to the codelist."
+"An **open codelist** provides **suggested codes**, but publishers can "
+"extend these lists with new codes on the basis of consensus with other "
+"publishers, or by using a codes prefixed with 'x\\_' to indicate that it "
+"is a local 'eXtensions' to the codelist."
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:7
@@ -43,16 +43,17 @@ msgid ""
 "of publishers may discover they have need to identify another kind of "
 "document. These publishers would not need to wait for a future version of"
 " the standard to agree upon and add a new code to an open codelist, "
-"although they should consult with the community through the mailing list "
-"and GitHub platform, and should suggest the code for formal incorporation"
-" into the codelists."
+"although they should consult with the community through the [mailing list"
+" and GitHub platform](../../../support/), and should suggest the code for"
+" formal incorporation into the codelists."
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:9
 msgid ""
-"A closed codelist provides mandatory codes and publishers should only use"
-" values provided in the official list. Changes to closed codelists should"
-" take place through the governance and revision process for the schema."
+"A **closed codelist** provides **mandatory codes** and publishers should "
+"only use values provided in the official list. Changes to closed "
+"codelists should take place through the governance and revision process "
+"for the schema."
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:11
@@ -74,7 +75,8 @@ msgstr ""
 #: ../../standard/docs/en/schema/codelists.md:17
 msgid ""
 "Items should be classified using existing gazetteers and codelists, such "
-"as the EC Common Procurement Vocabulary (CPV). Open codelists are "
+"as the [EC Common Procurement Vocabulary (CPV)](http://simap.europa.eu"
+"/codes-and-nomenclatures/codes-cpv/codes-cpv_en.htm). Open codelists are "
 "strongly preferred."
 msgstr ""
 
@@ -236,13 +238,12 @@ msgid "http://www.unspsc.org/codeset-downloads"
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:25
-#: ../../standard/docs/en/schema/codelists.md:60
-#: ../../standard/docs/en/schema/codelists.md:72
 msgid ""
 "This is an open codelist, and new values may be suggested outside of the "
-"main revision process for the standard, or local codes (prefixed by x_) "
-"added by a publisher. Publishers should include details of any additional"
-" codes they use, and their definitions in their publication policy."
+"main revision process for the standard, or local codes (prefixed by x\\_)"
+" added by a publisher. Publishers should include details of any "
+"additional codes they use, and their definitions in their [publication "
+"policy](../../../implementation/publication_patterns#publication_policy)."
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md
@@ -252,9 +253,11 @@ msgstr ""
 #: ../../standard/docs/en/schema/codelists.md:29
 msgid ""
 "The Organization Identifier Scheme currently uses the codes from the "
-"International Aid Transparency Initiative 'Organisation Registration "
-"Agency' codelist. See the identifiers section for more information on "
-"organization identifiers"
+"International Aid Transparency Initiative ['Organisation Registration "
+"Agency' "
+"codelist](http://iatistandard.org/codelists/OrganisationRegistrationAgency/)."
+" See the identifiers section for [more information on organization "
+"identifiers](../../identifiers/#organization-identifiers)"
 msgstr ""
 
 #: ../../standard/schema/codelists/organizationIdentifierRegistrationAgency_iati.csv:1
@@ -1679,6 +1682,16 @@ msgstr ""
 msgid "Single Bid Only"
 msgstr ""
 
+#: ../../standard/docs/en/schema/codelists.md:60
+#: ../../standard/docs/en/schema/codelists.md:72
+msgid ""
+"This is an open codelist, and new values may be suggested outside of the "
+"main revision process for the standard, or local codes (prefixed by x\\_)"
+" added by a publisher. Publishers should include details of any "
+"additional codes they use, and their definitions in their [publication "
+"policy](../../../implementation/publication_policy)."
+msgstr ""
+
 #: ../../standard/docs/en/schema/codelists.md
 msgid "Submission Method"
 msgstr ""
@@ -1916,7 +1929,7 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:98
 msgid ""
-"The tender.status field is used to indicate the current status of a "
+"The `tender.status` field is used to indicate the current status of a "
 "tender process."
 msgstr ""
 
@@ -1995,7 +2008,9 @@ msgid "Method"
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:108
-msgid "The method codelist is based upon the GPA Definitions provided here."
+msgid ""
+"The method codelist is based upon the [GPA Definitions provided "
+"here](http://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm)."
 msgstr ""
 
 #: ../../standard/schema/codelists/method.csv:1
@@ -2087,9 +2102,9 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:126
 msgid ""
-"The awardStatus field and code-list is used to indicate when a tender did"
-" not result in an award (through the \"awardStatus\":\"unsuccessful\" "
-"value)"
+"The ```awardStatus``` field and code-list is used to indicate when a "
+"tender did not result in an award (through the "
+"```\"awardStatus\":\"unsuccessful\"``` value)"
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md
@@ -2138,7 +2153,9 @@ msgid "Currency"
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md:140
-msgid "OCDS uses the ISO 3-letter currency codes maintained in ISO 4217."
+msgid ""
+"OCDS uses the ISO 3-letter currency codes maintained in [ISO "
+"4217](http://en.wikipedia.org/wiki/ISO_4217)."
 msgstr ""
 
 #: ../../standard/docs/en/schema/codelists.md
@@ -2170,10 +2187,98 @@ msgid "Partially Met"
 msgstr ""
 
 #~ msgid ""
+#~ msgstr ""
+
+#~ msgid ""
 #~ "The Open Contracting Data Standard "
 #~ "schema references a number of codelists"
 #~ " in order to enable the "
-#~ "interoperability of data. There are to"
+#~ "interoperability of data. There are two"
 #~ " kinds of codelist, open and closed"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "An open codelist provides suggested "
+#~ "codes, but publishers can extend these"
+#~ " lists with new codes on the "
+#~ "basis of consensus with other "
+#~ "publishers, or by using a codes "
+#~ "prefixed with 'x_' to indicate that "
+#~ "it is a local 'eXtensions' to the"
+#~ " codelist."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For example, OCDS provide a list "
+#~ "of the types of documents which "
+#~ "may be attached to tenders, awards, "
+#~ "contracts and milestones. However, a "
+#~ "group of publishers may discover they"
+#~ " have need to identify another kind"
+#~ " of document. These publishers would "
+#~ "not need to wait for a future "
+#~ "version of the standard to agree "
+#~ "upon and add a new code to "
+#~ "an open codelist, although they should"
+#~ " consult with the community through "
+#~ "the mailing list and GitHub platform,"
+#~ " and should suggest the code for "
+#~ "formal incorporation into the codelists."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "A closed codelist provides mandatory "
+#~ "codes and publishers should only use "
+#~ "values provided in the official list."
+#~ " Changes to closed codelists should "
+#~ "take place through the governance and"
+#~ " revision process for the schema."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Items should be classified using "
+#~ "existing gazetteers and codelists, such "
+#~ "as the EC Common Procurement Vocabulary"
+#~ " (CPV). Open codelists are strongly "
+#~ "preferred."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This is an open codelist, and new"
+#~ " values may be suggested outside of"
+#~ " the main revision process for the"
+#~ " standard, or local codes (prefixed "
+#~ "by x_) added by a publisher. "
+#~ "Publishers should include details of any"
+#~ " additional codes they use, and their"
+#~ " definitions in their publication policy."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The Organization Identifier Scheme currently"
+#~ " uses the codes from the "
+#~ "International Aid Transparency Initiative "
+#~ "'Organisation Registration Agency' codelist. "
+#~ "See the identifiers section for more "
+#~ "information on organization identifiers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The tender.status field is used to "
+#~ "indicate the current status of a "
+#~ "tender process."
+#~ msgstr ""
+
+#~ msgid "The method codelist is based upon the GPA Definitions provided here."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The awardStatus field and code-list "
+#~ "is used to indicate when a tender"
+#~ " did not result in an award "
+#~ "(through the \"awardStatus\":\"unsuccessful\" value)"
+#~ msgstr ""
+
+#~ msgid "OCDS uses the ISO 3-letter currency codes maintained in ISO 4217."
 #~ msgstr ""
 

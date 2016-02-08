@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2015, OCDS
+# Copyright (C)
 # This file is distributed under the same license as the OCDS package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-21 15:18+0000\n"
+"POT-Creation-Date: 2016-02-08 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,8 +78,9 @@ msgstr ""
 msgid ""
 "The Open Contracting community is also a good source of input and "
 "support. You can ask questions, discuss ideas for using the standard, and"
-" share news on your projects on the standard-discuss@open-contracting.org"
-" mailing list."
+" share news on your projects on the [standard-discuss@open-"
+"contracting.org](https://groups.google.com/a/open-"
+"contracting.org/forum/#!forum/standard-discuss) mailing list."
 msgstr ""
 
 #: ../../standard/docs/en/support/index.md:36
@@ -91,6 +92,24 @@ msgstr ""
 #: ../../standard/docs/en/support/index.md:38
 msgid ""
 "Developers, or those wishing to provide technical input on the standard, "
-"may wish to go straight to the Github repository."
+"may wish to go straight to the [Github repository](https://github.com"
+"/open-contracting/standard)."
 msgstr ""
+
+#~ msgid ""
+#~ "The Open Contracting community is also"
+#~ " a good source of input and "
+#~ "support. You can ask questions, discuss"
+#~ " ideas for using the standard, and"
+#~ " share news on your projects on "
+#~ "the standard-discuss@open-contracting.org "
+#~ "mailing list."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Developers, or those wishing to provide"
+#~ " technical input on the standard, may"
+#~ " wish to go straight to the "
+#~ "Github repository."
+#~ msgstr ""
 

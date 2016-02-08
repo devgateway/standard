@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2015, OCDS
+# Copyright (C)
 # This file is distributed under the same license as the OCDS package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-21 15:18+0000\n"
+"POT-Creation-Date: 2016-02-08 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,22 +27,46 @@ msgstr ""
 
 #: ../../standard/docs/en/schema/index.md:5
 msgid ""
-"The main sections and common objects used in the schema are introduced in"
-" the getting started section."
+"The main sections and common objects used in the schema are [introduced "
+"in the getting started section](../getting_started/building_blocks.md)."
 msgstr ""
 
 #: ../../standard/docs/en/schema/index.md:7
 msgid ""
-"In this section you will find the full JSON schema along with the release"
-" package and record package schemas which act as envelopes when "
+"In this section you will find the [full JSON schema](release.md) along "
+"with the [release package](release_package.md) and [record "
+"package](record_package.md) schemas which act as envelopes when "
 "publishing using OCDS."
 msgstr ""
 
 #: ../../standard/docs/en/schema/index.md:9
 msgid ""
-"The release schema reference page provides guidance on using each of the "
-"sections and building blocks in the schema, and the record schema "
-"reference provides additional information on publishing compiled and "
-"versioned records."
+"The [release schema reference](reference.md) page provides guidance on "
+"using each of the sections and building blocks in the schema, and the "
+"[record schema reference](records_reference.md) provides additional "
+"information on publishing compiled and versioned records."
 msgstr ""
+
+#~ msgid ""
+#~ "The main sections and common objects "
+#~ "used in the schema are introduced "
+#~ "in the getting started section."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In this section you will find the"
+#~ " full JSON schema along with the "
+#~ "release package and record package "
+#~ "schemas which act as envelopes when "
+#~ "publishing using OCDS."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The release schema reference page "
+#~ "provides guidance on using each of "
+#~ "the sections and building blocks in "
+#~ "the schema, and the record schema "
+#~ "reference provides additional information on"
+#~ " publishing compiled and versioned records."
+#~ msgstr ""
 

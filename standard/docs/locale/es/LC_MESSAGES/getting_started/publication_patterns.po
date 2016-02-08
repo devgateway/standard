@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2015, OCDS
+# Copyright (C)
 # This file is distributed under the same license as the OCDS package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-21 15:18+0000\n"
+"POT-Creation-Date: 2016-02-08 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgid ""
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:5
-msgid "☆ Upload basic contracting data and documents to web"
+msgid "**☆ Upload basic contracting data and documents to web**"
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:7
@@ -38,7 +38,7 @@ msgid ""
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:9
-msgid "☆ ☆ Provide machine-readable data"
+msgid "**☆ ☆ Provide machine-readable data**"
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:11
@@ -49,12 +49,12 @@ msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:13
 msgid ""
-"If you jump straight to 3 ☆ publication, you can generate flattened CSV "
-"versions of your data using the OCDS flatten tool."
+"*If you jump straight to 3 ☆ publication, you can generate flattened CSV "
+"versions of your data using the OCDS flatten tool.*"
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:15
-msgid "☆ ☆ ☆ Use the OCDS standard"
+msgid "**☆ ☆ ☆ Use the OCDS standard**"
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:17
@@ -64,7 +64,7 @@ msgid ""
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:19
-msgid "☆ ☆ ☆ ☆ Provide API access to data"
+msgid "**☆ ☆ ☆ ☆ Provide API access to data**"
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:21
@@ -76,7 +76,7 @@ msgid ""
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:23
-msgid "☆ ☆ ☆ ☆ ☆ Provide joined-up data"
+msgid "**☆ ☆ ☆ ☆ ☆ Provide joined-up data**"
 msgstr ""
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:25
@@ -169,4 +169,26 @@ msgid ""
 "You will need to make decisions about how to segment the data in bulk "
 "files, so that files are easy for users to work with."
 msgstr ""
+
+#~ msgid "☆ Upload basic contracting data and documents to web"
+#~ msgstr ""
+
+#~ msgid "☆ ☆ Provide machine-readable data"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If you jump straight to 3 ☆ "
+#~ "publication, you can generate flattened "
+#~ "CSV versions of your data using "
+#~ "the OCDS flatten tool."
+#~ msgstr ""
+
+#~ msgid "☆ ☆ ☆ Use the OCDS standard"
+#~ msgstr ""
+
+#~ msgid "☆ ☆ ☆ ☆ Provide API access to data"
+#~ msgstr ""
+
+#~ msgid "☆ ☆ ☆ ☆ ☆ Provide joined-up data"
+#~ msgstr ""
 

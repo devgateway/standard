@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2015, OCDS
+# Copyright (C)
 # This file is distributed under the same license as the OCDS package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-21 15:18+0000\n"
+"POT-Creation-Date: 2016-02-08 14:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,15 +23,17 @@ msgstr ""
 
 #: ../../standard/docs/en/extensions/index.md:3
 msgid ""
-"OCDS aims to provide a common core of sections and building blocks for "
-"describing contracting processes."
+"OCDS aims to provide a common core of [sections and building "
+"blocks](../../../getting_started/building_blocks.md) for describing "
+"contracting processes."
 msgstr ""
 
 #: ../../standard/docs/en/extensions/index.md:5
 msgid ""
 "Many publishers will have additional data that they could publish. "
 "Instead of ignoring this data and leaving it unpublished, OCDS encourages"
-" publishers to collaborate on the creation of extensions to the standard."
+" publishers to collaborate on the creation of **extensions** to the "
+"standard."
 msgstr ""
 
 #: ../../standard/docs/en/extensions/index.md:7
@@ -41,4 +43,19 @@ msgid ""
 "independently by particular communities that need to align the "
 "publication of particular additional information."
 msgstr ""
+
+#~ msgid ""
+#~ "OCDS aims to provide a common core"
+#~ " of sections and building blocks for"
+#~ " describing contracting processes."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Many publishers will have additional "
+#~ "data that they could publish. Instead"
+#~ " of ignoring this data and leaving"
+#~ " it unpublished, OCDS encourages publishers"
+#~ " to collaborate on the creation of"
+#~ " extensions to the standard."
+#~ msgstr ""
 

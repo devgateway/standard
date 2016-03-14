@@ -1,49 +1,48 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:06+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/schema/record_package.md:0
 msgid "Record Package Schema"
-msgstr ""
+msgstr "Řḗƈǿřḓ Ƥȧƈķȧɠḗ Şƈħḗḿȧ"
 
 #: ../../standard/docs/en/schema/record_package.md:3
-msgid ""
-"The record package schema describes the container structure for publishing "
-"records. The contents of a record are based on the release schema. The "
-"package contains important meta-data."
+msgid "The record package schema describes the container structure for publishing records. The contents of a record are based on the release schema. The package contains important meta-data."
 msgstr ""
+"Ŧħḗ řḗƈǿřḓ ƥȧƈķȧɠḗ şƈħḗḿȧ ḓḗşƈřīƀḗş ŧħḗ ƈǿƞŧȧīƞḗř şŧřŭƈŧŭřḗ ƒǿř ƥŭƀŀīşħīƞɠ "
+"řḗƈǿřḓş. Ŧħḗ ƈǿƞŧḗƞŧş ǿƒ ȧ řḗƈǿřḓ ȧřḗ ƀȧşḗḓ ǿƞ ŧħḗ řḗŀḗȧşḗ şƈħḗḿȧ. Ŧħḗ "
+"ƥȧƈķȧɠḗ ƈǿƞŧȧīƞş īḿƥǿřŧȧƞŧ ḿḗŧȧ-ḓȧŧȧ."
 
 #: ../../standard/docs/en/schema/record_package.md:5
-msgid ""
-"You can view an interactive version of the record schema below (requires "
-"javascript) or [download this version of the schema here](../../../record-"
-"package-schema.json)."
+msgid "You can view an interactive version of the record schema below (requires javascript) or [download this version of the schema here](../../../record-package-schema.json)."
 msgstr ""
+"Ẏǿŭ ƈȧƞ ṽīḗẇ ȧƞ īƞŧḗřȧƈŧīṽḗ ṽḗřşīǿƞ ǿƒ ŧħḗ řḗƈǿřḓ şƈħḗḿȧ ƀḗŀǿẇ (řḗɋŭīřḗş "
+"ĵȧṽȧşƈřīƥŧ) ǿř [ḓǿẇƞŀǿȧḓ ŧħīş ṽḗřşīǿƞ ǿƒ ŧħḗ şƈħḗḿȧ ħḗřḗ](../../../record-"
+"package-schema.json)."
 
 #: ../../standard/docs/en/schema/record_package.md:7
-msgid ""
-"A separate, auto-generated, [versioned release validation schema"
-"](../../../versioned-release-validation-schema.json) is provided for "
-"validating releases within fully versioned records."
+msgid "A separate, auto-generated, [versioned release validation schema](../../../versioned-release-validation-schema.json) is provided for validating releases within fully versioned records."
 msgstr ""
+"Ȧ şḗƥȧřȧŧḗ, ȧŭŧǿ-ɠḗƞḗřȧŧḗḓ, [ṽḗřşīǿƞḗḓ řḗŀḗȧşḗ ṽȧŀīḓȧŧīǿƞ şƈħḗḿȧ"
+"](../../../versioned-release-validation-schema.json) īş ƥřǿṽīḓḗḓ ƒǿř "
+"ṽȧŀīḓȧŧīƞɠ řḗŀḗȧşḗş ẇīŧħīƞ ƒŭŀŀẏ ṽḗřşīǿƞḗḓ řḗƈǿřḓş."
 
 #: ../../standard/docs/en/schema/record_package.md:9
-msgid ""
-"Click on schema elements to expand the tree, or use the '+' icon to expand "
-"all elements. Use { } to view the underlying schema for any section."
+msgid "Click on schema elements to expand the tree, or use the '+' icon to expand all elements. Use { } to view the underlying schema for any section."
 msgstr ""
+"Ƈŀīƈķ ǿƞ şƈħḗḿȧ ḗŀḗḿḗƞŧş ŧǿ ḗẋƥȧƞḓ ŧħḗ ŧřḗḗ, ǿř ŭşḗ ŧħḗ '+' īƈǿƞ ŧǿ ḗẋƥȧƞḓ "
+"ȧŀŀ ḗŀḗḿḗƞŧş. Ŭşḗ { } ŧǿ ṽīḗẇ ŧħḗ ŭƞḓḗřŀẏīƞɠ şƈħḗḿȧ ƒǿř ȧƞẏ şḗƈŧīǿƞ."

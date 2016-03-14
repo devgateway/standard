@@ -1,25 +1,24 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-09 10:41+0000\n"
-"PO-Revision-Date: 2016-03-09 10:42+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Codelists"
-msgstr ""
+msgstr "Ƈǿḓḗŀīşŧş"
 
 #: ../../standard/docs/en/schema/codelists.md:3
 msgid ""
@@ -27,50 +26,71 @@ msgid ""
 "in order to enable the interoperability of data. There are two kinds of "
 "codelist, **open** and **closed**"
 msgstr ""
+"Ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ şƈħḗḿȧ řḗƒḗřḗƞƈḗş ȧ ƞŭḿƀḗř ǿƒ ƈǿḓḗŀīşŧş "
+"īƞ ǿřḓḗř ŧǿ ḗƞȧƀŀḗ ŧħḗ īƞŧḗřǿƥḗřȧƀīŀīŧẏ ǿƒ ḓȧŧȧ. Ŧħḗřḗ ȧřḗ ŧẇǿ ķīƞḓş ǿƒ "
+"ƈǿḓḗŀīşŧ, **ǿƥḗƞ** ȧƞḓ **ƈŀǿşḗḓ**"
 
 #: ../../standard/docs/en/schema/codelists.md:5
 msgid ""
-"An **open codelist** provides **suggested codes**, but publishers can extend"
-" these lists with new codes on the basis of consensus with other publishers,"
-" or by using a codes prefixed with 'x\\_' to indicate that it is a local "
+"An **open codelist** provides **suggested codes**, but publishers can extend "
+"these lists with new codes on the basis of consensus with other publishers, "
+"or by using a codes prefixed with 'x\\_' to indicate that it is a local "
 "'eXtensions' to the codelist."
 msgstr ""
+"Ȧƞ **ǿƥḗƞ ƈǿḓḗŀīşŧ** ƥřǿṽīḓḗş **şŭɠɠḗşŧḗḓ ƈǿḓḗş**, ƀŭŧ ƥŭƀŀīşħḗřş ƈȧƞ ḗẋŧḗƞḓ "
+"ŧħḗşḗ ŀīşŧş ẇīŧħ ƞḗẇ ƈǿḓḗş ǿƞ ŧħḗ ƀȧşīş ǿƒ ƈǿƞşḗƞşŭş ẇīŧħ ǿŧħḗř ƥŭƀŀīşħḗřş, "
+"ǿř ƀẏ ŭşīƞɠ ȧ ƈǿḓḗş ƥřḗƒīẋḗḓ ẇīŧħ 'ẋ\\_' ŧǿ īƞḓīƈȧŧḗ ŧħȧŧ īŧ īş ȧ ŀǿƈȧŀ "
+"'ḗẊŧḗƞşīǿƞş' ŧǿ ŧħḗ ƈǿḓḗŀīşŧ."
 
 #: ../../standard/docs/en/schema/codelists.md:7
 msgid ""
 "For example, OCDS provide a list of the types of documents which may be "
 "attached to tenders, awards, contracts and milestones. However, a group of "
-"publishers may discover they have need to identify another kind of document."
-" These publishers would not need to wait for a future version of the "
-"standard to agree upon and add a new code to an open codelist, although they"
-" should consult with the community through the [mailing list and GitHub "
-"platform](../../../support/), and should suggest the code for formal "
-"incorporation into the codelists."
+"publishers may discover they have need to identify another kind of document. "
+"These publishers would not need to wait for a future version of the standard "
+"to agree upon and add a new code to an open codelist, although they should "
+"consult with the community through the [mailing list and GitHub platform]"
+"(../../../support/), and should suggest the code for formal incorporation "
+"into the codelists."
 msgstr ""
+"Ƒǿř ḗẋȧḿƥŀḗ, ǾƇḒŞ ƥřǿṽīḓḗ ȧ ŀīşŧ ǿƒ ŧħḗ ŧẏƥḗş ǿƒ ḓǿƈŭḿḗƞŧş ẇħīƈħ ḿȧẏ ƀḗ "
+"ȧŧŧȧƈħḗḓ ŧǿ ŧḗƞḓḗřş, ȧẇȧřḓş, ƈǿƞŧřȧƈŧş ȧƞḓ ḿīŀḗşŧǿƞḗş. Ħǿẇḗṽḗř, ȧ ɠřǿŭƥ ǿƒ "
+"ƥŭƀŀīşħḗřş ḿȧẏ ḓīşƈǿṽḗř ŧħḗẏ ħȧṽḗ ƞḗḗḓ ŧǿ īḓḗƞŧīƒẏ ȧƞǿŧħḗř ķīƞḓ ǿƒ ḓǿƈŭḿḗƞŧ. "
+"Ŧħḗşḗ ƥŭƀŀīşħḗřş ẇǿŭŀḓ ƞǿŧ ƞḗḗḓ ŧǿ ẇȧīŧ ƒǿř ȧ ƒŭŧŭřḗ ṽḗřşīǿƞ ǿƒ ŧħḗ şŧȧƞḓȧřḓ "
+"ŧǿ ȧɠřḗḗ ŭƥǿƞ ȧƞḓ ȧḓḓ ȧ ƞḗẇ ƈǿḓḗ ŧǿ ȧƞ ǿƥḗƞ ƈǿḓḗŀīşŧ, ȧŀŧħǿŭɠħ ŧħḗẏ şħǿŭŀḓ "
+"ƈǿƞşŭŀŧ ẇīŧħ ŧħḗ ƈǿḿḿŭƞīŧẏ ŧħřǿŭɠħ ŧħḗ [ḿȧīŀīƞɠ ŀīşŧ ȧƞḓ ƓīŧĦŭƀ "
+"ƥŀȧŧƒǿřḿ](../../../support/), ȧƞḓ şħǿŭŀḓ şŭɠɠḗşŧ ŧħḗ ƈǿḓḗ ƒǿř ƒǿřḿȧŀ "
+"īƞƈǿřƥǿřȧŧīǿƞ īƞŧǿ ŧħḗ ƈǿḓḗŀīşŧş."
 
 #: ../../standard/docs/en/schema/codelists.md:9
 msgid ""
 "A **closed codelist** provides **mandatory codes** and publishers should "
 "only use values provided in the official list. Changes to closed codelists "
-"should take place through the governance and revision process for the "
-"schema."
+"should take place through the governance and revision process for the schema."
 msgstr ""
+"Ȧ **ƈŀǿşḗḓ ƈǿḓḗŀīşŧ** ƥřǿṽīḓḗş **ḿȧƞḓȧŧǿřẏ ƈǿḓḗş** ȧƞḓ ƥŭƀŀīşħḗřş şħǿŭŀḓ "
+"ǿƞŀẏ ŭşḗ ṽȧŀŭḗş ƥřǿṽīḓḗḓ īƞ ŧħḗ ǿƒƒīƈīȧŀ ŀīşŧ. Ƈħȧƞɠḗş ŧǿ ƈŀǿşḗḓ ƈǿḓḗŀīşŧş "
+"şħǿŭŀḓ ŧȧķḗ ƥŀȧƈḗ ŧħřǿŭɠħ ŧħḗ ɠǿṽḗřƞȧƞƈḗ ȧƞḓ řḗṽīşīǿƞ ƥřǿƈḗşş ƒǿř ŧħḗ şƈħḗḿȧ."
 
 #: ../../standard/docs/en/schema/codelists.md:11
 msgid ""
 "Codes are case sensitive, and are generally provided as english language "
-"camelCase. Codes values should not be translated, through the OCDS team will"
-" work with publishers to provide alternative translations of code titles and"
-" definitions."
+"camelCase. Codes values should not be translated, through the OCDS team will "
+"work with publishers to provide alternative translations of code titles and "
+"definitions."
 msgstr ""
+"Ƈǿḓḗş ȧřḗ ƈȧşḗ şḗƞşīŧīṽḗ, ȧƞḓ ȧřḗ ɠḗƞḗřȧŀŀẏ ƥřǿṽīḓḗḓ ȧş ḗƞɠŀīşħ ŀȧƞɠŭȧɠḗ "
+"ƈȧḿḗŀƇȧşḗ. Ƈǿḓḗş ṽȧŀŭḗş şħǿŭŀḓ ƞǿŧ ƀḗ ŧřȧƞşŀȧŧḗḓ, ŧħřǿŭɠħ ŧħḗ ǾƇḒŞ ŧḗȧḿ ẇīŀŀ "
+"ẇǿřķ ẇīŧħ ƥŭƀŀīşħḗřş ŧǿ ƥřǿṽīḓḗ ȧŀŧḗřƞȧŧīṽḗ ŧřȧƞşŀȧŧīǿƞş ǿƒ ƈǿḓḗ ŧīŧŀḗş ȧƞḓ "
+"ḓḗƒīƞīŧīǿƞş."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Open Codelists"
-msgstr ""
+msgstr "Ǿƥḗƞ Ƈǿḓḗŀīşŧş"
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Item Classification Scheme"
-msgstr ""
+msgstr "Īŧḗḿ Ƈŀȧşşīƒīƈȧŧīǿƞ Şƈħḗḿḗ"
 
 #: ../../standard/docs/en/schema/codelists.md:17
 msgid ""
@@ -79,6 +99,10 @@ msgid ""
 "and-nomenclatures/codes-cpv/codes-cpv_en.htm). Open codelists are strongly "
 "preferred."
 msgstr ""
+"Īŧḗḿş şħǿŭŀḓ ƀḗ ƈŀȧşşīƒīḗḓ ŭşīƞɠ ḗẋīşŧīƞɠ ɠȧzḗŧŧḗḗřş ȧƞḓ ƈǿḓḗŀīşŧş, şŭƈħ ȧş "
+"ŧħḗ [ḖƇ Ƈǿḿḿǿƞ Ƥřǿƈŭřḗḿḗƞŧ Ṽǿƈȧƀŭŀȧřẏ (ƇƤṼ)](http://simap.europa.eu/codes-"
+"and-nomenclatures/codes-cpv/codes-cpv_en.htm). Ǿƥḗƞ ƈǿḓḗŀīşŧş ȧřḗ şŧřǿƞɠŀẏ "
+"ƥřḗƒḗřřḗḓ."
 
 #: ../../standard/docs/en/schema/codelists.md:25
 #: ../../standard/docs/en/schema/codelists.md:60
@@ -87,76 +111,96 @@ msgid ""
 "This is an open codelist, and new values may be suggested outside of the "
 "main revision process for the standard, or local codes (prefixed by x\\_) "
 "added by a publisher. Publishers should include details of any additional "
-"codes they use, and their definitions in their [publication "
-"policy](../implementation/publication_policy.md)."
+"codes they use, and their definitions in their [publication policy](../"
+"implementation/publication_policy.md)."
 msgstr ""
+"Ŧħīş īş ȧƞ ǿƥḗƞ ƈǿḓḗŀīşŧ, ȧƞḓ ƞḗẇ ṽȧŀŭḗş ḿȧẏ ƀḗ şŭɠɠḗşŧḗḓ ǿŭŧşīḓḗ ǿƒ ŧħḗ "
+"ḿȧīƞ řḗṽīşīǿƞ ƥřǿƈḗşş ƒǿř ŧħḗ şŧȧƞḓȧřḓ, ǿř ŀǿƈȧŀ ƈǿḓḗş (ƥřḗƒīẋḗḓ ƀẏ ẋ\\_) "
+"ȧḓḓḗḓ ƀẏ ȧ ƥŭƀŀīşħḗř. Ƥŭƀŀīşħḗřş şħǿŭŀḓ īƞƈŀŭḓḗ ḓḗŧȧīŀş ǿƒ ȧƞẏ ȧḓḓīŧīǿƞȧŀ "
+"ƈǿḓḗş ŧħḗẏ ŭşḗ, ȧƞḓ ŧħḗīř ḓḗƒīƞīŧīǿƞş īƞ ŧħḗīř [ƥŭƀŀīƈȧŧīǿƞ "
+"ƥǿŀīƈẏ](../implementation/publication_policy.md)."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Organization Identifier Scheme"
-msgstr ""
+msgstr "Ǿřɠȧƞīzȧŧīǿƞ Īḓḗƞŧīƒīḗř Şƈħḗḿḗ"
 
 #: ../../standard/docs/en/schema/codelists.md:29
 msgid ""
 "The Organization Identifier Scheme currently uses the codes from the "
 "International Aid Transparency Initiative ['Organisation Registration "
-"Agency' "
-"codelist](http://iatistandard.org/codelists/OrganisationRegistrationAgency/)."
-" See the identifiers section for [more information on organization "
-"identifiers](../../identifiers/#organization-identifiers)"
+"Agency' codelist](http://iatistandard.org/codelists/"
+"OrganisationRegistrationAgency/). See the identifiers section for [more "
+"information on organization identifiers](../../identifiers/#organization-"
+"identifiers)"
 msgstr ""
+"Ŧħḗ Ǿřɠȧƞīzȧŧīǿƞ Īḓḗƞŧīƒīḗř Şƈħḗḿḗ ƈŭřřḗƞŧŀẏ ŭşḗş ŧħḗ ƈǿḓḗş ƒřǿḿ ŧħḗ "
+"Īƞŧḗřƞȧŧīǿƞȧŀ Ȧīḓ Ŧřȧƞşƥȧřḗƞƈẏ Īƞīŧīȧŧīṽḗ ['Ǿřɠȧƞīşȧŧīǿƞ Řḗɠīşŧřȧŧīǿƞ "
+"Ȧɠḗƞƈẏ' "
+"ƈǿḓḗŀīşŧ](http://iatistandard.org/codelists/OrganisationRegistrationAgency/)"
+". Şḗḗ ŧħḗ īḓḗƞŧīƒīḗřş şḗƈŧīǿƞ ƒǿř [ḿǿřḗ īƞƒǿřḿȧŧīǿƞ ǿƞ ǿřɠȧƞīzȧŧīǿƞ "
+"īḓḗƞŧīƒīḗřş](../../identifiers/#organization-identifiers)"
 
 #: ../../standard/docs/en/schema/codelists.md:38
 msgid "This list can be extended in consultation with IATI."
-msgstr ""
+msgstr "Ŧħīş ŀīşŧ ƈȧƞ ƀḗ ḗẋŧḗƞḓḗḓ īƞ ƈǿƞşŭŀŧȧŧīǿƞ ẇīŧħ ĪȦŦĪ."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Document Type"
-msgstr ""
+msgstr "Ḓǿƈŭḿḗƞŧ Ŧẏƥḗ"
 
 #: ../../standard/docs/en/schema/codelists.md:42
 msgid ""
 "This list provides details of the documents that publishers may wish to "
 "provide at various points their contracting process."
 msgstr ""
+"Ŧħīş ŀīşŧ ƥřǿṽīḓḗş ḓḗŧȧīŀş ǿƒ ŧħḗ ḓǿƈŭḿḗƞŧş ŧħȧŧ ƥŭƀŀīşħḗřş ḿȧẏ ẇīşħ ŧǿ "
+"ƥřǿṽīḓḗ ȧŧ ṽȧřīǿŭş ƥǿīƞŧş ŧħḗīř ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Award Criteria"
-msgstr ""
+msgstr "Ȧẇȧřḓ Ƈřīŧḗřīȧ"
 
 #: ../../standard/docs/en/schema/codelists.md:52
 msgid ""
 "The award criteria code list describes the basis on which contract awards "
 "will be made."
 msgstr ""
+"Ŧħḗ ȧẇȧřḓ ƈřīŧḗřīȧ ƈǿḓḗ ŀīşŧ ḓḗşƈřīƀḗş ŧħḗ ƀȧşīş ǿƞ ẇħīƈħ ƈǿƞŧřȧƈŧ ȧẇȧřḓş "
+"ẇīŀŀ ƀḗ ḿȧḓḗ."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Submission Method"
-msgstr ""
+msgstr "Şŭƀḿīşşīǿƞ Ḿḗŧħǿḓ"
 
 #: ../../standard/docs/en/schema/codelists.md:64
 msgid ""
 "The submission method codelist is used to identify the mechanism through "
 "which a submission may be made."
 msgstr ""
+"Ŧħḗ şŭƀḿīşşīǿƞ ḿḗŧħǿḓ ƈǿḓḗŀīşŧ īş ŭşḗḓ ŧǿ īḓḗƞŧīƒẏ ŧħḗ ḿḗƈħȧƞīşḿ ŧħřǿŭɠħ "
+"ẇħīƈħ ȧ şŭƀḿīşşīǿƞ ḿȧẏ ƀḗ ḿȧḓḗ."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Closed Codelists"
-msgstr ""
+msgstr "Ƈŀǿşḗḓ Ƈǿḓḗŀīşŧş"
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Release Tag"
-msgstr ""
+msgstr "Řḗŀḗȧşḗ Ŧȧɠ"
 
 #: ../../standard/docs/en/schema/codelists.md:78
 msgid ""
-"A contracting process may result in a number of releases of information over"
-" time. These should be tagged to indicate the stage of the contracting "
+"A contracting process may result in a number of releases of information over "
+"time. These should be tagged to indicate the stage of the contracting "
 "process they relate to."
 msgstr ""
+"Ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ḿȧẏ řḗşŭŀŧ īƞ ȧ ƞŭḿƀḗř ǿƒ řḗŀḗȧşḗş ǿƒ īƞƒǿřḿȧŧīǿƞ ǿṽḗř "
+"ŧīḿḗ. Ŧħḗşḗ şħǿŭŀḓ ƀḗ ŧȧɠɠḗḓ ŧǿ īƞḓīƈȧŧḗ ŧħḗ şŧȧɠḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşş ŧħḗẏ řḗŀȧŧḗ ŧǿ."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Initiation Type"
-msgstr ""
+msgstr "Īƞīŧīȧŧīǿƞ Ŧẏƥḗ"
 
 #: ../../standard/docs/en/schema/codelists.md:88
 msgid ""
@@ -166,64 +210,82 @@ msgid ""
 "provide information to consuming applications on the different blocks of "
 "data and releases they should expect from a contracting process."
 msgstr ""
+"Ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş ḿȧẏ ƀḗ ƒǿřḿḗḓ ŭƞḓḗř ȧ ƞŭḿƀḗř ǿƒ ḓīƒƒḗřḗƞŧ ƥřǿƈḗşşḗş. "
+"Ƈŭřřḗƞŧŀẏ, ǿƞŀẏ 'ŧḗƞḓḗř' īş şŭƥƥǿřŧḗḓ īƞ ŧħīş ƈǿḓḗŀīşŧ. Ƒŭŧŭřḗ ṽḗřşīǿƞş ǿƒ "
+"ŧħḗ şŧȧƞḓȧřḓ ḿȧẏ şŭƥƥǿřŧ ǿŧħḗř Īƞīŧīȧŧīǿƞ Ŧẏƥḗş. Ŧħḗ īƞīŧīȧŧīǿƞ ŧẏƥḗ ḿȧẏ ƀḗ "
+"ƥřǿṽīḓḗ īƞƒǿřḿȧŧīǿƞ ŧǿ ƈǿƞşŭḿīƞɠ ȧƥƥŀīƈȧŧīǿƞş ǿƞ ŧħḗ ḓīƒƒḗřḗƞŧ ƀŀǿƈķş ǿƒ "
+"ḓȧŧȧ ȧƞḓ řḗŀḗȧşḗş ŧħḗẏ şħǿŭŀḓ ḗẋƥḗƈŧ ƒřǿḿ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Tender Status"
-msgstr ""
+msgstr "Ŧḗƞḓḗř Şŧȧŧŭş"
 
 #: ../../standard/docs/en/schema/codelists.md:98
 msgid ""
-"The `tender.status` field is used to indicate the current status of a tender"
-" process."
+"The `tender.status` field is used to indicate the current status of a tender "
+"process."
 msgstr ""
+"Ŧħḗ `ŧḗƞḓḗř.şŧȧŧŭş` ƒīḗŀḓ īş ŭşḗḓ ŧǿ īƞḓīƈȧŧḗ ŧħḗ ƈŭřřḗƞŧ şŧȧŧŭş ǿƒ ȧ ŧḗƞḓḗř "
+"ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Method"
-msgstr ""
+msgstr "Ḿḗŧħǿḓ"
 
 #: ../../standard/docs/en/schema/codelists.md:108
 msgid ""
-"The method codelist is based upon the [GPA Definitions provided "
-"here](http://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm)."
+"The method codelist is based upon the [GPA Definitions provided here](http://"
+"www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm)."
 msgstr ""
+"Ŧħḗ ḿḗŧħǿḓ ƈǿḓḗŀīşŧ īş ƀȧşḗḓ ŭƥǿƞ ŧħḗ [ƓƤȦ Ḓḗƒīƞīŧīǿƞş ƥřǿṽīḓḗḓ "
+"ħḗřḗ](http://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm)."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Award Status"
-msgstr ""
+msgstr "Ȧẇȧřḓ Şŧȧŧŭş"
 
 #: ../../standard/docs/en/schema/codelists.md:118
 msgid ""
 "An award move through multiple states. Releases over time may update the "
 "status of an award."
 msgstr ""
+"Ȧƞ ȧẇȧřḓ ḿǿṽḗ ŧħřǿŭɠħ ḿŭŀŧīƥŀḗ şŧȧŧḗş. Řḗŀḗȧşḗş ǿṽḗř ŧīḿḗ ḿȧẏ ŭƥḓȧŧḗ ŧħḗ "
+"şŧȧŧŭş ǿƒ ȧƞ ȧẇȧřḓ."
 
 #: ../../standard/docs/en/schema/codelists.md:126
 msgid ""
 "The ```awardStatus``` field and code-list is used to indicate when a tender "
-"did not result in an award (through the "
-"```\"awardStatus\":\"unsuccessful\"``` value)"
+"did not result in an award (through the ```\"awardStatus\":\"unsuccessful"
+"\"``` value)"
 msgstr ""
+"Ŧħḗ ```ȧẇȧřḓŞŧȧŧŭş``` ƒīḗŀḓ ȧƞḓ ƈǿḓḗ-ŀīşŧ īş ŭşḗḓ ŧǿ īƞḓīƈȧŧḗ ẇħḗƞ ȧ ŧḗƞḓḗř "
+"ḓīḓ ƞǿŧ řḗşŭŀŧ īƞ ȧƞ ȧẇȧřḓ (ŧħřǿŭɠħ ŧħḗ ```\"ȧẇȧřḓŞŧȧŧŭş\":\"ŭƞşŭƈƈḗşşƒŭŀ\""
+"``` ṽȧŀŭḗ)"
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Contract Status"
-msgstr ""
+msgstr "Ƈǿƞŧřȧƈŧ Şŧȧŧŭş"
 
 #: ../../standard/docs/en/schema/codelists.md:130
 msgid ""
 "Contracts can move through multiple states. Releases over time may update "
 "the status of a contract."
 msgstr ""
+"Ƈǿƞŧřȧƈŧş ƈȧƞ ḿǿṽḗ ŧħřǿŭɠħ ḿŭŀŧīƥŀḗ şŧȧŧḗş. Řḗŀḗȧşḗş ǿṽḗř ŧīḿḗ ḿȧẏ ŭƥḓȧŧḗ "
+"ŧħḗ şŧȧŧŭş ǿƒ ȧ ƈǿƞŧřȧƈŧ."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Currency"
-msgstr ""
+msgstr "Ƈŭřřḗƞƈẏ"
 
 #: ../../standard/docs/en/schema/codelists.md:140
 msgid ""
-"OCDS uses the ISO 3-letter currency codes maintained in [ISO "
-"4217](http://en.wikipedia.org/wiki/ISO_4217)."
+"OCDS uses the ISO 3-letter currency codes maintained in [ISO 4217](http://en."
+"wikipedia.org/wiki/ISO_4217)."
 msgstr ""
+"ǾƇḒŞ ŭşḗş ŧħḗ ĪŞǾ 3-ŀḗŧŧḗř ƈŭřřḗƞƈẏ ƈǿḓḗş ḿȧīƞŧȧīƞḗḓ īƞ [ĪŞǾ "
+"4217](http://en.wikipedia.org/wiki/ISO_4217)."
 
 #: ../../standard/docs/en/schema/codelists.md:0
 msgid "Milestone Status"
-msgstr ""
+msgstr "Ḿīŀḗşŧǿƞḗ Şŧȧŧŭş"

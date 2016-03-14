@@ -1,132 +1,130 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:06+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/extensions/location.md:0
 msgid "Location extension"
-msgstr ""
+msgstr "Ŀǿƈȧŧīǿƞ ḗẋŧḗƞşīǿƞ"
 
 #: ../../standard/docs/en/extensions/location.md:3
-msgid ""
-"Communicating the location of proposed or executed contract delivery is "
-"important to make users of contracting data."
+msgid "Communicating the location of proposed or executed contract delivery is important to make users of contracting data."
 msgstr ""
+"Ƈǿḿḿŭƞīƈȧŧīƞɠ ŧħḗ ŀǿƈȧŧīǿƞ ǿƒ ƥřǿƥǿşḗḓ ǿř ḗẋḗƈŭŧḗḓ ƈǿƞŧřȧƈŧ ḓḗŀīṽḗřẏ īş "
+"īḿƥǿřŧȧƞŧ ŧǿ ḿȧķḗ ŭşḗřş ǿƒ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ."
 
 #: ../../standard/docs/en/extensions/location.md:5
-msgid ""
-"This extension proposes the addition of two properties to ```items``` to "
-"describe location:"
+msgid "This extension proposes the addition of two properties to ```items``` to describe location:"
 msgstr ""
+"Ŧħīş ḗẋŧḗƞşīǿƞ ƥřǿƥǿşḗş ŧħḗ ȧḓḓīŧīǿƞ ǿƒ ŧẇǿ ƥřǿƥḗřŧīḗş ŧǿ ```īŧḗḿş``` ŧǿ "
+"ḓḗşƈřīƀḗ ŀǿƈȧŧīǿƞ:"
 
 #: ../../standard/docs/en/extensions/location.md:7
-msgid ""
-"```deliveryAddress``` - a standard ```Address``` block which can be used to "
-"provide a postal address where services should be delivered."
+msgid "```deliveryAddress``` - a standard ```Address``` block which can be used to provide a postal address where services should be delivered."
 msgstr ""
+"```ḓḗŀīṽḗřẏȦḓḓřḗşş``` - ȧ şŧȧƞḓȧřḓ ```Ȧḓḓřḗşş``` ƀŀǿƈķ ẇħīƈħ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ "
+"ƥřǿṽīḓḗ ȧ ƥǿşŧȧŀ ȧḓḓřḗşş ẇħḗřḗ şḗřṽīƈḗş şħǿŭŀḓ ƀḗ ḓḗŀīṽḗřḗḓ."
 
 #: ../../standard/docs/en/extensions/location.md:8
-msgid ""
-"```deliveryLocation``` - a new block consisting of GeoJSON and Gazetteer "
-"entries to describe a wider range of locations to which the contract line "
-"item relates."
+msgid "```deliveryLocation``` - a new block consisting of GeoJSON and Gazetteer entries to describe a wider range of locations to which the contract line item relates."
 msgstr ""
+"```ḓḗŀīṽḗřẏĿǿƈȧŧīǿƞ``` - ȧ ƞḗẇ ƀŀǿƈķ ƈǿƞşīşŧīƞɠ ǿƒ ƓḗǿĴŞǾȠ ȧƞḓ Ɠȧzḗŧŧḗḗř "
+"ḗƞŧřīḗş ŧǿ ḓḗşƈřīƀḗ ȧ ẇīḓḗř řȧƞɠḗ ǿƒ ŀǿƈȧŧīǿƞş ŧǿ ẇħīƈħ ŧħḗ ƈǿƞŧřȧƈŧ ŀīƞḗ "
+"īŧḗḿ řḗŀȧŧḗş."
 
 #: ../../standard/docs/en/extensions/location.md:10
-msgid ""
-"It also creates a [new gazetteer codelist](https://github.com/open-"
-"contracting/implementation-and-"
-"extensions/blob/master/proposed_extensions/proposed_location/codelist_usecase2.csv)."
+msgid "It also creates a [new gazetteer codelist](https://github.com/open-contracting/implementation-and-extensions/blob/master/proposed_extensions/proposed_location/codelist_usecase2.csv)."
 msgstr ""
+"Īŧ ȧŀşǿ ƈřḗȧŧḗş ȧ [ƞḗẇ ɠȧzḗŧŧḗḗř ƈǿḓḗŀīşŧ](https://github.com/open-"
+"contracting/implementation-and-extensions/blob/master/proposed_extensions/pro"
+"posed_location/codelist_usecase2.csv)."
 
 #: ../../standard/docs/en/extensions/location.md:12
 msgid "**Advantages of this approach**"
-msgstr ""
+msgstr "**Ȧḓṽȧƞŧȧɠḗş ǿƒ ŧħīş ȧƥƥřǿȧƈħ**"
 
 #: ../../standard/docs/en/extensions/location.md:14
-msgid ""
-"It captures a wide range of possible location specifications, including "
-"point locations, polygons and lines (useful for roads projects, extractives "
-"concessions etc.)"
+msgid "It captures a wide range of possible location specifications, including point locations, polygons and lines (useful for roads projects, extractives concessions etc.)"
 msgstr ""
+"Īŧ ƈȧƥŧŭřḗş ȧ ẇīḓḗ řȧƞɠḗ ǿƒ ƥǿşşīƀŀḗ ŀǿƈȧŧīǿƞ şƥḗƈīƒīƈȧŧīǿƞş, īƞƈŀŭḓīƞɠ "
+"ƥǿīƞŧ ŀǿƈȧŧīǿƞş, ƥǿŀẏɠǿƞş ȧƞḓ ŀīƞḗş (ŭşḗƒŭŀ ƒǿř řǿȧḓş ƥřǿĵḗƈŧş, ḗẋŧřȧƈŧīṽḗş "
+"ƈǿƞƈḗşşīǿƞş ḗŧƈ.)"
 
 #: ../../standard/docs/en/extensions/location.md:15
-msgid ""
-"Delivery Address information provides information that can be used for both "
-"geocoding, and for logistics fulfilment;"
+msgid "Delivery Address information provides information that can be used for both geocoding, and for logistics fulfilment;"
 msgstr ""
+"Ḓḗŀīṽḗřẏ Ȧḓḓřḗşş īƞƒǿřḿȧŧīǿƞ ƥřǿṽīḓḗş īƞƒǿřḿȧŧīǿƞ ŧħȧŧ ƈȧƞ ƀḗ ŭşḗḓ ƒǿř ƀǿŧħ "
+"ɠḗǿƈǿḓīƞɠ, ȧƞḓ ƒǿř ŀǿɠīşŧīƈş ƒŭŀƒīŀḿḗƞŧ;"
 
 #: ../../standard/docs/en/extensions/location.md:16
-msgid ""
-"It allows different locations to be specified for different line items;"
-msgstr ""
+msgid "It allows different locations to be specified for different line items;"
+msgstr "Īŧ ȧŀŀǿẇş ḓīƒƒḗřḗƞŧ ŀǿƈȧŧīǿƞş ŧǿ ƀḗ şƥḗƈīƒīḗḓ ƒǿř ḓīƒƒḗřḗƞŧ ŀīƞḗ īŧḗḿş;"
 
 #: ../../standard/docs/en/extensions/location.md:18
 msgid "**Disadvantages/limitations of this approach**"
-msgstr ""
+msgstr "**Ḓīşȧḓṽȧƞŧȧɠḗş/limitations ǿƒ ŧħīş ȧƥƥřǿȧƈħ**"
 
 #: ../../standard/docs/en/extensions/location.md:20
-msgid ""
-"Locations are only specified for ```items```, not at the overall tender, "
-"contract or award level. In some cases this may lead either to location data"
-" being duplicated across items, or ambiguity about which item the location "
-"information should apply to;"
+msgid "Locations are only specified for ```items```, not at the overall tender, contract or award level. In some cases this may lead either to location data being duplicated across items, or ambiguity about which item the location information should apply to;"
 msgstr ""
+"Ŀǿƈȧŧīǿƞş ȧřḗ ǿƞŀẏ şƥḗƈīƒīḗḓ ƒǿř ```īŧḗḿş```, ƞǿŧ ȧŧ ŧħḗ ǿṽḗřȧŀŀ ŧḗƞḓḗř, "
+"ƈǿƞŧřȧƈŧ ǿř ȧẇȧřḓ ŀḗṽḗŀ. Īƞ şǿḿḗ ƈȧşḗş ŧħīş ḿȧẏ ŀḗȧḓ ḗīŧħḗř ŧǿ ŀǿƈȧŧīǿƞ ḓȧŧȧ "
+"ƀḗīƞɠ ḓŭƥŀīƈȧŧḗḓ ȧƈřǿşş īŧḗḿş, ǿř ȧḿƀīɠŭīŧẏ ȧƀǿŭŧ ẇħīƈħ īŧḗḿ ŧħḗ ŀǿƈȧŧīǿƞ "
+"īƞƒǿřḿȧŧīǿƞ şħǿŭŀḓ ȧƥƥŀẏ ŧǿ;"
 
 #: ../../standard/docs/en/extensions/location.md:22
 msgid "**Background**"
-msgstr ""
+msgstr "**Ɓȧƈķɠřǿŭƞḓ**"
 
 #: ../../standard/docs/en/extensions/location.md:24
-msgid ""
-"There are a number of use cases that demand specifying a location for "
-"delivery of an item. Discussion can be found in [Issue "
-"#26](https://github.com/open-contracting/standard/issues/26)."
+msgid "There are a number of use cases that demand specifying a location for delivery of an item. Discussion can be found in [Issue #26](https://github.com/open-contracting/standard/issues/26)."
 msgstr ""
+"Ŧħḗřḗ ȧřḗ ȧ ƞŭḿƀḗř ǿƒ ŭşḗ ƈȧşḗş ŧħȧŧ ḓḗḿȧƞḓ şƥḗƈīƒẏīƞɠ ȧ ŀǿƈȧŧīǿƞ ƒǿř "
+"ḓḗŀīṽḗřẏ ǿƒ ȧƞ īŧḗḿ. Ḓīşƈŭşşīǿƞ ƈȧƞ ƀḗ ƒǿŭƞḓ īƞ [Īşşŭḗ "
+"#26](https://github.com/open-contracting/standard/issues/26)."
 
 #: ../../standard/docs/en/extensions/location.md:0
 msgid "Schema patch"
-msgstr ""
+msgstr "Şƈħḗḿȧ ƥȧŧƈħ"
 
 #: ../../standard/docs/en/extensions/location.md:29
-msgid ""
-"The JSON Patch to add location data to the schema can be found in "
-"[schema_usecase_2.json](https://github.com/open-contracting/implementation-"
-"and-"
-"extensions/blob/master/proposed_extensions/proposed_location/schema_usecase_2.json)."
+msgid "The JSON Patch to add location data to the schema can be found in [schema_usecase_2.json](https://github.com/open-contracting/implementation-and-extensions/blob/master/proposed_extensions/proposed_location/schema_usecase_2.json)."
 msgstr ""
+"Ŧħḗ ĴŞǾȠ Ƥȧŧƈħ ŧǿ ȧḓḓ ŀǿƈȧŧīǿƞ ḓȧŧȧ ŧǿ ŧħḗ şƈħḗḿȧ ƈȧƞ ƀḗ ƒǿŭƞḓ īƞ "
+"[şƈħḗḿȧ_ŭşḗƈȧşḗ_2.ĵşǿƞ](https://github.com/open-contracting/implementation-"
+"and-extensions/blob/master/proposed_extensions/proposed_location/schema_useca"
+"se_2.json)."
 
 #: ../../standard/docs/en/extensions/location.md:0
 msgid "Example usage"
-msgstr ""
+msgstr "Ḗẋȧḿƥŀḗ ŭşȧɠḗ"
 
 #: ../../standard/docs/en/extensions/location.md:34
 msgid "Below is an example of a geolocated item:"
-msgstr ""
+msgstr "Ɓḗŀǿẇ īş ȧƞ ḗẋȧḿƥŀḗ ǿƒ ȧ ɠḗǿŀǿƈȧŧḗḓ īŧḗḿ:"
 
 #: ../../standard/docs/en/extensions/location.md:78
-msgid ""
-"If the procurement related to the rebuilding of a road, then the item could "
-"also specify more complex geometries such as:"
+msgid "If the procurement related to the rebuilding of a road, then the item could also specify more complex geometries such as:"
 msgstr ""
+"Īƒ ŧħḗ ƥřǿƈŭřḗḿḗƞŧ řḗŀȧŧḗḓ ŧǿ ŧħḗ řḗƀŭīŀḓīƞɠ ǿƒ ȧ řǿȧḓ, ŧħḗƞ ŧħḗ īŧḗḿ ƈǿŭŀḓ "
+"ȧŀşǿ şƥḗƈīƒẏ ḿǿřḗ ƈǿḿƥŀḗẋ ɠḗǿḿḗŧřīḗş şŭƈħ ȧş:"
 
 #: ../../standard/docs/en/extensions/location.md:95
-msgid ""
-"You can take the contents of the geometry object, excluding the "
-"```geometry``` keyword, and plug this into any GeoJSON tool to see the shape"
-" that is described."
+msgid "You can take the contents of the geometry object, excluding the ```geometry``` keyword, and plug this into any GeoJSON tool to see the shape that is described."
 msgstr ""
+"Ẏǿŭ ƈȧƞ ŧȧķḗ ŧħḗ ƈǿƞŧḗƞŧş ǿƒ ŧħḗ ɠḗǿḿḗŧřẏ ǿƀĵḗƈŧ, ḗẋƈŀŭḓīƞɠ ŧħḗ "
+"```ɠḗǿḿḗŧřẏ``` ķḗẏẇǿřḓ, ȧƞḓ ƥŀŭɠ ŧħīş īƞŧǿ ȧƞẏ ƓḗǿĴŞǾȠ ŧǿǿŀ ŧǿ şḗḗ ŧħḗ şħȧƥḗ "
+"ŧħȧŧ īş ḓḗşƈřīƀḗḓ."

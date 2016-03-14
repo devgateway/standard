@@ -1,165 +1,164 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-09 10:41+0000\n"
-"PO-Revision-Date: 2016-03-09 10:42+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:0
 msgid "The Contracting Process"
-msgstr ""
+msgstr "Ŧħḗ Ƈǿƞŧřȧƈŧīƞɠ Ƥřǿƈḗşş"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:3
 msgid "There are several stages to a contracting process."
-msgstr ""
+msgstr "Ŧħḗřḗ ȧřḗ şḗṽḗřȧŀ şŧȧɠḗş ŧǿ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:5
 msgid "OCDS covers:"
-msgstr ""
+msgstr "ǾƇḒŞ ƈǿṽḗřş:"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:30
-msgid ""
-"Not all contracting processes have all stages. For example, direct "
-"contracting may start with the award of a contract. However, there will "
-"still be information that can be disclosed about the budgets, specifications"
-" and selection process even in this case."
+msgid "Not all contracting processes have all stages. For example, direct contracting may start with the award of a contract. However, there will still be information that can be disclosed about the budgets, specifications and selection process even in this case."
 msgstr ""
+"Ƞǿŧ ȧŀŀ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş ħȧṽḗ ȧŀŀ şŧȧɠḗş. Ƒǿř ḗẋȧḿƥŀḗ, ḓīřḗƈŧ "
+"ƈǿƞŧřȧƈŧīƞɠ ḿȧẏ şŧȧřŧ ẇīŧħ ŧħḗ ȧẇȧřḓ ǿƒ ȧ ƈǿƞŧřȧƈŧ. Ħǿẇḗṽḗř, ŧħḗřḗ ẇīŀŀ "
+"şŧīŀŀ ƀḗ īƞƒǿřḿȧŧīǿƞ ŧħȧŧ ƈȧƞ ƀḗ ḓīşƈŀǿşḗḓ ȧƀǿŭŧ ŧħḗ ƀŭḓɠḗŧş, şƥḗƈīƒīƈȧŧīǿƞş "
+"ȧƞḓ şḗŀḗƈŧīǿƞ ƥřǿƈḗşş ḗṽḗƞ īƞ ŧħīş ƈȧşḗ."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:32
-msgid ""
-"You should aim to publish OCDS data close to real-time: releasing data as "
-"each stage of a contracting process takes place."
+msgid "You should aim to publish OCDS data close to real-time: releasing data as each stage of a contracting process takes place."
 msgstr ""
+"Ẏǿŭ şħǿŭŀḓ ȧīḿ ŧǿ ƥŭƀŀīşħ ǾƇḒŞ ḓȧŧȧ ƈŀǿşḗ ŧǿ řḗȧŀ-ŧīḿḗ: řḗŀḗȧşīƞɠ ḓȧŧȧ ȧş "
+"ḗȧƈħ şŧȧɠḗ ǿƒ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ŧȧķḗş ƥŀȧƈḗ."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:34
-msgid ""
-"This may involve generating output from a range of different systems. Data "
-"published from different systems can be tied together by use of a common "
-"Open Contracting ID (```ocid```)."
+msgid "This may involve generating output from a range of different systems. Data published from different systems can be tied together by use of a common Open Contracting ID (```ocid```)."
 msgstr ""
+"Ŧħīş ḿȧẏ īƞṽǿŀṽḗ ɠḗƞḗřȧŧīƞɠ ǿŭŧƥŭŧ ƒřǿḿ ȧ řȧƞɠḗ ǿƒ ḓīƒƒḗřḗƞŧ şẏşŧḗḿş. Ḓȧŧȧ "
+"ƥŭƀŀīşħḗḓ ƒřǿḿ ḓīƒƒḗřḗƞŧ şẏşŧḗḿş ƈȧƞ ƀḗ ŧīḗḓ ŧǿɠḗŧħḗř ƀẏ ŭşḗ ǿƒ ȧ ƈǿḿḿǿƞ "
+"Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ĪḒ (```ǿƈīḓ```)."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:0
 msgid "Defining a contracting process"
-msgstr ""
+msgstr "Ḓḗƒīƞīƞɠ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:38
 msgid "For public procurement OCDS defines a unique contracting process as:"
-msgstr ""
+msgstr "Ƒǿř ƥŭƀŀīƈ ƥřǿƈŭřḗḿḗƞŧ ǾƇḒŞ ḓḗƒīƞḗş ȧ ŭƞīɋŭḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ȧş:"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:40
-msgid ""
-"All the planning, tendering information, awards, contracts and contract "
-"implementation information related to a single initiation process."
+msgid "All the planning, tendering information, awards, contracts and contract implementation information related to a single initiation process."
 msgstr ""
+"Ȧŀŀ ŧħḗ ƥŀȧƞƞīƞɠ, ŧḗƞḓḗřīƞɠ īƞƒǿřḿȧŧīǿƞ, ȧẇȧřḓş, ƈǿƞŧřȧƈŧş ȧƞḓ ƈǿƞŧřȧƈŧ "
+"īḿƥŀḗḿḗƞŧȧŧīǿƞ īƞƒǿřḿȧŧīǿƞ řḗŀȧŧḗḓ ŧǿ ȧ şīƞɠŀḗ īƞīŧīȧŧīǿƞ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:42
-msgid ""
-"An initiation process may be a tender, a direct contract award, or a call to"
-" award a concession."
+msgid "An initiation process may be a tender, a direct contract award, or a call to award a concession."
 msgstr ""
+"Ȧƞ īƞīŧīȧŧīǿƞ ƥřǿƈḗşş ḿȧẏ ƀḗ ȧ ŧḗƞḓḗř, ȧ ḓīřḗƈŧ ƈǿƞŧřȧƈŧ ȧẇȧřḓ, ǿř ȧ ƈȧŀŀ ŧǿ "
+"ȧẇȧřḓ ȧ ƈǿƞƈḗşşīǿƞ."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:0
 msgid "The Open Contracting ID (ocid)"
-msgstr ""
+msgstr "Ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ĪḒ (ǿƈīḓ)"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:48
-msgid ""
-"Each unique contracting process should be assigned an ```ocid```. This is an"
-" identifier which can be used to join up data between different stages (as "
-"often the data may be stored in different systems)."
+msgid "Each unique contracting process should be assigned an ```ocid```. This is an identifier which can be used to join up data between different stages (as often the data may be stored in different systems)."
 msgstr ""
+"Ḗȧƈħ ŭƞīɋŭḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş şħǿŭŀḓ ƀḗ ȧşşīɠƞḗḓ ȧƞ ```ǿƈīḓ```. Ŧħīş īş ȧƞ "
+"īḓḗƞŧīƒīḗř ẇħīƈħ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ ĵǿīƞ ŭƥ ḓȧŧȧ ƀḗŧẇḗḗƞ ḓīƒƒḗřḗƞŧ şŧȧɠḗş (ȧş "
+"ǿƒŧḗƞ ŧħḗ ḓȧŧȧ ḿȧẏ ƀḗ şŧǿřḗḓ īƞ ḓīƒƒḗřḗƞŧ şẏşŧḗḿş)."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:50
-msgid ""
-"To make sure the ```ocid```s assigned by two different publishers do not "
-"clash, publishers are encouraged to register a publisher prefix. This can be"
-" prepended onto locally generated identifiers, giving a globally unique "
-"identifier, and allowing disparate data sources to confidently refer to a "
-"unique contracting process."
+msgid "To make sure the ```ocid```s assigned by two different publishers do not clash, publishers are encouraged to register a publisher prefix. This can be prepended onto locally generated identifiers, giving a globally unique identifier, and allowing disparate data sources to confidently refer to a unique contracting process."
 msgstr ""
+"Ŧǿ ḿȧķḗ şŭřḗ ŧħḗ ```ǿƈīḓ```ş ȧşşīɠƞḗḓ ƀẏ ŧẇǿ ḓīƒƒḗřḗƞŧ ƥŭƀŀīşħḗřş ḓǿ ƞǿŧ "
+"ƈŀȧşħ, ƥŭƀŀīşħḗřş ȧřḗ ḗƞƈǿŭřȧɠḗḓ ŧǿ řḗɠīşŧḗř ȧ ƥŭƀŀīşħḗř ƥřḗƒīẋ. Ŧħīş ƈȧƞ ƀḗ "
+"ƥřḗƥḗƞḓḗḓ ǿƞŧǿ ŀǿƈȧŀŀẏ ɠḗƞḗřȧŧḗḓ īḓḗƞŧīƒīḗřş, ɠīṽīƞɠ ȧ ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ "
+"īḓḗƞŧīƒīḗř, ȧƞḓ ȧŀŀǿẇīƞɠ ḓīşƥȧřȧŧḗ ḓȧŧȧ şǿŭřƈḗş ŧǿ ƈǿƞƒīḓḗƞŧŀẏ řḗƒḗř ŧǿ ȧ "
+"ŭƞīɋŭḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:52
-msgid ""
-"You can [register your ocid prefix here](../implementation/registration.md)."
+msgid "You can [register your ocid prefix here](../implementation/registration.md)."
 msgstr ""
+"Ẏǿŭ ƈȧƞ [řḗɠīşŧḗř ẏǿŭř ǿƈīḓ ƥřḗƒīẋ ħḗřḗ](../implementation/registration.md)."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:58
-msgid ""
-"In [Mexico City](http://www.contratosabiertos.cdmx.gob.mx/), an initial "
-"mapping identified that identifiers were assigned to each tender process or "
-"direct award, using a pattern based on the initials or name of the "
-"department involved, a tender or contract number, and the year."
+msgid "In [Mexico City](http://www.contratosabiertos.cdmx.gob.mx/), an initial mapping identified that identifiers were assigned to each tender process or direct award, using a pattern based on the initials or name of the department involved, a tender or contract number, and the year."
 msgstr ""
+"Īƞ [Ḿḗẋīƈǿ Ƈīŧẏ](http://www.contratosabiertos.cdmx.gob.mx/), ȧƞ īƞīŧīȧŀ "
+"ḿȧƥƥīƞɠ īḓḗƞŧīƒīḗḓ ŧħȧŧ īḓḗƞŧīƒīḗřş ẇḗřḗ ȧşşīɠƞḗḓ ŧǿ ḗȧƈħ ŧḗƞḓḗř ƥřǿƈḗşş ǿř "
+"ḓīřḗƈŧ ȧẇȧřḓ, ŭşīƞɠ ȧ ƥȧŧŧḗřƞ ƀȧşḗḓ ǿƞ ŧħḗ īƞīŧīȧŀş ǿř ƞȧḿḗ ǿƒ ŧħḗ "
+"ḓḗƥȧřŧḿḗƞŧ īƞṽǿŀṽḗḓ, ȧ ŧḗƞḓḗř ǿř ƈǿƞŧřȧƈŧ ƞŭḿƀḗř, ȧƞḓ ŧħḗ ẏḗȧř."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:60
 #: ../../standard/docs/en/getting_started/contracting_process.md:68
 msgid "For example:"
-msgstr ""
+msgstr "Ƒǿř ḗẋȧḿƥŀḗ:"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:62
 msgid "OM-DGRMSG-004-13"
-msgstr ""
+msgstr "ǾḾ-ḒƓŘḾŞƓ-004-13"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:64
-msgid ""
-"These identifiers uniquely identify each contracting process. Fields and "
-"business processes to capture these identifiers at each contracting process "
-"stage were added to the relevant systems."
+msgid "These identifiers uniquely identify each contracting process. Fields and business processes to capture these identifiers at each contracting process stage were added to the relevant systems."
 msgstr ""
+"Ŧħḗşḗ īḓḗƞŧīƒīḗřş ŭƞīɋŭḗŀẏ īḓḗƞŧīƒẏ ḗȧƈħ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ƒīḗŀḓş ȧƞḓ "
+"ƀŭşīƞḗşş ƥřǿƈḗşşḗş ŧǿ ƈȧƥŧŭřḗ ŧħḗşḗ īḓḗƞŧīƒīḗřş ȧŧ ḗȧƈħ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş "
+"şŧȧɠḗ ẇḗřḗ ȧḓḓḗḓ ŧǿ ŧħḗ řḗŀḗṽȧƞŧ şẏşŧḗḿş."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:66
-msgid ""
-"Mexico City then registered a prefix with the OCDS helpdesk. They have been "
-"given the prefix 'ocds-87sd3t' which can be added to their unique process "
-"identifiers to give a globally unique ocid."
+msgid "Mexico City then registered a prefix with the OCDS helpdesk. They have been given the prefix 'ocds-87sd3t' which can be added to their unique process identifiers to give a globally unique ocid."
 msgstr ""
+"Ḿḗẋīƈǿ Ƈīŧẏ ŧħḗƞ řḗɠīşŧḗřḗḓ ȧ ƥřḗƒīẋ ẇīŧħ ŧħḗ ǾƇḒŞ ħḗŀƥḓḗşķ. Ŧħḗẏ ħȧṽḗ ƀḗḗƞ "
+"ɠīṽḗƞ ŧħḗ ƥřḗƒīẋ 'ǿƈḓş-87şḓ3ŧ' ẇħīƈħ ƈȧƞ ƀḗ ȧḓḓḗḓ ŧǿ ŧħḗīř ŭƞīɋŭḗ ƥřǿƈḗşş "
+"īḓḗƞŧīƒīḗřş ŧǿ ɠīṽḗ ȧ ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ ǿƈīḓ."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:70
 msgid "ocds-87sd3t-OM-DGRMSG-004-13"
-msgstr ""
+msgstr "ǿƈḓş-87şḓ3ŧ-ǾḾ-ḒƓŘḾŞƓ-004-13"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:72
-msgid ""
-"All the award notices, contracts and transactions resulting from the tender "
-"with this identifier should also share this ocid - allowing Mexico City to "
-"bring together a complete picture of each contracting process."
+msgid "All the award notices, contracts and transactions resulting from the tender with this identifier should also share this ocid - allowing Mexico City to bring together a complete picture of each contracting process."
 msgstr ""
+"Ȧŀŀ ŧħḗ ȧẇȧřḓ ƞǿŧīƈḗş, ƈǿƞŧřȧƈŧş ȧƞḓ ŧřȧƞşȧƈŧīǿƞş řḗşŭŀŧīƞɠ ƒřǿḿ ŧħḗ ŧḗƞḓḗř "
+"ẇīŧħ ŧħīş īḓḗƞŧīƒīḗř şħǿŭŀḓ ȧŀşǿ şħȧřḗ ŧħīş ǿƈīḓ - ȧŀŀǿẇīƞɠ Ḿḗẋīƈǿ Ƈīŧẏ ŧǿ "
+"ƀřīƞɠ ŧǿɠḗŧħḗř ȧ ƈǿḿƥŀḗŧḗ ƥīƈŧŭřḗ ǿƒ ḗȧƈħ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:80
-msgid ""
-"The ```ocid``` is case sensitive. Case should be used consistently whenever "
-"an ```ocid``` is presented."
+msgid "The ```ocid``` is case sensitive. Case should be used consistently whenever an ```ocid``` is presented."
 msgstr ""
+"Ŧħḗ ```ǿƈīḓ``` īş ƈȧşḗ şḗƞşīŧīṽḗ. Ƈȧşḗ şħǿŭŀḓ ƀḗ ŭşḗḓ ƈǿƞşīşŧḗƞŧŀẏ ẇħḗƞḗṽḗř "
+"ȧƞ ```ǿƈīḓ``` īş ƥřḗşḗƞŧḗḓ."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:0
 msgid "Extending OCDS"
-msgstr ""
+msgstr "Ḗẋŧḗƞḓīƞɠ ǾƇḒŞ"
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:86
-msgid ""
-"Version 1.0 of the OCDS schema is optimised for procurement-type contracts."
+msgid "Version 1.0 of the OCDS schema is optimised for procurement-type contracts."
 msgstr ""
+"Ṽḗřşīǿƞ 1.0 ǿƒ ŧħḗ ǾƇḒŞ şƈħḗḿȧ īş ǿƥŧīḿīşḗḓ ƒǿř ƥřǿƈŭřḗḿḗƞŧ-ŧẏƥḗ ƈǿƞŧřȧƈŧş."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:88
-msgid ""
-"However, using extensions OCDS can also be used to model other kinds "
-"contracting process."
+msgid "However, using extensions OCDS can also be used to model other kinds contracting process."
 msgstr ""
+"Ħǿẇḗṽḗř, ŭşīƞɠ ḗẋŧḗƞşīǿƞş ǾƇḒŞ ƈȧƞ ȧŀşǿ ƀḗ ŭşḗḓ ŧǿ ḿǿḓḗŀ ǿŧħḗř ķīƞḓş "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/getting_started/contracting_process.md:90
-msgid ""
-"[Contact the helpdesk](../support/index.md) for support to model your "
-"contracting processes using OCDS."
+msgid "[Contact the helpdesk](../support/index.md) for support to model your contracting processes using OCDS."
 msgstr ""
+"[Ƈǿƞŧȧƈŧ ŧħḗ ħḗŀƥḓḗşķ](../support/index.md) ƒǿř şŭƥƥǿřŧ ŧǿ ḿǿḓḗŀ ẏǿŭř "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş ŭşīƞɠ ǾƇḒŞ."

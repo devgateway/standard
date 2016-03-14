@@ -1,39 +1,39 @@
 # Translations template for PROJECT.
 # Copyright (C) 2016 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2016-03-14 11:49+0000\n"
-"PO-Revision-Date: 2016-03-14 11:50+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.2.0\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. /definitions/record/properties/compiledRelease/title
-#: schema/record-package-schema.json:1
-msgid "Compiled release"
-msgstr ""
-
-#. /definitions/record/properties/compiledRelease/description
+#. /description
 #: schema/record-package-schema.json:1
 msgid ""
-"This is the latest version of all the contracting data, it has the same "
-"schema as an open contracting release."
+"The record package contains a list of records along with some publishing "
+"meta data. The records pull together all the releases under a single Open"
+" Contracting ID and compile them into the latest version of the "
+"information along with the history of any data changes."
 msgstr ""
+"Ŧħḗ řḗƈǿřḓ ƥȧƈķȧɠḗ ƈǿƞŧȧīƞş ȧ ŀīşŧ ǿƒ řḗƈǿřḓş ȧŀǿƞɠ ẇīŧħ şǿḿḗ ƥŭƀŀīşħīƞɠ "
+"ḿḗŧȧ ḓȧŧȧ. Ŧħḗ řḗƈǿřḓş ƥŭŀŀ ŧǿɠḗŧħḗř ȧŀŀ ŧħḗ řḗŀḗȧşḗş ŭƞḓḗř ȧ şīƞɠŀḗ Ǿƥḗƞ "
+"Ƈǿƞŧřȧƈŧīƞɠ ĪḒ ȧƞḓ ƈǿḿƥīŀḗ ŧħḗḿ īƞŧǿ ŧħḗ ŀȧŧḗşŧ ṽḗřşīǿƞ ǿƒ ŧħḗ īƞƒǿřḿȧŧīǿƞ "
+"ȧŀǿƞɠ ẇīŧħ ŧħḗ ħīşŧǿřẏ ǿƒ ȧƞẏ ḓȧŧȧ ƈħȧƞɠḗş."
 
-#. /definitions/record/properties/versionedRelease/title
+#. /title
 #: schema/record-package-schema.json:1
-msgid "Versioned release"
-msgstr ""
+msgid "Schema for an Open Contracting Record package"
+msgstr "Şƈħḗḿȧ ƒǿř ȧƞ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Řḗƈǿřḓ ƥȧƈķȧɠḗ"
 
 #. /definitions/record/properties/versionedRelease/description
 #: schema/record-package-schema.json:1
@@ -41,50 +41,88 @@ msgid ""
 "This contains the history of the data in the compiledRecord. With all "
 "versions of the information and the release they came from."
 msgstr ""
+"Ŧħīş ƈǿƞŧȧīƞş ŧħḗ ħīşŧǿřẏ ǿƒ ŧħḗ ḓȧŧȧ īƞ ŧħḗ ƈǿḿƥīŀḗḓŘḗƈǿřḓ. Ẇīŧħ ȧŀŀ "
+"ṽḗřşīǿƞş ǿƒ ŧħḗ īƞƒǿřḿȧŧīǿƞ ȧƞḓ ŧħḗ řḗŀḗȧşḗ ŧħḗẏ ƈȧḿḗ ƒřǿḿ."
+
+#. /definitions/record/properties/versionedRelease/title
+#: schema/record-package-schema.json:1
+msgid "Versioned release"
+msgstr "Ṽḗřşīǿƞḗḓ řḗŀḗȧşḗ"
+
+#. /definitions/record/properties/compiledRelease/description
+#: schema/record-package-schema.json:1
+msgid ""
+"This is the latest version of all the contracting data, it has the same "
+"schema as an open contracting release."
+msgstr ""
+"Ŧħīş īş ŧħḗ ŀȧŧḗşŧ ṽḗřşīǿƞ ǿƒ ȧŀŀ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ, īŧ ħȧş ŧħḗ şȧḿḗ "
+"şƈħḗḿȧ ȧş ȧƞ ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ řḗŀḗȧşḗ."
+
+#. /definitions/record/properties/compiledRelease/title
+#: schema/record-package-schema.json:1
+msgid "Compiled release"
+msgstr "Ƈǿḿƥīŀḗḓ řḗŀḗȧşḗ"
 
 #. /definitions/record/properties/releases/description
 #: schema/record-package-schema.json:1
 msgid "An array of linking identifiers or releases"
+msgstr "Ȧƞ ȧřřȧẏ ǿƒ ŀīƞķīƞɠ īḓḗƞŧīƒīḗřş ǿř řḗŀḗȧşḗş"
+
+#. /definitions/record/properties/ocid/description
+#: schema/record-package-schema.json:1
+msgid ""
+"A unique identifier that identifies the unique Open Contracting Process. "
+"For more information see: http://standard.open-"
+"contracting.org/latest/en/getting_started/contracting_process/"
 msgstr ""
+"Ȧ ŭƞīɋŭḗ īḓḗƞŧīƒīḗř ŧħȧŧ īḓḗƞŧīƒīḗş ŧħḗ ŭƞīɋŭḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ƥřǿƈḗşş. Ƒǿř "
+"ḿǿřḗ īƞƒǿřḿȧŧīǿƞ şḗḗ: http://standard.open-"
+"contracting.org/latest/en/getting_started/contracting_process/"
 
 #. /definitions/record/properties/ocid/title
 #. /properties/ocid/title
 #: schema/record-package-schema.json:1 schema/release-schema.json:1
 #: schema/versioned-release-validation-schema.json:1
 msgid "Open Contracting ID"
-msgstr ""
+msgstr "Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ĪḒ"
 
-#. /definitions/record/properties/ocid/description
+#. /properties/publishedDate/description
 #: schema/record-package-schema.json:1
-msgid ""
-"A unique identifier that identifies the unique Open Contracting Process. For"
-" more information see: http://standard.open-"
-"contracting.org/latest/en/getting_started/contracting_process/"
-msgstr ""
-
-#. /title
-#: schema/record-package-schema.json:1
-msgid "Schema for an Open Contracting Record package"
-msgstr ""
-
-#. /description
-#: schema/record-package-schema.json:1
-msgid ""
-"The record package contains a list of records along with some publishing "
-"meta data. The records pull together all the releases under a single Open "
-"Contracting ID and compile them into the latest version of the information "
-"along with the history of any data changes."
-msgstr ""
+msgid "The date that this package was published."
+msgstr "Ŧħḗ ḓȧŧḗ ŧħȧŧ ŧħīş ƥȧƈķȧɠḗ ẇȧş ƥŭƀŀīşħḗḓ."
 
 #. /properties/records/description
 #: schema/record-package-schema.json:1
 msgid "The records for this data package."
-msgstr ""
+msgstr "Ŧħḗ řḗƈǿřḓş ƒǿř ŧħīş ḓȧŧȧ ƥȧƈķȧɠḗ."
 
 #. /properties/publicationPolicy/description
 #: schema/record-package-schema.json:1
 msgid "A link to a document describing the publishers publication policy."
+msgstr "Ȧ ŀīƞķ ŧǿ ȧ ḓǿƈŭḿḗƞŧ ḓḗşƈřīƀīƞɠ ŧħḗ ƥŭƀŀīşħḗřş ƥŭƀŀīƈȧŧīǿƞ ƥǿŀīƈẏ."
+
+#. /properties/uri/description
+#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
+msgid "The URI of this package that identifies it uniquely in the world."
+msgstr "Ŧħḗ ŬŘĪ ǿƒ ŧħīş ƥȧƈķȧɠḗ ŧħȧŧ īḓḗƞŧīƒīḗş īŧ ŭƞīɋŭḗŀẏ īƞ ŧħḗ ẇǿřŀḓ."
+
+#. /properties/uri/title
+#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
+msgid "Package Identifier"
+msgstr "Ƥȧƈķȧɠḗ Īḓḗƞŧīƒīḗř"
+
+#. /properties/license/description
+#: schema/record-package-schema.json:1
+msgid ""
+"A link to the license that applies to the data in this datapackage. [Open"
+" Definition Conformant](http://opendefinition.org/licenses/) licenses are"
+" strongly recommended. The canonical URI of the license should be used. "
+"Documents linked from this file may be under other license conditions. "
 msgstr ""
+"Ȧ ŀīƞķ ŧǿ ŧħḗ ŀīƈḗƞşḗ ŧħȧŧ ȧƥƥŀīḗş ŧǿ ŧħḗ ḓȧŧȧ īƞ ŧħīş ḓȧŧȧƥȧƈķȧɠḗ. [Ǿƥḗƞ "
+"Ḓḗƒīƞīŧīǿƞ Ƈǿƞƒǿřḿȧƞŧ](http://opendefinition.org/licenses/) ŀīƈḗƞşḗş ȧřḗ "
+"şŧřǿƞɠŀẏ řḗƈǿḿḿḗƞḓḗḓ. Ŧħḗ ƈȧƞǿƞīƈȧŀ ŬŘĪ ǿƒ ŧħḗ ŀīƈḗƞşḗ şħǿŭŀḓ ƀḗ ŭşḗḓ. "
+"Ḓǿƈŭḿḗƞŧş ŀīƞķḗḓ ƒřǿḿ ŧħīş ƒīŀḗ ḿȧẏ ƀḗ ŭƞḓḗř ǿŧħḗř ŀīƈḗƞşḗ ƈǿƞḓīŧīǿƞş. "
 
 #. /properties/packages/description
 #: schema/record-package-schema.json:1
@@ -92,64 +130,27 @@ msgid ""
 "A list of URIs of all the release packages that were used to create this "
 "record package."
 msgstr ""
+"Ȧ ŀīşŧ ǿƒ ŬŘĪş ǿƒ ȧŀŀ ŧħḗ řḗŀḗȧşḗ ƥȧƈķȧɠḗş ŧħȧŧ ẇḗřḗ ŭşḗḓ ŧǿ ƈřḗȧŧḗ ŧħīş "
+"řḗƈǿřḓ ƥȧƈķȧɠḗ."
 
-#. /properties/license/description
-#: schema/record-package-schema.json:1
-msgid ""
-"A link to the license that applies to the data in this datapackage. [Open "
-"Definition Conformant](http://opendefinition.org/licenses/) licenses are "
-"strongly recommended. The canonical URI of the license should be used. "
-"Documents linked from this file may be under other license conditions. "
-msgstr ""
-
-#. /properties/uri/title
+#. /properties/publisher/description
 #: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid "Package Identifier"
-msgstr ""
-
-#. /properties/uri/description
-#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid "The URI of this package that identifies it uniquely in the world."
-msgstr ""
-
-#. /properties/publisher/properties/name/title
-#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid "Name"
-msgstr ""
+msgid "Information to uniquely identify the publisher of this package."
+msgstr "Īƞƒǿřḿȧŧīǿƞ ŧǿ ŭƞīɋŭḗŀẏ īḓḗƞŧīƒẏ ŧħḗ ƥŭƀŀīşħḗř ǿƒ ŧħīş ƥȧƈķȧɠḗ."
 
 #. /properties/publisher/properties/name/description
 #: schema/record-package-schema.json:1 schema/release-package-schema.json:1
 msgid ""
-"The name of the organisation or department responsible for publishing this "
-"data."
+"The name of the organisation or department responsible for publishing "
+"this data."
 msgstr ""
+"Ŧħḗ ƞȧḿḗ ǿƒ ŧħḗ ǿřɠȧƞīşȧŧīǿƞ ǿř ḓḗƥȧřŧḿḗƞŧ řḗşƥǿƞşīƀŀḗ ƒǿř ƥŭƀŀīşħīƞɠ ŧħīş "
+"ḓȧŧȧ."
 
-#. /properties/publisher/properties/uri/title
+#. /properties/publisher/properties/name/title
 #: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid "URI"
-msgstr ""
-
-#. /properties/publisher/properties/uri/description
-#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid "A URI to identify the publisher."
-msgstr ""
-
-#. /properties/publisher/properties/scheme/title
-#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid "Scheme"
-msgstr ""
-
-#. /properties/publisher/properties/scheme/description
-#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid ""
-"The scheme that holds the unique identifiers used to identify the item being"
-" identified."
-msgstr ""
-
-#. /properties/publisher/properties/uid/title
-#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid "uid"
-msgstr ""
+msgid "Name"
+msgstr "Ƞȧḿḗ"
 
 #. /properties/publisher/properties/uid/description
 #: schema/record-package-schema.json:1 schema/release-package-schema.json:1
@@ -157,36 +158,51 @@ msgid ""
 "The unique ID for this entity under the given ID scheme. Note the use of "
 "'uid' rather than 'id'. See issue #245."
 msgstr ""
+"Ŧħḗ ŭƞīɋŭḗ ĪḒ ƒǿř ŧħīş ḗƞŧīŧẏ ŭƞḓḗř ŧħḗ ɠīṽḗƞ ĪḒ şƈħḗḿḗ. Ƞǿŧḗ ŧħḗ ŭşḗ ǿƒ "
+"'ŭīḓ' řȧŧħḗř ŧħȧƞ 'īḓ'. Şḗḗ īşşŭḗ #245."
 
-#. /properties/publisher/description
+#. /properties/publisher/properties/uid/title
 #: schema/record-package-schema.json:1 schema/release-package-schema.json:1
-msgid "Information to uniquely identify the publisher of this package."
-msgstr ""
+msgid "uid"
+msgstr "ŭīḓ"
 
-#. /properties/publishedDate/description
-#: schema/record-package-schema.json:1
-msgid "The date that this package was published."
-msgstr ""
+#. /properties/publisher/properties/uri/description
+#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
+msgid "A URI to identify the publisher."
+msgstr "Ȧ ŬŘĪ ŧǿ īḓḗƞŧīƒẏ ŧħḗ ƥŭƀŀīşħḗř."
 
-#. /title
-#: schema/release-package-schema.json:1
-msgid "Schema for an Open Contracting Release Package"
+#. /properties/publisher/properties/uri/title
+#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
+msgid "URI"
+msgstr "ŬŘĪ"
+
+#. /properties/publisher/properties/scheme/description
+#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
+msgid ""
+"The scheme that holds the unique identifiers used to identify the item "
+"being identified."
 msgstr ""
+"Ŧħḗ şƈħḗḿḗ ŧħȧŧ ħǿŀḓş ŧħḗ ŭƞīɋŭḗ īḓḗƞŧīƒīḗřş ŭşḗḓ ŧǿ īḓḗƞŧīƒẏ ŧħḗ īŧḗḿ ƀḗīƞɠ "
+"īḓḗƞŧīƒīḗḓ."
+
+#. /properties/publisher/properties/scheme/title
+#: schema/record-package-schema.json:1 schema/release-package-schema.json:1
+msgid "Scheme"
+msgstr "Şƈħḗḿḗ"
 
 #. /description
 #: schema/release-package-schema.json:1
 msgid ""
-"Note that all releases within a release package must have a unique releaseID"
-" within this release package."
+"Note that all releases within a release package must have a unique "
+"releaseID within this release package."
 msgstr ""
+"Ƞǿŧḗ ŧħȧŧ ȧŀŀ řḗŀḗȧşḗş ẇīŧħīƞ ȧ řḗŀḗȧşḗ ƥȧƈķȧɠḗ ḿŭşŧ ħȧṽḗ ȧ ŭƞīɋŭḗ řḗŀḗȧşḗĪḒ "
+"ẇīŧħīƞ ŧħīş řḗŀḗȧşḗ ƥȧƈķȧɠḗ."
 
-#. /properties/publicationPolicy/description
+#. /title
 #: schema/release-package-schema.json:1
-msgid ""
-"A link to a document describing the publishers [publication "
-"policy](http://standard.open-"
-"contracting.org/latest/en/implementation/publication_policy/)."
-msgstr ""
+msgid "Schema for an Open Contracting Release Package"
+msgstr "Şƈħḗḿȧ ƒǿř ȧƞ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Řḗŀḗȧşḗ Ƥȧƈķȧɠḗ"
 
 #. /properties/license/description
 #: schema/release-package-schema.json:1
@@ -197,1046 +213,51 @@ msgid ""
 "recommended. The canonical URI of the license should be used. Documents "
 "linked from this file may be under other license conditions. "
 msgstr ""
+"Ȧ ŀīƞķ ŧǿ ŧħḗ ŀīƈḗƞşḗ ŧħȧŧ ȧƥƥŀīḗş ŧǿ ŧħḗ ḓȧŧȧ īƞ ŧħīş ƥȧƈķȧɠḗ. Ȧ Ƥŭƀŀīƈ "
+"Ḓǿḿȧīƞ Ḓḗḓīƈȧŧīǿƞ ǿř [Ǿƥḗƞ Ḓḗƒīƞīŧīǿƞ "
+"Ƈǿƞƒǿřḿȧƞŧ](http://opendefinition.org/licenses/) ŀīƈḗƞşḗ īş şŧřǿƞɠŀẏ "
+"řḗƈǿḿḿḗƞḓḗḓ. Ŧħḗ ƈȧƞǿƞīƈȧŀ ŬŘĪ ǿƒ ŧħḗ ŀīƈḗƞşḗ şħǿŭŀḓ ƀḗ ŭşḗḓ. Ḓǿƈŭḿḗƞŧş "
+"ŀīƞķḗḓ ƒřǿḿ ŧħīş ƒīŀḗ ḿȧẏ ƀḗ ŭƞḓḗř ǿŧħḗř ŀīƈḗƞşḗ ƈǿƞḓīŧīǿƞş. "
+
+#. /properties/publicationPolicy/description
+#: schema/release-package-schema.json:1
+msgid ""
+"A link to a document describing the publishers [publication "
+"policy](http://standard.open-"
+"contracting.org/latest/en/implementation/publication_policy/)."
+msgstr ""
+"Ȧ ŀīƞķ ŧǿ ȧ ḓǿƈŭḿḗƞŧ ḓḗşƈřīƀīƞɠ ŧħḗ ƥŭƀŀīşħḗřş [ƥŭƀŀīƈȧŧīǿƞ "
+"ƥǿŀīƈẏ](http://standard.open-"
+"contracting.org/latest/en/implementation/publication_policy/)."
 
 #. /properties/publishedDate/description
 #: schema/release-package-schema.json:1
 msgid ""
-"The date that this package was published. Ideally this should be the latest "
-"date that there is release information in this package."
+"The date that this package was published. Ideally this should be the "
+"latest date that there is release information in this package."
 msgstr ""
+"Ŧħḗ ḓȧŧḗ ŧħȧŧ ŧħīş ƥȧƈķȧɠḗ ẇȧş ƥŭƀŀīşħḗḓ. Īḓḗȧŀŀẏ ŧħīş şħǿŭŀḓ ƀḗ ŧħḗ ŀȧŧḗşŧ "
+"ḓȧŧḗ ŧħȧŧ ŧħḗřḗ īş řḗŀḗȧşḗ īƞƒǿřḿȧŧīǿƞ īƞ ŧħīş ƥȧƈķȧɠḗ."
 
-#. /definitions/Implementation/title
-#. /definitions/Contract/properties/implementation/title
+#. /properties/tag/description
 #: schema/release-schema.json:1
-msgid "Implementation"
-msgstr ""
-
-#. /definitions/Implementation/properties/milestones/description
-#: schema/release-schema.json:1
-msgid ""
-"As milestones are completed, milestone completions should be documented."
-msgstr ""
-
-#. /definitions/Implementation/properties/documents/description
-#: schema/release-schema.json:1
-msgid ""
-"Documents and reports that are part of the implementation phase e.g. audit "
-"and evaluation reports."
-msgstr ""
-
-#. /definitions/Implementation/properties/transactions/description
-#: schema/release-schema.json:1
-msgid "A list of the spending transactions made against this contract"
-msgstr ""
-
-#. /definitions/Implementation/description
-#: schema/release-schema.json:1
-msgid ""
-"Information during the performance / implementation stage of the contract."
-msgstr ""
-
-#. /definitions/Planning/title
-#. /properties/planning/title
-#: schema/release-schema.json:1
-msgid "Planning"
-msgstr ""
-
-#. /definitions/Planning/properties/rationale/description
-#: schema/release-schema.json:1
-msgid ""
-"The rationale for the procurement provided in free text. More detail can be "
-"provided in an attached document."
-msgstr ""
-
-#. /definitions/Planning/properties/documents/description
-#: schema/release-schema.json:1
-msgid "A list of documents related to the planning process."
-msgstr ""
-
-#. /definitions/Planning/description
-#: schema/release-schema.json:1
-msgid ""
-"Information from the planning phase of the contracting process. Note that "
-"many other fields may be filled in a planning release, in the appropriate "
-"fields in other schema sections, these would likely be estimates at this "
-"stage e.g. totalValue in tender"
-msgstr ""
-
-#. /definitions/Period/title
-#: schema/release-schema.json:1
-msgid "Period"
-msgstr ""
-
-#. /definitions/Period/properties/startDate/description
-#: schema/release-schema.json:1
-msgid "The start date for the period."
-msgstr ""
-
-#. /definitions/Period/properties/endDate/description
-#: schema/release-schema.json:1
-msgid "The end date for the period."
-msgstr ""
-
-#. /definitions/Contract/title
-#: schema/release-schema.json:1
-msgid "Contract"
-msgstr ""
-
-#. /definitions/Contract/description
-#: schema/release-schema.json:1
-msgid ""
-"Information regarding the signed contract between the buyer and supplier(s)."
-msgstr ""
-
-#. /definitions/Contract/properties/title/description
-#: schema/release-schema.json:1
-msgid "Contract title"
-msgstr ""
-
-#. /definitions/Contract/properties/description/description
-#: schema/release-schema.json:1
-msgid "Contract description"
-msgstr ""
-
-#. /definitions/Contract/properties/value/description
-#: schema/release-schema.json:1
-msgid "The total value of this contract."
-msgstr ""
-
-#. /definitions/Contract/properties/id/title
-#: schema/release-schema.json:1
-msgid "Contract ID"
-msgstr ""
-
-#. /definitions/Contract/properties/id/description
-#: schema/release-schema.json:1
-msgid ""
-"The identifier for this contract. It must be unique and cannot change within"
-" its Open Contracting Process (defined by a single ocid). See the "
-"[identifier guidance](http://standard.open-"
-"contracting.org/latest/en/schema/identifiers/) for further details."
-msgstr ""
-
-#. /definitions/Contract/properties/items/description
-#: schema/release-schema.json:1
-msgid ""
-"The goods, services, and any intangible outcomes in this contract. Note: If "
-"the items are the same as the award do not repeat."
-msgstr ""
-
-#. /definitions/Contract/properties/items/title
-#: schema/release-schema.json:1
-msgid "Items Contracted"
-msgstr ""
-
-#. /definitions/Contract/properties/dateSigned/description
-#: schema/release-schema.json:1
-msgid ""
-"The date the contract was signed. In the case of multiple signatures, the "
-"date of the last signature."
-msgstr ""
-
-#. /definitions/Contract/properties/awardID/title
-#. /definitions/Award/properties/id/title
-#: schema/release-schema.json:1
-msgid "Award ID"
-msgstr ""
-
-#. /definitions/Contract/properties/awardID/description
-#: schema/release-schema.json:1
-msgid "The award.id against which this contract is being issued."
-msgstr ""
-
-#. /definitions/Contract/properties/period/description
-#: schema/release-schema.json:1
-msgid "The start and end date for the contract."
-msgstr ""
-
-#. /definitions/Contract/properties/status/title
-#: schema/release-schema.json:1
-msgid "Contract Status"
-msgstr ""
-
-#. /definitions/Contract/properties/status/description
-#: schema/release-schema.json:1
-msgid ""
-"The current status of the contract. Drawn from the [contractStatus "
-"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
-"/#contract-status)"
-msgstr ""
-
-#. /definitions/Contract/properties/implementation/description
-#: schema/release-schema.json:1
-msgid ""
-"Information related to the implementation of the contract in accordance with"
-" the obligations laid out therein."
-msgstr ""
-
-#. /definitions/Contract/properties/documents/description
-#: schema/release-schema.json:1
-msgid ""
-"All documents and attachments related to the contract, including any "
-"notices."
-msgstr ""
-
-#. /definitions/Identifier/properties/uri/description
-#: schema/release-schema.json:1
-msgid ""
-"A URI to identify the organization, such as those provided by [Open "
-"Corporates](http://www.opencorporates.com) or some other relevant URI "
-"provider. This is not for listing the website of the organization: that can "
-"be done through the url field of the Organization contact point."
-msgstr ""
-
-#. /definitions/Identifier/properties/legalName/description
-#: schema/release-schema.json:1
-msgid "The legally registered name of the organization."
-msgstr ""
-
-#. /definitions/Identifier/properties/scheme/description
-#: schema/release-schema.json:1
-msgid ""
-"Organization identifiers be drawn from an existing identification scheme. "
-"This field is used to indicate the scheme or codelist in which the "
-"identifier will be found. This value should be drawn from the [Organization "
-"Identifier Scheme](http://standard.open-"
-"contracting.org/latest/en/schema/codelists/#organization-identifier-scheme)."
-msgstr ""
-
-#. /definitions/Identifier/properties/id/description
-#: schema/release-schema.json:1
-msgid "The identifier of the organization in the selected scheme."
-msgstr ""
-
-#. /definitions/Transaction/title
-#: schema/release-schema.json:1
-msgid "Transaction Information"
-msgstr ""
-
-#. /definitions/Transaction/properties/date/description
-#: schema/release-schema.json:1
-msgid "The date of the transaction"
-msgstr ""
-
-#. /definitions/Transaction/properties/providerOrganization/description
-#: schema/release-schema.json:1
-msgid ""
-"The Organization Identifier for the organization from which the funds in "
-"this transaction originate. Expressed following the Organizational "
-"Identifier standard - consult the documentation and the codelist."
-msgstr ""
-
-#. /definitions/Transaction/properties/amount/description
-#: schema/release-schema.json:1
-msgid "The value of the transaction."
-msgstr ""
-
-#. /definitions/Transaction/properties/uri/title
-#: schema/release-schema.json:1
-msgid "Linked spending information"
-msgstr ""
-
-#. /definitions/Transaction/properties/uri/description
-#: schema/release-schema.json:1
-msgid ""
-"A URI pointing directly to a machine-readable record about this spending "
-"transaction."
-msgstr ""
-
-#. /definitions/Transaction/properties/receiverOrganization/description
-#: schema/release-schema.json:1
-msgid ""
-"The Organization Identifier for the organization which receives the funds in"
-" this transaction. Expressed following the Organizational Identifier "
-"standard - consult the documentation and the codelist."
-msgstr ""
-
-#. /definitions/Transaction/properties/id/description
-#: schema/release-schema.json:1
-msgid ""
-"A unique identifier for this transaction. This identifier should be possible"
-" to cross-reference against the provided data source. For the budget data "
-"package this is the id, for IATI, the transaction reference."
-msgstr ""
-
-#. /definitions/Transaction/properties/source/title
-#. /definitions/Budget/properties/source/title
-#: schema/release-schema.json:1
-msgid "Data Source"
-msgstr ""
-
-#. /definitions/Transaction/properties/source/description
-#: schema/release-schema.json:1
-msgid ""
-"Used to point either to a corresponding Budget Data Package, IATI file, or "
-"machine or human-readable source where users can find further information on"
-" the budget line item identifiers, or project identifiers, provided here."
-msgstr ""
-
-#. /definitions/Transaction/description
-#: schema/release-schema.json:1
-msgid ""
-"A spending transaction related to the contracting process. Draws upon the "
-"data models of the [Budget Data Package](https://github.com/openspending"
-"/budget-data-package/blob/master/specification.md) and the [International "
-"Aid Transpareny Initiative](http://iatistandard.org/activity-standard/iati-"
-"activities/iati-activity/transaction/) and should be used to cross-reference"
-" to more detailed information held using a Budget Data Package, IATI file, "
-"or to provide enough information to allow a user to manually or "
-"automatically cross-reference with some other published source of "
-"transactional spending data."
-msgstr ""
-
-#. /definitions/Budget/title
-#: schema/release-schema.json:1
-msgid "Budget Information"
-msgstr ""
-
-#. /definitions/Budget/properties/source/description
-#: schema/release-schema.json:1
-msgid ""
-"Used to point either to a corresponding Budget Data Package, or to a machine"
-" or human-readable source where users can find further information on the "
-"budget line item identifiers, or project identifiers, provided here."
-msgstr ""
-
-#. /definitions/Budget/properties/projectID/title
-#: schema/release-schema.json:1
-msgid "Project Identifier"
-msgstr ""
-
-#. /definitions/Budget/properties/projectID/description
-#: schema/release-schema.json:1
-msgid ""
-"An external identifier for the project that this contracting process forms "
-"part of, or is funded via (if applicable). Some organizations maintain a "
-"registry of projects, and the data should use the identifier from the "
-"relevant registry of projects."
-msgstr ""
-
-#. /definitions/Budget/properties/amount/description
-#: schema/release-schema.json:1
-msgid "The value of the budget line item."
-msgstr ""
-
-#. /definitions/Budget/properties/uri/title
-#: schema/release-schema.json:1
-msgid "Linked budget information"
-msgstr ""
-
-#. /definitions/Budget/properties/uri/description
-#: schema/release-schema.json:1
-msgid ""
-"A URI pointing directly to a machine-readable record about the related "
-"budget or projects for this contracting process."
-msgstr ""
-
-#. /definitions/Budget/properties/description/title
-#: schema/release-schema.json:1
-msgid "Budget Source"
-msgstr ""
-
-#. /definitions/Budget/properties/description/description
-#: schema/release-schema.json:1
-msgid ""
-"A short free text description of the budget source. May be used to provide "
-"the title of the budget line, or the programme used to fund this project."
-msgstr ""
-
-#. /definitions/Budget/properties/id/description
-#: schema/release-schema.json:1
-msgid ""
-"An identifier for the budget line item which provides funds for this "
-"contracting process. This identifier should be possible to cross-reference "
-"against the provided data source."
-msgstr ""
-
-#. /definitions/Budget/properties/project/title
-#: schema/release-schema.json:1
-msgid "Project Title"
-msgstr ""
-
-#. /definitions/Budget/properties/project/description
-#: schema/release-schema.json:1
-msgid ""
-"The name of the project that through which this contracting process is "
-"funded (if applicable). Some organizations maintain a registry of projects, "
-"and the data should use the name by which the project is known in that "
-"registry. No translation option is offered for this string, as translated "
-"values can be provided in third-party data, linked from the data source "
-"above."
-msgstr ""
-
-#. /definitions/Budget/description
-#: schema/release-schema.json:1
-msgid ""
-"This section contain information about the budget line, and associated "
-"projects, through which this contracting process is funded. It draws upon "
-"data model of the [Budget Data Package](https://github.com/openspending"
-"/budget-data-package/blob/master/specification.md), and should be used to "
-"cross-reference to more detailed information held using a Budget Data "
-"Package, or, where no linked Budget Data Package is available, to provide "
-"enough information to allow a user to manually or automatically cross-"
-"reference with another published source of budget and project information."
-msgstr ""
-
-#. /definitions/Value/properties/currency/description
-#: schema/release-schema.json:1
-msgid "The currency in 3-letter ISO 4217 format."
-msgstr ""
-
-#. /definitions/Value/properties/amount/description
-#: schema/release-schema.json:1
-msgid "Amount as a number."
-msgstr ""
-
-#. /definitions/Address/properties/countryName/description
-#: schema/release-schema.json:1
-msgid "The country name. For example, United States."
-msgstr ""
-
-#. /definitions/Address/properties/locality/description
-#: schema/release-schema.json:1
-msgid "The locality. For example, Mountain View."
-msgstr ""
-
-#. /definitions/Address/properties/streetAddress/description
-#: schema/release-schema.json:1
-msgid "The street address. For example, 1600 Amphitheatre Pkwy."
-msgstr ""
-
-#. /definitions/Address/properties/postalCode/description
-#: schema/release-schema.json:1
-msgid "The postal code. For example, 94043."
-msgstr ""
-
-#. /definitions/Address/properties/region/description
-#: schema/release-schema.json:1
-msgid "The region. For example, CA."
-msgstr ""
-
-#. /definitions/Address/description
-#: schema/release-schema.json:1
-msgid ""
-"An address. This may be the legally registered address of the organization, "
-"or may be a correspondence address for this particular contracting process."
-msgstr ""
-
-#. /definitions/Classification/properties/uri/description
-#: schema/release-schema.json:1
-msgid ""
-"A URI to identify the code. In the event individual URIs are not available "
-"for items in the identifier scheme this value should be left blank."
-msgstr ""
-
-#. /definitions/Classification/properties/description/description
-#: schema/release-schema.json:1
-msgid "A textual description or title for the code."
-msgstr ""
-
-#. /definitions/Classification/properties/scheme/description
-#: schema/release-schema.json:1
-msgid ""
-"An classification should be drawn from an existing scheme or list of codes. "
-"This field is used to indicate the scheme/codelist from which the "
-"classification is drawn. For line item classifications, this value should "
-"represent an known [Item Classification Scheme](http://standard.open-"
-"contracting.org/latest/en/schema/codelists/#item-classification-scheme) "
-"wherever possible."
-msgstr ""
-
-#. /definitions/Classification/properties/id/description
-#: schema/release-schema.json:1
-msgid "The classification code drawn from the selected scheme."
-msgstr ""
-
-#. /definitions/Document/title
-#: schema/release-schema.json:1
-msgid "Document"
-msgstr ""
-
-#. /definitions/Document/description
-#: schema/release-schema.json:1
-msgid ""
-"Links to, or descriptions of, external documents can be attached at various "
-"locations within the standard. Documents may be supporting information, "
-"formal notices, downloadable forms, or any other kind of resource that "
-"should be made public as part of full open contracting."
-msgstr ""
-
-#. /definitions/Document/properties/language/description
-#: schema/release-schema.json:1
-msgid ""
-"Specifies the language of the linked document using either two-digit [ISO "
-"639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), or extended "
-"[BCP47 language tags](http://www.w3.org/International/articles/language-"
-"tags/). The use of two-letter codes from [ISO "
-"639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) is strongly "
-"recommended unless there is a clear user need for distinguishing the "
-"language subtype."
-msgstr ""
-
-#. /definitions/Document/properties/title/description
-#: schema/release-schema.json:1
-msgid "The document title."
-msgstr ""
-
-#. /definitions/Document/properties/datePublished/description
-#: schema/release-schema.json:1
-msgid ""
-"The date on which the document was first published. This is particularly "
-"important for legally important documents such as notices of a tender."
-msgstr ""
-
-#. /definitions/Document/properties/description/description
-#: schema/release-schema.json:1
-msgid ""
-"A short description of the document. We recommend descriptions do not exceed"
-" 250 words. In the event the document is not accessible online, the "
-"description field can be used to describe arrangements for obtaining a copy "
-"of the document."
-msgstr ""
-
-#. /definitions/Document/properties/dateModified/description
-#: schema/release-schema.json:1
-msgid "Date that the document was last modified"
-msgstr ""
-
-#. /definitions/Document/properties/id/description
-#: schema/release-schema.json:1
-msgid ""
-"A local, unique identifier for this document. This field is used to keep "
-"track of multiple revisions of a document through the compilation from "
-"release to record mechanism."
-msgstr ""
-
-#. /definitions/Document/properties/documentType/description
-#: schema/release-schema.json:1
-msgid ""
-"A classification of the document described taken from the [documentType "
-"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
-"/#document-type). Values from the provided codelist should be used wherever "
-"possible, though extended values can be provided if the codelist does not "
-"have a relevant code."
-msgstr ""
-
-#. /definitions/Document/properties/format/description
-#: schema/release-schema.json:1
-msgid ""
-"The format of the document taken from the [IANA Media Types code "
-"list](http://www.iana.org/assignments/media-types/), with the addition of "
-"one extra value for 'offline/print', used when this document entry is being "
-"used to describe the offline publication of a document. Use values from the "
-"template column. Links to web pages should be tagged 'text/html'."
-msgstr ""
-
-#. /definitions/Document/properties/url/description
-#: schema/release-schema.json:1
-msgid ""
-" direct link to the document or attachment. The server providing access to "
-"this document should be configured to correctly report the document mime "
-"type."
-msgstr ""
-
-#. /definitions/ContactPoint/properties/name/description
-#: schema/release-schema.json:1
-msgid ""
-"The name of the contact person, department, or contact point, for "
-"correspondence relating to this contracting process."
-msgstr ""
-
-#. /definitions/ContactPoint/properties/email/description
-#: schema/release-schema.json:1
-msgid "The e-mail address of the contact point/person."
-msgstr ""
-
-#. /definitions/ContactPoint/properties/faxNumber/description
-#: schema/release-schema.json:1
-msgid ""
-"The fax number of the contact point/person. This should include the "
-"international dialling code."
-msgstr ""
-
-#. /definitions/ContactPoint/properties/url/description
-#: schema/release-schema.json:1
-msgid "A web address for the contact point/person."
-msgstr ""
-
-#. /definitions/ContactPoint/properties/telephone/description
-#: schema/release-schema.json:1
-msgid ""
-"The telephone number of the contact point/person. This should include the "
-"international dialling code."
-msgstr ""
-
-#. /definitions/ContactPoint/description
-#: schema/release-schema.json:1
-msgid ""
-"An person, contact point or department to contact in relation to this "
-"contracting process."
-msgstr ""
-
-#. /definitions/Item/properties/classification/description
-#: schema/release-schema.json:1
-msgid ""
-"The primary classification for the item. See the "
-"[itemClassificationScheme](http://standard.open-"
-"contracting.org/latest/en/schema/codelists/#item-classification-scheme) to "
-"identify preferred classification lists, including CPV and GSIN."
-msgstr ""
-
-#. /definitions/Item/properties/description/description
-#: schema/release-schema.json:1
-msgid "A description of the goods, services to be provided."
-msgstr ""
-
-#. /definitions/Item/properties/additionalClassifications/description
-#: schema/release-schema.json:1
-msgid ""
-"An array of additional classifications for the item. See the "
-"[itemClassificationScheme](http://standard.open-"
-"contracting.org/latest/en/schema/codelists/#item-classification-scheme) "
-"codelist for common options to use in OCDS. This may also be used to present"
-" codes from an internal classification scheme."
-msgstr ""
-
-#. /definitions/Item/properties/quantity/description
-#: schema/release-schema.json:1
-msgid "The number of units required"
-msgstr ""
-
-#. /definitions/Item/properties/unit/properties/name/description
-#: schema/release-schema.json:1
-msgid "Name of the unit"
-msgstr ""
-
-#. /definitions/Item/properties/unit/properties/value/description
-#: schema/release-schema.json:1
-msgid "The monetary value of a single unit."
-msgstr ""
-
-#. /definitions/Item/properties/unit/description
-#: schema/release-schema.json:1
-msgid ""
-"Description of the unit which the good comes in e.g. hours, kilograms. Made "
-"up of a unit name, and the value of a single unit."
-msgstr ""
-
-#. /definitions/Item/properties/id/description
-#: schema/release-schema.json:1
-msgid ""
-"A local identifier to reference and merge the items by. Must be unique "
-"within a given array of items."
-msgstr ""
-
-#. /definitions/Item/description
-#: schema/release-schema.json:1
-msgid "A good, service, or work to be contracted."
-msgstr ""
-
-#. /definitions/Tender/title
-#. /properties/tender/title
-#: schema/release-schema.json:1
-msgid "Tender"
-msgstr ""
-
-#. /definitions/Tender/description
-#: schema/release-schema.json:1
-msgid ""
-"Data regarding tender process - publicly inviting prospective contractors to"
-" submit bids for evaluation and selecting a winner or winners."
-msgstr ""
-
-#. /definitions/Tender/properties/title/description
-#: schema/release-schema.json:1
-msgid "Tender title"
-msgstr ""
-
-#. /definitions/Tender/properties/hasEnquiries/description
-#: schema/release-schema.json:1
-msgid ""
-"A Yes/No field to indicate whether enquiries were part of tender process."
-msgstr ""
-
-#. /definitions/Tender/properties/submissionMethod/description
-#: schema/release-schema.json:1
-msgid ""
-"Specify the method by which bids must be submitted, in person, written, or "
-"electronic auction. Using the [submission method codelist](http://standard"
-".open-contracting.org/latest/en/schema/codelists/#submission-method)"
-msgstr ""
-
-#. /definitions/Tender/properties/submissionMethodDetails/description
-#: schema/release-schema.json:1
-msgid ""
-"Any detailed or further information on the submission method. This may "
-"include the address, e-mail address or online service to which bids should "
-"be submitted, and any special requirements to be followed for submissions."
-msgstr ""
-
-#. /definitions/Tender/properties/value/description
-#: schema/release-schema.json:1
-msgid "The total upper estimated value of the procurement."
-msgstr ""
-
-#. /definitions/Tender/properties/procurementMethodRationale/description
-#: schema/release-schema.json:1
-msgid ""
-"Rationale of procurement method, especially in the case of Limited "
-"tendering."
-msgstr ""
-
-#. /definitions/Tender/properties/awardCriteriaDetails/description
-#: schema/release-schema.json:1
-msgid ""
-"Any detailed or further information on the award or selection criteria."
-msgstr ""
-
-#. /definitions/Tender/properties/tenderPeriod/description
-#: schema/release-schema.json:1
-msgid ""
-"The period when the tender is open for submissions. The end date is the "
-"closing date for tender submissions."
-msgstr ""
-
-#. /definitions/Tender/properties/id/title
-#: schema/release-schema.json:1
-msgid "Tender ID"
-msgstr ""
-
-#. /definitions/Tender/properties/id/description
-#: schema/release-schema.json:1
-msgid ""
-"An identifier for this tender process. This may be the same as the ocid, or "
-"may be drawn from an internally held identifier for this tender."
-msgstr ""
-
-#. /definitions/Tender/properties/awardPeriod/description
-#: schema/release-schema.json:1
-msgid "The date or period on which an award is anticipated to be made."
-msgstr ""
-
-#. /definitions/Tender/properties/minValue/description
-#: schema/release-schema.json:1
-msgid "The minimum estimated value of the procurement."
-msgstr ""
-
-#. /definitions/Tender/properties/status/title
-#: schema/release-schema.json:1
-msgid "Tender Status"
-msgstr ""
-
-#. /definitions/Tender/properties/status/description
-#: schema/release-schema.json:1
-msgid ""
-"The current status of the tender based on the [tenderStatus "
-"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
-"/#tender-status)"
-msgstr ""
-
-#. /definitions/Tender/properties/awardCriteria/description
-#: schema/release-schema.json:1
-msgid ""
-"Specify the award criteria for the procurement, using the [award criteria "
-"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
-"/#award-criteria)"
-msgstr ""
-
-#. /definitions/Tender/properties/description/description
-#: schema/release-schema.json:1
-msgid "Tender description"
-msgstr ""
-
-#. /definitions/Tender/properties/items/title
-#: schema/release-schema.json:1
-msgid "Items to be procured"
-msgstr ""
-
-#. /definitions/Tender/properties/items/description
-#: schema/release-schema.json:1
-msgid ""
-"The goods and services to be purchased, broken into line items wherever "
-"possible. Items should not be duplicated, but a quantity of 2 specified "
-"instead."
-msgstr ""
-
-#. /definitions/Tender/properties/procuringEntity/description
-#: schema/release-schema.json:1
-msgid ""
-"The entity managing the procurement, which may be different from the buyer "
-"who is paying / using the items being procured."
-msgstr ""
-
-#. /definitions/Tender/properties/procurementMethod/description
-#: schema/release-schema.json:1
-msgid ""
-"Specify tendering method against the [method codelist](http://standard.open-"
-"contracting.org/latest/en/schema/codelists/#method) as per [GPA "
-"definitions](http://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm) "
-"of Open, Selective, Limited"
-msgstr ""
-
-#. /definitions/Tender/properties/eligibilityCriteria/description
-#: schema/release-schema.json:1
-msgid "A description of any eligibility criteria for potential suppliers."
-msgstr ""
-
-#. /definitions/Tender/properties/tenderers/description
-#: schema/release-schema.json:1
-msgid "All entities who submit a tender."
-msgstr ""
-
-#. /definitions/Tender/properties/milestones/description
-#: schema/release-schema.json:1
-msgid "A list of milestones associated with the tender."
-msgstr ""
-
-#. /definitions/Tender/properties/documents/description
-#: schema/release-schema.json:1
-msgid ""
-"All documents and attachments related to the tender, including any notices. "
-"See the [documentType codelist](http://standard.open-"
-"contracting.org/latest/en/schema/codelists/#document-type) for details of "
-"potential documents to include."
-msgstr ""
-
-#. /definitions/Tender/properties/enquiryPeriod/description
-#: schema/release-schema.json:1
-msgid "The period during which enquiries may be made and answered."
-msgstr ""
-
-#. /definitions/Amendment/title
-#: schema/release-schema.json:1
-msgid "Amendment information"
-msgstr ""
-
-#. /definitions/Amendment/properties/date/title
-#: schema/release-schema.json:1
-msgid "Amendment Date"
-msgstr ""
-
-#. /definitions/Amendment/properties/date/description
-#: schema/release-schema.json:1
-msgid "The data of this amendment."
-msgstr ""
-
-#. /definitions/Amendment/properties/rationale/description
-#: schema/release-schema.json:1
-msgid "An explanation for the amendment."
-msgstr ""
-
-#. /definitions/Amendment/properties/changes/items/properties/property/description
-#. /definitions/Amendment/properties/changes/items/properties/value/items/properties/property/description
-#: schema/release-schema.json:1
-#: schema/versioned-release-validation-schema.json:1
-msgid ""
-"The property name that has been changed relative to the place the amendment "
-"is. For example if the contract value has changed, then the property under "
-"changes within the contract.amendment would be value.amount. "
-msgstr ""
-
-#. /definitions/Amendment/properties/changes/items/properties/former_value/description
-#. /definitions/Amendment/properties/changes/items/properties/value/items/properties/former_value/description
-#: schema/release-schema.json:1
-#: schema/versioned-release-validation-schema.json:1
-msgid ""
-"The previous value of the changed property, in whatever type the property "
-"is."
-msgstr ""
-
-#. /definitions/Amendment/properties/changes/title
-#: schema/release-schema.json:1
-msgid "Amended fields"
-msgstr ""
-
-#. /definitions/Amendment/properties/changes/description
-#: schema/release-schema.json:1
-msgid "Comma-seperated list of affected fields."
-msgstr ""
-
-#. /definitions/Organization/title
-#: schema/release-schema.json:1
-msgid "Organization"
-msgstr ""
-
-#. /definitions/Organization/properties/name/description
-#: schema/release-schema.json:1
-msgid ""
-"The common name of the organization. The ID property provides an space for "
-"the formal legal name, and so this may either repeat that value, or could "
-"provide the common name by which this organization is known. This field "
-"could also include details of the department or sub-unit involved in this "
-"contracting process."
-msgstr ""
-
-#. /definitions/Organization/properties/additionalIdentifiers/description
-#: schema/release-schema.json:1
-msgid ""
-"A list of additional / supplemental identifiers for the organization, using "
-"the [organization identifier guidance](http://standard.open-"
-"contracting.org/latest/en/schema/identifiers/). This could be used to "
-"provide an internally used identifier for this organization in addition to "
-"the primary legal entity identifier."
-msgstr ""
-
-#. /definitions/Organization/properties/identifier/description
-#: schema/release-schema.json:1
-msgid ""
-"The primary identifier for this organization. Identifiers that uniquely pick"
-" out a legal entity should be preferred. Consult the [organization "
-"identifier guidance](http://standard.open-"
-"contracting.org/latest/en/schema/identifiers/) for the preferred scheme and "
-"identifier to use."
-msgstr ""
-
-#. /definitions/Organization/description
-#: schema/release-schema.json:1
-msgid "An organization."
-msgstr ""
-
-#. /definitions/Award/title
-#: schema/release-schema.json:1
-msgid "Award"
-msgstr ""
-
-#. /definitions/Award/description
-#: schema/release-schema.json:1
-msgid ""
-"An award for the given procurement. There may be more than one award per "
-"contracting process e.g. because the contract is split amongst different "
-"providers, or because it is a standing offer."
-msgstr ""
-
-#. /definitions/Award/properties/documents/description
-#: schema/release-schema.json:1
-msgid ""
-"All documents and attachments related to the award, including any notices."
-msgstr ""
-
-#. /definitions/Award/properties/date/title
-#: schema/release-schema.json:1
-msgid "Award date"
-msgstr ""
-
-#. /definitions/Award/properties/date/description
-#: schema/release-schema.json:1
-msgid ""
-"The date of the contract award. This is usually the date on which a decision"
-" to award was made."
-msgstr ""
-
-#. /definitions/Award/properties/items/description
-#: schema/release-schema.json:1
-msgid ""
-"The goods and services awarded in this award, broken into line items "
-"wherever possible. Items should not be duplicated, but the quantity "
-"specified instead."
-msgstr ""
-
-#. /definitions/Award/properties/items/title
-#: schema/release-schema.json:1
-msgid "Items Awarded"
-msgstr ""
-
-#. /definitions/Award/properties/suppliers/description
-#: schema/release-schema.json:1
-msgid ""
-"The suppliers awarded this award. If different suppliers have been awarded "
-"different items of values, these should be split into separate award blocks."
-msgstr ""
-
-#. /definitions/Award/properties/title/description
-#: schema/release-schema.json:1
-msgid "Award title"
-msgstr ""
-
-#. /definitions/Award/properties/description/description
-#: schema/release-schema.json:1
-msgid "Award description"
-msgstr ""
-
-#. /definitions/Award/properties/status/title
-#: schema/release-schema.json:1
-msgid "Award Status"
-msgstr ""
-
-#. /definitions/Award/properties/status/description
-#: schema/release-schema.json:1
-msgid ""
-"The current status of the award drawn from the [awardStatus "
-"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
-"/#award-status)"
-msgstr ""
-
-#. /definitions/Award/properties/value/description
-#: schema/release-schema.json:1
-msgid ""
-"The total value of this award. In the case of a framework contract this may "
-"be the total estimated lifetime value, or maximum value, of the agreement. "
-"There may be more than one award per procurement."
-msgstr ""
-
-#. /definitions/Award/properties/contractPeriod/description
-#: schema/release-schema.json:1
-msgid "The period for which the contract has been awarded."
-msgstr ""
-
-#. /definitions/Award/properties/id/description
-#: schema/release-schema.json:1
-msgid ""
-"The identifier for this award. It must be unique and cannot change within "
-"the Open Contracting Process it is part of (defined by a single ocid). See "
-"the [identifier guidance](http://standard.open-"
-"contracting.org/latest/en/schema/identifiers/) for further details."
-msgstr ""
-
-#. /definitions/Milestone/properties/status/description
-#: schema/release-schema.json:1
-msgid ""
-"The status that was realized on the date provided in dateModified, drawn "
-"from the [milestoneStatus codelist](http://standard.open-"
-"contracting.org/latest/en/schema/codelists/#milestone-status)."
-msgstr ""
-
-#. /definitions/Milestone/properties/dateModified/description
-#: schema/release-schema.json:1
 msgid ""
-"The date the milestone was last reviewed or modified and the status was "
-"altered or confirmed to still be correct."
+"A value from the [releaseTag codelist](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#release-tag) that identifies "
+"the nature of the release being made. Tags may be used to filter release,"
+" or, in future, for for advanced validation when certain kinds of "
+"releases should contain certain fields."
 msgstr ""
+"Ȧ ṽȧŀŭḗ ƒřǿḿ ŧħḗ [řḗŀḗȧşḗŦȧɠ ƈǿḓḗŀīşŧ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#release-tag) ŧħȧŧ īḓḗƞŧīƒīḗş ŧħḗ "
+"ƞȧŧŭřḗ ǿƒ ŧħḗ řḗŀḗȧşḗ ƀḗīƞɠ ḿȧḓḗ. Ŧȧɠş ḿȧẏ ƀḗ ŭşḗḓ ŧǿ ƒīŀŧḗř řḗŀḗȧşḗ, ǿř, īƞ "
+"ƒŭŧŭřḗ, ƒǿř ƒǿř ȧḓṽȧƞƈḗḓ ṽȧŀīḓȧŧīǿƞ ẇħḗƞ ƈḗřŧȧīƞ ķīƞḓş ǿƒ řḗŀḗȧşḗş şħǿŭŀḓ "
+"ƈǿƞŧȧīƞ ƈḗřŧȧīƞ ƒīḗŀḓş."
 
-#. /definitions/Milestone/properties/description/description
+#. /properties/tag/title
 #: schema/release-schema.json:1
-msgid "A description of the milestone."
-msgstr ""
-
-#. /definitions/Milestone/properties/id/description
-#: schema/release-schema.json:1
-msgid ""
-"A local identifier for this milestone, unique within this block. This field "
-"is used to keep track of multiple revisions of a milestone through the "
-"compilation from release to record mechanism."
-msgstr ""
-
-#. /definitions/Milestone/properties/documents/description
-#: schema/release-schema.json:1
-msgid "List of documents associated with this milestone."
-msgstr ""
-
-#. /definitions/Milestone/properties/dueDate/description
-#: schema/release-schema.json:1
-msgid "The date the milestone is due."
-msgstr ""
-
-#. /definitions/Milestone/properties/title/description
-#: schema/release-schema.json:1
-msgid "Milestone title"
-msgstr ""
-
-#. /title
-#: schema/release-schema.json:1
-msgid "Schema for an Open Contracting Release"
-msgstr ""
+msgid "Release Tag"
+msgstr "Řḗŀḗȧşḗ Ŧȧɠ"
 
 #. /properties/planning/description
 #: schema/release-schema.json:1
@@ -1245,81 +266,114 @@ msgid ""
 "includes information related to the process of deciding what to contract "
 "for, when and how."
 msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ ƒřǿḿ ŧħḗ ƥŀȧƞƞīƞɠ ƥħȧşḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ŧħīş "
+"īƞƈŀŭḓḗş īƞƒǿřḿȧŧīǿƞ řḗŀȧŧḗḓ ŧǿ ŧħḗ ƥřǿƈḗşş ǿƒ ḓḗƈīḓīƞɠ ẇħȧŧ ŧǿ ƈǿƞŧřȧƈŧ "
+"ƒǿř, ẇħḗƞ ȧƞḓ ħǿẇ."
 
-#. /properties/date/title
+#. /properties/planning/title
+#. /definitions/Planning/title
 #: schema/release-schema.json:1
-msgid "Release Date"
-msgstr ""
+msgid "Planning"
+msgstr "Ƥŀȧƞƞīƞɠ"
 
 #. /properties/date/description
 #: schema/release-schema.json:1
 msgid ""
-"The date this information is released, it may well be the same as the parent"
-" publishedDate, it must not be later than the publishedDate from the parent "
-"package. It is used to determine merge order."
+"The date this information is released, it may well be the same as the "
+"parent publishedDate, it must not be later than the publishedDate from "
+"the parent package. It is used to determine merge order."
 msgstr ""
+"Ŧħḗ ḓȧŧḗ ŧħīş īƞƒǿřḿȧŧīǿƞ īş řḗŀḗȧşḗḓ, īŧ ḿȧẏ ẇḗŀŀ ƀḗ ŧħḗ şȧḿḗ ȧş ŧħḗ ƥȧřḗƞŧ "
+"ƥŭƀŀīşħḗḓḒȧŧḗ, īŧ ḿŭşŧ ƞǿŧ ƀḗ ŀȧŧḗř ŧħȧƞ ŧħḗ ƥŭƀŀīşħḗḓḒȧŧḗ ƒřǿḿ ŧħḗ ƥȧřḗƞŧ "
+"ƥȧƈķȧɠḗ. Īŧ īş ŭşḗḓ ŧǿ ḓḗŧḗřḿīƞḗ ḿḗřɠḗ ǿřḓḗř."
 
-#. /properties/language/title
+#. /properties/date/title
 #: schema/release-schema.json:1
-msgid "Release language"
-msgstr ""
+msgid "Release Date"
+msgstr "Řḗŀḗȧşḗ Ḓȧŧḗ"
 
-#. /properties/language/description
-#: schema/release-schema.json:1
-msgid ""
-"Specifies the default language of the data using either two-digit ISO 639-1,"
-" or extended BCP47 language tags. The use of two-letter codes from ISO 639-1"
-" is strongly recommended."
-msgstr ""
-
-#. /properties/tag/title
-#: schema/release-schema.json:1
-msgid "Release Tag"
-msgstr ""
-
-#. /properties/tag/description
+#. /properties/id/description
 #: schema/release-schema.json:1
 msgid ""
-"A value from the [releaseTag codelist](http://standard.open-"
-"contracting.org/latest/en/schema/codelists/#release-tag) that identifies the"
-" nature of the release being made. Tags may be used to filter release, or, "
-"in future, for for advanced validation when certain kinds of releases should"
-" contain certain fields."
+"A unique identifier that identifies this release. A release ID must be "
+"unique within a release-package and must not contain the # character."
 msgstr ""
+"Ȧ ŭƞīɋŭḗ īḓḗƞŧīƒīḗř ŧħȧŧ īḓḗƞŧīƒīḗş ŧħīş řḗŀḗȧşḗ. Ȧ řḗŀḗȧşḗ ĪḒ ḿŭşŧ ƀḗ "
+"ŭƞīɋŭḗ ẇīŧħīƞ ȧ řḗŀḗȧşḗ-ƥȧƈķȧɠḗ ȧƞḓ ḿŭşŧ ƞǿŧ ƈǿƞŧȧīƞ ŧħḗ # ƈħȧřȧƈŧḗř."
 
-#. /properties/contracts/title
+#. /properties/id/title
 #: schema/release-schema.json:1
-msgid "Contracts"
-msgstr ""
-
-#. /properties/contracts/description
-#: schema/release-schema.json:1
-msgid ""
-"Information from the contract creation phase of the procurement process."
-msgstr ""
+msgid "Release ID"
+msgstr "Řḗŀḗȧşḗ ĪḒ"
 
 #. /properties/tender/description
 #: schema/release-schema.json:1
 msgid "The activities undertaken in order to enter into a contract."
-msgstr ""
+msgstr "Ŧħḗ ȧƈŧīṽīŧīḗş ŭƞḓḗřŧȧķḗƞ īƞ ǿřḓḗř ŧǿ ḗƞŧḗř īƞŧǿ ȧ ƈǿƞŧřȧƈŧ."
 
-#. /properties/awards/title
+#. /properties/tender/title
+#. /definitions/Tender/title
 #: schema/release-schema.json:1
-msgid "Awards"
+msgid "Tender"
+msgstr "Ŧḗƞḓḗř"
+
+#. /properties/ocid/description
+#: schema/release-schema.json:1
+#: schema/versioned-release-validation-schema.json:1
+msgid ""
+"A globally unique identifier for this Open Contracting Process. Composed "
+"of a publisher prefix and an identifier for the contracting process. For "
+"more information see the [Open Contracting Identifier "
+"guidance](http://standard.open-"
+"contracting.org/latest/en/schema/identifiers/)"
 msgstr ""
+"Ȧ ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ īḓḗƞŧīƒīḗř ƒǿř ŧħīş Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ƥřǿƈḗşş. Ƈǿḿƥǿşḗḓ ǿƒ "
+"ȧ ƥŭƀŀīşħḗř ƥřḗƒīẋ ȧƞḓ ȧƞ īḓḗƞŧīƒīḗř ƒǿř ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ƒǿř ḿǿřḗ "
+"īƞƒǿřḿȧŧīǿƞ şḗḗ ŧħḗ [Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Īḓḗƞŧīƒīḗř ɠŭīḓȧƞƈḗ](http://standard"
+".open-contracting.org/latest/en/schema/identifiers/)"
 
 #. /properties/awards/description
 #: schema/release-schema.json:1
 msgid ""
-"Information from the award phase of the contracting process. There may be "
-"more than one award per contracting process e.g. because the contract is "
-"split amongst different providers, or because it is a standing offer."
+"Information from the award phase of the contracting process. There may be"
+" more than one award per contracting process e.g. because the contract is"
+" split amongst different providers, or because it is a standing offer."
 msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ ƒřǿḿ ŧħḗ ȧẇȧřḓ ƥħȧşḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ŧħḗřḗ ḿȧẏ ƀḗ "
+"ḿǿřḗ ŧħȧƞ ǿƞḗ ȧẇȧřḓ ƥḗř ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ḗ.ɠ. ƀḗƈȧŭşḗ ŧħḗ ƈǿƞŧřȧƈŧ īş "
+"şƥŀīŧ ȧḿǿƞɠşŧ ḓīƒƒḗřḗƞŧ ƥřǿṽīḓḗřş, ǿř ƀḗƈȧŭşḗ īŧ īş ȧ şŧȧƞḓīƞɠ ǿƒƒḗř."
 
-#. /properties/initiationType/title
+#. /properties/awards/title
 #: schema/release-schema.json:1
-msgid "Initiation type"
+msgid "Awards"
+msgstr "Ȧẇȧřḓş"
+
+#. /properties/contracts/description
+#: schema/release-schema.json:1
+msgid "Information from the contract creation phase of the procurement process."
 msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ ƒřǿḿ ŧħḗ ƈǿƞŧřȧƈŧ ƈřḗȧŧīǿƞ ƥħȧşḗ ǿƒ ŧħḗ ƥřǿƈŭřḗḿḗƞŧ ƥřǿƈḗşş."
+
+#. /properties/contracts/title
+#: schema/release-schema.json:1
+msgid "Contracts"
+msgstr "Ƈǿƞŧřȧƈŧş"
+
+#. /properties/language/description
+#: schema/release-schema.json:1
+msgid ""
+"Specifies the default language of the data using either two-digit ISO "
+"639-1, or extended BCP47 language tags. The use of two-letter codes from "
+"ISO 639-1 is strongly recommended."
+msgstr ""
+"Şƥḗƈīƒīḗş ŧħḗ ḓḗƒȧŭŀŧ ŀȧƞɠŭȧɠḗ ǿƒ ŧħḗ ḓȧŧȧ ŭşīƞɠ ḗīŧħḗř ŧẇǿ-ḓīɠīŧ ĪŞǾ 639-1, "
+"ǿř ḗẋŧḗƞḓḗḓ ƁƇƤ47 ŀȧƞɠŭȧɠḗ ŧȧɠş. Ŧħḗ ŭşḗ ǿƒ ŧẇǿ-ŀḗŧŧḗř ƈǿḓḗş ƒřǿḿ ĪŞǾ 639-1 "
+"īş şŧřǿƞɠŀẏ řḗƈǿḿḿḗƞḓḗḓ."
+
+#. /properties/language/title
+#: schema/release-schema.json:1
+msgid "Release language"
+msgstr "Řḗŀḗȧşḗ ŀȧƞɠŭȧɠḗ"
 
 #. /properties/initiationType/description
 #: schema/release-schema.json:1
@@ -1329,65 +383,1313 @@ msgid ""
 "contracting.org/latest/en/schema/codelists/#initiation-type) codelist. "
 "Currently only tender is supported."
 msgstr ""
+"Şŧřīƞɠ şƥḗƈīƒẏīƞɠ ŧħḗ ŧẏƥḗ ǿƒ īƞīŧīȧŧīǿƞ ƥřǿƈḗşş ŭşḗḓ ƒǿř ŧħīş ƈǿƞŧřȧƈŧ, "
+"ŧȧķḗƞ ƒřǿḿ ŧħḗ [īƞīŧīȧŧīǿƞŦẏƥḗ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#initiation-type) ƈǿḓḗŀīşŧ. "
+"Ƈŭřřḗƞŧŀẏ ǿƞŀẏ ŧḗƞḓḗř īş şŭƥƥǿřŧḗḓ."
 
-#. /properties/buyer/title
+#. /properties/initiationType/title
 #: schema/release-schema.json:1
-msgid "Buyer"
-msgstr ""
+msgid "Initiation type"
+msgstr "Īƞīŧīȧŧīǿƞ ŧẏƥḗ"
 
 #. /properties/buyer/description
 #: schema/release-schema.json:1
 msgid ""
 "The buyer is the entity whose budget will be used to purchase the goods. "
-"This may be different from the procuring agency who may be specified in the "
-"tender data."
+"This may be different from the procuring agency who may be specified in "
+"the tender data."
 msgstr ""
+"Ŧħḗ ƀŭẏḗř īş ŧħḗ ḗƞŧīŧẏ ẇħǿşḗ ƀŭḓɠḗŧ ẇīŀŀ ƀḗ ŭşḗḓ ŧǿ ƥŭřƈħȧşḗ ŧħḗ ɠǿǿḓş. "
+"Ŧħīş ḿȧẏ ƀḗ ḓīƒƒḗřḗƞŧ ƒřǿḿ ŧħḗ ƥřǿƈŭřīƞɠ ȧɠḗƞƈẏ ẇħǿ ḿȧẏ ƀḗ şƥḗƈīƒīḗḓ īƞ ŧħḗ "
+"ŧḗƞḓḗř ḓȧŧȧ."
 
-#. /properties/ocid/description
+#. /properties/buyer/title
+#: schema/release-schema.json:1
+msgid "Buyer"
+msgstr "Ɓŭẏḗř"
+
+#. /title
+#: schema/release-schema.json:1
+msgid "Schema for an Open Contracting Release"
+msgstr "Şƈħḗḿȧ ƒǿř ȧƞ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Řḗŀḗȧşḗ"
+
+#. /definitions/Period/properties/endDate/description
+#: schema/release-schema.json:1
+msgid "The end date for the period."
+msgstr "Ŧħḗ ḗƞḓ ḓȧŧḗ ƒǿř ŧħḗ ƥḗřīǿḓ."
+
+#. /definitions/Period/properties/startDate/description
+#: schema/release-schema.json:1
+msgid "The start date for the period."
+msgstr "Ŧħḗ şŧȧřŧ ḓȧŧḗ ƒǿř ŧħḗ ƥḗřīǿḓ."
+
+#. /definitions/Period/title
+#: schema/release-schema.json:1
+msgid "Period"
+msgstr "Ƥḗřīǿḓ"
+
+#. /definitions/Tender/description
+#: schema/release-schema.json:1
+msgid ""
+"Data regarding tender process - publicly inviting prospective contractors"
+" to submit bids for evaluation and selecting a winner or winners."
+msgstr ""
+"Ḓȧŧȧ řḗɠȧřḓīƞɠ ŧḗƞḓḗř ƥřǿƈḗşş - ƥŭƀŀīƈŀẏ īƞṽīŧīƞɠ ƥřǿşƥḗƈŧīṽḗ ƈǿƞŧřȧƈŧǿřş ŧǿ "
+"şŭƀḿīŧ ƀīḓş ƒǿř ḗṽȧŀŭȧŧīǿƞ ȧƞḓ şḗŀḗƈŧīƞɠ ȧ ẇīƞƞḗř ǿř ẇīƞƞḗřş."
+
+#. /definitions/Tender/properties/enquiryPeriod/description
+#: schema/release-schema.json:1
+msgid "The period during which enquiries may be made and answered."
+msgstr "Ŧħḗ ƥḗřīǿḓ ḓŭřīƞɠ ẇħīƈħ ḗƞɋŭīřīḗş ḿȧẏ ƀḗ ḿȧḓḗ ȧƞḓ ȧƞşẇḗřḗḓ."
+
+#. /definitions/Tender/properties/minValue/description
+#: schema/release-schema.json:1
+msgid "The minimum estimated value of the procurement."
+msgstr "Ŧħḗ ḿīƞīḿŭḿ ḗşŧīḿȧŧḗḓ ṽȧŀŭḗ ǿƒ ŧħḗ ƥřǿƈŭřḗḿḗƞŧ."
+
+#. /definitions/Tender/properties/tenderPeriod/description
+#: schema/release-schema.json:1
+msgid ""
+"The period when the tender is open for submissions. The end date is the "
+"closing date for tender submissions."
+msgstr ""
+"Ŧħḗ ƥḗřīǿḓ ẇħḗƞ ŧħḗ ŧḗƞḓḗř īş ǿƥḗƞ ƒǿř şŭƀḿīşşīǿƞş. Ŧħḗ ḗƞḓ ḓȧŧḗ īş ŧħḗ "
+"ƈŀǿşīƞɠ ḓȧŧḗ ƒǿř ŧḗƞḓḗř şŭƀḿīşşīǿƞş."
+
+#. /definitions/Tender/properties/procurementMethod/description
+#: schema/release-schema.json:1
+msgid ""
+"Specify tendering method against the [method codelist](http://standard"
+".open-contracting.org/latest/en/schema/codelists/#method) as per [GPA "
+"definitions](http://www.wto.org/english/docs_e/legal_e/rev-gpr-"
+"94_01_e.htm) of Open, Selective, Limited"
+msgstr ""
+"Şƥḗƈīƒẏ ŧḗƞḓḗřīƞɠ ḿḗŧħǿḓ ȧɠȧīƞşŧ ŧħḗ [ḿḗŧħǿḓ ƈǿḓḗŀīşŧ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#method) ȧş ƥḗř [ƓƤȦ "
+"ḓḗƒīƞīŧīǿƞş](http://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm) "
+"ǿƒ Ǿƥḗƞ, Şḗŀḗƈŧīṽḗ, Ŀīḿīŧḗḓ"
+
+#. /definitions/Tender/properties/eligibilityCriteria/description
+#: schema/release-schema.json:1
+msgid "A description of any eligibility criteria for potential suppliers."
+msgstr "Ȧ ḓḗşƈřīƥŧīǿƞ ǿƒ ȧƞẏ ḗŀīɠīƀīŀīŧẏ ƈřīŧḗřīȧ ƒǿř ƥǿŧḗƞŧīȧŀ şŭƥƥŀīḗřş."
+
+#. /definitions/Tender/properties/documents/description
+#: schema/release-schema.json:1
+msgid ""
+"All documents and attachments related to the tender, including any "
+"notices. See the [documentType codelist](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#document-type) for details of"
+" potential documents to include."
+msgstr ""
+"Ȧŀŀ ḓǿƈŭḿḗƞŧş ȧƞḓ ȧŧŧȧƈħḿḗƞŧş řḗŀȧŧḗḓ ŧǿ ŧħḗ ŧḗƞḓḗř, īƞƈŀŭḓīƞɠ ȧƞẏ ƞǿŧīƈḗş. "
+"Şḗḗ ŧħḗ [ḓǿƈŭḿḗƞŧŦẏƥḗ ƈǿḓḗŀīşŧ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#document-type) ƒǿř ḓḗŧȧīŀş ǿƒ "
+"ƥǿŧḗƞŧīȧŀ ḓǿƈŭḿḗƞŧş ŧǿ īƞƈŀŭḓḗ."
+
+#. /definitions/Tender/properties/description/description
+#: schema/release-schema.json:1
+msgid "Tender description"
+msgstr "Ŧḗƞḓḗř ḓḗşƈřīƥŧīǿƞ"
+
+#. /definitions/Tender/properties/tenderers/description
+#: schema/release-schema.json:1
+msgid "All entities who submit a tender."
+msgstr "Ȧŀŀ ḗƞŧīŧīḗş ẇħǿ şŭƀḿīŧ ȧ ŧḗƞḓḗř."
+
+#. /definitions/Tender/properties/procurementMethodRationale/description
+#: schema/release-schema.json:1
+msgid ""
+"Rationale of procurement method, especially in the case of Limited "
+"tendering."
+msgstr ""
+"Řȧŧīǿƞȧŀḗ ǿƒ ƥřǿƈŭřḗḿḗƞŧ ḿḗŧħǿḓ, ḗşƥḗƈīȧŀŀẏ īƞ ŧħḗ ƈȧşḗ ǿƒ Ŀīḿīŧḗḓ ŧḗƞḓḗřīƞɠ."
+
+#. /definitions/Tender/properties/id/description
+#: schema/release-schema.json:1
+msgid ""
+"An identifier for this tender process. This may be the same as the ocid, "
+"or may be drawn from an internally held identifier for this tender."
+msgstr ""
+"Ȧƞ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ŧḗƞḓḗř ƥřǿƈḗşş. Ŧħīş ḿȧẏ ƀḗ ŧħḗ şȧḿḗ ȧş ŧħḗ ǿƈīḓ, ǿř "
+"ḿȧẏ ƀḗ ḓřȧẇƞ ƒřǿḿ ȧƞ īƞŧḗřƞȧŀŀẏ ħḗŀḓ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ŧḗƞḓḗř."
+
+#. /definitions/Tender/properties/id/title
+#: schema/release-schema.json:1
+msgid "Tender ID"
+msgstr "Ŧḗƞḓḗř ĪḒ"
+
+#. /definitions/Tender/properties/value/description
+#: schema/release-schema.json:1
+msgid "The total upper estimated value of the procurement."
+msgstr "Ŧħḗ ŧǿŧȧŀ ŭƥƥḗř ḗşŧīḿȧŧḗḓ ṽȧŀŭḗ ǿƒ ŧħḗ ƥřǿƈŭřḗḿḗƞŧ."
+
+#. /definitions/Tender/properties/items/description
+#: schema/release-schema.json:1
+msgid ""
+"The goods and services to be purchased, broken into line items wherever "
+"possible. Items should not be duplicated, but a quantity of 2 specified "
+"instead."
+msgstr ""
+"Ŧħḗ ɠǿǿḓş ȧƞḓ şḗřṽīƈḗş ŧǿ ƀḗ ƥŭřƈħȧşḗḓ, ƀřǿķḗƞ īƞŧǿ ŀīƞḗ īŧḗḿş ẇħḗřḗṽḗř "
+"ƥǿşşīƀŀḗ. Īŧḗḿş şħǿŭŀḓ ƞǿŧ ƀḗ ḓŭƥŀīƈȧŧḗḓ, ƀŭŧ ȧ ɋŭȧƞŧīŧẏ ǿƒ 2 şƥḗƈīƒīḗḓ "
+"īƞşŧḗȧḓ."
+
+#. /definitions/Tender/properties/items/title
+#: schema/release-schema.json:1
+msgid "Items to be procured"
+msgstr "Īŧḗḿş ŧǿ ƀḗ ƥřǿƈŭřḗḓ"
+
+#. /definitions/Tender/properties/awardCriteriaDetails/description
+#: schema/release-schema.json:1
+msgid "Any detailed or further information on the award or selection criteria."
+msgstr "Ȧƞẏ ḓḗŧȧīŀḗḓ ǿř ƒŭřŧħḗř īƞƒǿřḿȧŧīǿƞ ǿƞ ŧħḗ ȧẇȧřḓ ǿř şḗŀḗƈŧīǿƞ ƈřīŧḗřīȧ."
+
+#. /definitions/Tender/properties/status/description
+#: schema/release-schema.json:1
+msgid ""
+"The current status of the tender based on the [tenderStatus "
+"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#tender-status)"
+msgstr ""
+"Ŧħḗ ƈŭřřḗƞŧ şŧȧŧŭş ǿƒ ŧħḗ ŧḗƞḓḗř ƀȧşḗḓ ǿƞ ŧħḗ [ŧḗƞḓḗřŞŧȧŧŭş "
+"ƈǿḓḗŀīşŧ](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#tender-status)"
+
+#. /definitions/Tender/properties/status/title
+#: schema/release-schema.json:1
+msgid "Tender Status"
+msgstr "Ŧḗƞḓḗř Şŧȧŧŭş"
+
+#. /definitions/Tender/properties/awardPeriod/description
+#: schema/release-schema.json:1
+msgid "The date or period on which an award is anticipated to be made."
+msgstr "Ŧħḗ ḓȧŧḗ ǿř ƥḗřīǿḓ ǿƞ ẇħīƈħ ȧƞ ȧẇȧřḓ īş ȧƞŧīƈīƥȧŧḗḓ ŧǿ ƀḗ ḿȧḓḗ."
+
+#. /definitions/Tender/properties/submissionMethodDetails/description
+#: schema/release-schema.json:1
+msgid ""
+"Any detailed or further information on the submission method. This may "
+"include the address, e-mail address or online service to which bids "
+"should be submitted, and any special requirements to be followed for "
+"submissions."
+msgstr ""
+"Ȧƞẏ ḓḗŧȧīŀḗḓ ǿř ƒŭřŧħḗř īƞƒǿřḿȧŧīǿƞ ǿƞ ŧħḗ şŭƀḿīşşīǿƞ ḿḗŧħǿḓ. Ŧħīş ḿȧẏ "
+"īƞƈŀŭḓḗ ŧħḗ ȧḓḓřḗşş, ḗ-ḿȧīŀ ȧḓḓřḗşş ǿř ǿƞŀīƞḗ şḗřṽīƈḗ ŧǿ ẇħīƈħ ƀīḓş şħǿŭŀḓ "
+"ƀḗ şŭƀḿīŧŧḗḓ, ȧƞḓ ȧƞẏ şƥḗƈīȧŀ řḗɋŭīřḗḿḗƞŧş ŧǿ ƀḗ ƒǿŀŀǿẇḗḓ ƒǿř şŭƀḿīşşīǿƞş."
+
+#. /definitions/Tender/properties/title/description
+#: schema/release-schema.json:1
+msgid "Tender title"
+msgstr "Ŧḗƞḓḗř ŧīŧŀḗ"
+
+#. /definitions/Tender/properties/procuringEntity/description
+#: schema/release-schema.json:1
+msgid ""
+"The entity managing the procurement, which may be different from the "
+"buyer who is paying / using the items being procured."
+msgstr ""
+"Ŧħḗ ḗƞŧīŧẏ ḿȧƞȧɠīƞɠ ŧħḗ ƥřǿƈŭřḗḿḗƞŧ, ẇħīƈħ ḿȧẏ ƀḗ ḓīƒƒḗřḗƞŧ ƒřǿḿ ŧħḗ ƀŭẏḗř "
+"ẇħǿ īş ƥȧẏīƞɠ / ŭşīƞɠ ŧħḗ īŧḗḿş ƀḗīƞɠ ƥřǿƈŭřḗḓ."
+
+#. /definitions/Tender/properties/awardCriteria/description
+#: schema/release-schema.json:1
+msgid ""
+"Specify the award criteria for the procurement, using the [award criteria"
+" codelist](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#award-criteria)"
+msgstr ""
+"Şƥḗƈīƒẏ ŧħḗ ȧẇȧřḓ ƈřīŧḗřīȧ ƒǿř ŧħḗ ƥřǿƈŭřḗḿḗƞŧ, ŭşīƞɠ ŧħḗ [ȧẇȧřḓ ƈřīŧḗřīȧ "
+"ƈǿḓḗŀīşŧ](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#award-criteria)"
+
+#. /definitions/Tender/properties/milestones/description
+#: schema/release-schema.json:1
+msgid "A list of milestones associated with the tender."
+msgstr "Ȧ ŀīşŧ ǿƒ ḿīŀḗşŧǿƞḗş ȧşşǿƈīȧŧḗḓ ẇīŧħ ŧħḗ ŧḗƞḓḗř."
+
+#. /definitions/Tender/properties/hasEnquiries/description
+#: schema/release-schema.json:1
+msgid "A Yes/No field to indicate whether enquiries were part of tender process."
+msgstr ""
+"Ȧ Ẏḗş/Ƞǿ ƒīḗŀḓ ŧǿ īƞḓīƈȧŧḗ ẇħḗŧħḗř ḗƞɋŭīřīḗş ẇḗřḗ ƥȧřŧ ǿƒ ŧḗƞḓḗř ƥřǿƈḗşş."
+
+#. /definitions/Tender/properties/submissionMethod/description
+#: schema/release-schema.json:1
+msgid ""
+"Specify the method by which bids must be submitted, in person, written, "
+"or electronic auction. Using the [submission method "
+"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#submission-method)"
+msgstr ""
+"Şƥḗƈīƒẏ ŧħḗ ḿḗŧħǿḓ ƀẏ ẇħīƈħ ƀīḓş ḿŭşŧ ƀḗ şŭƀḿīŧŧḗḓ, īƞ ƥḗřşǿƞ, ẇřīŧŧḗƞ, ǿř "
+"ḗŀḗƈŧřǿƞīƈ ȧŭƈŧīǿƞ. Ŭşīƞɠ ŧħḗ [şŭƀḿīşşīǿƞ ḿḗŧħǿḓ ƈǿḓḗŀīşŧ](http://standard"
+".open-contracting.org/latest/en/schema/codelists/#submission-method)"
+
+#. /definitions/Budget/description
+#: schema/release-schema.json:1
+msgid ""
+"This section contain information about the budget line, and associated "
+"projects, through which this contracting process is funded. It draws upon"
+" data model of the [Budget Data Package](https://github.com/openspending"
+"/budget-data-package/blob/master/specification.md), and should be used to"
+" cross-reference to more detailed information held using a Budget Data "
+"Package, or, where no linked Budget Data Package is available, to provide"
+" enough information to allow a user to manually or automatically cross-"
+"reference with another published source of budget and project "
+"information."
+msgstr ""
+"Ŧħīş şḗƈŧīǿƞ ƈǿƞŧȧīƞ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ŧħḗ ƀŭḓɠḗŧ ŀīƞḗ, ȧƞḓ ȧşşǿƈīȧŧḗḓ "
+"ƥřǿĵḗƈŧş, ŧħřǿŭɠħ ẇħīƈħ ŧħīş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş īş ƒŭƞḓḗḓ. Īŧ ḓřȧẇş ŭƥǿƞ "
+"ḓȧŧȧ ḿǿḓḗŀ ǿƒ ŧħḗ [Ɓŭḓɠḗŧ Ḓȧŧȧ Ƥȧƈķȧɠḗ](https://github.com/openspending"
+"/budget-data-package/blob/master/specification.md), ȧƞḓ şħǿŭŀḓ ƀḗ ŭşḗḓ ŧǿ "
+"ƈřǿşş-řḗƒḗřḗƞƈḗ ŧǿ ḿǿřḗ ḓḗŧȧīŀḗḓ īƞƒǿřḿȧŧīǿƞ ħḗŀḓ ŭşīƞɠ ȧ Ɓŭḓɠḗŧ Ḓȧŧȧ "
+"Ƥȧƈķȧɠḗ, ǿř, ẇħḗřḗ ƞǿ ŀīƞķḗḓ Ɓŭḓɠḗŧ Ḓȧŧȧ Ƥȧƈķȧɠḗ īş ȧṽȧīŀȧƀŀḗ, ŧǿ ƥřǿṽīḓḗ "
+"ḗƞǿŭɠħ īƞƒǿřḿȧŧīǿƞ ŧǿ ȧŀŀǿẇ ȧ ŭşḗř ŧǿ ḿȧƞŭȧŀŀẏ ǿř ȧŭŧǿḿȧŧīƈȧŀŀẏ ƈřǿşş-"
+"řḗƒḗřḗƞƈḗ ẇīŧħ ȧƞǿŧħḗř ƥŭƀŀīşħḗḓ şǿŭřƈḗ ǿƒ ƀŭḓɠḗŧ ȧƞḓ ƥřǿĵḗƈŧ īƞƒǿřḿȧŧīǿƞ."
+
+#. /definitions/Budget/title
+#: schema/release-schema.json:1
+msgid "Budget Information"
+msgstr "Ɓŭḓɠḗŧ Īƞƒǿřḿȧŧīǿƞ"
+
+#. /definitions/Budget/properties/source/description
+#: schema/release-schema.json:1
+msgid ""
+"Used to point either to a corresponding Budget Data Package, or to a "
+"machine or human-readable source where users can find further information"
+" on the budget line item identifiers, or project identifiers, provided "
+"here."
+msgstr ""
+"Ŭşḗḓ ŧǿ ƥǿīƞŧ ḗīŧħḗř ŧǿ ȧ ƈǿřřḗşƥǿƞḓīƞɠ Ɓŭḓɠḗŧ Ḓȧŧȧ Ƥȧƈķȧɠḗ, ǿř ŧǿ ȧ ḿȧƈħīƞḗ "
+"ǿř ħŭḿȧƞ-řḗȧḓȧƀŀḗ şǿŭřƈḗ ẇħḗřḗ ŭşḗřş ƈȧƞ ƒīƞḓ ƒŭřŧħḗř īƞƒǿřḿȧŧīǿƞ ǿƞ ŧħḗ "
+"ƀŭḓɠḗŧ ŀīƞḗ īŧḗḿ īḓḗƞŧīƒīḗřş, ǿř ƥřǿĵḗƈŧ īḓḗƞŧīƒīḗřş, ƥřǿṽīḓḗḓ ħḗřḗ."
+
+#. /definitions/Budget/properties/source/title
+#. /definitions/Transaction/properties/source/title
+#: schema/release-schema.json:1
+msgid "Data Source"
+msgstr "Ḓȧŧȧ Şǿŭřƈḗ"
+
+#. /definitions/Budget/properties/projectID/description
+#: schema/release-schema.json:1
+msgid ""
+"An external identifier for the project that this contracting process "
+"forms part of, or is funded via (if applicable). Some organizations "
+"maintain a registry of projects, and the data should use the identifier "
+"from the relevant registry of projects."
+msgstr ""
+"Ȧƞ ḗẋŧḗřƞȧŀ īḓḗƞŧīƒīḗř ƒǿř ŧħḗ ƥřǿĵḗƈŧ ŧħȧŧ ŧħīş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ƒǿřḿş "
+"ƥȧřŧ ǿƒ, ǿř īş ƒŭƞḓḗḓ ṽīȧ (īƒ ȧƥƥŀīƈȧƀŀḗ). Şǿḿḗ ǿřɠȧƞīzȧŧīǿƞş ḿȧīƞŧȧīƞ ȧ "
+"řḗɠīşŧřẏ ǿƒ ƥřǿĵḗƈŧş, ȧƞḓ ŧħḗ ḓȧŧȧ şħǿŭŀḓ ŭşḗ ŧħḗ īḓḗƞŧīƒīḗř ƒřǿḿ ŧħḗ "
+"řḗŀḗṽȧƞŧ řḗɠīşŧřẏ ǿƒ ƥřǿĵḗƈŧş."
+
+#. /definitions/Budget/properties/projectID/title
+#: schema/release-schema.json:1
+msgid "Project Identifier"
+msgstr "Ƥřǿĵḗƈŧ Īḓḗƞŧīƒīḗř"
+
+#. /definitions/Budget/properties/id/description
+#: schema/release-schema.json:1
+msgid ""
+"An identifier for the budget line item which provides funds for this "
+"contracting process. This identifier should be possible to cross-"
+"reference against the provided data source."
+msgstr ""
+"Ȧƞ īḓḗƞŧīƒīḗř ƒǿř ŧħḗ ƀŭḓɠḗŧ ŀīƞḗ īŧḗḿ ẇħīƈħ ƥřǿṽīḓḗş ƒŭƞḓş ƒǿř ŧħīş "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ŧħīş īḓḗƞŧīƒīḗř şħǿŭŀḓ ƀḗ ƥǿşşīƀŀḗ ŧǿ ƈřǿşş-řḗƒḗřḗƞƈḗ "
+"ȧɠȧīƞşŧ ŧħḗ ƥřǿṽīḓḗḓ ḓȧŧȧ şǿŭřƈḗ."
+
+#. /definitions/Budget/properties/project/description
+#: schema/release-schema.json:1
+msgid ""
+"The name of the project that through which this contracting process is "
+"funded (if applicable). Some organizations maintain a registry of "
+"projects, and the data should use the name by which the project is known "
+"in that registry. No translation option is offered for this string, as "
+"translated values can be provided in third-party data, linked from the "
+"data source above."
+msgstr ""
+"Ŧħḗ ƞȧḿḗ ǿƒ ŧħḗ ƥřǿĵḗƈŧ ŧħȧŧ ŧħřǿŭɠħ ẇħīƈħ ŧħīş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş īş "
+"ƒŭƞḓḗḓ (īƒ ȧƥƥŀīƈȧƀŀḗ). Şǿḿḗ ǿřɠȧƞīzȧŧīǿƞş ḿȧīƞŧȧīƞ ȧ řḗɠīşŧřẏ ǿƒ ƥřǿĵḗƈŧş, "
+"ȧƞḓ ŧħḗ ḓȧŧȧ şħǿŭŀḓ ŭşḗ ŧħḗ ƞȧḿḗ ƀẏ ẇħīƈħ ŧħḗ ƥřǿĵḗƈŧ īş ķƞǿẇƞ īƞ ŧħȧŧ "
+"řḗɠīşŧřẏ. Ƞǿ ŧřȧƞşŀȧŧīǿƞ ǿƥŧīǿƞ īş ǿƒƒḗřḗḓ ƒǿř ŧħīş şŧřīƞɠ, ȧş ŧřȧƞşŀȧŧḗḓ "
+"ṽȧŀŭḗş ƈȧƞ ƀḗ ƥřǿṽīḓḗḓ īƞ ŧħīřḓ-ƥȧřŧẏ ḓȧŧȧ, ŀīƞķḗḓ ƒřǿḿ ŧħḗ ḓȧŧȧ şǿŭřƈḗ "
+"ȧƀǿṽḗ."
+
+#. /definitions/Budget/properties/project/title
+#: schema/release-schema.json:1
+msgid "Project Title"
+msgstr "Ƥřǿĵḗƈŧ Ŧīŧŀḗ"
+
+#. /definitions/Budget/properties/uri/description
+#: schema/release-schema.json:1
+msgid ""
+"A URI pointing directly to a machine-readable record about the related "
+"budget or projects for this contracting process."
+msgstr ""
+"Ȧ ŬŘĪ ƥǿīƞŧīƞɠ ḓīřḗƈŧŀẏ ŧǿ ȧ ḿȧƈħīƞḗ-řḗȧḓȧƀŀḗ řḗƈǿřḓ ȧƀǿŭŧ ŧħḗ řḗŀȧŧḗḓ "
+"ƀŭḓɠḗŧ ǿř ƥřǿĵḗƈŧş ƒǿř ŧħīş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
+
+#. /definitions/Budget/properties/uri/title
+#: schema/release-schema.json:1
+msgid "Linked budget information"
+msgstr "Ŀīƞķḗḓ ƀŭḓɠḗŧ īƞƒǿřḿȧŧīǿƞ"
+
+#. /definitions/Budget/properties/amount/description
+#: schema/release-schema.json:1
+msgid "The value of the budget line item."
+msgstr "Ŧħḗ ṽȧŀŭḗ ǿƒ ŧħḗ ƀŭḓɠḗŧ ŀīƞḗ īŧḗḿ."
+
+#. /definitions/Budget/properties/description/description
+#: schema/release-schema.json:1
+msgid ""
+"A short free text description of the budget source. May be used to "
+"provide the title of the budget line, or the programme used to fund this "
+"project."
+msgstr ""
+"Ȧ şħǿřŧ ƒřḗḗ ŧḗẋŧ ḓḗşƈřīƥŧīǿƞ ǿƒ ŧħḗ ƀŭḓɠḗŧ şǿŭřƈḗ. Ḿȧẏ ƀḗ ŭşḗḓ ŧǿ ƥřǿṽīḓḗ "
+"ŧħḗ ŧīŧŀḗ ǿƒ ŧħḗ ƀŭḓɠḗŧ ŀīƞḗ, ǿř ŧħḗ ƥřǿɠřȧḿḿḗ ŭşḗḓ ŧǿ ƒŭƞḓ ŧħīş ƥřǿĵḗƈŧ."
+
+#. /definitions/Budget/properties/description/title
+#: schema/release-schema.json:1
+msgid "Budget Source"
+msgstr "Ɓŭḓɠḗŧ Şǿŭřƈḗ"
+
+#. /definitions/Award/description
+#: schema/release-schema.json:1
+msgid ""
+"An award for the given procurement. There may be more than one award per "
+"contracting process e.g. because the contract is split amongst different "
+"providers, or because it is a standing offer."
+msgstr ""
+"Ȧƞ ȧẇȧřḓ ƒǿř ŧħḗ ɠīṽḗƞ ƥřǿƈŭřḗḿḗƞŧ. Ŧħḗřḗ ḿȧẏ ƀḗ ḿǿřḗ ŧħȧƞ ǿƞḗ ȧẇȧřḓ ƥḗř "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ḗ.ɠ. ƀḗƈȧŭşḗ ŧħḗ ƈǿƞŧřȧƈŧ īş şƥŀīŧ ȧḿǿƞɠşŧ ḓīƒƒḗřḗƞŧ "
+"ƥřǿṽīḓḗřş, ǿř ƀḗƈȧŭşḗ īŧ īş ȧ şŧȧƞḓīƞɠ ǿƒƒḗř."
+
+#. /definitions/Award/title
+#: schema/release-schema.json:1
+msgid "Award"
+msgstr "Ȧẇȧřḓ"
+
+#. /definitions/Award/properties/documents/description
+#: schema/release-schema.json:1
+msgid "All documents and attachments related to the award, including any notices."
+msgstr ""
+"Ȧŀŀ ḓǿƈŭḿḗƞŧş ȧƞḓ ȧŧŧȧƈħḿḗƞŧş řḗŀȧŧḗḓ ŧǿ ŧħḗ ȧẇȧřḓ, īƞƈŀŭḓīƞɠ ȧƞẏ ƞǿŧīƈḗş."
+
+#. /definitions/Award/properties/date/description
+#: schema/release-schema.json:1
+msgid ""
+"The date of the contract award. This is usually the date on which a "
+"decision to award was made."
+msgstr ""
+"Ŧħḗ ḓȧŧḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧ ȧẇȧřḓ. Ŧħīş īş ŭşŭȧŀŀẏ ŧħḗ ḓȧŧḗ ǿƞ ẇħīƈħ ȧ ḓḗƈīşīǿƞ "
+"ŧǿ ȧẇȧřḓ ẇȧş ḿȧḓḗ."
+
+#. /definitions/Award/properties/date/title
+#: schema/release-schema.json:1
+msgid "Award date"
+msgstr "Ȧẇȧřḓ ḓȧŧḗ"
+
+#. /definitions/Award/properties/contractPeriod/description
+#: schema/release-schema.json:1
+msgid "The period for which the contract has been awarded."
+msgstr "Ŧħḗ ƥḗřīǿḓ ƒǿř ẇħīƈħ ŧħḗ ƈǿƞŧřȧƈŧ ħȧş ƀḗḗƞ ȧẇȧřḓḗḓ."
+
+#. /definitions/Award/properties/title/description
+#: schema/release-schema.json:1
+msgid "Award title"
+msgstr "Ȧẇȧřḓ ŧīŧŀḗ"
+
+#. /definitions/Award/properties/id/description
+#: schema/release-schema.json:1
+msgid ""
+"The identifier for this award. It must be unique and cannot change within"
+" the Open Contracting Process it is part of (defined by a single ocid). "
+"See the [identifier guidance](http://standard.open-"
+"contracting.org/latest/en/schema/identifiers/) for further details."
+msgstr ""
+"Ŧħḗ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ȧẇȧřḓ. Īŧ ḿŭşŧ ƀḗ ŭƞīɋŭḗ ȧƞḓ ƈȧƞƞǿŧ ƈħȧƞɠḗ ẇīŧħīƞ "
+"ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ƥřǿƈḗşş īŧ īş ƥȧřŧ ǿƒ (ḓḗƒīƞḗḓ ƀẏ ȧ şīƞɠŀḗ ǿƈīḓ). Şḗḗ "
+"ŧħḗ [īḓḗƞŧīƒīḗř ɠŭīḓȧƞƈḗ](http://standard.open-"
+"contracting.org/latest/en/schema/identifiers/) ƒǿř ƒŭřŧħḗř ḓḗŧȧīŀş."
+
+#. /definitions/Award/properties/id/title
+#. /definitions/Contract/properties/awardID/title
+#: schema/release-schema.json:1
+msgid "Award ID"
+msgstr "Ȧẇȧřḓ ĪḒ"
+
+#. /definitions/Award/properties/items/description
+#: schema/release-schema.json:1
+msgid ""
+"The goods and services awarded in this award, broken into line items "
+"wherever possible. Items should not be duplicated, but the quantity "
+"specified instead."
+msgstr ""
+"Ŧħḗ ɠǿǿḓş ȧƞḓ şḗřṽīƈḗş ȧẇȧřḓḗḓ īƞ ŧħīş ȧẇȧřḓ, ƀřǿķḗƞ īƞŧǿ ŀīƞḗ īŧḗḿş "
+"ẇħḗřḗṽḗř ƥǿşşīƀŀḗ. Īŧḗḿş şħǿŭŀḓ ƞǿŧ ƀḗ ḓŭƥŀīƈȧŧḗḓ, ƀŭŧ ŧħḗ ɋŭȧƞŧīŧẏ "
+"şƥḗƈīƒīḗḓ īƞşŧḗȧḓ."
+
+#. /definitions/Award/properties/items/title
+#: schema/release-schema.json:1
+msgid "Items Awarded"
+msgstr "Īŧḗḿş Ȧẇȧřḓḗḓ"
+
+#. /definitions/Award/properties/suppliers/description
+#: schema/release-schema.json:1
+msgid ""
+"The suppliers awarded this award. If different suppliers have been "
+"awarded different items of values, these should be split into separate "
+"award blocks."
+msgstr ""
+"Ŧħḗ şŭƥƥŀīḗřş ȧẇȧřḓḗḓ ŧħīş ȧẇȧřḓ. Īƒ ḓīƒƒḗřḗƞŧ şŭƥƥŀīḗřş ħȧṽḗ ƀḗḗƞ ȧẇȧřḓḗḓ "
+"ḓīƒƒḗřḗƞŧ īŧḗḿş ǿƒ ṽȧŀŭḗş, ŧħḗşḗ şħǿŭŀḓ ƀḗ şƥŀīŧ īƞŧǿ şḗƥȧřȧŧḗ ȧẇȧřḓ ƀŀǿƈķş."
+
+#. /definitions/Award/properties/status/description
+#: schema/release-schema.json:1
+msgid ""
+"The current status of the award drawn from the [awardStatus "
+"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#award-status)"
+msgstr ""
+"Ŧħḗ ƈŭřřḗƞŧ şŧȧŧŭş ǿƒ ŧħḗ ȧẇȧřḓ ḓřȧẇƞ ƒřǿḿ ŧħḗ [ȧẇȧřḓŞŧȧŧŭş "
+"ƈǿḓḗŀīşŧ](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#award-status)"
+
+#. /definitions/Award/properties/status/title
+#: schema/release-schema.json:1
+msgid "Award Status"
+msgstr "Ȧẇȧřḓ Şŧȧŧŭş"
+
+#. /definitions/Award/properties/description/description
+#: schema/release-schema.json:1
+msgid "Award description"
+msgstr "Ȧẇȧřḓ ḓḗşƈřīƥŧīǿƞ"
+
+#. /definitions/Award/properties/value/description
+#: schema/release-schema.json:1
+msgid ""
+"The total value of this award. In the case of a framework contract this "
+"may be the total estimated lifetime value, or maximum value, of the "
+"agreement. There may be more than one award per procurement."
+msgstr ""
+"Ŧħḗ ŧǿŧȧŀ ṽȧŀŭḗ ǿƒ ŧħīş ȧẇȧřḓ. Īƞ ŧħḗ ƈȧşḗ ǿƒ ȧ ƒřȧḿḗẇǿřķ ƈǿƞŧřȧƈŧ ŧħīş ḿȧẏ "
+"ƀḗ ŧħḗ ŧǿŧȧŀ ḗşŧīḿȧŧḗḓ ŀīƒḗŧīḿḗ ṽȧŀŭḗ, ǿř ḿȧẋīḿŭḿ ṽȧŀŭḗ, ǿƒ ŧħḗ ȧɠřḗḗḿḗƞŧ. "
+"Ŧħḗřḗ ḿȧẏ ƀḗ ḿǿřḗ ŧħȧƞ ǿƞḗ ȧẇȧřḓ ƥḗř ƥřǿƈŭřḗḿḗƞŧ."
+
+#. /definitions/Milestone/properties/documents/description
+#: schema/release-schema.json:1
+msgid "List of documents associated with this milestone."
+msgstr "Ŀīşŧ ǿƒ ḓǿƈŭḿḗƞŧş ȧşşǿƈīȧŧḗḓ ẇīŧħ ŧħīş ḿīŀḗşŧǿƞḗ."
+
+#. /definitions/Milestone/properties/description/description
+#: schema/release-schema.json:1
+msgid "A description of the milestone."
+msgstr "Ȧ ḓḗşƈřīƥŧīǿƞ ǿƒ ŧħḗ ḿīŀḗşŧǿƞḗ."
+
+#. /definitions/Milestone/properties/title/description
+#: schema/release-schema.json:1
+msgid "Milestone title"
+msgstr "Ḿīŀḗşŧǿƞḗ ŧīŧŀḗ"
+
+#. /definitions/Milestone/properties/id/description
+#: schema/release-schema.json:1
+msgid ""
+"A local identifier for this milestone, unique within this block. This "
+"field is used to keep track of multiple revisions of a milestone through "
+"the compilation from release to record mechanism."
+msgstr ""
+"Ȧ ŀǿƈȧŀ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ḿīŀḗşŧǿƞḗ, ŭƞīɋŭḗ ẇīŧħīƞ ŧħīş ƀŀǿƈķ. Ŧħīş ƒīḗŀḓ "
+"īş ŭşḗḓ ŧǿ ķḗḗƥ ŧřȧƈķ ǿƒ ḿŭŀŧīƥŀḗ řḗṽīşīǿƞş ǿƒ ȧ ḿīŀḗşŧǿƞḗ ŧħřǿŭɠħ ŧħḗ "
+"ƈǿḿƥīŀȧŧīǿƞ ƒřǿḿ řḗŀḗȧşḗ ŧǿ řḗƈǿřḓ ḿḗƈħȧƞīşḿ."
+
+#. /definitions/Milestone/properties/dateModified/description
+#: schema/release-schema.json:1
+msgid ""
+"The date the milestone was last reviewed or modified and the status was "
+"altered or confirmed to still be correct."
+msgstr ""
+"Ŧħḗ ḓȧŧḗ ŧħḗ ḿīŀḗşŧǿƞḗ ẇȧş ŀȧşŧ řḗṽīḗẇḗḓ ǿř ḿǿḓīƒīḗḓ ȧƞḓ ŧħḗ şŧȧŧŭş ẇȧş "
+"ȧŀŧḗřḗḓ ǿř ƈǿƞƒīřḿḗḓ ŧǿ şŧīŀŀ ƀḗ ƈǿřřḗƈŧ."
+
+#. /definitions/Milestone/properties/status/description
+#: schema/release-schema.json:1
+msgid ""
+"The status that was realized on the date provided in dateModified, drawn "
+"from the [milestoneStatus codelist](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#milestone-status)."
+msgstr ""
+"Ŧħḗ şŧȧŧŭş ŧħȧŧ ẇȧş řḗȧŀīzḗḓ ǿƞ ŧħḗ ḓȧŧḗ ƥřǿṽīḓḗḓ īƞ ḓȧŧḗḾǿḓīƒīḗḓ, ḓřȧẇƞ "
+"ƒřǿḿ ŧħḗ [ḿīŀḗşŧǿƞḗŞŧȧŧŭş ƈǿḓḗŀīşŧ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#milestone-status)."
+
+#. /definitions/Milestone/properties/dueDate/description
+#: schema/release-schema.json:1
+msgid "The date the milestone is due."
+msgstr "Ŧħḗ ḓȧŧḗ ŧħḗ ḿīŀḗşŧǿƞḗ īş ḓŭḗ."
+
+#. /definitions/Item/description
+#: schema/release-schema.json:1
+msgid "A good, service, or work to be contracted."
+msgstr "Ȧ ɠǿǿḓ, şḗřṽīƈḗ, ǿř ẇǿřķ ŧǿ ƀḗ ƈǿƞŧřȧƈŧḗḓ."
+
+#. /definitions/Item/properties/description/description
+#: schema/release-schema.json:1
+msgid "A description of the goods, services to be provided."
+msgstr "Ȧ ḓḗşƈřīƥŧīǿƞ ǿƒ ŧħḗ ɠǿǿḓş, şḗřṽīƈḗş ŧǿ ƀḗ ƥřǿṽīḓḗḓ."
+
+#. /definitions/Item/properties/id/description
+#: schema/release-schema.json:1
+msgid ""
+"A local identifier to reference and merge the items by. Must be unique "
+"within a given array of items."
+msgstr ""
+"Ȧ ŀǿƈȧŀ īḓḗƞŧīƒīḗř ŧǿ řḗƒḗřḗƞƈḗ ȧƞḓ ḿḗřɠḗ ŧħḗ īŧḗḿş ƀẏ. Ḿŭşŧ ƀḗ ŭƞīɋŭḗ "
+"ẇīŧħīƞ ȧ ɠīṽḗƞ ȧřřȧẏ ǿƒ īŧḗḿş."
+
+#. /definitions/Item/properties/unit/description
+#: schema/release-schema.json:1
+msgid ""
+"Description of the unit which the good comes in e.g. hours, kilograms. "
+"Made up of a unit name, and the value of a single unit."
+msgstr ""
+"Ḓḗşƈřīƥŧīǿƞ ǿƒ ŧħḗ ŭƞīŧ ẇħīƈħ ŧħḗ ɠǿǿḓ ƈǿḿḗş īƞ ḗ.ɠ. ħǿŭřş, ķīŀǿɠřȧḿş. Ḿȧḓḗ "
+"ŭƥ ǿƒ ȧ ŭƞīŧ ƞȧḿḗ, ȧƞḓ ŧħḗ ṽȧŀŭḗ ǿƒ ȧ şīƞɠŀḗ ŭƞīŧ."
+
+#. /definitions/Item/properties/unit/properties/name/description
+#: schema/release-schema.json:1
+msgid "Name of the unit"
+msgstr "Ƞȧḿḗ ǿƒ ŧħḗ ŭƞīŧ"
+
+#. /definitions/Item/properties/unit/properties/value/description
+#: schema/release-schema.json:1
+msgid "The monetary value of a single unit."
+msgstr "Ŧħḗ ḿǿƞḗŧȧřẏ ṽȧŀŭḗ ǿƒ ȧ şīƞɠŀḗ ŭƞīŧ."
+
+#. /definitions/Item/properties/quantity/description
+#: schema/release-schema.json:1
+msgid "The number of units required"
+msgstr "Ŧħḗ ƞŭḿƀḗř ǿƒ ŭƞīŧş řḗɋŭīřḗḓ"
+
+#. /definitions/Item/properties/additionalClassifications/description
+#: schema/release-schema.json:1
+msgid ""
+"An array of additional classifications for the item. See the "
+"[itemClassificationScheme](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#item-classification-scheme) "
+"codelist for common options to use in OCDS. This may also be used to "
+"present codes from an internal classification scheme."
+msgstr ""
+"Ȧƞ ȧřřȧẏ ǿƒ ȧḓḓīŧīǿƞȧŀ ƈŀȧşşīƒīƈȧŧīǿƞş ƒǿř ŧħḗ īŧḗḿ. Şḗḗ ŧħḗ "
+"[īŧḗḿƇŀȧşşīƒīƈȧŧīǿƞŞƈħḗḿḗ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#item-classification-scheme) "
+"ƈǿḓḗŀīşŧ ƒǿř ƈǿḿḿǿƞ ǿƥŧīǿƞş ŧǿ ŭşḗ īƞ ǾƇḒŞ. Ŧħīş ḿȧẏ ȧŀşǿ ƀḗ ŭşḗḓ ŧǿ ƥřḗşḗƞŧ "
+"ƈǿḓḗş ƒřǿḿ ȧƞ īƞŧḗřƞȧŀ ƈŀȧşşīƒīƈȧŧīǿƞ şƈħḗḿḗ."
+
+#. /definitions/Item/properties/classification/description
+#: schema/release-schema.json:1
+msgid ""
+"The primary classification for the item. See the "
+"[itemClassificationScheme](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#item-classification-scheme) "
+"to identify preferred classification lists, including CPV and GSIN."
+msgstr ""
+"Ŧħḗ ƥřīḿȧřẏ ƈŀȧşşīƒīƈȧŧīǿƞ ƒǿř ŧħḗ īŧḗḿ. Şḗḗ ŧħḗ "
+"[īŧḗḿƇŀȧşşīƒīƈȧŧīǿƞŞƈħḗḿḗ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#item-classification-scheme) ŧǿ "
+"īḓḗƞŧīƒẏ ƥřḗƒḗřřḗḓ ƈŀȧşşīƒīƈȧŧīǿƞ ŀīşŧş, īƞƈŀŭḓīƞɠ ƇƤṼ ȧƞḓ ƓŞĪȠ."
+
+#. /definitions/Document/description
+#: schema/release-schema.json:1
+msgid ""
+"Links to, or descriptions of, external documents can be attached at "
+"various locations within the standard. Documents may be supporting "
+"information, formal notices, downloadable forms, or any other kind of "
+"resource that should be made public as part of full open contracting."
+msgstr ""
+"Ŀīƞķş ŧǿ, ǿř ḓḗşƈřīƥŧīǿƞş ǿƒ, ḗẋŧḗřƞȧŀ ḓǿƈŭḿḗƞŧş ƈȧƞ ƀḗ ȧŧŧȧƈħḗḓ ȧŧ ṽȧřīǿŭş "
+"ŀǿƈȧŧīǿƞş ẇīŧħīƞ ŧħḗ şŧȧƞḓȧřḓ. Ḓǿƈŭḿḗƞŧş ḿȧẏ ƀḗ şŭƥƥǿřŧīƞɠ īƞƒǿřḿȧŧīǿƞ, "
+"ƒǿřḿȧŀ ƞǿŧīƈḗş, ḓǿẇƞŀǿȧḓȧƀŀḗ ƒǿřḿş, ǿř ȧƞẏ ǿŧħḗř ķīƞḓ ǿƒ řḗşǿŭřƈḗ ŧħȧŧ "
+"şħǿŭŀḓ ƀḗ ḿȧḓḗ ƥŭƀŀīƈ ȧş ƥȧřŧ ǿƒ ƒŭŀŀ ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ."
+
+#. /definitions/Document/title
+#: schema/release-schema.json:1
+msgid "Document"
+msgstr "Ḓǿƈŭḿḗƞŧ"
+
+#. /definitions/Document/properties/description/description
+#: schema/release-schema.json:1
+msgid ""
+"A short description of the document. We recommend descriptions do not "
+"exceed 250 words. In the event the document is not accessible online, the"
+" description field can be used to describe arrangements for obtaining a "
+"copy of the document."
+msgstr ""
+"Ȧ şħǿřŧ ḓḗşƈřīƥŧīǿƞ ǿƒ ŧħḗ ḓǿƈŭḿḗƞŧ. Ẇḗ řḗƈǿḿḿḗƞḓ ḓḗşƈřīƥŧīǿƞş ḓǿ ƞǿŧ ḗẋƈḗḗḓ "
+"250 ẇǿřḓş. Īƞ ŧħḗ ḗṽḗƞŧ ŧħḗ ḓǿƈŭḿḗƞŧ īş ƞǿŧ ȧƈƈḗşşīƀŀḗ ǿƞŀīƞḗ, ŧħḗ "
+"ḓḗşƈřīƥŧīǿƞ ƒīḗŀḓ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ ḓḗşƈřīƀḗ ȧřřȧƞɠḗḿḗƞŧş ƒǿř ǿƀŧȧīƞīƞɠ ȧ ƈǿƥẏ "
+"ǿƒ ŧħḗ ḓǿƈŭḿḗƞŧ."
+
+#. /definitions/Document/properties/format/description
+#: schema/release-schema.json:1
+msgid ""
+"The format of the document taken from the [IANA Media Types code "
+"list](http://www.iana.org/assignments/media-types/), with the addition of"
+" one extra value for 'offline/print', used when this document entry is "
+"being used to describe the offline publication of a document. Use values "
+"from the template column. Links to web pages should be tagged "
+"'text/html'."
+msgstr ""
+"Ŧħḗ ƒǿřḿȧŧ ǿƒ ŧħḗ ḓǿƈŭḿḗƞŧ ŧȧķḗƞ ƒřǿḿ ŧħḗ [ĪȦȠȦ Ḿḗḓīȧ Ŧẏƥḗş ƈǿḓḗ "
+"ŀīşŧ](http://www.iana.org/assignments/media-types/), ẇīŧħ ŧħḗ ȧḓḓīŧīǿƞ ǿƒ "
+"ǿƞḗ ḗẋŧřȧ ṽȧŀŭḗ ƒǿř 'ǿƒƒŀīƞḗ/print', ŭşḗḓ ẇħḗƞ ŧħīş ḓǿƈŭḿḗƞŧ ḗƞŧřẏ īş ƀḗīƞɠ "
+"ŭşḗḓ ŧǿ ḓḗşƈřīƀḗ ŧħḗ ǿƒƒŀīƞḗ ƥŭƀŀīƈȧŧīǿƞ ǿƒ ȧ ḓǿƈŭḿḗƞŧ. Ŭşḗ ṽȧŀŭḗş ƒřǿḿ ŧħḗ "
+"ŧḗḿƥŀȧŧḗ ƈǿŀŭḿƞ. Ŀīƞķş ŧǿ ẇḗƀ ƥȧɠḗş şħǿŭŀḓ ƀḗ ŧȧɠɠḗḓ 'ŧḗẋŧ/html'."
+
+#. /definitions/Document/properties/title/description
+#: schema/release-schema.json:1
+msgid "The document title."
+msgstr "Ŧħḗ ḓǿƈŭḿḗƞŧ ŧīŧŀḗ."
+
+#. /definitions/Document/properties/id/description
+#: schema/release-schema.json:1
+msgid ""
+"A local, unique identifier for this document. This field is used to keep "
+"track of multiple revisions of a document through the compilation from "
+"release to record mechanism."
+msgstr ""
+"Ȧ ŀǿƈȧŀ, ŭƞīɋŭḗ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ḓǿƈŭḿḗƞŧ. Ŧħīş ƒīḗŀḓ īş ŭşḗḓ ŧǿ ķḗḗƥ "
+"ŧřȧƈķ ǿƒ ḿŭŀŧīƥŀḗ řḗṽīşīǿƞş ǿƒ ȧ ḓǿƈŭḿḗƞŧ ŧħřǿŭɠħ ŧħḗ ƈǿḿƥīŀȧŧīǿƞ ƒřǿḿ "
+"řḗŀḗȧşḗ ŧǿ řḗƈǿřḓ ḿḗƈħȧƞīşḿ."
+
+#. /definitions/Document/properties/datePublished/description
+#: schema/release-schema.json:1
+msgid ""
+"The date on which the document was first published. This is particularly "
+"important for legally important documents such as notices of a tender."
+msgstr ""
+"Ŧħḗ ḓȧŧḗ ǿƞ ẇħīƈħ ŧħḗ ḓǿƈŭḿḗƞŧ ẇȧş ƒīřşŧ ƥŭƀŀīşħḗḓ. Ŧħīş īş ƥȧřŧīƈŭŀȧřŀẏ "
+"īḿƥǿřŧȧƞŧ ƒǿř ŀḗɠȧŀŀẏ īḿƥǿřŧȧƞŧ ḓǿƈŭḿḗƞŧş şŭƈħ ȧş ƞǿŧīƈḗş ǿƒ ȧ ŧḗƞḓḗř."
+
+#. /definitions/Document/properties/dateModified/description
+#: schema/release-schema.json:1
+msgid "Date that the document was last modified"
+msgstr "Ḓȧŧḗ ŧħȧŧ ŧħḗ ḓǿƈŭḿḗƞŧ ẇȧş ŀȧşŧ ḿǿḓīƒīḗḓ"
+
+#. /definitions/Document/properties/language/description
+#: schema/release-schema.json:1
+msgid ""
+"Specifies the language of the linked document using either two-digit [ISO"
+" 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), or "
+"extended [BCP47 language tags](http://www.w3.org/International/articles"
+"/language-tags/). The use of two-letter codes from [ISO "
+"639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) is strongly"
+" recommended unless there is a clear user need for distinguishing the "
+"language subtype."
+msgstr ""
+"Şƥḗƈīƒīḗş ŧħḗ ŀȧƞɠŭȧɠḗ ǿƒ ŧħḗ ŀīƞķḗḓ ḓǿƈŭḿḗƞŧ ŭşīƞɠ ḗīŧħḗř ŧẇǿ-ḓīɠīŧ [ĪŞǾ "
+"639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), ǿř ḗẋŧḗƞḓḗḓ ["
+"ƁƇƤ47 ŀȧƞɠŭȧɠḗ ŧȧɠş](http://www.w3.org/International/articles/language-tags/)"
+". Ŧħḗ ŭşḗ ǿƒ ŧẇǿ-ŀḗŧŧḗř ƈǿḓḗş ƒřǿḿ [ĪŞǾ "
+"639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) īş şŧřǿƞɠŀẏ "
+"řḗƈǿḿḿḗƞḓḗḓ ŭƞŀḗşş ŧħḗřḗ īş ȧ ƈŀḗȧř ŭşḗř ƞḗḗḓ ƒǿř ḓīşŧīƞɠŭīşħīƞɠ ŧħḗ "
+"ŀȧƞɠŭȧɠḗ şŭƀŧẏƥḗ."
+
+#. /definitions/Document/properties/documentType/description
+#: schema/release-schema.json:1
+msgid ""
+"A classification of the document described taken from the [documentType "
+"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#document-type). Values from the provided codelist should be used "
+"wherever possible, though extended values can be provided if the codelist"
+" does not have a relevant code."
+msgstr ""
+"Ȧ ƈŀȧşşīƒīƈȧŧīǿƞ ǿƒ ŧħḗ ḓǿƈŭḿḗƞŧ ḓḗşƈřīƀḗḓ ŧȧķḗƞ ƒřǿḿ ŧħḗ [ḓǿƈŭḿḗƞŧŦẏƥḗ "
+"ƈǿḓḗŀīşŧ](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#document-type). Ṽȧŀŭḗş ƒřǿḿ ŧħḗ ƥřǿṽīḓḗḓ ƈǿḓḗŀīşŧ şħǿŭŀḓ ƀḗ ŭşḗḓ ẇħḗřḗṽḗř "
+"ƥǿşşīƀŀḗ, ŧħǿŭɠħ ḗẋŧḗƞḓḗḓ ṽȧŀŭḗş ƈȧƞ ƀḗ ƥřǿṽīḓḗḓ īƒ ŧħḗ ƈǿḓḗŀīşŧ ḓǿḗş ƞǿŧ "
+"ħȧṽḗ ȧ řḗŀḗṽȧƞŧ ƈǿḓḗ."
+
+#. /definitions/Document/properties/url/description
+#: schema/release-schema.json:1
+msgid ""
+" direct link to the document or attachment. The server providing access "
+"to this document should be configured to correctly report the document "
+"mime type."
+msgstr ""
+" ḓīřḗƈŧ ŀīƞķ ŧǿ ŧħḗ ḓǿƈŭḿḗƞŧ ǿř ȧŧŧȧƈħḿḗƞŧ. Ŧħḗ şḗřṽḗř ƥřǿṽīḓīƞɠ ȧƈƈḗşş ŧǿ "
+"ŧħīş ḓǿƈŭḿḗƞŧ şħǿŭŀḓ ƀḗ ƈǿƞƒīɠŭřḗḓ ŧǿ ƈǿřřḗƈŧŀẏ řḗƥǿřŧ ŧħḗ ḓǿƈŭḿḗƞŧ ḿīḿḗ "
+"ŧẏƥḗ."
+
+#. /definitions/ContactPoint/description
+#: schema/release-schema.json:1
+msgid ""
+"An person, contact point or department to contact in relation to this "
+"contracting process."
+msgstr ""
+"Ȧƞ ƥḗřşǿƞ, ƈǿƞŧȧƈŧ ƥǿīƞŧ ǿř ḓḗƥȧřŧḿḗƞŧ ŧǿ ƈǿƞŧȧƈŧ īƞ řḗŀȧŧīǿƞ ŧǿ ŧħīş "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
+
+#. /definitions/ContactPoint/properties/name/description
+#: schema/release-schema.json:1
+msgid ""
+"The name of the contact person, department, or contact point, for "
+"correspondence relating to this contracting process."
+msgstr ""
+"Ŧħḗ ƞȧḿḗ ǿƒ ŧħḗ ƈǿƞŧȧƈŧ ƥḗřşǿƞ, ḓḗƥȧřŧḿḗƞŧ, ǿř ƈǿƞŧȧƈŧ ƥǿīƞŧ, ƒǿř "
+"ƈǿřřḗşƥǿƞḓḗƞƈḗ řḗŀȧŧīƞɠ ŧǿ ŧħīş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
+
+#. /definitions/ContactPoint/properties/url/description
+#: schema/release-schema.json:1
+msgid "A web address for the contact point/person."
+msgstr "Ȧ ẇḗƀ ȧḓḓřḗşş ƒǿř ŧħḗ ƈǿƞŧȧƈŧ ƥǿīƞŧ/person."
+
+#. /definitions/ContactPoint/properties/email/description
+#: schema/release-schema.json:1
+msgid "The e-mail address of the contact point/person."
+msgstr "Ŧħḗ ḗ-ḿȧīŀ ȧḓḓřḗşş ǿƒ ŧħḗ ƈǿƞŧȧƈŧ ƥǿīƞŧ/person."
+
+#. /definitions/ContactPoint/properties/telephone/description
+#: schema/release-schema.json:1
+msgid ""
+"The telephone number of the contact point/person. This should include the"
+" international dialling code."
+msgstr ""
+"Ŧħḗ ŧḗŀḗƥħǿƞḗ ƞŭḿƀḗř ǿƒ ŧħḗ ƈǿƞŧȧƈŧ ƥǿīƞŧ/person. Ŧħīş şħǿŭŀḓ īƞƈŀŭḓḗ ŧħḗ "
+"īƞŧḗřƞȧŧīǿƞȧŀ ḓīȧŀŀīƞɠ ƈǿḓḗ."
+
+#. /definitions/ContactPoint/properties/faxNumber/description
+#: schema/release-schema.json:1
+msgid ""
+"The fax number of the contact point/person. This should include the "
+"international dialling code."
+msgstr ""
+"Ŧħḗ ƒȧẋ ƞŭḿƀḗř ǿƒ ŧħḗ ƈǿƞŧȧƈŧ ƥǿīƞŧ/person. Ŧħīş şħǿŭŀḓ īƞƈŀŭḓḗ ŧħḗ "
+"īƞŧḗřƞȧŧīǿƞȧŀ ḓīȧŀŀīƞɠ ƈǿḓḗ."
+
+#. /definitions/Organization/description
+#: schema/release-schema.json:1
+msgid "An organization."
+msgstr "Ȧƞ ǿřɠȧƞīzȧŧīǿƞ."
+
+#. /definitions/Organization/title
+#: schema/release-schema.json:1
+msgid "Organization"
+msgstr "Ǿřɠȧƞīzȧŧīǿƞ"
+
+#. /definitions/Organization/properties/name/description
+#: schema/release-schema.json:1
+msgid ""
+"The common name of the organization. The ID property provides an space "
+"for the formal legal name, and so this may either repeat that value, or "
+"could provide the common name by which this organization is known. This "
+"field could also include details of the department or sub-unit involved "
+"in this contracting process."
+msgstr ""
+"Ŧħḗ ƈǿḿḿǿƞ ƞȧḿḗ ǿƒ ŧħḗ ǿřɠȧƞīzȧŧīǿƞ. Ŧħḗ ĪḒ ƥřǿƥḗřŧẏ ƥřǿṽīḓḗş ȧƞ şƥȧƈḗ ƒǿř "
+"ŧħḗ ƒǿřḿȧŀ ŀḗɠȧŀ ƞȧḿḗ, ȧƞḓ şǿ ŧħīş ḿȧẏ ḗīŧħḗř řḗƥḗȧŧ ŧħȧŧ ṽȧŀŭḗ, ǿř ƈǿŭŀḓ "
+"ƥřǿṽīḓḗ ŧħḗ ƈǿḿḿǿƞ ƞȧḿḗ ƀẏ ẇħīƈħ ŧħīş ǿřɠȧƞīzȧŧīǿƞ īş ķƞǿẇƞ. Ŧħīş ƒīḗŀḓ "
+"ƈǿŭŀḓ ȧŀşǿ īƞƈŀŭḓḗ ḓḗŧȧīŀş ǿƒ ŧħḗ ḓḗƥȧřŧḿḗƞŧ ǿř şŭƀ-ŭƞīŧ īƞṽǿŀṽḗḓ īƞ ŧħīş "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
+
+#. /definitions/Organization/properties/additionalIdentifiers/description
+#: schema/release-schema.json:1
+msgid ""
+"A list of additional / supplemental identifiers for the organization, "
+"using the [organization identifier guidance](http://standard.open-"
+"contracting.org/latest/en/schema/identifiers/). This could be used to "
+"provide an internally used identifier for this organization in addition "
+"to the primary legal entity identifier."
+msgstr ""
+"Ȧ ŀīşŧ ǿƒ ȧḓḓīŧīǿƞȧŀ / şŭƥƥŀḗḿḗƞŧȧŀ īḓḗƞŧīƒīḗřş ƒǿř ŧħḗ ǿřɠȧƞīzȧŧīǿƞ, ŭşīƞɠ "
+"ŧħḗ [ǿřɠȧƞīzȧŧīǿƞ īḓḗƞŧīƒīḗř ɠŭīḓȧƞƈḗ](http://standard.open-"
+"contracting.org/latest/en/schema/identifiers/). Ŧħīş ƈǿŭŀḓ ƀḗ ŭşḗḓ ŧǿ "
+"ƥřǿṽīḓḗ ȧƞ īƞŧḗřƞȧŀŀẏ ŭşḗḓ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ǿřɠȧƞīzȧŧīǿƞ īƞ ȧḓḓīŧīǿƞ ŧǿ "
+"ŧħḗ ƥřīḿȧřẏ ŀḗɠȧŀ ḗƞŧīŧẏ īḓḗƞŧīƒīḗř."
+
+#. /definitions/Organization/properties/identifier/description
+#: schema/release-schema.json:1
+msgid ""
+"The primary identifier for this organization. Identifiers that uniquely "
+"pick out a legal entity should be preferred. Consult the [organization "
+"identifier guidance](http://standard.open-"
+"contracting.org/latest/en/schema/identifiers/) for the preferred scheme "
+"and identifier to use."
+msgstr ""
+"Ŧħḗ ƥřīḿȧřẏ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ǿřɠȧƞīzȧŧīǿƞ. Īḓḗƞŧīƒīḗřş ŧħȧŧ ŭƞīɋŭḗŀẏ ƥīƈķ "
+"ǿŭŧ ȧ ŀḗɠȧŀ ḗƞŧīŧẏ şħǿŭŀḓ ƀḗ ƥřḗƒḗřřḗḓ. Ƈǿƞşŭŀŧ ŧħḗ [ǿřɠȧƞīzȧŧīǿƞ īḓḗƞŧīƒīḗř "
+"ɠŭīḓȧƞƈḗ](http://standard.open-contracting.org/latest/en/schema/identifiers/)"
+" ƒǿř ŧħḗ ƥřḗƒḗřřḗḓ şƈħḗḿḗ ȧƞḓ īḓḗƞŧīƒīḗř ŧǿ ŭşḗ."
+
+#. /definitions/Address/description
+#: schema/release-schema.json:1
+msgid ""
+"An address. This may be the legally registered address of the "
+"organization, or may be a correspondence address for this particular "
+"contracting process."
+msgstr ""
+"Ȧƞ ȧḓḓřḗşş. Ŧħīş ḿȧẏ ƀḗ ŧħḗ ŀḗɠȧŀŀẏ řḗɠīşŧḗřḗḓ ȧḓḓřḗşş ǿƒ ŧħḗ ǿřɠȧƞīzȧŧīǿƞ, "
+"ǿř ḿȧẏ ƀḗ ȧ ƈǿřřḗşƥǿƞḓḗƞƈḗ ȧḓḓřḗşş ƒǿř ŧħīş ƥȧřŧīƈŭŀȧř ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
+
+#. /definitions/Address/properties/streetAddress/description
+#: schema/release-schema.json:1
+msgid "The street address. For example, 1600 Amphitheatre Pkwy."
+msgstr "Ŧħḗ şŧřḗḗŧ ȧḓḓřḗşş. Ƒǿř ḗẋȧḿƥŀḗ, 1600 Ȧḿƥħīŧħḗȧŧřḗ Ƥķẇẏ."
+
+#. /definitions/Address/properties/locality/description
+#: schema/release-schema.json:1
+msgid "The locality. For example, Mountain View."
+msgstr "Ŧħḗ ŀǿƈȧŀīŧẏ. Ƒǿř ḗẋȧḿƥŀḗ, Ḿǿŭƞŧȧīƞ Ṽīḗẇ."
+
+#. /definitions/Address/properties/postalCode/description
+#: schema/release-schema.json:1
+msgid "The postal code. For example, 94043."
+msgstr "Ŧħḗ ƥǿşŧȧŀ ƈǿḓḗ. Ƒǿř ḗẋȧḿƥŀḗ, 94043."
+
+#. /definitions/Address/properties/region/description
+#: schema/release-schema.json:1
+msgid "The region. For example, CA."
+msgstr "Ŧħḗ řḗɠīǿƞ. Ƒǿř ḗẋȧḿƥŀḗ, ƇȦ."
+
+#. /definitions/Address/properties/countryName/description
+#: schema/release-schema.json:1
+msgid "The country name. For example, United States."
+msgstr "Ŧħḗ ƈǿŭƞŧřẏ ƞȧḿḗ. Ƒǿř ḗẋȧḿƥŀḗ, Ŭƞīŧḗḓ Şŧȧŧḗş."
+
+#. /definitions/Planning/description
+#: schema/release-schema.json:1
+msgid ""
+"Information from the planning phase of the contracting process. Note that"
+" many other fields may be filled in a planning release, in the "
+"appropriate fields in other schema sections, these would likely be "
+"estimates at this stage e.g. totalValue in tender"
+msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ ƒřǿḿ ŧħḗ ƥŀȧƞƞīƞɠ ƥħȧşḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ƞǿŧḗ ŧħȧŧ "
+"ḿȧƞẏ ǿŧħḗř ƒīḗŀḓş ḿȧẏ ƀḗ ƒīŀŀḗḓ īƞ ȧ ƥŀȧƞƞīƞɠ řḗŀḗȧşḗ, īƞ ŧħḗ ȧƥƥřǿƥřīȧŧḗ "
+"ƒīḗŀḓş īƞ ǿŧħḗř şƈħḗḿȧ şḗƈŧīǿƞş, ŧħḗşḗ ẇǿŭŀḓ ŀīķḗŀẏ ƀḗ ḗşŧīḿȧŧḗş ȧŧ ŧħīş "
+"şŧȧɠḗ ḗ.ɠ. ŧǿŧȧŀṼȧŀŭḗ īƞ ŧḗƞḓḗř"
+
+#. /definitions/Planning/properties/documents/description
+#: schema/release-schema.json:1
+msgid "A list of documents related to the planning process."
+msgstr "Ȧ ŀīşŧ ǿƒ ḓǿƈŭḿḗƞŧş řḗŀȧŧḗḓ ŧǿ ŧħḗ ƥŀȧƞƞīƞɠ ƥřǿƈḗşş."
+
+#. /definitions/Planning/properties/rationale/description
+#: schema/release-schema.json:1
+msgid ""
+"The rationale for the procurement provided in free text. More detail can "
+"be provided in an attached document."
+msgstr ""
+"Ŧħḗ řȧŧīǿƞȧŀḗ ƒǿř ŧħḗ ƥřǿƈŭřḗḿḗƞŧ ƥřǿṽīḓḗḓ īƞ ƒřḗḗ ŧḗẋŧ. Ḿǿřḗ ḓḗŧȧīŀ ƈȧƞ ƀḗ "
+"ƥřǿṽīḓḗḓ īƞ ȧƞ ȧŧŧȧƈħḗḓ ḓǿƈŭḿḗƞŧ."
+
+#. /definitions/Contract/description
+#: schema/release-schema.json:1
+msgid ""
+"Information regarding the signed contract between the buyer and "
+"supplier(s)."
+msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ řḗɠȧřḓīƞɠ ŧħḗ şīɠƞḗḓ ƈǿƞŧřȧƈŧ ƀḗŧẇḗḗƞ ŧħḗ ƀŭẏḗř ȧƞḓ şŭƥƥŀīḗř(ş)."
+
+#. /definitions/Contract/title
+#: schema/release-schema.json:1
+msgid "Contract"
+msgstr "Ƈǿƞŧřȧƈŧ"
+
+#. /definitions/Contract/properties/documents/description
+#: schema/release-schema.json:1
+msgid ""
+"All documents and attachments related to the contract, including any "
+"notices."
+msgstr ""
+"Ȧŀŀ ḓǿƈŭḿḗƞŧş ȧƞḓ ȧŧŧȧƈħḿḗƞŧş řḗŀȧŧḗḓ ŧǿ ŧħḗ ƈǿƞŧřȧƈŧ, īƞƈŀŭḓīƞɠ ȧƞẏ ƞǿŧīƈḗş."
+
+#. /definitions/Contract/properties/id/description
+#: schema/release-schema.json:1
+msgid ""
+"The identifier for this contract. It must be unique and cannot change "
+"within its Open Contracting Process (defined by a single ocid). See the "
+"[identifier guidance](http://standard.open-"
+"contracting.org/latest/en/schema/identifiers/) for further details."
+msgstr ""
+"Ŧħḗ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ƈǿƞŧřȧƈŧ. Īŧ ḿŭşŧ ƀḗ ŭƞīɋŭḗ ȧƞḓ ƈȧƞƞǿŧ ƈħȧƞɠḗ ẇīŧħīƞ "
+"īŧş Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ƥřǿƈḗşş (ḓḗƒīƞḗḓ ƀẏ ȧ şīƞɠŀḗ ǿƈīḓ). Şḗḗ ŧħḗ [īḓḗƞŧīƒīḗř "
+"ɠŭīḓȧƞƈḗ](http://standard.open-contracting.org/latest/en/schema/identifiers/)"
+" ƒǿř ƒŭřŧħḗř ḓḗŧȧīŀş."
+
+#. /definitions/Contract/properties/id/title
+#: schema/release-schema.json:1
+msgid "Contract ID"
+msgstr "Ƈǿƞŧřȧƈŧ ĪḒ"
+
+#. /definitions/Contract/properties/items/description
+#: schema/release-schema.json:1
+msgid ""
+"The goods, services, and any intangible outcomes in this contract. Note: "
+"If the items are the same as the award do not repeat."
+msgstr ""
+"Ŧħḗ ɠǿǿḓş, şḗřṽīƈḗş, ȧƞḓ ȧƞẏ īƞŧȧƞɠīƀŀḗ ǿŭŧƈǿḿḗş īƞ ŧħīş ƈǿƞŧřȧƈŧ. Ƞǿŧḗ: Īƒ "
+"ŧħḗ īŧḗḿş ȧřḗ ŧħḗ şȧḿḗ ȧş ŧħḗ ȧẇȧřḓ ḓǿ ƞǿŧ řḗƥḗȧŧ."
+
+#. /definitions/Contract/properties/items/title
+#: schema/release-schema.json:1
+msgid "Items Contracted"
+msgstr "Īŧḗḿş Ƈǿƞŧřȧƈŧḗḓ"
+
+#. /definitions/Contract/properties/status/description
+#: schema/release-schema.json:1
+msgid ""
+"The current status of the contract. Drawn from the [contractStatus "
+"codelist](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#contract-status)"
+msgstr ""
+"Ŧħḗ ƈŭřřḗƞŧ şŧȧŧŭş ǿƒ ŧħḗ ƈǿƞŧřȧƈŧ. Ḓřȧẇƞ ƒřǿḿ ŧħḗ [ƈǿƞŧřȧƈŧŞŧȧŧŭş "
+"ƈǿḓḗŀīşŧ](http://standard.open-contracting.org/latest/en/schema/codelists"
+"/#contract-status)"
+
+#. /definitions/Contract/properties/status/title
+#: schema/release-schema.json:1
+msgid "Contract Status"
+msgstr "Ƈǿƞŧřȧƈŧ Şŧȧŧŭş"
+
+#. /definitions/Contract/properties/period/description
+#: schema/release-schema.json:1
+msgid "The start and end date for the contract."
+msgstr "Ŧħḗ şŧȧřŧ ȧƞḓ ḗƞḓ ḓȧŧḗ ƒǿř ŧħḗ ƈǿƞŧřȧƈŧ."
+
+#. /definitions/Contract/properties/description/description
+#: schema/release-schema.json:1
+msgid "Contract description"
+msgstr "Ƈǿƞŧřȧƈŧ ḓḗşƈřīƥŧīǿƞ"
+
+#. /definitions/Contract/properties/value/description
+#: schema/release-schema.json:1
+msgid "The total value of this contract."
+msgstr "Ŧħḗ ŧǿŧȧŀ ṽȧŀŭḗ ǿƒ ŧħīş ƈǿƞŧřȧƈŧ."
+
+#. /definitions/Contract/properties/title/description
+#: schema/release-schema.json:1
+msgid "Contract title"
+msgstr "Ƈǿƞŧřȧƈŧ ŧīŧŀḗ"
+
+#. /definitions/Contract/properties/implementation/description
+#: schema/release-schema.json:1
+msgid ""
+"Information related to the implementation of the contract in accordance "
+"with the obligations laid out therein."
+msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ řḗŀȧŧḗḓ ŧǿ ŧħḗ īḿƥŀḗḿḗƞŧȧŧīǿƞ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧ īƞ ȧƈƈǿřḓȧƞƈḗ ẇīŧħ "
+"ŧħḗ ǿƀŀīɠȧŧīǿƞş ŀȧīḓ ǿŭŧ ŧħḗřḗīƞ."
+
+#. /definitions/Contract/properties/implementation/title
+#. /definitions/Implementation/title
+#: schema/release-schema.json:1
+msgid "Implementation"
+msgstr "Īḿƥŀḗḿḗƞŧȧŧīǿƞ"
+
+#. /definitions/Contract/properties/awardID/description
+#: schema/release-schema.json:1
+msgid "The award.id against which this contract is being issued."
+msgstr "Ŧħḗ ȧẇȧřḓ.īḓ ȧɠȧīƞşŧ ẇħīƈħ ŧħīş ƈǿƞŧřȧƈŧ īş ƀḗīƞɠ īşşŭḗḓ."
+
+#. /definitions/Contract/properties/dateSigned/description
+#: schema/release-schema.json:1
+msgid ""
+"The date the contract was signed. In the case of multiple signatures, the"
+" date of the last signature."
+msgstr ""
+"Ŧħḗ ḓȧŧḗ ŧħḗ ƈǿƞŧřȧƈŧ ẇȧş şīɠƞḗḓ. Īƞ ŧħḗ ƈȧşḗ ǿƒ ḿŭŀŧīƥŀḗ şīɠƞȧŧŭřḗş, ŧħḗ "
+"ḓȧŧḗ ǿƒ ŧħḗ ŀȧşŧ şīɠƞȧŧŭřḗ."
+
+#. /definitions/Amendment/properties/date/description
+#: schema/release-schema.json:1
+msgid "The data of this amendment."
+msgstr "Ŧħḗ ḓȧŧȧ ǿƒ ŧħīş ȧḿḗƞḓḿḗƞŧ."
+
+#. /definitions/Amendment/properties/date/title
+#: schema/release-schema.json:1
+msgid "Amendment Date"
+msgstr "Ȧḿḗƞḓḿḗƞŧ Ḓȧŧḗ"
+
+#. /definitions/Amendment/properties/rationale/description
+#: schema/release-schema.json:1
+msgid "An explanation for the amendment."
+msgstr "Ȧƞ ḗẋƥŀȧƞȧŧīǿƞ ƒǿř ŧħḗ ȧḿḗƞḓḿḗƞŧ."
+
+#. /definitions/Amendment/properties/changes/description
+#: schema/release-schema.json:1
+msgid "Comma-seperated list of affected fields."
+msgstr "Ƈǿḿḿȧ-şḗƥḗřȧŧḗḓ ŀīşŧ ǿƒ ȧƒƒḗƈŧḗḓ ƒīḗŀḓş."
+
+#. /definitions/Amendment/properties/changes/title
+#: schema/release-schema.json:1
+msgid "Amended fields"
+msgstr "Ȧḿḗƞḓḗḓ ƒīḗŀḓş"
+
+#. /definitions/Amendment/properties/changes/items/properties/property/description
+#. /definitions/Amendment/properties/changes/items/properties/value/items/properties/property/description
 #: schema/release-schema.json:1
 #: schema/versioned-release-validation-schema.json:1
 msgid ""
-"A globally unique identifier for this Open Contracting Process. Composed of "
-"a publisher prefix and an identifier for the contracting process. For more "
-"information see the [Open Contracting Identifier guidance](http://standard"
-".open-contracting.org/latest/en/schema/identifiers/)"
+"The property name that has been changed relative to the place the "
+"amendment is. For example if the contract value has changed, then the "
+"property under changes within the contract.amendment would be "
+"value.amount. "
 msgstr ""
+"Ŧħḗ ƥřǿƥḗřŧẏ ƞȧḿḗ ŧħȧŧ ħȧş ƀḗḗƞ ƈħȧƞɠḗḓ řḗŀȧŧīṽḗ ŧǿ ŧħḗ ƥŀȧƈḗ ŧħḗ ȧḿḗƞḓḿḗƞŧ "
+"īş. Ƒǿř ḗẋȧḿƥŀḗ īƒ ŧħḗ ƈǿƞŧřȧƈŧ ṽȧŀŭḗ ħȧş ƈħȧƞɠḗḓ, ŧħḗƞ ŧħḗ ƥřǿƥḗřŧẏ ŭƞḓḗř "
+"ƈħȧƞɠḗş ẇīŧħīƞ ŧħḗ ƈǿƞŧřȧƈŧ.ȧḿḗƞḓḿḗƞŧ ẇǿŭŀḓ ƀḗ ṽȧŀŭḗ.ȧḿǿŭƞŧ. "
 
-#. /properties/id/title
+#. /definitions/Amendment/properties/changes/items/properties/former_value/description
+#. /definitions/Amendment/properties/changes/items/properties/value/items/properties/former_value/description
 #: schema/release-schema.json:1
-msgid "Release ID"
+#: schema/versioned-release-validation-schema.json:1
+msgid ""
+"The previous value of the changed property, in whatever type the property"
+" is."
 msgstr ""
+"Ŧħḗ ƥřḗṽīǿŭş ṽȧŀŭḗ ǿƒ ŧħḗ ƈħȧƞɠḗḓ ƥřǿƥḗřŧẏ, īƞ ẇħȧŧḗṽḗř ŧẏƥḗ ŧħḗ ƥřǿƥḗřŧẏ īş."
 
-#. /properties/id/description
+#. /definitions/Amendment/title
+#: schema/release-schema.json:1
+msgid "Amendment information"
+msgstr "Ȧḿḗƞḓḿḗƞŧ īƞƒǿřḿȧŧīǿƞ"
+
+#. /definitions/Identifier/properties/uri/description
 #: schema/release-schema.json:1
 msgid ""
-"A unique identifier that identifies this release. A release ID must be "
-"unique within a release-package and must not contain the # character."
+"A URI to identify the organization, such as those provided by [Open "
+"Corporates](http://www.opencorporates.com) or some other relevant URI "
+"provider. This is not for listing the website of the organization: that "
+"can be done through the url field of the Organization contact point."
 msgstr ""
+"Ȧ ŬŘĪ ŧǿ īḓḗƞŧīƒẏ ŧħḗ ǿřɠȧƞīzȧŧīǿƞ, şŭƈħ ȧş ŧħǿşḗ ƥřǿṽīḓḗḓ ƀẏ [Ǿƥḗƞ "
+"Ƈǿřƥǿřȧŧḗş](http://www.opencorporates.com) ǿř şǿḿḗ ǿŧħḗř řḗŀḗṽȧƞŧ ŬŘĪ "
+"ƥřǿṽīḓḗř. Ŧħīş īş ƞǿŧ ƒǿř ŀīşŧīƞɠ ŧħḗ ẇḗƀşīŧḗ ǿƒ ŧħḗ ǿřɠȧƞīzȧŧīǿƞ: ŧħȧŧ ƈȧƞ "
+"ƀḗ ḓǿƞḗ ŧħřǿŭɠħ ŧħḗ ŭřŀ ƒīḗŀḓ ǿƒ ŧħḗ Ǿřɠȧƞīzȧŧīǿƞ ƈǿƞŧȧƈŧ ƥǿīƞŧ."
+
+#. /definitions/Identifier/properties/scheme/description
+#: schema/release-schema.json:1
+msgid ""
+"Organization identifiers be drawn from an existing identification scheme."
+" This field is used to indicate the scheme or codelist in which the "
+"identifier will be found. This value should be drawn from the "
+"[Organization Identifier Scheme](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#organization-identifier-"
+"scheme)."
+msgstr ""
+"Ǿřɠȧƞīzȧŧīǿƞ īḓḗƞŧīƒīḗřş ƀḗ ḓřȧẇƞ ƒřǿḿ ȧƞ ḗẋīşŧīƞɠ īḓḗƞŧīƒīƈȧŧīǿƞ şƈħḗḿḗ. "
+"Ŧħīş ƒīḗŀḓ īş ŭşḗḓ ŧǿ īƞḓīƈȧŧḗ ŧħḗ şƈħḗḿḗ ǿř ƈǿḓḗŀīşŧ īƞ ẇħīƈħ ŧħḗ "
+"īḓḗƞŧīƒīḗř ẇīŀŀ ƀḗ ƒǿŭƞḓ. Ŧħīş ṽȧŀŭḗ şħǿŭŀḓ ƀḗ ḓřȧẇƞ ƒřǿḿ ŧħḗ [Ǿřɠȧƞīzȧŧīǿƞ "
+"Īḓḗƞŧīƒīḗř Şƈħḗḿḗ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#organization-identifier-scheme)."
+
+#. /definitions/Identifier/properties/id/description
+#: schema/release-schema.json:1
+msgid "The identifier of the organization in the selected scheme."
+msgstr "Ŧħḗ īḓḗƞŧīƒīḗř ǿƒ ŧħḗ ǿřɠȧƞīzȧŧīǿƞ īƞ ŧħḗ şḗŀḗƈŧḗḓ şƈħḗḿḗ."
+
+#. /definitions/Identifier/properties/legalName/description
+#: schema/release-schema.json:1
+msgid "The legally registered name of the organization."
+msgstr "Ŧħḗ ŀḗɠȧŀŀẏ řḗɠīşŧḗřḗḓ ƞȧḿḗ ǿƒ ŧħḗ ǿřɠȧƞīzȧŧīǿƞ."
+
+#. /definitions/Transaction/description
+#: schema/release-schema.json:1
+msgid ""
+"A spending transaction related to the contracting process. Draws upon the"
+" data models of the [Budget Data Package](https://github.com/openspending"
+"/budget-data-package/blob/master/specification.md) and the [International"
+" Aid Transpareny Initiative](http://iatistandard.org/activity-standard"
+"/iati-activities/iati-activity/transaction/) and should be used to cross-"
+"reference to more detailed information held using a Budget Data Package, "
+"IATI file, or to provide enough information to allow a user to manually "
+"or automatically cross-reference with some other published source of "
+"transactional spending data."
+msgstr ""
+"Ȧ şƥḗƞḓīƞɠ ŧřȧƞşȧƈŧīǿƞ řḗŀȧŧḗḓ ŧǿ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ḓřȧẇş ŭƥǿƞ ŧħḗ "
+"ḓȧŧȧ ḿǿḓḗŀş ǿƒ ŧħḗ [Ɓŭḓɠḗŧ Ḓȧŧȧ Ƥȧƈķȧɠḗ](https://github.com/openspending"
+"/budget-data-package/blob/master/specification.md) ȧƞḓ ŧħḗ [Īƞŧḗřƞȧŧīǿƞȧŀ "
+"Ȧīḓ Ŧřȧƞşƥȧřḗƞẏ Īƞīŧīȧŧīṽḗ](http://iatistandard.org/activity-standard/iati-"
+"activities/iati-activity/transaction/) ȧƞḓ şħǿŭŀḓ ƀḗ ŭşḗḓ ŧǿ ƈřǿşş-řḗƒḗřḗƞƈḗ "
+"ŧǿ ḿǿřḗ ḓḗŧȧīŀḗḓ īƞƒǿřḿȧŧīǿƞ ħḗŀḓ ŭşīƞɠ ȧ Ɓŭḓɠḗŧ Ḓȧŧȧ Ƥȧƈķȧɠḗ, ĪȦŦĪ ƒīŀḗ, ǿř "
+"ŧǿ ƥřǿṽīḓḗ ḗƞǿŭɠħ īƞƒǿřḿȧŧīǿƞ ŧǿ ȧŀŀǿẇ ȧ ŭşḗř ŧǿ ḿȧƞŭȧŀŀẏ ǿř ȧŭŧǿḿȧŧīƈȧŀŀẏ "
+"ƈřǿşş-řḗƒḗřḗƞƈḗ ẇīŧħ şǿḿḗ ǿŧħḗř ƥŭƀŀīşħḗḓ şǿŭřƈḗ ǿƒ ŧřȧƞşȧƈŧīǿƞȧŀ şƥḗƞḓīƞɠ "
+"ḓȧŧȧ."
+
+#. /definitions/Transaction/title
+#: schema/release-schema.json:1
+msgid "Transaction Information"
+msgstr "Ŧřȧƞşȧƈŧīǿƞ Īƞƒǿřḿȧŧīǿƞ"
+
+#. /definitions/Transaction/properties/date/description
+#: schema/release-schema.json:1
+msgid "The date of the transaction"
+msgstr "Ŧħḗ ḓȧŧḗ ǿƒ ŧħḗ ŧřȧƞşȧƈŧīǿƞ"
+
+#. /definitions/Transaction/properties/providerOrganization/description
+#: schema/release-schema.json:1
+msgid ""
+"The Organization Identifier for the organization from which the funds in "
+"this transaction originate. Expressed following the Organizational "
+"Identifier standard - consult the documentation and the codelist."
+msgstr ""
+"Ŧħḗ Ǿřɠȧƞīzȧŧīǿƞ Īḓḗƞŧīƒīḗř ƒǿř ŧħḗ ǿřɠȧƞīzȧŧīǿƞ ƒřǿḿ ẇħīƈħ ŧħḗ ƒŭƞḓş īƞ "
+"ŧħīş ŧřȧƞşȧƈŧīǿƞ ǿřīɠīƞȧŧḗ. Ḗẋƥřḗşşḗḓ ƒǿŀŀǿẇīƞɠ ŧħḗ Ǿřɠȧƞīzȧŧīǿƞȧŀ "
+"Īḓḗƞŧīƒīḗř şŧȧƞḓȧřḓ - ƈǿƞşŭŀŧ ŧħḗ ḓǿƈŭḿḗƞŧȧŧīǿƞ ȧƞḓ ŧħḗ ƈǿḓḗŀīşŧ."
+
+#. /definitions/Transaction/properties/id/description
+#: schema/release-schema.json:1
+msgid ""
+"A unique identifier for this transaction. This identifier should be "
+"possible to cross-reference against the provided data source. For the "
+"budget data package this is the id, for IATI, the transaction reference."
+msgstr ""
+"Ȧ ŭƞīɋŭḗ īḓḗƞŧīƒīḗř ƒǿř ŧħīş ŧřȧƞşȧƈŧīǿƞ. Ŧħīş īḓḗƞŧīƒīḗř şħǿŭŀḓ ƀḗ ƥǿşşīƀŀḗ "
+"ŧǿ ƈřǿşş-řḗƒḗřḗƞƈḗ ȧɠȧīƞşŧ ŧħḗ ƥřǿṽīḓḗḓ ḓȧŧȧ şǿŭřƈḗ. Ƒǿř ŧħḗ ƀŭḓɠḗŧ ḓȧŧȧ "
+"ƥȧƈķȧɠḗ ŧħīş īş ŧħḗ īḓ, ƒǿř ĪȦŦĪ, ŧħḗ ŧřȧƞşȧƈŧīǿƞ řḗƒḗřḗƞƈḗ."
+
+#. /definitions/Transaction/properties/receiverOrganization/description
+#: schema/release-schema.json:1
+msgid ""
+"The Organization Identifier for the organization which receives the funds"
+" in this transaction. Expressed following the Organizational Identifier "
+"standard - consult the documentation and the codelist."
+msgstr ""
+"Ŧħḗ Ǿřɠȧƞīzȧŧīǿƞ Īḓḗƞŧīƒīḗř ƒǿř ŧħḗ ǿřɠȧƞīzȧŧīǿƞ ẇħīƈħ řḗƈḗīṽḗş ŧħḗ ƒŭƞḓş īƞ "
+"ŧħīş ŧřȧƞşȧƈŧīǿƞ. Ḗẋƥřḗşşḗḓ ƒǿŀŀǿẇīƞɠ ŧħḗ Ǿřɠȧƞīzȧŧīǿƞȧŀ Īḓḗƞŧīƒīḗř şŧȧƞḓȧřḓ "
+"- ƈǿƞşŭŀŧ ŧħḗ ḓǿƈŭḿḗƞŧȧŧīǿƞ ȧƞḓ ŧħḗ ƈǿḓḗŀīşŧ."
+
+#. /definitions/Transaction/properties/uri/description
+#: schema/release-schema.json:1
+msgid ""
+"A URI pointing directly to a machine-readable record about this spending "
+"transaction."
+msgstr ""
+"Ȧ ŬŘĪ ƥǿīƞŧīƞɠ ḓīřḗƈŧŀẏ ŧǿ ȧ ḿȧƈħīƞḗ-řḗȧḓȧƀŀḗ řḗƈǿřḓ ȧƀǿŭŧ ŧħīş şƥḗƞḓīƞɠ "
+"ŧřȧƞşȧƈŧīǿƞ."
+
+#. /definitions/Transaction/properties/uri/title
+#: schema/release-schema.json:1
+msgid "Linked spending information"
+msgstr "Ŀīƞķḗḓ şƥḗƞḓīƞɠ īƞƒǿřḿȧŧīǿƞ"
+
+#. /definitions/Transaction/properties/amount/description
+#: schema/release-schema.json:1
+msgid "The value of the transaction."
+msgstr "Ŧħḗ ṽȧŀŭḗ ǿƒ ŧħḗ ŧřȧƞşȧƈŧīǿƞ."
+
+#. /definitions/Transaction/properties/source/description
+#: schema/release-schema.json:1
+msgid ""
+"Used to point either to a corresponding Budget Data Package, IATI file, "
+"or machine or human-readable source where users can find further "
+"information on the budget line item identifiers, or project identifiers, "
+"provided here."
+msgstr ""
+"Ŭşḗḓ ŧǿ ƥǿīƞŧ ḗīŧħḗř ŧǿ ȧ ƈǿřřḗşƥǿƞḓīƞɠ Ɓŭḓɠḗŧ Ḓȧŧȧ Ƥȧƈķȧɠḗ, ĪȦŦĪ ƒīŀḗ, ǿř "
+"ḿȧƈħīƞḗ ǿř ħŭḿȧƞ-řḗȧḓȧƀŀḗ şǿŭřƈḗ ẇħḗřḗ ŭşḗřş ƈȧƞ ƒīƞḓ ƒŭřŧħḗř īƞƒǿřḿȧŧīǿƞ ǿƞ "
+"ŧħḗ ƀŭḓɠḗŧ ŀīƞḗ īŧḗḿ īḓḗƞŧīƒīḗřş, ǿř ƥřǿĵḗƈŧ īḓḗƞŧīƒīḗřş, ƥřǿṽīḓḗḓ ħḗřḗ."
+
+#. /definitions/Implementation/description
+#: schema/release-schema.json:1
+msgid "Information during the performance / implementation stage of the contract."
+msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ ḓŭřīƞɠ ŧħḗ ƥḗřƒǿřḿȧƞƈḗ / īḿƥŀḗḿḗƞŧȧŧīǿƞ şŧȧɠḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧ."
+
+#. /definitions/Implementation/properties/documents/description
+#: schema/release-schema.json:1
+msgid ""
+"Documents and reports that are part of the implementation phase e.g. "
+"audit and evaluation reports."
+msgstr ""
+"Ḓǿƈŭḿḗƞŧş ȧƞḓ řḗƥǿřŧş ŧħȧŧ ȧřḗ ƥȧřŧ ǿƒ ŧħḗ īḿƥŀḗḿḗƞŧȧŧīǿƞ ƥħȧşḗ ḗ.ɠ. ȧŭḓīŧ "
+"ȧƞḓ ḗṽȧŀŭȧŧīǿƞ řḗƥǿřŧş."
+
+#. /definitions/Implementation/properties/transactions/description
+#: schema/release-schema.json:1
+msgid "A list of the spending transactions made against this contract"
+msgstr "Ȧ ŀīşŧ ǿƒ ŧħḗ şƥḗƞḓīƞɠ ŧřȧƞşȧƈŧīǿƞş ḿȧḓḗ ȧɠȧīƞşŧ ŧħīş ƈǿƞŧřȧƈŧ"
+
+#. /definitions/Implementation/properties/milestones/description
+#: schema/release-schema.json:1
+msgid "As milestones are completed, milestone completions should be documented."
+msgstr ""
+"Ȧş ḿīŀḗşŧǿƞḗş ȧřḗ ƈǿḿƥŀḗŧḗḓ, ḿīŀḗşŧǿƞḗ ƈǿḿƥŀḗŧīǿƞş şħǿŭŀḓ ƀḗ ḓǿƈŭḿḗƞŧḗḓ."
+
+#. /definitions/Classification/properties/description/description
+#: schema/release-schema.json:1
+msgid "A textual description or title for the code."
+msgstr "Ȧ ŧḗẋŧŭȧŀ ḓḗşƈřīƥŧīǿƞ ǿř ŧīŧŀḗ ƒǿř ŧħḗ ƈǿḓḗ."
+
+#. /definitions/Classification/properties/scheme/description
+#: schema/release-schema.json:1
+msgid ""
+"An classification should be drawn from an existing scheme or list of "
+"codes. This field is used to indicate the scheme/codelist from which the "
+"classification is drawn. For line item classifications, this value should"
+" represent an known [Item Classification Scheme](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#item-classification-scheme) "
+"wherever possible."
+msgstr ""
+"Ȧƞ ƈŀȧşşīƒīƈȧŧīǿƞ şħǿŭŀḓ ƀḗ ḓřȧẇƞ ƒřǿḿ ȧƞ ḗẋīşŧīƞɠ şƈħḗḿḗ ǿř ŀīşŧ ǿƒ ƈǿḓḗş. "
+"Ŧħīş ƒīḗŀḓ īş ŭşḗḓ ŧǿ īƞḓīƈȧŧḗ ŧħḗ şƈħḗḿḗ/codelist ƒřǿḿ ẇħīƈħ ŧħḗ "
+"ƈŀȧşşīƒīƈȧŧīǿƞ īş ḓřȧẇƞ. Ƒǿř ŀīƞḗ īŧḗḿ ƈŀȧşşīƒīƈȧŧīǿƞş, ŧħīş ṽȧŀŭḗ şħǿŭŀḓ "
+"řḗƥřḗşḗƞŧ ȧƞ ķƞǿẇƞ [Īŧḗḿ Ƈŀȧşşīƒīƈȧŧīǿƞ Şƈħḗḿḗ](http://standard.open-"
+"contracting.org/latest/en/schema/codelists/#item-classification-scheme) "
+"ẇħḗřḗṽḗř ƥǿşşīƀŀḗ."
+
+#. /definitions/Classification/properties/id/description
+#: schema/release-schema.json:1
+msgid "The classification code drawn from the selected scheme."
+msgstr "Ŧħḗ ƈŀȧşşīƒīƈȧŧīǿƞ ƈǿḓḗ ḓřȧẇƞ ƒřǿḿ ŧħḗ şḗŀḗƈŧḗḓ şƈħḗḿḗ."
+
+#. /definitions/Classification/properties/uri/description
+#: schema/release-schema.json:1
+msgid ""
+"A URI to identify the code. In the event individual URIs are not "
+"available for items in the identifier scheme this value should be left "
+"blank."
+msgstr ""
+"Ȧ ŬŘĪ ŧǿ īḓḗƞŧīƒẏ ŧħḗ ƈǿḓḗ. Īƞ ŧħḗ ḗṽḗƞŧ īƞḓīṽīḓŭȧŀ ŬŘĪş ȧřḗ ƞǿŧ ȧṽȧīŀȧƀŀḗ "
+"ƒǿř īŧḗḿş īƞ ŧħḗ īḓḗƞŧīƒīḗř şƈħḗḿḗ ŧħīş ṽȧŀŭḗ şħǿŭŀḓ ƀḗ ŀḗƒŧ ƀŀȧƞķ."
+
+#. /definitions/Value/properties/amount/description
+#: schema/release-schema.json:1
+msgid "Amount as a number."
+msgstr "Ȧḿǿŭƞŧ ȧş ȧ ƞŭḿƀḗř."
+
+#. /definitions/Value/properties/currency/description
+#: schema/release-schema.json:1
+msgid "The currency in 3-letter ISO 4217 format."
+msgstr "Ŧħḗ ƈŭřřḗƞƈẏ īƞ 3-ŀḗŧŧḗř ĪŞǾ 4217 ƒǿřḿȧŧ."
 
 #. /title
 #: schema/versioned-release-validation-schema.json:1
 msgid "Schema for a compiled, versioned Open Contracting Release."
-msgstr ""
+msgstr "Şƈħḗḿȧ ƒǿř ȧ ƈǿḿƥīŀḗḓ, ṽḗřşīǿƞḗḓ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Řḗŀḗȧşḗ."
 
 #: schema/utils/make_field_definitions.py:20
 msgid "Field Name"
-msgstr ""
+msgstr "Ƒīḗŀḓ Ƞȧḿḗ"
 
 #: schema/utils/make_field_definitions.py:20
 msgid "Description"
-msgstr ""
+msgstr "Ḓḗşƈřīƥŧīǿƞ"
 
 #: schema/utils/make_field_definitions.py:20
 msgid "Format"
-msgstr ""
+msgstr "Ƒǿřḿȧŧ"
 
 #: schema/utils/make_field_definitions.py:43
 #: schema/utils/make_field_definitions.py:47
 #: schema/utils/make_field_definitions.py:49
 msgid " See "
-msgstr ""
+msgstr " Şḗḗ "
 
 #: schema/utils/make_field_definitions.py:43
 msgid " section for further details."
-msgstr ""
+msgstr " şḗƈŧīǿƞ ƒǿř ƒŭřŧħḗř ḓḗŧȧīŀş."

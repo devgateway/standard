@@ -1,184 +1,183 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-09 10:41+0000\n"
-"PO-Revision-Date: 2016-03-09 10:42+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:0
 msgid "Releases and Records"
-msgstr ""
+msgstr "Řḗŀḗȧşḗş ȧƞḓ Řḗƈǿřḓş"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:3
 msgid "There are two kinds of OCDS document:"
-msgstr ""
+msgstr "Ŧħḗřḗ ȧřḗ ŧẇǿ ķīƞḓş ǿƒ ǾƇḒŞ ḓǿƈŭḿḗƞŧ:"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:0
 msgid "Releases"
-msgstr ""
+msgstr "Řḗŀḗȧşḗş"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:18
-msgid ""
-"Releases should be immutable objects, presenting information about a "
-"particular event in the lifetime of a contracting process."
+msgid "Releases should be immutable objects, presenting information about a particular event in the lifetime of a contracting process."
 msgstr ""
+"Řḗŀḗȧşḗş şħǿŭŀḓ ƀḗ īḿḿŭŧȧƀŀḗ ǿƀĵḗƈŧş, ƥřḗşḗƞŧīƞɠ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ȧ "
+"ƥȧřŧīƈŭŀȧř ḗṽḗƞŧ īƞ ŧħḗ ŀīƒḗŧīḿḗ ǿƒ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:20
-msgid ""
-"Each release must contain an OCID, a unique release ID, a release tag, and "
-"as much information as can be provided for users to understand the event "
-"taking place."
+msgid "Each release must contain an OCID, a unique release ID, a release tag, and as much information as can be provided for users to understand the event taking place."
 msgstr ""
+"Ḗȧƈħ řḗŀḗȧşḗ ḿŭşŧ ƈǿƞŧȧīƞ ȧƞ ǾƇĪḒ, ȧ ŭƞīɋŭḗ řḗŀḗȧşḗ ĪḒ, ȧ řḗŀḗȧşḗ ŧȧɠ, ȧƞḓ "
+"ȧş ḿŭƈħ īƞƒǿřḿȧŧīǿƞ ȧş ƈȧƞ ƀḗ ƥřǿṽīḓḗḓ ƒǿř ŭşḗřş ŧǿ ŭƞḓḗřşŧȧƞḓ ŧħḗ ḗṽḗƞŧ "
+"ŧȧķīƞɠ ƥŀȧƈḗ."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:22
 msgid "For example:"
-msgstr ""
+msgstr "Ƒǿř ḗẋȧḿƥŀḗ:"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:24
-msgid ""
-"A ```planning``` release may provide information in the planning section "
-"about budgets and procurement intention, and the tender section about the "
-"proposed details for a future tender;"
+msgid "A ```planning``` release may provide information in the planning section about budgets and procurement intention, and the tender section about the proposed details for a future tender;"
 msgstr ""
+"Ȧ ```ƥŀȧƞƞīƞɠ``` řḗŀḗȧşḗ ḿȧẏ ƥřǿṽīḓḗ īƞƒǿřḿȧŧīǿƞ īƞ ŧħḗ ƥŀȧƞƞīƞɠ şḗƈŧīǿƞ "
+"ȧƀǿŭŧ ƀŭḓɠḗŧş ȧƞḓ ƥřǿƈŭřḗḿḗƞŧ īƞŧḗƞŧīǿƞ, ȧƞḓ ŧħḗ ŧḗƞḓḗř şḗƈŧīǿƞ ȧƀǿŭŧ ŧħḗ "
+"ƥřǿƥǿşḗḓ ḓḗŧȧīŀş ƒǿř ȧ ƒŭŧŭřḗ ŧḗƞḓḗř;"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:25
-msgid ""
-"A ```tender``` release may provide information in the tender section about "
-"how to bid for the work, and may repeat ```planning``` information on the "
-"budget or project the tender is associated with;"
+msgid "A ```tender``` release may provide information in the tender section about how to bid for the work, and may repeat ```planning``` information on the budget or project the tender is associated with;"
 msgstr ""
+"Ȧ ```ŧḗƞḓḗř``` řḗŀḗȧşḗ ḿȧẏ ƥřǿṽīḓḗ īƞƒǿřḿȧŧīǿƞ īƞ ŧħḗ ŧḗƞḓḗř şḗƈŧīǿƞ ȧƀǿŭŧ "
+"ħǿẇ ŧǿ ƀīḓ ƒǿř ŧħḗ ẇǿřķ, ȧƞḓ ḿȧẏ řḗƥḗȧŧ ```ƥŀȧƞƞīƞɠ``` īƞƒǿřḿȧŧīǿƞ ǿƞ ŧħḗ "
+"ƀŭḓɠḗŧ ǿř ƥřǿĵḗƈŧ ŧħḗ ŧḗƞḓḗř īş ȧşşǿƈīȧŧḗḓ ẇīŧħ;"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:26
-msgid ""
-"A ```tenderUpdate``` release may provide an updated tender section with "
-"links to documents that answer questions asked during the enquiry period;"
+msgid "A ```tenderUpdate``` release may provide an updated tender section with links to documents that answer questions asked during the enquiry period;"
 msgstr ""
+"Ȧ ```ŧḗƞḓḗřŬƥḓȧŧḗ``` řḗŀḗȧşḗ ḿȧẏ ƥřǿṽīḓḗ ȧƞ ŭƥḓȧŧḗḓ ŧḗƞḓḗř şḗƈŧīǿƞ ẇīŧħ "
+"ŀīƞķş ŧǿ ḓǿƈŭḿḗƞŧş ŧħȧŧ ȧƞşẇḗř ɋŭḗşŧīǿƞş ȧşķḗḓ ḓŭřīƞɠ ŧħḗ ḗƞɋŭīřẏ ƥḗřīǿḓ;"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:27
-msgid ""
-"An ```award``` release may provide details of the supplier awarded the "
-"contract in the award section, and may provide repeated information about "
-"the how procurement took place in the tender section;"
+msgid "An ```award``` release may provide details of the supplier awarded the contract in the award section, and may provide repeated information about the how procurement took place in the tender section;"
 msgstr ""
+"Ȧƞ ```ȧẇȧřḓ``` řḗŀḗȧşḗ ḿȧẏ ƥřǿṽīḓḗ ḓḗŧȧīŀş ǿƒ ŧħḗ şŭƥƥŀīḗř ȧẇȧřḓḗḓ ŧħḗ "
+"ƈǿƞŧřȧƈŧ īƞ ŧħḗ ȧẇȧřḓ şḗƈŧīǿƞ, ȧƞḓ ḿȧẏ ƥřǿṽīḓḗ řḗƥḗȧŧḗḓ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ "
+"ŧħḗ ħǿẇ ƥřǿƈŭřḗḿḗƞŧ ŧǿǿķ ƥŀȧƈḗ īƞ ŧħḗ ŧḗƞḓḗř şḗƈŧīǿƞ;"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:28
-msgid ""
-"A ```contract``` release may provide the details of the signed contract in a"
-" contract section, matched with a related award section;"
+msgid "A ```contract``` release may provide the details of the signed contract in a contract section, matched with a related award section;"
 msgstr ""
+"Ȧ ```ƈǿƞŧřȧƈŧ``` řḗŀḗȧşḗ ḿȧẏ ƥřǿṽīḓḗ ŧħḗ ḓḗŧȧīŀş ǿƒ ŧħḗ şīɠƞḗḓ ƈǿƞŧřȧƈŧ īƞ ȧ "
+"ƈǿƞŧřȧƈŧ şḗƈŧīǿƞ, ḿȧŧƈħḗḓ ẇīŧħ ȧ řḗŀȧŧḗḓ ȧẇȧřḓ şḗƈŧīǿƞ;"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:29
-msgid ""
-"An ```implementationUpdate``` release may repeat details of the contract, "
-"and provide information on milestones achieved and payments to the supplier,"
-" or may update the contract implementation section with links to newly "
-"published documents."
+msgid "An ```implementationUpdate``` release may repeat details of the contract, and provide information on milestones achieved and payments to the supplier, or may update the contract implementation section with links to newly published documents."
 msgstr ""
+"Ȧƞ ```īḿƥŀḗḿḗƞŧȧŧīǿƞŬƥḓȧŧḗ``` řḗŀḗȧşḗ ḿȧẏ řḗƥḗȧŧ ḓḗŧȧīŀş ǿƒ ŧħḗ ƈǿƞŧřȧƈŧ, "
+"ȧƞḓ ƥřǿṽīḓḗ īƞƒǿřḿȧŧīǿƞ ǿƞ ḿīŀḗşŧǿƞḗş ȧƈħīḗṽḗḓ ȧƞḓ ƥȧẏḿḗƞŧş ŧǿ ŧħḗ şŭƥƥŀīḗř, "
+"ǿř ḿȧẏ ŭƥḓȧŧḗ ŧħḗ ƈǿƞŧřȧƈŧ īḿƥŀḗḿḗƞŧȧŧīǿƞ şḗƈŧīǿƞ ẇīŧħ ŀīƞķş ŧǿ ƞḗẇŀẏ "
+"ƥŭƀŀīşħḗḓ ḓǿƈŭḿḗƞŧş."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:31
-msgid ""
-"You can think of **releases** as entries into a ledger: each new entry adds "
-"information, and may also repeat the previous information that remains true."
+msgid "You can think of **releases** as entries into a ledger: each new entry adds information, and may also repeat the previous information that remains true."
 msgstr ""
+"Ẏǿŭ ƈȧƞ ŧħīƞķ ǿƒ **řḗŀḗȧşḗş** ȧş ḗƞŧřīḗş īƞŧǿ ȧ ŀḗḓɠḗř: ḗȧƈħ ƞḗẇ ḗƞŧřẏ ȧḓḓş "
+"īƞƒǿřḿȧŧīǿƞ, ȧƞḓ ḿȧẏ ȧŀşǿ řḗƥḗȧŧ ŧħḗ ƥřḗṽīǿŭş īƞƒǿřḿȧŧīǿƞ ŧħȧŧ řḗḿȧīƞş ŧřŭḗ."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:0
 msgid "Examples"
-msgstr ""
+msgstr "Ḗẋȧḿƥŀḗş"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:0
 msgid "Best practices"
-msgstr ""
+msgstr "Ɓḗşŧ ƥřȧƈŧīƈḗş"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:88
-msgid ""
-"In some cases, releases will all come from the same backend system. In "
-"others, they will be generated by different systems. By ensuring all "
-"releases about a contracting process share an OCID, they can be tied "
-"together into a record."
+msgid "In some cases, releases will all come from the same backend system. In others, they will be generated by different systems. By ensuring all releases about a contracting process share an OCID, they can be tied together into a record."
 msgstr ""
+"Īƞ şǿḿḗ ƈȧşḗş, řḗŀḗȧşḗş ẇīŀŀ ȧŀŀ ƈǿḿḗ ƒřǿḿ ŧħḗ şȧḿḗ ƀȧƈķḗƞḓ şẏşŧḗḿ. Īƞ "
+"ǿŧħḗřş, ŧħḗẏ ẇīŀŀ ƀḗ ɠḗƞḗřȧŧḗḓ ƀẏ ḓīƒƒḗřḗƞŧ şẏşŧḗḿş. Ɓẏ ḗƞşŭřīƞɠ ȧŀŀ "
+"řḗŀḗȧşḗş ȧƀǿŭŧ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş şħȧřḗ ȧƞ ǾƇĪḒ, ŧħḗẏ ƈȧƞ ƀḗ ŧīḗḓ "
+"ŧǿɠḗŧħḗř īƞŧǿ ȧ řḗƈǿřḓ."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:90
-msgid ""
-"In a complete OCDS implementation, each release would be published at its "
-"own persistent URL, and kept online permanently."
+msgid "In a complete OCDS implementation, each release would be published at its own persistent URL, and kept online permanently."
 msgstr ""
+"Īƞ ȧ ƈǿḿƥŀḗŧḗ ǾƇḒŞ īḿƥŀḗḿḗƞŧȧŧīǿƞ, ḗȧƈħ řḗŀḗȧşḗ ẇǿŭŀḓ ƀḗ ƥŭƀŀīşħḗḓ ȧŧ īŧş "
+"ǿẇƞ ƥḗřşīşŧḗƞŧ ŬŘĿ, ȧƞḓ ķḗƥŧ ǿƞŀīƞḗ ƥḗřḿȧƞḗƞŧŀẏ."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:92
-msgid ""
-"In these cases, where publishers are providing a single URI for fetching "
-"information on a given contracting process, the releaseID and releaseDate "
-"must be modified whenever updated data is published. A suggested pattern is "
-"to append an incrementing number to the end of the OCID in order to generate"
-" a unique releaseID for every change. For example:"
+msgid "In these cases, where publishers are providing a single URI for fetching information on a given contracting process, the releaseID and releaseDate must be modified whenever updated data is published. A suggested pattern is to append an incrementing number to the end of the OCID in order to generate a unique releaseID for every change. For example:"
 msgstr ""
+"Īƞ ŧħḗşḗ ƈȧşḗş, ẇħḗřḗ ƥŭƀŀīşħḗřş ȧřḗ ƥřǿṽīḓīƞɠ ȧ şīƞɠŀḗ ŬŘĪ ƒǿř ƒḗŧƈħīƞɠ "
+"īƞƒǿřḿȧŧīǿƞ ǿƞ ȧ ɠīṽḗƞ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş, ŧħḗ řḗŀḗȧşḗĪḒ ȧƞḓ řḗŀḗȧşḗḒȧŧḗ "
+"ḿŭşŧ ƀḗ ḿǿḓīƒīḗḓ ẇħḗƞḗṽḗř ŭƥḓȧŧḗḓ ḓȧŧȧ īş ƥŭƀŀīşħḗḓ. Ȧ şŭɠɠḗşŧḗḓ ƥȧŧŧḗřƞ īş "
+"ŧǿ ȧƥƥḗƞḓ ȧƞ īƞƈřḗḿḗƞŧīƞɠ ƞŭḿƀḗř ŧǿ ŧħḗ ḗƞḓ ǿƒ ŧħḗ ǾƇĪḒ īƞ ǿřḓḗř ŧǿ ɠḗƞḗřȧŧḗ "
+"ȧ ŭƞīɋŭḗ řḗŀḗȧşḗĪḒ ƒǿř ḗṽḗřẏ ƈħȧƞɠḗ. Ƒǿř ḗẋȧḿƥŀḗ:"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:94
 msgid "ocds-a2ef3d01-1594121/1"
-msgstr ""
+msgstr "ǿƈḓş-ȧ2ḗƒ3ḓ01-1594121/1"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:95
 msgid "ocds-a2ef3d01-1594121/2"
-msgstr ""
+msgstr "ǿƈḓş-ȧ2ḗƒ3ḓ01-1594121/2"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:96
 msgid "ocds-a2ef3d01-1594121/3"
-msgstr ""
+msgstr "ǿƈḓş-ȧ2ḗƒ3ḓ01-1594121/3"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:0
 msgid "Records"
-msgstr ""
+msgstr "Řḗƈǿřḓş"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:101
-msgid ""
-"An OCDS **record** provides a snapshot of the contracting process at a given"
-" point in time, bringing together all the information from the releases to "
-"date into one place. It is updated as new information becomes available."
+msgid "An OCDS **record** provides a snapshot of the contracting process at a given point in time, bringing together all the information from the releases to date into one place. It is updated as new information becomes available."
 msgstr ""
+"Ȧƞ ǾƇḒŞ **řḗƈǿřḓ** ƥřǿṽīḓḗş ȧ şƞȧƥşħǿŧ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ȧŧ ȧ ɠīṽḗƞ "
+"ƥǿīƞŧ īƞ ŧīḿḗ, ƀřīƞɠīƞɠ ŧǿɠḗŧħḗř ȧŀŀ ŧħḗ īƞƒǿřḿȧŧīǿƞ ƒřǿḿ ŧħḗ řḗŀḗȧşḗş ŧǿ "
+"ḓȧŧḗ īƞŧǿ ǿƞḗ ƥŀȧƈḗ. Īŧ īş ŭƥḓȧŧḗḓ ȧş ƞḗẇ īƞƒǿřḿȧŧīǿƞ ƀḗƈǿḿḗş ȧṽȧīŀȧƀŀḗ."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:103
-msgid ""
-"At a minimum, a record should exist for each contracting process to provide "
-"a list of all the releases that relate to that contracting process."
+msgid "At a minimum, a record should exist for each contracting process to provide a list of all the releases that relate to that contracting process."
 msgstr ""
+"Ȧŧ ȧ ḿīƞīḿŭḿ, ȧ řḗƈǿřḓ şħǿŭŀḓ ḗẋīşŧ ƒǿř ḗȧƈħ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ŧǿ ƥřǿṽīḓḗ "
+"ȧ ŀīşŧ ǿƒ ȧŀŀ ŧħḗ řḗŀḗȧşḗş ŧħȧŧ řḗŀȧŧḗ ŧǿ ŧħȧŧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:105
-msgid ""
-"However, to allow users to get a snapshot view the contracting process "
-"without individually looking up each release , a record should also contain:"
+msgid "However, to allow users to get a snapshot view the contracting process without individually looking up each release , a record should also contain:"
 msgstr ""
+"Ħǿẇḗṽḗř, ŧǿ ȧŀŀǿẇ ŭşḗřş ŧǿ ɠḗŧ ȧ şƞȧƥşħǿŧ ṽīḗẇ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş "
+"ẇīŧħǿŭŧ īƞḓīṽīḓŭȧŀŀẏ ŀǿǿķīƞɠ ŭƥ ḗȧƈħ řḗŀḗȧşḗ , ȧ řḗƈǿřḓ şħǿŭŀḓ ȧŀşǿ ƈǿƞŧȧīƞ:"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:107
-msgid ""
-"a compiledRelease block, which follows the release schema, and is updated "
-"with the most up-to-date value for each field; and, optionally,"
+msgid "a compiledRelease block, which follows the release schema, and is updated with the most up-to-date value for each field; and, optionally,"
 msgstr ""
+"ȧ ƈǿḿƥīŀḗḓŘḗŀḗȧşḗ ƀŀǿƈķ, ẇħīƈħ ƒǿŀŀǿẇş ŧħḗ řḗŀḗȧşḗ şƈħḗḿȧ, ȧƞḓ īş ŭƥḓȧŧḗḓ "
+"ẇīŧħ ŧħḗ ḿǿşŧ ŭƥ-ŧǿ-ḓȧŧḗ ṽȧŀŭḗ ƒǿř ḗȧƈħ ƒīḗŀḓ; ȧƞḓ, ǿƥŧīǿƞȧŀŀẏ,"
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:108
-msgid ""
-"a versionedRelease, which contains a history of all the changes for each "
-"field."
+msgid "a versionedRelease, which contains a history of all the changes for each field."
 msgstr ""
+"ȧ ṽḗřşīǿƞḗḓŘḗŀḗȧşḗ, ẇħīƈħ ƈǿƞŧȧīƞş ȧ ħīşŧǿřẏ ǿƒ ȧŀŀ ŧħḗ ƈħȧƞɠḗş ƒǿř ḗȧƈħ "
+"ƒīḗŀḓ."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:110
-msgid ""
-"The [OCDS merge strategies](../schema/merging.md) set out how to combine "
-"multiple releases to create a single record for each contracting process."
+msgid "The [OCDS merge strategies](../schema/merging.md) set out how to combine multiple releases to create a single record for each contracting process."
 msgstr ""
+"Ŧħḗ [ǾƇḒŞ ḿḗřɠḗ şŧřȧŧḗɠīḗş](../schema/merging.md) şḗŧ ǿŭŧ ħǿẇ ŧǿ ƈǿḿƀīƞḗ "
+"ḿŭŀŧīƥŀḗ řḗŀḗȧşḗş ŧǿ ƈřḗȧŧḗ ȧ şīƞɠŀḗ řḗƈǿřḓ ƒǿř ḗȧƈħ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/getting_started/releases_and_records.md:114
-msgid ""
-"<center><img src=\"../../../assets/release_square.png\" "
-"height=\"200\"/></center>"
+msgid "<center><img src=\"../../../assets/release_square.png\" height=\"200\"/></center>"
 msgstr ""
+"<center><img src=\"../../../assets/release_square.png\" height=\"200\""
+"/></center>"

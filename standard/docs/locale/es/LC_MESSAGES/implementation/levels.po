@@ -1,287 +1,283 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:07+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "What to publish"
-msgstr ""
+msgstr "Ẇħȧŧ ŧǿ ƥŭƀŀīşħ"
 
 #: ../../standard/docs/en/implementation/levels.md:3
-msgid ""
-"Increasing the transparency, efficiency and effectiveness of public "
-"contracting is a process of constant improvement."
+msgid "Increasing the transparency, efficiency and effectiveness of public contracting is a process of constant improvement."
 msgstr ""
+"Īƞƈřḗȧşīƞɠ ŧħḗ ŧřȧƞşƥȧřḗƞƈẏ, ḗƒƒīƈīḗƞƈẏ ȧƞḓ ḗƒƒḗƈŧīṽḗƞḗşş ǿƒ ƥŭƀŀīƈ "
+"ƈǿƞŧřȧƈŧīƞɠ īş ȧ ƥřǿƈḗşş ǿƒ ƈǿƞşŧȧƞŧ īḿƥřǿṽḗḿḗƞŧ."
 
 #: ../../standard/docs/en/implementation/levels.md:5
-msgid ""
-"OCDS sets out three levels for disclosure (basic, intermediate and "
-"advanced), alongside a 5* framework for the technical approach to data "
-"publication for publishers to self-assess themselves against."
+msgid "OCDS sets out three levels for disclosure (basic, intermediate and advanced), alongside a 5* framework for the technical approach to data publication for publishers to self-assess themselves against."
 msgstr ""
+"ǾƇḒŞ şḗŧş ǿŭŧ ŧħřḗḗ ŀḗṽḗŀş ƒǿř ḓīşƈŀǿşŭřḗ (ƀȧşīƈ, īƞŧḗřḿḗḓīȧŧḗ ȧƞḓ ȧḓṽȧƞƈḗḓ)"
+", ȧŀǿƞɠşīḓḗ ȧ 5* ƒřȧḿḗẇǿřķ ƒǿř ŧħḗ ŧḗƈħƞīƈȧŀ ȧƥƥřǿȧƈħ ŧǿ ḓȧŧȧ ƥŭƀŀīƈȧŧīǿƞ "
+"ƒǿř ƥŭƀŀīşħḗřş ŧǿ şḗŀƒ-ȧşşḗşş ŧħḗḿşḗŀṽḗş ȧɠȧīƞşŧ."
 
 #: ../../standard/docs/en/implementation/levels.md:8
 msgid "![Levels](../../../assets/levels_en.png)"
-msgstr ""
+msgstr "![Ŀḗṽḗŀş](../../../assets/levels_en.png)"
 
 #: ../../standard/docs/en/implementation/levels.md:11
-msgid ""
-"This supports step-by-step improvement of open contracting data and document"
-" disclosure on the web."
+msgid "This supports step-by-step improvement of open contracting data and document disclosure on the web."
 msgstr ""
+"Ŧħīş şŭƥƥǿřŧş şŧḗƥ-ƀẏ-şŧḗƥ īḿƥřǿṽḗḿḗƞŧ ǿƒ ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ ȧƞḓ ḓǿƈŭḿḗƞŧ "
+"ḓīşƈŀǿşŭřḗ ǿƞ ŧħḗ ẇḗƀ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "Publication levels: data"
-msgstr ""
+msgstr "Ƥŭƀŀīƈȧŧīǿƞ ŀḗṽḗŀş: ḓȧŧȧ"
 
 #: ../../standard/docs/en/implementation/levels.md:15
-msgid ""
-"The basic, intermediate and advanced levels provide guidance on the specific"
-" kinds of data governments should be able to publish."
+msgid "The basic, intermediate and advanced levels provide guidance on the specific kinds of data governments should be able to publish."
 msgstr ""
+"Ŧħḗ ƀȧşīƈ, īƞŧḗřḿḗḓīȧŧḗ ȧƞḓ ȧḓṽȧƞƈḗḓ ŀḗṽḗŀş ƥřǿṽīḓḗ ɠŭīḓȧƞƈḗ ǿƞ ŧħḗ şƥḗƈīƒīƈ "
+"ķīƞḓş ǿƒ ḓȧŧȧ ɠǿṽḗřƞḿḗƞŧş şħǿŭŀḓ ƀḗ ȧƀŀḗ ŧǿ ƥŭƀŀīşħ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "Basic"
-msgstr ""
+msgstr "Ɓȧşīƈ"
 
 #: ../../standard/docs/en/implementation/levels.md:18
-msgid ""
-"The **basic** level captures data that should already be available in most "
-"contracting data systems, and that provides users with an overview of "
-"contracting processes."
+msgid "The **basic** level captures data that should already be available in most contracting data systems, and that provides users with an overview of contracting processes."
 msgstr ""
+"Ŧħḗ **ƀȧşīƈ** ŀḗṽḗŀ ƈȧƥŧŭřḗş ḓȧŧȧ ŧħȧŧ şħǿŭŀḓ ȧŀřḗȧḓẏ ƀḗ ȧṽȧīŀȧƀŀḗ īƞ ḿǿşŧ "
+"ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ şẏşŧḗḿş, ȧƞḓ ŧħȧŧ ƥřǿṽīḓḗş ŭşḗřş ẇīŧħ ȧƞ ǿṽḗřṽīḗẇ ǿƒ "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş."
 
 #: ../../standard/docs/en/implementation/levels.md:20
 msgid "Basic level data includes:"
-msgstr ""
+msgstr "Ɓȧşīƈ ŀḗṽḗŀ ḓȧŧȧ īƞƈŀŭḓḗş:"
 
 #: ../../standard/docs/en/implementation/levels.md:22
 msgid "buyer name and address;"
-msgstr ""
+msgstr "ƀŭẏḗř ƞȧḿḗ ȧƞḓ ȧḓḓřḗşş;"
 
 #: ../../standard/docs/en/implementation/levels.md:23
-msgid ""
-"tender identifiers, titles, descriptions, status, procurement method, "
-"period, item descriptions and quantities,"
+msgid "tender identifiers, titles, descriptions, status, procurement method, period, item descriptions and quantities,"
 msgstr ""
+"ŧḗƞḓḗř īḓḗƞŧīƒīḗřş, ŧīŧŀḗş, ḓḗşƈřīƥŧīǿƞş, şŧȧŧŭş, ƥřǿƈŭřḗḿḗƞŧ ḿḗŧħǿḓ, "
+"ƥḗřīǿḓ, īŧḗḿ ḓḗşƈřīƥŧīǿƞş ȧƞḓ ɋŭȧƞŧīŧīḗş,"
 
 #: ../../standard/docs/en/implementation/levels.md:24
 msgid "documents associated with the tender;"
-msgstr ""
+msgstr "ḓǿƈŭḿḗƞŧş ȧşşǿƈīȧŧḗḓ ẇīŧħ ŧħḗ ŧḗƞḓḗř;"
 
 #: ../../standard/docs/en/implementation/levels.md:25
 msgid "award identifiers, titles, descriptions, dates, values;"
-msgstr ""
+msgstr "ȧẇȧřḓ īḓḗƞŧīƒīḗřş, ŧīŧŀḗş, ḓḗşƈřīƥŧīǿƞş, ḓȧŧḗş, ṽȧŀŭḗş;"
 
 #: ../../standard/docs/en/implementation/levels.md:26
 msgid "selected supplier names and addresses;"
-msgstr ""
+msgstr "şḗŀḗƈŧḗḓ şŭƥƥŀīḗř ƞȧḿḗş ȧƞḓ ȧḓḓřḗşşḗş;"
 
 #: ../../standard/docs/en/implementation/levels.md:27
-msgid ""
-"contract identifiers, titles, status, period, values, item descriptions and "
-"quantities."
+msgid "contract identifiers, titles, status, period, values, item descriptions and quantities."
 msgstr ""
+"ƈǿƞŧřȧƈŧ īḓḗƞŧīƒīḗřş, ŧīŧŀḗş, şŧȧŧŭş, ƥḗřīǿḓ, ṽȧŀŭḗş, īŧḗḿ ḓḗşƈřīƥŧīǿƞş ȧƞḓ "
+"ɋŭȧƞŧīŧīḗş."
 
 #: ../../standard/docs/en/implementation/levels.md:29
-msgid ""
-"At a basic level, the publication of contract documents and implementation "
-"information (milestones, documents and spending transactions) is also "
-"recommended."
+msgid "At a basic level, the publication of contract documents and implementation information (milestones, documents and spending transactions) is also recommended."
 msgstr ""
+"Ȧŧ ȧ ƀȧşīƈ ŀḗṽḗŀ, ŧħḗ ƥŭƀŀīƈȧŧīǿƞ ǿƒ ƈǿƞŧřȧƈŧ ḓǿƈŭḿḗƞŧş ȧƞḓ īḿƥŀḗḿḗƞŧȧŧīǿƞ "
+"īƞƒǿřḿȧŧīǿƞ (ḿīŀḗşŧǿƞḗş, ḓǿƈŭḿḗƞŧş ȧƞḓ şƥḗƞḓīƞɠ ŧřȧƞşȧƈŧīǿƞş) īş ȧŀşǿ "
+"řḗƈǿḿḿḗƞḓḗḓ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "Intermediate"
-msgstr ""
+msgstr "Īƞŧḗřḿḗḓīȧŧḗ"
 
 #: ../../standard/docs/en/implementation/levels.md:33
-msgid ""
-"The **intermediate** level may require publishers to take extra steps to "
-"provide identifiers that join up data between systems, and that enable users"
-" to see changes in contracting processes over time."
+msgid "The **intermediate** level may require publishers to take extra steps to provide identifiers that join up data between systems, and that enable users to see changes in contracting processes over time."
 msgstr ""
+"Ŧħḗ **īƞŧḗřḿḗḓīȧŧḗ** ŀḗṽḗŀ ḿȧẏ řḗɋŭīřḗ ƥŭƀŀīşħḗřş ŧǿ ŧȧķḗ ḗẋŧřȧ şŧḗƥş ŧǿ "
+"ƥřǿṽīḓḗ īḓḗƞŧīƒīḗřş ŧħȧŧ ĵǿīƞ ŭƥ ḓȧŧȧ ƀḗŧẇḗḗƞ şẏşŧḗḿş, ȧƞḓ ŧħȧŧ ḗƞȧƀŀḗ ŭşḗřş "
+"ŧǿ şḗḗ ƈħȧƞɠḗş īƞ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş ǿṽḗř ŧīḿḗ."
 
 #: ../../standard/docs/en/implementation/levels.md:35
-msgid ""
-"In addition to basic fields, intermediate publication involves providing:"
+msgid "In addition to basic fields, intermediate publication involves providing:"
 msgstr ""
+"Īƞ ȧḓḓīŧīǿƞ ŧǿ ƀȧşīƈ ƒīḗŀḓş, īƞŧḗřḿḗḓīȧŧḗ ƥŭƀŀīƈȧŧīǿƞ īƞṽǿŀṽḗş ƥřǿṽīḓīƞɠ:"
 
 #: ../../standard/docs/en/implementation/levels.md:37
 msgid "organisation identifiers for buyers and suppliers;"
-msgstr ""
+msgstr "ǿřɠȧƞīşȧŧīǿƞ īḓḗƞŧīƒīḗřş ƒǿř ƀŭẏḗřş ȧƞḓ şŭƥƥŀīḗřş;"
 
 #: ../../standard/docs/en/implementation/levels.md:38
 msgid "detailed classification of line items in tender, award and contracts;"
-msgstr ""
+msgstr "ḓḗŧȧīŀḗḓ ƈŀȧşşīƒīƈȧŧīǿƞ ǿƒ ŀīƞḗ īŧḗḿş īƞ ŧḗƞḓḗř, ȧẇȧřḓ ȧƞḓ ƈǿƞŧřȧƈŧş;"
 
 #: ../../standard/docs/en/implementation/levels.md:39
-msgid ""
-"planning information including budget details and associated documents;"
-msgstr ""
+msgid "planning information including budget details and associated documents;"
+msgstr "ƥŀȧƞƞīƞɠ īƞƒǿřḿȧŧīǿƞ īƞƈŀŭḓīƞɠ ƀŭḓɠḗŧ ḓḗŧȧīŀş ȧƞḓ ȧşşǿƈīȧŧḗḓ ḓǿƈŭḿḗƞŧş;"
 
 #: ../../standard/docs/en/implementation/levels.md:40
 msgid "tender award criteria, anticipated values and submission information;"
-msgstr ""
+msgstr "ŧḗƞḓḗř ȧẇȧřḓ ƈřīŧḗřīȧ, ȧƞŧīƈīƥȧŧḗḓ ṽȧŀŭḗş ȧƞḓ şŭƀḿīşşīǿƞ īƞƒǿřḿȧŧīǿƞ;"
 
 #: ../../standard/docs/en/implementation/levels.md:41
 msgid "tender enquiry periods details;"
-msgstr ""
+msgstr "ŧḗƞḓḗř ḗƞɋŭīřẏ ƥḗřīǿḓş ḓḗŧȧīŀş;"
 
 #: ../../standard/docs/en/implementation/levels.md:42
-msgid ""
-"details of the number of organisations submitting tenders and a list of "
-"their names;"
+msgid "details of the number of organisations submitting tenders and a list of their names;"
 msgstr ""
+"ḓḗŧȧīŀş ǿƒ ŧħḗ ƞŭḿƀḗř ǿƒ ǿřɠȧƞīşȧŧīǿƞş şŭƀḿīŧŧīƞɠ ŧḗƞḓḗřş ȧƞḓ ȧ ŀīşŧ ǿƒ "
+"ŧħḗīř ƞȧḿḗş;"
 
 #: ../../standard/docs/en/implementation/levels.md:43
 msgid "contract documents;"
-msgstr ""
+msgstr "ƈǿƞŧřȧƈŧ ḓǿƈŭḿḗƞŧş;"
 
 #: ../../standard/docs/en/implementation/levels.md:44
 msgid "the data of contract signature;"
-msgstr ""
+msgstr "ŧħḗ ḓȧŧȧ ǿƒ ƈǿƞŧřȧƈŧ şīɠƞȧŧŭřḗ;"
 
 #: ../../standard/docs/en/implementation/levels.md:45
 msgid "information and dates for contract implementation milestones;"
-msgstr ""
+msgstr "īƞƒǿřḿȧŧīǿƞ ȧƞḓ ḓȧŧḗş ƒǿř ƈǿƞŧřȧƈŧ īḿƥŀḗḿḗƞŧȧŧīǿƞ ḿīŀḗşŧǿƞḗş;"
 
 #: ../../standard/docs/en/implementation/levels.md:46
 msgid "documents related to implementation of the contract."
-msgstr ""
+msgstr "ḓǿƈŭḿḗƞŧş řḗŀȧŧḗḓ ŧǿ īḿƥŀḗḿḗƞŧȧŧīǿƞ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧ."
 
 #: ../../standard/docs/en/implementation/levels.md:48
-msgid ""
-"At an intermediate level, publishing documents related to awards, and "
-"identifying information on each organisation submitting a tender, is also "
-"recommended"
+msgid "At an intermediate level, publishing documents related to awards, and identifying information on each organisation submitting a tender, is also recommended"
 msgstr ""
+"Ȧŧ ȧƞ īƞŧḗřḿḗḓīȧŧḗ ŀḗṽḗŀ, ƥŭƀŀīşħīƞɠ ḓǿƈŭḿḗƞŧş řḗŀȧŧḗḓ ŧǿ ȧẇȧřḓş, ȧƞḓ "
+"īḓḗƞŧīƒẏīƞɠ īƞƒǿřḿȧŧīǿƞ ǿƞ ḗȧƈħ ǿřɠȧƞīşȧŧīǿƞ şŭƀḿīŧŧīƞɠ ȧ ŧḗƞḓḗř, īş ȧŀşǿ "
+"řḗƈǿḿḿḗƞḓḗḓ"
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "Advanced"
-msgstr ""
+msgstr "Ȧḓṽȧƞƈḗḓ"
 
 #: ../../standard/docs/en/implementation/levels.md:51
-msgid ""
-"The **advanced level** incorporates fields which are important to connect "
-"open contracting data with other data sources, and with the real-world "
-"impacts of contracting. Publishing this data may require planning for "
-"additional data collection and management."
+msgid "The **advanced level** incorporates fields which are important to connect open contracting data with other data sources, and with the real-world impacts of contracting. Publishing this data may require planning for additional data collection and management."
 msgstr ""
+"Ŧħḗ **ȧḓṽȧƞƈḗḓ ŀḗṽḗŀ** īƞƈǿřƥǿřȧŧḗş ƒīḗŀḓş ẇħīƈħ ȧřḗ īḿƥǿřŧȧƞŧ ŧǿ ƈǿƞƞḗƈŧ "
+"ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ ẇīŧħ ǿŧħḗř ḓȧŧȧ şǿŭřƈḗş, ȧƞḓ ẇīŧħ ŧħḗ řḗȧŀ-ẇǿřŀḓ "
+"īḿƥȧƈŧş ǿƒ ƈǿƞŧřȧƈŧīƞɠ. Ƥŭƀŀīşħīƞɠ ŧħīş ḓȧŧȧ ḿȧẏ řḗɋŭīřḗ ƥŀȧƞƞīƞɠ ƒǿř "
+"ȧḓḓīŧīǿƞȧŀ ḓȧŧȧ ƈǿŀŀḗƈŧīǿƞ ȧƞḓ ḿȧƞȧɠḗḿḗƞŧ."
 
 #: ../../standard/docs/en/implementation/levels.md:53
-msgid ""
-"In addition to basic and intermediate fields, advanced publication involves "
-"providing:"
+msgid "In addition to basic and intermediate fields, advanced publication involves providing:"
 msgstr ""
+"Īƞ ȧḓḓīŧīǿƞ ŧǿ ƀȧşīƈ ȧƞḓ īƞŧḗřḿḗḓīȧŧḗ ƒīḗŀḓş, ȧḓṽȧƞƈḗḓ ƥŭƀŀīƈȧŧīǿƞ īƞṽǿŀṽḗş "
+"ƥřǿṽīḓīƞɠ:"
 
 #: ../../standard/docs/en/implementation/levels.md:55
 msgid "structured information on project milestones at the tender stage;"
-msgstr ""
+msgstr "şŧřŭƈŧŭřḗḓ īƞƒǿřḿȧŧīǿƞ ǿƞ ƥřǿĵḗƈŧ ḿīŀḗşŧǿƞḗş ȧŧ ŧħḗ ŧḗƞḓḗř şŧȧɠḗ;"
 
 #: ../../standard/docs/en/implementation/levels.md:56
-msgid ""
-"regularly updated milestone information during contract implementation;"
-msgstr ""
+msgid "regularly updated milestone information during contract implementation;"
+msgstr "řḗɠŭŀȧřŀẏ ŭƥḓȧŧḗḓ ḿīŀḗşŧǿƞḗ īƞƒǿřḿȧŧīǿƞ ḓŭřīƞɠ ƈǿƞŧřȧƈŧ īḿƥŀḗḿḗƞŧȧŧīǿƞ;"
 
 #: ../../standard/docs/en/implementation/levels.md:57
-msgid ""
-"detailed unit, quantity and cost information for line items at tender, award"
-" and contract stages;"
+msgid "detailed unit, quantity and cost information for line items at tender, award and contract stages;"
 msgstr ""
+"ḓḗŧȧīŀḗḓ ŭƞīŧ, ɋŭȧƞŧīŧẏ ȧƞḓ ƈǿşŧ īƞƒǿřḿȧŧīǿƞ ƒǿř ŀīƞḗ īŧḗḿş ȧŧ ŧḗƞḓḗř, ȧẇȧřḓ "
+"ȧƞḓ ƈǿƞŧřȧƈŧ şŧȧɠḗş;"
 
 #: ../../standard/docs/en/implementation/levels.md:58
 msgid "identifiers for each tendering organisation;"
-msgstr ""
+msgstr "īḓḗƞŧīƒīḗřş ƒǿř ḗȧƈħ ŧḗƞḓḗřīƞɠ ǿřɠȧƞīşȧŧīǿƞ;"
 
 #: ../../standard/docs/en/implementation/levels.md:59
-msgid ""
-"information on spending transactions to suppliers during contract "
-"implementation;"
+msgid "information on spending transactions to suppliers during contract implementation;"
 msgstr ""
+"īƞƒǿřḿȧŧīǿƞ ǿƞ şƥḗƞḓīƞɠ ŧřȧƞşȧƈŧīǿƞş ŧǿ şŭƥƥŀīḗřş ḓŭřīƞɠ ƈǿƞŧřȧƈŧ "
+"īḿƥŀḗḿḗƞŧȧŧīǿƞ;"
 
 #: ../../standard/docs/en/implementation/levels.md:61
-msgid ""
-"At an advanced level the use of URIs alongside identifiers, to provide links"
-" to other datasets, is also recommended."
+msgid "At an advanced level the use of URIs alongside identifiers, to provide links to other datasets, is also recommended."
 msgstr ""
+"Ȧŧ ȧƞ ȧḓṽȧƞƈḗḓ ŀḗṽḗŀ ŧħḗ ŭşḗ ǿƒ ŬŘĪş ȧŀǿƞɠşīḓḗ īḓḗƞŧīƒīḗřş, ŧǿ ƥřǿṽīḓḗ ŀīƞķş "
+"ŧǿ ǿŧħḗř ḓȧŧȧşḗŧş, īş ȧŀşǿ řḗƈǿḿḿḗƞḓḗḓ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "Summary"
-msgstr ""
+msgstr "Şŭḿḿȧřẏ"
 
 #: ../../standard/docs/en/implementation/levels.md:65
-msgid ""
-"The table below lists each of the fields in OCDS along with a check mark for"
-" whether this is Required (X) or Recommended (-) at basic, intermediate or "
-"advanced level."
+msgid "The table below lists each of the fields in OCDS along with a check mark for whether this is Required (X) or Recommended (-) at basic, intermediate or advanced level."
 msgstr ""
+"Ŧħḗ ŧȧƀŀḗ ƀḗŀǿẇ ŀīşŧş ḗȧƈħ ǿƒ ŧħḗ ƒīḗŀḓş īƞ ǾƇḒŞ ȧŀǿƞɠ ẇīŧħ ȧ ƈħḗƈķ ḿȧřķ ƒǿř "
+"ẇħḗŧħḗř ŧħīş īş Řḗɋŭīřḗḓ (Ẋ) ǿř Řḗƈǿḿḿḗƞḓḗḓ (-) ȧŧ ƀȧşīƈ, īƞŧḗřḿḗḓīȧŧḗ ǿř "
+"ȧḓṽȧƞƈḗḓ ŀḗṽḗŀ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "Publication levels: documents"
-msgstr ""
+msgstr "Ƥŭƀŀīƈȧŧīǿƞ ŀḗṽḗŀş: ḓǿƈŭḿḗƞŧş"
 
 #: ../../standard/docs/en/implementation/levels.md:72
-msgid ""
-"The following list details the documents the priority documents that "
-"publishers should provide at different levels of publication. This list is "
-"non-exhaustive, and publishers should make other relevant documents "
-"available also."
+msgid "The following list details the documents the priority documents that publishers should provide at different levels of publication. This list is non-exhaustive, and publishers should make other relevant documents available also."
 msgstr ""
+"Ŧħḗ ƒǿŀŀǿẇīƞɠ ŀīşŧ ḓḗŧȧīŀş ŧħḗ ḓǿƈŭḿḗƞŧş ŧħḗ ƥřīǿřīŧẏ ḓǿƈŭḿḗƞŧş ŧħȧŧ "
+"ƥŭƀŀīşħḗřş şħǿŭŀḓ ƥřǿṽīḓḗ ȧŧ ḓīƒƒḗřḗƞŧ ŀḗṽḗŀş ǿƒ ƥŭƀŀīƈȧŧīǿƞ. Ŧħīş ŀīşŧ īş "
+"ƞǿƞ-ḗẋħȧŭşŧīṽḗ, ȧƞḓ ƥŭƀŀīşħḗřş şħǿŭŀḓ ḿȧķḗ ǿŧħḗř řḗŀḗṽȧƞŧ ḓǿƈŭḿḗƞŧş "
+"ȧṽȧīŀȧƀŀḗ ȧŀşǿ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "How to publish - 5 ☆ approach"
-msgstr ""
+msgstr "Ħǿẇ ŧǿ ƥŭƀŀīşħ - 5 ☆ ȧƥƥřǿȧƈħ"
 
 #: ../../standard/docs/en/implementation/levels.md:79
-msgid ""
-"The open data movement has established good practices for publishing data on"
-" the web."
+msgid "The open data movement has established good practices for publishing data on the web."
 msgstr ""
+"Ŧħḗ ǿƥḗƞ ḓȧŧȧ ḿǿṽḗḿḗƞŧ ħȧş ḗşŧȧƀŀīşħḗḓ ɠǿǿḓ ƥřȧƈŧīƈḗş ƒǿř ƥŭƀŀīşħīƞɠ ḓȧŧȧ ǿƞ "
+"ŧħḗ ẇḗƀ."
 
 #: ../../standard/docs/en/implementation/levels.md:81
-msgid ""
-"Alongside the the basic, intermediate, advanced model, we have mapped OCDS "
-"against Tim Berners-Lee’s [Five Stars of Linked Open "
-"Data](http://www.w3.org/DesignIssues/LinkedData.html) approach and have set "
-"out how publishers can achieve 3 ☆ data and higher."
+msgid "Alongside the the basic, intermediate, advanced model, we have mapped OCDS against Tim Berners-Lee’s [Five Stars of Linked Open Data](http://www.w3.org/DesignIssues/LinkedData.html) approach and have set out how publishers can achieve 3 ☆ data and higher."
 msgstr ""
+"Ȧŀǿƞɠşīḓḗ ŧħḗ ŧħḗ ƀȧşīƈ, īƞŧḗřḿḗḓīȧŧḗ, ȧḓṽȧƞƈḗḓ ḿǿḓḗŀ, ẇḗ ħȧṽḗ ḿȧƥƥḗḓ ǾƇḒŞ "
+"ȧɠȧīƞşŧ Ŧīḿ Ɓḗřƞḗřş-Ŀḗḗ’ş [Ƒīṽḗ Şŧȧřş ǿƒ Ŀīƞķḗḓ Ǿƥḗƞ "
+"Ḓȧŧȧ](http://www.w3.org/DesignIssues/LinkedData.html) ȧƥƥřǿȧƈħ ȧƞḓ ħȧṽḗ şḗŧ "
+"ǿŭŧ ħǿẇ ƥŭƀŀīşħḗřş ƈȧƞ ȧƈħīḗṽḗ 3 ☆ ḓȧŧȧ ȧƞḓ ħīɠħḗř."
 
 #: ../../standard/docs/en/implementation/levels.md:83
-msgid ""
-"Each level increase makes data more accessible, re-usable and valuable."
-msgstr ""
+msgid "Each level increase makes data more accessible, re-usable and valuable."
+msgstr "Ḗȧƈħ ŀḗṽḗŀ īƞƈřḗȧşḗ ḿȧķḗş ḓȧŧȧ ḿǿřḗ ȧƈƈḗşşīƀŀḗ, řḗ-ŭşȧƀŀḗ ȧƞḓ ṽȧŀŭȧƀŀḗ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "☆ Upload basic open contracting information to the web"
-msgstr ""
+msgstr "☆ Ŭƥŀǿȧḓ ƀȧşīƈ ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ īƞƒǿřḿȧŧīǿƞ ŧǿ ŧħḗ ẇḗƀ"
 
 #: ../../standard/docs/en/implementation/levels.md:87
-msgid ""
-"Take information on contracting processes in whatever format it is currently"
-" available, and make sure it is available to citizens on the Web."
+msgid "Take information on contracting processes in whatever format it is currently available, and make sure it is available to citizens on the Web."
 msgstr ""
+"Ŧȧķḗ īƞƒǿřḿȧŧīǿƞ ǿƞ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş īƞ ẇħȧŧḗṽḗř ƒǿřḿȧŧ īŧ īş ƈŭřřḗƞŧŀẏ "
+"ȧṽȧīŀȧƀŀḗ, ȧƞḓ ḿȧķḗ şŭřḗ īŧ īş ȧṽȧīŀȧƀŀḗ ŧǿ ƈīŧīzḗƞş ǿƞ ŧħḗ Ẇḗƀ."
 
 #: ../../standard/docs/en/implementation/levels.md:89
-msgid ""
-"An example of publication at this level would involve uploading all the "
-"documents relating to a contract process to an agency website. Good practice"
-" would involve using common naming and filing conventions, so users can "
-"easily find all the documents related to a specific tender or contract."
+msgid "An example of publication at this level would involve uploading all the documents relating to a contract process to an agency website. Good practice would involve using common naming and filing conventions, so users can easily find all the documents related to a specific tender or contract."
 msgstr ""
+"Ȧƞ ḗẋȧḿƥŀḗ ǿƒ ƥŭƀŀīƈȧŧīǿƞ ȧŧ ŧħīş ŀḗṽḗŀ ẇǿŭŀḓ īƞṽǿŀṽḗ ŭƥŀǿȧḓīƞɠ ȧŀŀ ŧħḗ "
+"ḓǿƈŭḿḗƞŧş řḗŀȧŧīƞɠ ŧǿ ȧ ƈǿƞŧřȧƈŧ ƥřǿƈḗşş ŧǿ ȧƞ ȧɠḗƞƈẏ ẇḗƀşīŧḗ. Ɠǿǿḓ ƥřȧƈŧīƈḗ "
+"ẇǿŭŀḓ īƞṽǿŀṽḗ ŭşīƞɠ ƈǿḿḿǿƞ ƞȧḿīƞɠ ȧƞḓ ƒīŀīƞɠ ƈǿƞṽḗƞŧīǿƞş, şǿ ŭşḗřş ƈȧƞ "
+"ḗȧşīŀẏ ƒīƞḓ ȧŀŀ ŧħḗ ḓǿƈŭḿḗƞŧş řḗŀȧŧḗḓ ŧǿ ȧ şƥḗƈīƒīƈ ŧḗƞḓḗř ǿř ƈǿƞŧřȧƈŧ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 #: ../../standard/docs/en/implementation/levels.md:0
@@ -289,195 +285,195 @@ msgstr ""
 #: ../../standard/docs/en/implementation/levels.md:0
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "Stepping up"
-msgstr ""
+msgstr "Şŧḗƥƥīƞɠ ŭƥ"
 
 #: ../../standard/docs/en/implementation/levels.md:93
-msgid ""
-"Providing documents offers an initial level of transparency, but users have "
-"to dig through them to find the key information they need. That’s why "
-"providing machine-readable data that can be more easily searched and "
-"filtered is important."
+msgid "Providing documents offers an initial level of transparency, but users have to dig through them to find the key information they need. That’s why providing machine-readable data that can be more easily searched and filtered is important."
 msgstr ""
+"Ƥřǿṽīḓīƞɠ ḓǿƈŭḿḗƞŧş ǿƒƒḗřş ȧƞ īƞīŧīȧŀ ŀḗṽḗŀ ǿƒ ŧřȧƞşƥȧřḗƞƈẏ, ƀŭŧ ŭşḗřş ħȧṽḗ "
+"ŧǿ ḓīɠ ŧħřǿŭɠħ ŧħḗḿ ŧǿ ƒīƞḓ ŧħḗ ķḗẏ īƞƒǿřḿȧŧīǿƞ ŧħḗẏ ƞḗḗḓ. Ŧħȧŧ’ş ẇħẏ "
+"ƥřǿṽīḓīƞɠ ḿȧƈħīƞḗ-řḗȧḓȧƀŀḗ ḓȧŧȧ ŧħȧŧ ƈȧƞ ƀḗ ḿǿřḗ ḗȧşīŀẏ şḗȧřƈħḗḓ ȧƞḓ "
+"ƒīŀŧḗřḗḓ īş īḿƥǿřŧȧƞŧ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "☆ ☆ Provide machine-readable data about contracts"
-msgstr ""
+msgstr "☆ ☆ Ƥřǿṽīḓḗ ḿȧƈħīƞḗ-řḗȧḓȧƀŀḗ ḓȧŧȧ ȧƀǿŭŧ ƈǿƞŧřȧƈŧş"
 
 #: ../../standard/docs/en/implementation/levels.md:98
-msgid ""
-"Provide machine-readable datasets that contain key information recommended "
-"in the Open Contracting Data Standard."
+msgid "Provide machine-readable datasets that contain key information recommended in the Open Contracting Data Standard."
 msgstr ""
+"Ƥřǿṽīḓḗ ḿȧƈħīƞḗ-řḗȧḓȧƀŀḗ ḓȧŧȧşḗŧş ŧħȧŧ ƈǿƞŧȧīƞ ķḗẏ īƞƒǿřḿȧŧīǿƞ řḗƈǿḿḿḗƞḓḗḓ "
+"īƞ ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ."
 
 #: ../../standard/docs/en/implementation/levels.md:100
-msgid ""
-"An example of publication at this level would involve providing a "
-"downloadable CSV file of contract information extracted from an existing "
-"database seeking to use, or map to, field names and data structures "
-"recommended by OCDS wherever possible."
+msgid "An example of publication at this level would involve providing a downloadable CSV file of contract information extracted from an existing database seeking to use, or map to, field names and data structures recommended by OCDS wherever possible."
 msgstr ""
+"Ȧƞ ḗẋȧḿƥŀḗ ǿƒ ƥŭƀŀīƈȧŧīǿƞ ȧŧ ŧħīş ŀḗṽḗŀ ẇǿŭŀḓ īƞṽǿŀṽḗ ƥřǿṽīḓīƞɠ ȧ "
+"ḓǿẇƞŀǿȧḓȧƀŀḗ ƇŞṼ ƒīŀḗ ǿƒ ƈǿƞŧřȧƈŧ īƞƒǿřḿȧŧīǿƞ ḗẋŧřȧƈŧḗḓ ƒřǿḿ ȧƞ ḗẋīşŧīƞɠ "
+"ḓȧŧȧƀȧşḗ şḗḗķīƞɠ ŧǿ ŭşḗ, ǿř ḿȧƥ ŧǿ, ƒīḗŀḓ ƞȧḿḗş ȧƞḓ ḓȧŧȧ şŧřŭƈŧŭřḗş "
+"řḗƈǿḿḿḗƞḓḗḓ ƀẏ ǾƇḒŞ ẇħḗřḗṽḗř ƥǿşşīƀŀḗ."
 
 #: ../../standard/docs/en/implementation/levels.md:102
-msgid ""
-"The documentation on [flat CSV file "
-"serialization](../../../implementation/serialization/#csv) of the standard, "
-"and the [OCDS mapper](https://github.com/open-contracting/mapper), may be "
-"useful for those seeking to publish at this level."
+msgid "The documentation on [flat CSV file serialization](../../../implementation/serialization/#csv) of the standard, and the [OCDS mapper](https://github.com/open-contracting/mapper), may be useful for those seeking to publish at this level."
 msgstr ""
+"Ŧħḗ ḓǿƈŭḿḗƞŧȧŧīǿƞ ǿƞ [ƒŀȧŧ ƇŞṼ ƒīŀḗ "
+"şḗřīȧŀīzȧŧīǿƞ](../../../implementation/serialization/#csv) ǿƒ ŧħḗ şŧȧƞḓȧřḓ, "
+"ȧƞḓ ŧħḗ [ǾƇḒŞ ḿȧƥƥḗř](https://github.com/open-contracting/mapper), ḿȧẏ ƀḗ "
+"ŭşḗƒŭŀ ƒǿř ŧħǿşḗ şḗḗķīƞɠ ŧǿ ƥŭƀŀīşħ ȧŧ ŧħīş ŀḗṽḗŀ."
 
 #: ../../standard/docs/en/implementation/levels.md:105
-msgid ""
-"Providing structured data will allow users to perform basic analysis, but "
-"until a common standard is used, it will be more difficult to join up "
-"contracting information across datasets and to analyze patterns across "
-"organizations or sectors. From structured data, the next step is to map this"
-" to the OCDS standard."
+msgid "Providing structured data will allow users to perform basic analysis, but until a common standard is used, it will be more difficult to join up contracting information across datasets and to analyze patterns across organizations or sectors. From structured data, the next step is to map this to the OCDS standard."
 msgstr ""
+"Ƥřǿṽīḓīƞɠ şŧřŭƈŧŭřḗḓ ḓȧŧȧ ẇīŀŀ ȧŀŀǿẇ ŭşḗřş ŧǿ ƥḗřƒǿřḿ ƀȧşīƈ ȧƞȧŀẏşīş, ƀŭŧ "
+"ŭƞŧīŀ ȧ ƈǿḿḿǿƞ şŧȧƞḓȧřḓ īş ŭşḗḓ, īŧ ẇīŀŀ ƀḗ ḿǿřḗ ḓīƒƒīƈŭŀŧ ŧǿ ĵǿīƞ ŭƥ "
+"ƈǿƞŧřȧƈŧīƞɠ īƞƒǿřḿȧŧīǿƞ ȧƈřǿşş ḓȧŧȧşḗŧş ȧƞḓ ŧǿ ȧƞȧŀẏzḗ ƥȧŧŧḗřƞş ȧƈřǿşş "
+"ǿřɠȧƞīzȧŧīǿƞş ǿř şḗƈŧǿřş. Ƒřǿḿ şŧřŭƈŧŭřḗḓ ḓȧŧȧ, ŧħḗ ƞḗẋŧ şŧḗƥ īş ŧǿ ḿȧƥ ŧħīş "
+"ŧǿ ŧħḗ ǾƇḒŞ şŧȧƞḓȧřḓ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "☆ ☆ ☆ Provide structured data using open standards"
-msgstr ""
+msgstr "☆ ☆ ☆ Ƥřǿṽīḓḗ şŧřŭƈŧŭřḗḓ ḓȧŧȧ ŭşīƞɠ ǿƥḗƞ şŧȧƞḓȧřḓş"
 
 #: ../../standard/docs/en/implementation/levels.md:110
-msgid ""
-"Using the Open Contracting Data Standard model to publish initiation, award,"
-" contract and implementation information for each contracting process."
+msgid "Using the Open Contracting Data Standard model to publish initiation, award, contract and implementation information for each contracting process."
 msgstr ""
+"Ŭşīƞɠ ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ ḿǿḓḗŀ ŧǿ ƥŭƀŀīşħ īƞīŧīȧŧīǿƞ, ȧẇȧřḓ, "
+"ƈǿƞŧřȧƈŧ ȧƞḓ īḿƥŀḗḿḗƞŧȧŧīǿƞ īƞƒǿřḿȧŧīǿƞ ƒǿř ḗȧƈħ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/implementation/levels.md:112
-msgid ""
-"OCDS provides guidance on the fields to include, and how to structure them "
-"using [a JSON schema](../../../schema/reference/) so that third-parties can "
-"re-use your data effectively."
+msgid "OCDS provides guidance on the fields to include, and how to structure them using [a JSON schema](../../../schema/reference/) so that third-parties can re-use your data effectively."
 msgstr ""
+"ǾƇḒŞ ƥřǿṽīḓḗş ɠŭīḓȧƞƈḗ ǿƞ ŧħḗ ƒīḗŀḓş ŧǿ īƞƈŀŭḓḗ, ȧƞḓ ħǿẇ ŧǿ şŧřŭƈŧŭřḗ ŧħḗḿ "
+"ŭşīƞɠ [ȧ ĴŞǾȠ şƈħḗḿȧ](../../../schema/reference/) şǿ ŧħȧŧ ŧħīřḓ-ƥȧřŧīḗş ƈȧƞ "
+"řḗ-ŭşḗ ẏǿŭř ḓȧŧȧ ḗƒƒḗƈŧīṽḗŀẏ."
 
 #: ../../standard/docs/en/implementation/levels.md:114
-msgid ""
-"Fully compliant OCDS publication involves providing a release of data for "
-"every event or change that occurs in the life of a contracting process (e.g."
-" when a tender is issued, an award made, and a contract signed), and then "
-"combining these into a summary record. This is important to enable tracking "
-"of change over time. However, there are different paths to take in moving "
-"towards this, and technical assistance from the community can be sought to "
-"identify the best approach."
+msgid "Fully compliant OCDS publication involves providing a release of data for every event or change that occurs in the life of a contracting process (e.g. when a tender is issued, an award made, and a contract signed), and then combining these into a summary record. This is important to enable tracking of change over time. However, there are different paths to take in moving towards this, and technical assistance from the community can be sought to identify the best approach."
 msgstr ""
+"Ƒŭŀŀẏ ƈǿḿƥŀīȧƞŧ ǾƇḒŞ ƥŭƀŀīƈȧŧīǿƞ īƞṽǿŀṽḗş ƥřǿṽīḓīƞɠ ȧ řḗŀḗȧşḗ ǿƒ ḓȧŧȧ ƒǿř "
+"ḗṽḗřẏ ḗṽḗƞŧ ǿř ƈħȧƞɠḗ ŧħȧŧ ǿƈƈŭřş īƞ ŧħḗ ŀīƒḗ ǿƒ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş (ḗ.ɠ. "
+"ẇħḗƞ ȧ ŧḗƞḓḗř īş īşşŭḗḓ, ȧƞ ȧẇȧřḓ ḿȧḓḗ, ȧƞḓ ȧ ƈǿƞŧřȧƈŧ şīɠƞḗḓ), ȧƞḓ ŧħḗƞ "
+"ƈǿḿƀīƞīƞɠ ŧħḗşḗ īƞŧǿ ȧ şŭḿḿȧřẏ řḗƈǿřḓ. Ŧħīş īş īḿƥǿřŧȧƞŧ ŧǿ ḗƞȧƀŀḗ ŧřȧƈķīƞɠ "
+"ǿƒ ƈħȧƞɠḗ ǿṽḗř ŧīḿḗ. Ħǿẇḗṽḗř, ŧħḗřḗ ȧřḗ ḓīƒƒḗřḗƞŧ ƥȧŧħş ŧǿ ŧȧķḗ īƞ ḿǿṽīƞɠ "
+"ŧǿẇȧřḓş ŧħīş, ȧƞḓ ŧḗƈħƞīƈȧŀ ȧşşīşŧȧƞƈḗ ƒřǿḿ ŧħḗ ƈǿḿḿŭƞīŧẏ ƈȧƞ ƀḗ şǿŭɠħŧ ŧǿ "
+"īḓḗƞŧīƒẏ ŧħḗ ƀḗşŧ ȧƥƥřǿȧƈħ."
 
 #: ../../standard/docs/en/implementation/levels.md:116
-msgid ""
-"An example of good quality publication at this level might involve regularly"
-" generated releases and records published in bulk files for download and "
-"also made available through query interfaces and APIs."
+msgid "An example of good quality publication at this level might involve regularly generated releases and records published in bulk files for download and also made available through query interfaces and APIs."
 msgstr ""
+"Ȧƞ ḗẋȧḿƥŀḗ ǿƒ ɠǿǿḓ ɋŭȧŀīŧẏ ƥŭƀŀīƈȧŧīǿƞ ȧŧ ŧħīş ŀḗṽḗŀ ḿīɠħŧ īƞṽǿŀṽḗ řḗɠŭŀȧřŀẏ "
+"ɠḗƞḗřȧŧḗḓ řḗŀḗȧşḗş ȧƞḓ řḗƈǿřḓş ƥŭƀŀīşħḗḓ īƞ ƀŭŀķ ƒīŀḗş ƒǿř ḓǿẇƞŀǿȧḓ ȧƞḓ ȧŀşǿ "
+"ḿȧḓḗ ȧṽȧīŀȧƀŀḗ ŧħřǿŭɠħ ɋŭḗřẏ īƞŧḗřƒȧƈḗş ȧƞḓ ȦƤĪş."
 
 #: ../../standard/docs/en/implementation/levels.md:120
-msgid ""
-"Publishing data at custom download locations, or through custom query "
-"interfaces, requires users to manually discover and access data."
+msgid "Publishing data at custom download locations, or through custom query interfaces, requires users to manually discover and access data."
 msgstr ""
+"Ƥŭƀŀīşħīƞɠ ḓȧŧȧ ȧŧ ƈŭşŧǿḿ ḓǿẇƞŀǿȧḓ ŀǿƈȧŧīǿƞş, ǿř ŧħřǿŭɠħ ƈŭşŧǿḿ ɋŭḗřẏ "
+"īƞŧḗřƒȧƈḗş, řḗɋŭīřḗş ŭşḗřş ŧǿ ḿȧƞŭȧŀŀẏ ḓīşƈǿṽḗř ȧƞḓ ȧƈƈḗşş ḓȧŧȧ."
 
 #: ../../standard/docs/en/implementation/levels.md:122
-msgid ""
-"Applying best practices for publishing on the web will allow automatic "
-"discovery of information, making contracting information more searchable for"
-" humans, easier to track and follow at a per-contract level, and more "
-"accessible for powerful big-data analysis that can make connections across "
-"many open contracting datasets."
+msgid "Applying best practices for publishing on the web will allow automatic discovery of information, making contracting information more searchable for humans, easier to track and follow at a per-contract level, and more accessible for powerful big-data analysis that can make connections across many open contracting datasets."
 msgstr ""
+"Ȧƥƥŀẏīƞɠ ƀḗşŧ ƥřȧƈŧīƈḗş ƒǿř ƥŭƀŀīşħīƞɠ ǿƞ ŧħḗ ẇḗƀ ẇīŀŀ ȧŀŀǿẇ ȧŭŧǿḿȧŧīƈ "
+"ḓīşƈǿṽḗřẏ ǿƒ īƞƒǿřḿȧŧīǿƞ, ḿȧķīƞɠ ƈǿƞŧřȧƈŧīƞɠ īƞƒǿřḿȧŧīǿƞ ḿǿřḗ şḗȧřƈħȧƀŀḗ ƒǿř "
+"ħŭḿȧƞş, ḗȧşīḗř ŧǿ ŧřȧƈķ ȧƞḓ ƒǿŀŀǿẇ ȧŧ ȧ ƥḗř-ƈǿƞŧřȧƈŧ ŀḗṽḗŀ, ȧƞḓ ḿǿřḗ "
+"ȧƈƈḗşşīƀŀḗ ƒǿř ƥǿẇḗřƒŭŀ ƀīɠ-ḓȧŧȧ ȧƞȧŀẏşīş ŧħȧŧ ƈȧƞ ḿȧķḗ ƈǿƞƞḗƈŧīǿƞş ȧƈřǿşş "
+"ḿȧƞẏ ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧşḗŧş."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "☆ ☆ ☆ ☆ Use best practices for data on the web"
-msgstr ""
+msgstr "☆ ☆ ☆ ☆ Ŭşḗ ƀḗşŧ ƥřȧƈŧīƈḗş ƒǿř ḓȧŧȧ ǿƞ ŧħḗ ẇḗƀ"
 
 #: ../../standard/docs/en/implementation/levels.md:127
-msgid ""
-"Make each **release** and **record** describing a contracting process "
-"accessible at its own persistent URI (web address)."
+msgid "Make each **release** and **record** describing a contracting process accessible at its own persistent URI (web address)."
 msgstr ""
+"Ḿȧķḗ ḗȧƈħ **řḗŀḗȧşḗ** ȧƞḓ **řḗƈǿřḓ** ḓḗşƈřīƀīƞɠ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş "
+"ȧƈƈḗşşīƀŀḗ ȧŧ īŧş ǿẇƞ ƥḗřşīşŧḗƞŧ ŬŘĪ (ẇḗƀ ȧḓḓřḗşş)."
 
 #: ../../standard/docs/en/implementation/levels.md:129
-msgid ""
-"Provide feeds that detail recently changed information, and that allow users"
-" to search for specific kinds of tenders, awards or contracts (for example, "
-"by the classification of goods and services being procured)."
+msgid "Provide feeds that detail recently changed information, and that allow users to search for specific kinds of tenders, awards or contracts (for example, by the classification of goods and services being procured)."
 msgstr ""
+"Ƥřǿṽīḓḗ ƒḗḗḓş ŧħȧŧ ḓḗŧȧīŀ řḗƈḗƞŧŀẏ ƈħȧƞɠḗḓ īƞƒǿřḿȧŧīǿƞ, ȧƞḓ ŧħȧŧ ȧŀŀǿẇ ŭşḗřş "
+"ŧǿ şḗȧřƈħ ƒǿř şƥḗƈīƒīƈ ķīƞḓş ǿƒ ŧḗƞḓḗřş, ȧẇȧřḓş ǿř ƈǿƞŧřȧƈŧş (ƒǿř ḗẋȧḿƥŀḗ, "
+"ƀẏ ŧħḗ ƈŀȧşşīƒīƈȧŧīǿƞ ǿƒ ɠǿǿḓş ȧƞḓ şḗřṽīƈḗş ƀḗīƞɠ ƥřǿƈŭřḗḓ)."
 
 #: ../../standard/docs/en/implementation/levels.md:131
-msgid ""
-"Use [established protocols](../../hosting#discovery-and-apis) to support "
-"discovery of your data, and to provide atom feeds of recently updated data. "
-"At this level, publishers may also expose data through an API, following "
-"community established conventions for API operation."
+msgid "Use [established protocols](../../hosting#discovery-and-apis) to support discovery of your data, and to provide atom feeds of recently updated data. At this level, publishers may also expose data through an API, following community established conventions for API operation."
 msgstr ""
+"Ŭşḗ [ḗşŧȧƀŀīşħḗḓ ƥřǿŧǿƈǿŀş](../../hosting#discovery-and-apis) ŧǿ şŭƥƥǿřŧ "
+"ḓīşƈǿṽḗřẏ ǿƒ ẏǿŭř ḓȧŧȧ, ȧƞḓ ŧǿ ƥřǿṽīḓḗ ȧŧǿḿ ƒḗḗḓş ǿƒ řḗƈḗƞŧŀẏ ŭƥḓȧŧḗḓ ḓȧŧȧ. "
+"Ȧŧ ŧħīş ŀḗṽḗŀ, ƥŭƀŀīşħḗřş ḿȧẏ ȧŀşǿ ḗẋƥǿşḗ ḓȧŧȧ ŧħřǿŭɠħ ȧƞ ȦƤĪ, ƒǿŀŀǿẇīƞɠ "
+"ƈǿḿḿŭƞīŧẏ ḗşŧȧƀŀīşħḗḓ ƈǿƞṽḗƞŧīǿƞş ƒǿř ȦƤĪ ǿƥḗřȧŧīǿƞ."
 
 #: ../../standard/docs/en/implementation/levels.md:133
-msgid ""
-"The use of these protocols, and following API conventions, will allow "
-"aggregators and other analysts to integrate this open contracting data in "
-"minutes and hours or work, rather than days, weeks and months."
+msgid "The use of these protocols, and following API conventions, will allow aggregators and other analysts to integrate this open contracting data in minutes and hours or work, rather than days, weeks and months."
 msgstr ""
+"Ŧħḗ ŭşḗ ǿƒ ŧħḗşḗ ƥřǿŧǿƈǿŀş, ȧƞḓ ƒǿŀŀǿẇīƞɠ ȦƤĪ ƈǿƞṽḗƞŧīǿƞş, ẇīŀŀ ȧŀŀǿẇ "
+"ȧɠɠřḗɠȧŧǿřş ȧƞḓ ǿŧħḗř ȧƞȧŀẏşŧş ŧǿ īƞŧḗɠřȧŧḗ ŧħīş ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ īƞ "
+"ḿīƞŭŧḗş ȧƞḓ ħǿŭřş ǿř ẇǿřķ, řȧŧħḗř ŧħȧƞ ḓȧẏş, ẇḗḗķş ȧƞḓ ḿǿƞŧħş."
 
 #: ../../standard/docs/en/implementation/levels.md:135
-msgid ""
-"In the future OCDS may also have an RDF serialization to enable linked data "
-"publication at this level."
+msgid "In the future OCDS may also have an RDF serialization to enable linked data publication at this level."
 msgstr ""
+"Īƞ ŧħḗ ƒŭŧŭřḗ ǾƇḒŞ ḿȧẏ ȧŀşǿ ħȧṽḗ ȧƞ ŘḒƑ şḗřīȧŀīzȧŧīǿƞ ŧǿ ḗƞȧƀŀḗ ŀīƞķḗḓ ḓȧŧȧ "
+"ƥŭƀŀīƈȧŧīǿƞ ȧŧ ŧħīş ŀḗṽḗŀ."
 
 #: ../../standard/docs/en/implementation/levels.md:138
-msgid ""
-"Contracting data may contain many cross-references to other important "
-"datasets - from government budgets, to company registers and registers of "
-"public interest. If 4 or 5 ☆ data is published for any of these, then OCDS "
-"can be used to make links between these datasets."
+msgid "Contracting data may contain many cross-references to other important datasets - from government budgets, to company registers and registers of public interest. If 4 or 5 ☆ data is published for any of these, then OCDS can be used to make links between these datasets."
 msgstr ""
+"Ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ ḿȧẏ ƈǿƞŧȧīƞ ḿȧƞẏ ƈřǿşş-řḗƒḗřḗƞƈḗş ŧǿ ǿŧħḗř īḿƥǿřŧȧƞŧ "
+"ḓȧŧȧşḗŧş - ƒřǿḿ ɠǿṽḗřƞḿḗƞŧ ƀŭḓɠḗŧş, ŧǿ ƈǿḿƥȧƞẏ řḗɠīşŧḗřş ȧƞḓ řḗɠīşŧḗřş ǿƒ "
+"ƥŭƀŀīƈ īƞŧḗřḗşŧ. Īƒ 4 ǿř 5 ☆ ḓȧŧȧ īş ƥŭƀŀīşħḗḓ ƒǿř ȧƞẏ ǿƒ ŧħḗşḗ, ŧħḗƞ ǾƇḒŞ "
+"ƈȧƞ ƀḗ ŭşḗḓ ŧǿ ḿȧķḗ ŀīƞķş ƀḗŧẇḗḗƞ ŧħḗşḗ ḓȧŧȧşḗŧş."
 
 #: ../../standard/docs/en/implementation/levels.md:140
-msgid ""
-"This will allow users to follow the links to discover more about the context"
-" of the contracting processes they are exploring, and will allow big-data "
-"analysis linking in these different datasets. For example, following links "
-"to a company register to discover whether a company awarded a contract has "
-"been dissolved, or following links to budget and spending information."
+msgid "This will allow users to follow the links to discover more about the context of the contracting processes they are exploring, and will allow big-data analysis linking in these different datasets. For example, following links to a company register to discover whether a company awarded a contract has been dissolved, or following links to budget and spending information."
 msgstr ""
+"Ŧħīş ẇīŀŀ ȧŀŀǿẇ ŭşḗřş ŧǿ ƒǿŀŀǿẇ ŧħḗ ŀīƞķş ŧǿ ḓīşƈǿṽḗř ḿǿřḗ ȧƀǿŭŧ ŧħḗ ƈǿƞŧḗẋŧ "
+"ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş ŧħḗẏ ȧřḗ ḗẋƥŀǿřīƞɠ, ȧƞḓ ẇīŀŀ ȧŀŀǿẇ ƀīɠ-ḓȧŧȧ "
+"ȧƞȧŀẏşīş ŀīƞķīƞɠ īƞ ŧħḗşḗ ḓīƒƒḗřḗƞŧ ḓȧŧȧşḗŧş. Ƒǿř ḗẋȧḿƥŀḗ, ƒǿŀŀǿẇīƞɠ ŀīƞķş "
+"ŧǿ ȧ ƈǿḿƥȧƞẏ řḗɠīşŧḗř ŧǿ ḓīşƈǿṽḗř ẇħḗŧħḗř ȧ ƈǿḿƥȧƞẏ ȧẇȧřḓḗḓ ȧ ƈǿƞŧřȧƈŧ ħȧş "
+"ƀḗḗƞ ḓīşşǿŀṽḗḓ, ǿř ƒǿŀŀǿẇīƞɠ ŀīƞķş ŧǿ ƀŭḓɠḗŧ ȧƞḓ şƥḗƞḓīƞɠ īƞƒǿřḿȧŧīǿƞ."
 
 #: ../../standard/docs/en/implementation/levels.md:0
 msgid "☆ ☆ ☆ ☆ ☆ Make links to other datasets"
-msgstr ""
+msgstr "☆ ☆ ☆ ☆ ☆ Ḿȧķḗ ŀīƞķş ŧǿ ǿŧħḗř ḓȧŧȧşḗŧş"
 
 #: ../../standard/docs/en/implementation/levels.md:145
-msgid ""
-"OCDS provides spaces to give URIs to identify key dataset elements. By "
-"drawing on data published on the web by other agencies, and maintaining "
-"integration between your systems, you can provide links to these other data "
-"points within your OCDS data."
+msgid "OCDS provides spaces to give URIs to identify key dataset elements. By drawing on data published on the web by other agencies, and maintaining integration between your systems, you can provide links to these other data points within your OCDS data."
 msgstr ""
+"ǾƇḒŞ ƥřǿṽīḓḗş şƥȧƈḗş ŧǿ ɠīṽḗ ŬŘĪş ŧǿ īḓḗƞŧīƒẏ ķḗẏ ḓȧŧȧşḗŧ ḗŀḗḿḗƞŧş. Ɓẏ "
+"ḓřȧẇīƞɠ ǿƞ ḓȧŧȧ ƥŭƀŀīşħḗḓ ǿƞ ŧħḗ ẇḗƀ ƀẏ ǿŧħḗř ȧɠḗƞƈīḗş, ȧƞḓ ḿȧīƞŧȧīƞīƞɠ "
+"īƞŧḗɠřȧŧīǿƞ ƀḗŧẇḗḗƞ ẏǿŭř şẏşŧḗḿş, ẏǿŭ ƈȧƞ ƥřǿṽīḓḗ ŀīƞķş ŧǿ ŧħḗşḗ ǿŧħḗř ḓȧŧȧ "
+"ƥǿīƞŧş ẇīŧħīƞ ẏǿŭř ǾƇḒŞ ḓȧŧȧ."
 
 #: ../../standard/docs/en/implementation/levels.md:147
-msgid ""
-"This level builds upon 4 ☆ publication, and helps to build a joined up web "
-"of data."
+msgid "This level builds upon 4 ☆ publication, and helps to build a joined up web of data."
 msgstr ""
+"Ŧħīş ŀḗṽḗŀ ƀŭīŀḓş ŭƥǿƞ 4 ☆ ƥŭƀŀīƈȧŧīǿƞ, ȧƞḓ ħḗŀƥş ŧǿ ƀŭīŀḓ ȧ ĵǿīƞḗḓ ŭƥ ẇḗƀ "
+"ǿƒ ḓȧŧȧ."
 
 #: ../../standard/docs/en/implementation/levels.md:149
-msgid ""
-"An example of publication at this level would involve including organization"
-" URIs to point to company registers, budget URIs to point to budget lines, "
-"and spending URIs to point to spending information (i.e. using web links to "
-"identify things, with those web links returning data on the things "
-"identified.)."
+msgid "An example of publication at this level would involve including organization URIs to point to company registers, budget URIs to point to budget lines, and spending URIs to point to spending information (i.e. using web links to identify things, with those web links returning data on the things identified.)."
 msgstr ""
+"Ȧƞ ḗẋȧḿƥŀḗ ǿƒ ƥŭƀŀīƈȧŧīǿƞ ȧŧ ŧħīş ŀḗṽḗŀ ẇǿŭŀḓ īƞṽǿŀṽḗ īƞƈŀŭḓīƞɠ ǿřɠȧƞīzȧŧīǿƞ "
+"ŬŘĪş ŧǿ ƥǿīƞŧ ŧǿ ƈǿḿƥȧƞẏ řḗɠīşŧḗřş, ƀŭḓɠḗŧ ŬŘĪş ŧǿ ƥǿīƞŧ ŧǿ ƀŭḓɠḗŧ ŀīƞḗş, "
+"ȧƞḓ şƥḗƞḓīƞɠ ŬŘĪş ŧǿ ƥǿīƞŧ ŧǿ şƥḗƞḓīƞɠ īƞƒǿřḿȧŧīǿƞ (ī.ḗ. ŭşīƞɠ ẇḗƀ ŀīƞķş ŧǿ "
+"īḓḗƞŧīƒẏ ŧħīƞɠş, ẇīŧħ ŧħǿşḗ ẇḗƀ ŀīƞķş řḗŧŭřƞīƞɠ ḓȧŧȧ ǿƞ ŧħḗ ŧħīƞɠş "
+"īḓḗƞŧīƒīḗḓ.)."
 
 #: ../../standard/docs/en/implementation/levels.md:151
-msgid ""
-"For simplicity, the OCDS does not yet include URI fields at all points of "
-"the standard, but these can be added as extensions in collaboration with 5 ☆"
-" linked data publishers."
+msgid "For simplicity, the OCDS does not yet include URI fields at all points of the standard, but these can be added as extensions in collaboration with 5 ☆ linked data publishers."
 msgstr ""
+"Ƒǿř şīḿƥŀīƈīŧẏ, ŧħḗ ǾƇḒŞ ḓǿḗş ƞǿŧ ẏḗŧ īƞƈŀŭḓḗ ŬŘĪ ƒīḗŀḓş ȧŧ ȧŀŀ ƥǿīƞŧş ǿƒ "
+"ŧħḗ şŧȧƞḓȧřḓ, ƀŭŧ ŧħḗşḗ ƈȧƞ ƀḗ ȧḓḓḗḓ ȧş ḗẋŧḗƞşīǿƞş īƞ ƈǿŀŀȧƀǿřȧŧīǿƞ ẇīŧħ 5 ☆ "
+"ŀīƞķḗḓ ḓȧŧȧ ƥŭƀŀīşħḗřş."
 
 #: ../../standard/docs/en/implementation/levels.md:154
-msgid ""
-"Whatever level you are at - publishing data is only part of the process. It "
-"is important to also [engage with "
-"users](http://www.opendataimpacts.net/engagement/) and to think about how to"
-" build your open data back into your organizational processes, closing the "
-"feedback loop."
+msgid "Whatever level you are at - publishing data is only part of the process. It is important to also [engage with users](http://www.opendataimpacts.net/engagement/) and to think about how to build your open data back into your organizational processes, closing the feedback loop."
 msgstr ""
+"Ẇħȧŧḗṽḗř ŀḗṽḗŀ ẏǿŭ ȧřḗ ȧŧ - ƥŭƀŀīşħīƞɠ ḓȧŧȧ īş ǿƞŀẏ ƥȧřŧ ǿƒ ŧħḗ ƥřǿƈḗşş. Īŧ "
+"īş īḿƥǿřŧȧƞŧ ŧǿ ȧŀşǿ [ḗƞɠȧɠḗ ẇīŧħ "
+"ŭşḗřş](http://www.opendataimpacts.net/engagement/) ȧƞḓ ŧǿ ŧħīƞķ ȧƀǿŭŧ ħǿẇ ŧǿ "
+"ƀŭīŀḓ ẏǿŭř ǿƥḗƞ ḓȧŧȧ ƀȧƈķ īƞŧǿ ẏǿŭř ǿřɠȧƞīzȧŧīǿƞȧŀ ƥřǿƈḗşşḗş, ƈŀǿşīƞɠ ŧħḗ "
+"ƒḗḗḓƀȧƈķ ŀǿǿƥ."

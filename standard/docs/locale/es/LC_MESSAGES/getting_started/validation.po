@@ -1,115 +1,115 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:06+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/getting_started/validation.md:0
 msgid "Validation"
-msgstr ""
+msgstr "Ṽȧŀīḓȧŧīǿƞ"
 
 #: ../../standard/docs/en/getting_started/validation.md:3
-msgid ""
-"You can validate your OCDS documents at standard.open-"
-"contracting.org/validator/."
+msgid "You can validate your OCDS documents at [standard.open-contracting.org/validator/](http://standard.open-contracting.org/validator/)."
 msgstr ""
+"Ẏǿŭ ƈȧƞ ṽȧŀīḓȧŧḗ ẏǿŭř ǾƇḒŞ ḓǿƈŭḿḗƞŧş ȧŧ "
+"[şŧȧƞḓȧřḓ.ǿƥḗƞ-ƈǿƞŧřȧƈŧīƞɠ.ǿřɠ/validator/](http://standard.open-"
+"contracting.org/validator/)."
 
 #: ../../standard/docs/en/getting_started/validation.md:5
-msgid ""
-"This tool will help you to check whether the JSON files you are producing "
-"are technically valid."
+msgid "This tool will help you to check whether the JSON files you are producing are technically valid."
 msgstr ""
+"Ŧħīş ŧǿǿŀ ẇīŀŀ ħḗŀƥ ẏǿŭ ŧǿ ƈħḗƈķ ẇħḗŧħḗř ŧħḗ ĴŞǾȠ ƒīŀḗş ẏǿŭ ȧřḗ ƥřǿḓŭƈīƞɠ "
+"ȧřḗ ŧḗƈħƞīƈȧŀŀẏ ṽȧŀīḓ."
 
 #: ../../standard/docs/en/getting_started/validation.md:7
 msgid "However, this is just one step of checking your data."
-msgstr ""
+msgstr "Ħǿẇḗṽḗř, ŧħīş īş ĵŭşŧ ǿƞḗ şŧḗƥ ǿƒ ƈħḗƈķīƞɠ ẏǿŭř ḓȧŧȧ."
 
 #: ../../standard/docs/en/getting_started/validation.md:9
-msgid ""
-"The OCDS helpdesk team can provide additional support to check the quality "
-"of the data you are producing, and to check for other common errors and "
-"omissions."
+msgid "The OCDS helpdesk team can provide additional support to check the quality of the data you are producing, and to check for other common errors and omissions."
 msgstr ""
+"Ŧħḗ ǾƇḒŞ ħḗŀƥḓḗşķ ŧḗȧḿ ƈȧƞ ƥřǿṽīḓḗ ȧḓḓīŧīǿƞȧŀ şŭƥƥǿřŧ ŧǿ ƈħḗƈķ ŧħḗ ɋŭȧŀīŧẏ "
+"ǿƒ ŧħḗ ḓȧŧȧ ẏǿŭ ȧřḗ ƥřǿḓŭƈīƞɠ, ȧƞḓ ŧǿ ƈħḗƈķ ƒǿř ǿŧħḗř ƈǿḿḿǿƞ ḗřřǿřş ȧƞḓ "
+"ǿḿīşşīǿƞş."
 
 #: ../../standard/docs/en/getting_started/validation.md:0
 msgid "Quality checks"
-msgstr ""
+msgstr "Ɋŭȧŀīŧẏ ƈħḗƈķş"
 
 #: ../../standard/docs/en/getting_started/validation.md:13
-msgid ""
-"Assessing how good your open contracting data is involves a number of "
-"elements:"
+msgid "Assessing how good your open contracting data is involves a number of elements:"
 msgstr ""
+"Ȧşşḗşşīƞɠ ħǿẇ ɠǿǿḓ ẏǿŭř ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ īş īƞṽǿŀṽḗş ȧ ƞŭḿƀḗř ǿƒ "
+"ḗŀḗḿḗƞŧş:"
 
 #: ../../standard/docs/en/getting_started/validation.md:15
-msgid ""
-"Validation involves a technical check on the way data is structured and "
-"formatted. If data is not valid JSON, and does not comply with the OCDS "
-"schema, then it cannot be processed by OCDS tools, and will not be "
-"interoperable with other data. Providing valid data is an important "
-"foundation for interoperable open data."
+msgid "**Validation** involves a technical check on the way data is structured and formatted. If data is not valid JSON, and does not comply with the OCDS schema, then it cannot be processed by OCDS tools, and will not be interoperable with other data. Providing valid data is an important foundation for interoperable open data."
 msgstr ""
+"**Ṽȧŀīḓȧŧīǿƞ** īƞṽǿŀṽḗş ȧ ŧḗƈħƞīƈȧŀ ƈħḗƈķ ǿƞ ŧħḗ ẇȧẏ ḓȧŧȧ īş şŧřŭƈŧŭřḗḓ ȧƞḓ "
+"ƒǿřḿȧŧŧḗḓ. Īƒ ḓȧŧȧ īş ƞǿŧ ṽȧŀīḓ ĴŞǾȠ, ȧƞḓ ḓǿḗş ƞǿŧ ƈǿḿƥŀẏ ẇīŧħ ŧħḗ ǾƇḒŞ "
+"şƈħḗḿȧ, ŧħḗƞ īŧ ƈȧƞƞǿŧ ƀḗ ƥřǿƈḗşşḗḓ ƀẏ ǾƇḒŞ ŧǿǿŀş, ȧƞḓ ẇīŀŀ ƞǿŧ ƀḗ "
+"īƞŧḗřǿƥḗřȧƀŀḗ ẇīŧħ ǿŧħḗř ḓȧŧȧ. Ƥřǿṽīḓīƞɠ ṽȧŀīḓ ḓȧŧȧ īş ȧƞ īḿƥǿřŧȧƞŧ "
+"ƒǿŭƞḓȧŧīǿƞ ƒǿř īƞŧḗřǿƥḗřȧƀŀḗ ǿƥḗƞ ḓȧŧȧ."
 
 #: ../../standard/docs/en/getting_started/validation.md:17
-msgid ""
-"The OCDS validator can provide an automated pass/fail check on whether data "
-"is valid at 3 ☆ level."
+msgid "The OCDS validator can provide an automated pass/fail check on whether data is valid at 3 ☆ level."
 msgstr ""
+"Ŧħḗ ǾƇḒŞ ṽȧŀīḓȧŧǿř ƈȧƞ ƥřǿṽīḓḗ ȧƞ ȧŭŧǿḿȧŧḗḓ ƥȧşş/fail ƈħḗƈķ ǿƞ ẇħḗŧħḗř ḓȧŧȧ "
+"īş ṽȧŀīḓ ȧŧ 3 ☆ ŀḗṽḗŀ."
 
 #: ../../standard/docs/en/getting_started/validation.md:19
-msgid ""
-"Conformance involves a detailed check on whether OCDS terms are being used "
-"correctly. For example, are you following the field definitions and guidance"
-" when entering data, and mapping to the OCDS structure. Conformance involves"
-" a human check on how fields are being used, and which extensions to the "
-"schema you are using."
+msgid "**Conformance** involves a detailed check on whether OCDS terms are being used correctly. For example, are you following the field definitions and guidance when entering data, and mapping to the OCDS structure. Conformance involves a human check on how fields are being used, and which extensions to the schema you are using."
 msgstr ""
+"**Ƈǿƞƒǿřḿȧƞƈḗ** īƞṽǿŀṽḗş ȧ ḓḗŧȧīŀḗḓ ƈħḗƈķ ǿƞ ẇħḗŧħḗř ǾƇḒŞ ŧḗřḿş ȧřḗ ƀḗīƞɠ "
+"ŭşḗḓ ƈǿřřḗƈŧŀẏ. Ƒǿř ḗẋȧḿƥŀḗ, ȧřḗ ẏǿŭ ƒǿŀŀǿẇīƞɠ ŧħḗ ƒīḗŀḓ ḓḗƒīƞīŧīǿƞş ȧƞḓ "
+"ɠŭīḓȧƞƈḗ ẇħḗƞ ḗƞŧḗřīƞɠ ḓȧŧȧ, ȧƞḓ ḿȧƥƥīƞɠ ŧǿ ŧħḗ ǾƇḒŞ şŧřŭƈŧŭřḗ. Ƈǿƞƒǿřḿȧƞƈḗ "
+"īƞṽǿŀṽḗş ȧ ħŭḿȧƞ ƈħḗƈķ ǿƞ ħǿẇ ƒīḗŀḓş ȧřḗ ƀḗīƞɠ ŭşḗḓ, ȧƞḓ ẇħīƈħ ḗẋŧḗƞşīǿƞş ŧǿ "
+"ŧħḗ şƈħḗḿȧ ẏǿŭ ȧřḗ ŭşīƞɠ."
 
 #: ../../standard/docs/en/getting_started/validation.md:21
-msgid ""
-"The OCDS validator provides feedback that can be used to make an initial "
-"judgement on conformance. A full judgement requires expert input."
+msgid "The OCDS validator provides feedback that can be used to make an initial judgement on conformance. A full judgement requires expert input."
 msgstr ""
+"Ŧħḗ ǾƇḒŞ ṽȧŀīḓȧŧǿř ƥřǿṽīḓḗş ƒḗḗḓƀȧƈķ ŧħȧŧ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ ḿȧķḗ ȧƞ īƞīŧīȧŀ "
+"ĵŭḓɠḗḿḗƞŧ ǿƞ ƈǿƞƒǿřḿȧƞƈḗ. Ȧ ƒŭŀŀ ĵŭḓɠḗḿḗƞŧ řḗɋŭīřḗş ḗẋƥḗřŧ īƞƥŭŧ."
 
 #: ../../standard/docs/en/getting_started/validation.md:23
-msgid ""
-"Completeness involves checking which sections and building blocks of OCDS "
-"are being used. For example, are you publishing information from every "
-"contracting stage, or are you only providing tender or award data; and are "
-"you providing detailed identifiers for organisations, or just names."
+msgid "**Completeness** involves checking which sections and building blocks of OCDS are being used. For example, are you publishing information from every contracting stage, or are you only providing tender or award data; and are you providing detailed identifiers for organisations, or just names."
 msgstr ""
+"**Ƈǿḿƥŀḗŧḗƞḗşş** īƞṽǿŀṽḗş ƈħḗƈķīƞɠ ẇħīƈħ şḗƈŧīǿƞş ȧƞḓ ƀŭīŀḓīƞɠ ƀŀǿƈķş ǿƒ "
+"ǾƇḒŞ ȧřḗ ƀḗīƞɠ ŭşḗḓ. Ƒǿř ḗẋȧḿƥŀḗ, ȧřḗ ẏǿŭ ƥŭƀŀīşħīƞɠ īƞƒǿřḿȧŧīǿƞ ƒřǿḿ ḗṽḗřẏ "
+"ƈǿƞŧřȧƈŧīƞɠ şŧȧɠḗ, ǿř ȧřḗ ẏǿŭ ǿƞŀẏ ƥřǿṽīḓīƞɠ ŧḗƞḓḗř ǿř ȧẇȧřḓ ḓȧŧȧ; ȧƞḓ ȧřḗ "
+"ẏǿŭ ƥřǿṽīḓīƞɠ ḓḗŧȧīŀḗḓ īḓḗƞŧīƒīḗřş ƒǿř ǿřɠȧƞīşȧŧīǿƞş, ǿř ĵŭşŧ ƞȧḿḗş."
 
 #: ../../standard/docs/en/getting_started/validation.md:25
-msgid ""
-"Completeness can be evaluated against the Basic, Intermediate, Advanced "
-"framework for OCDS."
+msgid "Completeness can be evaluated against the Basic, Intermediate, Advanced framework for OCDS."
 msgstr ""
+"Ƈǿḿƥŀḗŧḗƞḗşş ƈȧƞ ƀḗ ḗṽȧŀŭȧŧḗḓ ȧɠȧīƞşŧ ŧħḗ Ɓȧşīƈ, Īƞŧḗřḿḗḓīȧŧḗ, Ȧḓṽȧƞƈḗḓ "
+"ƒřȧḿḗẇǿřķ ƒǿř ǾƇḒŞ."
 
 #: ../../standard/docs/en/getting_started/validation.md:27
-msgid ""
-"Utility involves checking whether the data is fit for purpose. This involves"
-" considering the priority use cases for the data, and considering whether "
-"all feasible steps that could increase the re-usablility of the data have "
-"been taken. Quality involves considering questions of coherence (do the "
-"relationships in the data make sense, and is information logically "
-"structured?) and usefulness."
+msgid "**Utility** involves checking whether the data is fit for purpose. This involves considering the priority use cases for the data, and considering whether all feasible steps that could increase the re-usablility of the data have been taken. Quality involves considering questions of coherence (do the relationships in the data make sense, and is information logically structured?) and usefulness."
 msgstr ""
+"**Ŭŧīŀīŧẏ** īƞṽǿŀṽḗş ƈħḗƈķīƞɠ ẇħḗŧħḗř ŧħḗ ḓȧŧȧ īş ƒīŧ ƒǿř ƥŭřƥǿşḗ. Ŧħīş "
+"īƞṽǿŀṽḗş ƈǿƞşīḓḗřīƞɠ ŧħḗ ƥřīǿřīŧẏ ŭşḗ ƈȧşḗş ƒǿř ŧħḗ ḓȧŧȧ, ȧƞḓ ƈǿƞşīḓḗřīƞɠ "
+"ẇħḗŧħḗř ȧŀŀ ƒḗȧşīƀŀḗ şŧḗƥş ŧħȧŧ ƈǿŭŀḓ īƞƈřḗȧşḗ ŧħḗ řḗ-ŭşȧƀŀīŀīŧẏ ǿƒ ŧħḗ ḓȧŧȧ "
+"ħȧṽḗ ƀḗḗƞ ŧȧķḗƞ. Ɋŭȧŀīŧẏ īƞṽǿŀṽḗş ƈǿƞşīḓḗřīƞɠ ɋŭḗşŧīǿƞş ǿƒ ƈǿħḗřḗƞƈḗ (ḓǿ ŧħḗ "
+"řḗŀȧŧīǿƞşħīƥş īƞ ŧħḗ ḓȧŧȧ ḿȧķḗ şḗƞşḗ, ȧƞḓ īş īƞƒǿřḿȧŧīǿƞ ŀǿɠīƈȧŀŀẏ "
+"şŧřŭƈŧŭřḗḓ?) ȧƞḓ ŭşḗƒŭŀƞḗşş."
 
 #: ../../standard/docs/en/getting_started/validation.md:29
-msgid ""
-"The best way to test the utility of the data is through its successful use "
-"for analysis, monitoring and increasing access to contracting information."
+msgid "The best way to test the utility of the data is through its successful use for analysis, monitoring and increasing access to contracting information."
 msgstr ""
+"Ŧħḗ ƀḗşŧ ẇȧẏ ŧǿ ŧḗşŧ ŧħḗ ŭŧīŀīŧẏ ǿƒ ŧħḗ ḓȧŧȧ īş ŧħřǿŭɠħ īŧş şŭƈƈḗşşƒŭŀ ŭşḗ "
+"ƒǿř ȧƞȧŀẏşīş, ḿǿƞīŧǿřīƞɠ ȧƞḓ īƞƈřḗȧşīƞɠ ȧƈƈḗşş ŧǿ ƈǿƞŧřȧƈŧīƞɠ īƞƒǿřḿȧŧīǿƞ."

@@ -1,97 +1,95 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:07+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/support/index.md:0
 msgid "Support and governance"
-msgstr ""
+msgstr "Şŭƥƥǿřŧ ȧƞḓ ɠǿṽḗřƞȧƞƈḗ"
 
 #: ../../standard/docs/en/support/index.md:3
-msgid ""
-"The Open Contracting Data Standard help-desk is available to support you in "
-"implementing or using OCDS, and to assist in the ongoing development of the "
-"standard."
+msgid "The Open Contracting Data Standard help-desk is available to support you in implementing or using OCDS, and to assist in the ongoing development of the standard."
 msgstr ""
+"Ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ ħḗŀƥ-ḓḗşķ īş ȧṽȧīŀȧƀŀḗ ŧǿ şŭƥƥǿřŧ ẏǿŭ īƞ "
+"īḿƥŀḗḿḗƞŧīƞɠ ǿř ŭşīƞɠ ǾƇḒŞ, ȧƞḓ ŧǿ ȧşşīşŧ īƞ ŧħḗ ǿƞɠǿīƞɠ ḓḗṽḗŀǿƥḿḗƞŧ ǿƒ ŧħḗ "
+"şŧȧƞḓȧřḓ."
 
 #: ../../standard/docs/en/support/index.md:17
-msgid ""
-"If are are planning to publish or use data using the Open Contracting Data "
-"Standards then the OCDS help-desk team are on hand to offer advice and "
-"input."
+msgid "If are are planning to publish or use data using the Open Contracting Data Standards then the OCDS help-desk team are on hand to offer advice and input."
 msgstr ""
+"Īƒ ȧřḗ ȧřḗ ƥŀȧƞƞīƞɠ ŧǿ ƥŭƀŀīşħ ǿř ŭşḗ ḓȧŧȧ ŭşīƞɠ ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ "
+"Şŧȧƞḓȧřḓş ŧħḗƞ ŧħḗ ǾƇḒŞ ħḗŀƥ-ḓḗşķ ŧḗȧḿ ȧřḗ ǿƞ ħȧƞḓ ŧǿ ǿƒƒḗř ȧḓṽīƈḗ ȧƞḓ īƞƥŭŧ."
 
 #: ../../standard/docs/en/support/index.md:19
 msgid "We can:"
-msgstr ""
+msgstr "Ẇḗ ƈȧƞ:"
 
 #: ../../standard/docs/en/support/index.md:21
-msgid ""
-"Help you identify approaches for converting data from your existing systems "
-"to OCDS;"
+msgid "Help you identify approaches for converting data from your existing systems to OCDS;"
 msgstr ""
+"Ħḗŀƥ ẏǿŭ īḓḗƞŧīƒẏ ȧƥƥřǿȧƈħḗş ƒǿř ƈǿƞṽḗřŧīƞɠ ḓȧŧȧ ƒřǿḿ ẏǿŭř ḗẋīşŧīƞɠ şẏşŧḗḿş "
+"ŧǿ ǾƇḒŞ;"
 
 #: ../../standard/docs/en/support/index.md:22
-msgid ""
-"Suggest existing tools and services which may help you public or use OCDS "
-"data;"
+msgid "Suggest existing tools and services which may help you public or use OCDS data;"
 msgstr ""
+"Şŭɠɠḗşŧ ḗẋīşŧīƞɠ ŧǿǿŀş ȧƞḓ şḗřṽīƈḗş ẇħīƈħ ḿȧẏ ħḗŀƥ ẏǿŭ ƥŭƀŀīƈ ǿř ŭşḗ ǾƇḒŞ "
+"ḓȧŧȧ;"
 
 #: ../../standard/docs/en/support/index.md:23
 msgid "Provide guidance on mapping your data structures to the standard;"
-msgstr ""
+msgstr "Ƥřǿṽīḓḗ ɠŭīḓȧƞƈḗ ǿƞ ḿȧƥƥīƞɠ ẏǿŭř ḓȧŧȧ şŧřŭƈŧŭřḗş ŧǿ ŧħḗ şŧȧƞḓȧřḓ;"
 
 #: ../../standard/docs/en/support/index.md:24
-msgid ""
-"Give you feedback on draft data files, and support with validation of your "
-"data;"
+msgid "Give you feedback on draft data files, and support with validation of your data;"
 msgstr ""
+"Ɠīṽḗ ẏǿŭ ƒḗḗḓƀȧƈķ ǿƞ ḓřȧƒŧ ḓȧŧȧ ƒīŀḗş, ȧƞḓ şŭƥƥǿřŧ ẇīŧħ ṽȧŀīḓȧŧīǿƞ ǿƒ ẏǿŭř "
+"ḓȧŧȧ;"
 
 #: ../../standard/docs/en/support/index.md:26
-msgid ""
-"Through funding from the Open Contracting Partnership, this support is "
-"provided free of charge."
+msgid "Through funding from the Open Contracting Partnership, this support is provided free of charge."
 msgstr ""
+"Ŧħřǿŭɠħ ƒŭƞḓīƞɠ ƒřǿḿ ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ƥȧřŧƞḗřşħīƥ, ŧħīş şŭƥƥǿřŧ īş "
+"ƥřǿṽīḓḗḓ ƒřḗḗ ǿƒ ƈħȧřɠḗ."
 
 #: ../../standard/docs/en/support/index.md:28
-msgid ""
-"E-mail <a href=\"mailto:data@open-contracting.org\">data@open-"
-"contracting.org</a> with your questions, and a member of the help-desk team "
-"will be in touch with you soon."
+msgid "E-mail <a href=\"mailto:data@open-contracting.org\">data@open-contracting.org</a> with your questions, and a member of the help-desk team will be in touch with you soon."
 msgstr ""
+"Ḗ-ḿȧīŀ <a href=\"mailto:data@open-contracting.org\">data@open-"
+"contracting.org</a> ẇīŧħ ẏǿŭř ɋŭḗşŧīǿƞş, ȧƞḓ ȧ ḿḗḿƀḗř ǿƒ ŧħḗ ħḗŀƥ-ḓḗşķ ŧḗȧḿ "
+"ẇīŀŀ ƀḗ īƞ ŧǿŭƈħ ẇīŧħ ẏǿŭ şǿǿƞ."
 
 #: ../../standard/docs/en/support/index.md:34
-msgid ""
-"The Open Contracting community is also a good source of input and support. "
-"You can ask questions, discuss ideas for using the standard, and share news "
-"on your projects on the [standard-discuss@open-"
-"contracting.org](https://groups.google.com/a/open-"
-"contracting.org/forum/#!forum/standard-discuss) mailing list."
+msgid "The Open Contracting community is also a good source of input and support. You can ask questions, discuss ideas for using the standard, and share news on your projects on the [standard-discuss@open-contracting.org](https://groups.google.com/a/open-contracting.org/forum/#!forum/standard-discuss) mailing list."
 msgstr ""
+"Ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ƈǿḿḿŭƞīŧẏ īş ȧŀşǿ ȧ ɠǿǿḓ şǿŭřƈḗ ǿƒ īƞƥŭŧ ȧƞḓ şŭƥƥǿřŧ. "
+"Ẏǿŭ ƈȧƞ ȧşķ ɋŭḗşŧīǿƞş, ḓīşƈŭşş īḓḗȧş ƒǿř ŭşīƞɠ ŧħḗ şŧȧƞḓȧřḓ, ȧƞḓ şħȧřḗ ƞḗẇş "
+"ǿƞ ẏǿŭř ƥřǿĵḗƈŧş ǿƞ ŧħḗ [standard-discuss@open-"
+"contracting.org](https://groups.google.com/a/open-"
+"contracting.org/forum/#!forum/standard-discuss) ḿȧīŀīƞɠ ŀīşŧ."
 
 #: ../../standard/docs/en/support/index.md:36
-msgid ""
-"Announcements about proposed updates to the specification, and periods for "
-"comment, will be made to the mailing list."
+msgid "Announcements about proposed updates to the specification, and periods for comment, will be made to the mailing list."
 msgstr ""
+"Ȧƞƞǿŭƞƈḗḿḗƞŧş ȧƀǿŭŧ ƥřǿƥǿşḗḓ ŭƥḓȧŧḗş ŧǿ ŧħḗ şƥḗƈīƒīƈȧŧīǿƞ, ȧƞḓ ƥḗřīǿḓş ƒǿř "
+"ƈǿḿḿḗƞŧ, ẇīŀŀ ƀḗ ḿȧḓḗ ŧǿ ŧħḗ ḿȧīŀīƞɠ ŀīşŧ."
 
 #: ../../standard/docs/en/support/index.md:38
-msgid ""
-"Developers, or those wishing to provide technical input on the standard, may"
-" wish to go straight to the [Github repository](https://github.com/open-"
-"contracting/standard)."
+msgid "Developers, or those wishing to provide technical input on the standard, may wish to go straight to the [Github repository](https://github.com/open-contracting/standard)."
 msgstr ""
+"Ḓḗṽḗŀǿƥḗřş, ǿř ŧħǿşḗ ẇīşħīƞɠ ŧǿ ƥřǿṽīḓḗ ŧḗƈħƞīƈȧŀ īƞƥŭŧ ǿƞ ŧħḗ şŧȧƞḓȧřḓ, ḿȧẏ "
+"ẇīşħ ŧǿ ɠǿ şŧřȧīɠħŧ ŧǿ ŧħḗ [Ɠīŧħŭƀ řḗƥǿşīŧǿřẏ](https://github.com/open-"
+"contracting/standard)."

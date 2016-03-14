@@ -1,112 +1,111 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:06+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:0
 msgid "Conformance and extensions"
-msgstr ""
+msgstr "Ƈǿƞƒǿřḿȧƞƈḗ ȧƞḓ ḗẋŧḗƞşīǿƞş"
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:5
-msgid ""
-"<span class=\"lead\">To maximise the interoperability of data published "
-"using the Open Contracting Data Standard we have set out key principles for "
-"**conforming** to the standard. These also create space for **extensions** "
-"of the standard where particular publisher or user needs require.</span>"
+msgid "<span class=\"lead\">To maximise the interoperability of data published using the Open Contracting Data Standard we have set out key principles for **conforming** to the standard. These also create space for **extensions** of the standard where particular publisher or user needs require.</span>"
 msgstr ""
+"<span class=\"lead\">Ŧǿ ḿȧẋīḿīşḗ ŧħḗ īƞŧḗřǿƥḗřȧƀīŀīŧẏ ǿƒ ḓȧŧȧ ƥŭƀŀīşħḗḓ "
+"ŭşīƞɠ ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ ẇḗ ħȧṽḗ şḗŧ ǿŭŧ ķḗẏ ƥřīƞƈīƥŀḗş ƒǿř "
+"**ƈǿƞƒǿřḿīƞɠ** ŧǿ ŧħḗ şŧȧƞḓȧřḓ. Ŧħḗşḗ ȧŀşǿ ƈřḗȧŧḗ şƥȧƈḗ ƒǿř **ḗẋŧḗƞşīǿƞş** "
+"ǿƒ ŧħḗ şŧȧƞḓȧřḓ ẇħḗřḗ ƥȧřŧīƈŭŀȧř ƥŭƀŀīşħḗř ǿř ŭşḗř ƞḗḗḓş řḗɋŭīřḗ.</span>"
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:0
 msgid "Conformance"
-msgstr ""
+msgstr "Ƈǿƞƒǿřḿȧƞƈḗ"
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:9
-msgid ""
-"To maximise the interoperability of data published using the Open "
-"Contracting Data Standard we have set out key principles for **conforming** "
-"to the standard, [based on the Popolo "
-"Project](http://www.popoloproject.com/specs/#conformance) approach."
+msgid "To maximise the interoperability of data published using the Open Contracting Data Standard we have set out key principles for **conforming** to the standard, [based on the Popolo Project](http://www.popoloproject.com/specs/#conformance) approach."
 msgstr ""
+"Ŧǿ ḿȧẋīḿīşḗ ŧħḗ īƞŧḗřǿƥḗřȧƀīŀīŧẏ ǿƒ ḓȧŧȧ ƥŭƀŀīşħḗḓ ŭşīƞɠ ŧħḗ Ǿƥḗƞ "
+"Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ ẇḗ ħȧṽḗ şḗŧ ǿŭŧ ķḗẏ ƥřīƞƈīƥŀḗş ƒǿř **ƈǿƞƒǿřḿīƞɠ** "
+"ŧǿ ŧħḗ şŧȧƞḓȧřḓ, [ƀȧşḗḓ ǿƞ ŧħḗ Ƥǿƥǿŀǿ "
+"Ƥřǿĵḗƈŧ](http://www.popoloproject.com/specs/#conformance) ȧƥƥřǿȧƈħ."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:11
-msgid ""
-"A conforming implementation *may* use only a subset of this specification's "
-"terms."
+msgid "A conforming implementation *may* use only a subset of this specification's terms."
 msgstr ""
+"Ȧ ƈǿƞƒǿřḿīƞɠ īḿƥŀḗḿḗƞŧȧŧīǿƞ *ḿȧẏ* ŭşḗ ǿƞŀẏ ȧ şŭƀşḗŧ ǿƒ ŧħīş şƥḗƈīƒīƈȧŧīǿƞ'ş "
+"ŧḗřḿş."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:12
-msgid ""
-"It *must not* use terms from outside this specification's terms where this "
-"specification's terms would suffice."
+msgid "It *must not* use terms from outside this specification's terms where this specification's terms would suffice."
 msgstr ""
+"Īŧ *ḿŭşŧ ƞǿŧ* ŭşḗ ŧḗřḿş ƒřǿḿ ǿŭŧşīḓḗ ŧħīş şƥḗƈīƒīƈȧŧīǿƞ'ş ŧḗřḿş ẇħḗřḗ ŧħīş "
+"şƥḗƈīƒīƈȧŧīǿƞ'ş ŧḗřḿş ẇǿŭŀḓ şŭƒƒīƈḗ."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:13
-msgid ""
-"Its usage of this specification's terms *must* be consistent with the "
-"semantics of those terms."
+msgid "Its usage of this specification's terms *must* be consistent with the semantics of those terms."
 msgstr ""
+"Īŧş ŭşȧɠḗ ǿƒ ŧħīş şƥḗƈīƒīƈȧŧīǿƞ'ş ŧḗřḿş *ḿŭşŧ* ƀḗ ƈǿƞşīşŧḗƞŧ ẇīŧħ ŧħḗ "
+"şḗḿȧƞŧīƈş ǿƒ ŧħǿşḗ ŧḗřḿş."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:14
-msgid ""
-"It *may* use terms from outside this specification's terms where this "
-"specification's terms are insufficient."
+msgid "It *may* use terms from outside this specification's terms where this specification's terms are insufficient."
 msgstr ""
+"Īŧ *ḿȧẏ* ŭşḗ ŧḗřḿş ƒřǿḿ ǿŭŧşīḓḗ ŧħīş şƥḗƈīƒīƈȧŧīǿƞ'ş ŧḗřḿş ẇħḗřḗ ŧħīş "
+"şƥḗƈīƒīƈȧŧīǿƞ'ş ŧḗřḿş ȧřḗ īƞşŭƒƒīƈīḗƞŧ."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:15
-msgid ""
-"If an implementation serializes to JSON, its serializations *must* "
-"[validate](http://ocds.open-contracting.org/validator/) against this "
-"specification's JSON Schema."
+msgid "If an implementation serializes to JSON, its serializations *must* [validate](http://ocds.open-contracting.org/validator/) against this specification's JSON Schema."
 msgstr ""
+"Īƒ ȧƞ īḿƥŀḗḿḗƞŧȧŧīǿƞ şḗřīȧŀīzḗş ŧǿ ĴŞǾȠ, īŧş şḗřīȧŀīzȧŧīǿƞş *ḿŭşŧ* "
+"[ṽȧŀīḓȧŧḗ](http://ocds.open-contracting.org/validator/) ȧɠȧīƞşŧ ŧħīş "
+"şƥḗƈīƒīƈȧŧīǿƞ'ş ĴŞǾȠ Şƈħḗḿȧ."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:17
-msgid ""
-"Whenever using terms from outside the OCDS standard, we encourage the "
-"publisher or user responsible to consult with the community on the best "
-"approach to adopt."
+msgid "Whenever using terms from outside the OCDS standard, we encourage the publisher or user responsible to consult with the community on the best approach to adopt."
 msgstr ""
+"Ẇħḗƞḗṽḗř ŭşīƞɠ ŧḗřḿş ƒřǿḿ ǿŭŧşīḓḗ ŧħḗ ǾƇḒŞ şŧȧƞḓȧřḓ, ẇḗ ḗƞƈǿŭřȧɠḗ ŧħḗ "
+"ƥŭƀŀīşħḗř ǿř ŭşḗř řḗşƥǿƞşīƀŀḗ ŧǿ ƈǿƞşŭŀŧ ẇīŧħ ŧħḗ ƈǿḿḿŭƞīŧẏ ǿƞ ŧħḗ ƀḗşŧ "
+"ȧƥƥřǿȧƈħ ŧǿ ȧḓǿƥŧ."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:0
 msgid "Extensions"
-msgstr ""
+msgstr "Ḗẋŧḗƞşīǿƞş"
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:21
-msgid ""
-"Extensions to the standard can add new objects and properties to accommodate"
-" specific local requirements. An extension should only be created where it "
-"is not possible to model the required data using existing terms from the "
-"standard."
+msgid "Extensions to the standard can add new objects and properties to accommodate specific local requirements. An extension should only be created where it is not possible to model the required data using existing terms from the standard."
 msgstr ""
+"Ḗẋŧḗƞşīǿƞş ŧǿ ŧħḗ şŧȧƞḓȧřḓ ƈȧƞ ȧḓḓ ƞḗẇ ǿƀĵḗƈŧş ȧƞḓ ƥřǿƥḗřŧīḗş ŧǿ ȧƈƈǿḿḿǿḓȧŧḗ "
+"şƥḗƈīƒīƈ ŀǿƈȧŀ řḗɋŭīřḗḿḗƞŧş. Ȧƞ ḗẋŧḗƞşīǿƞ şħǿŭŀḓ ǿƞŀẏ ƀḗ ƈřḗȧŧḗḓ ẇħḗřḗ īŧ īş "
+"ƞǿŧ ƥǿşşīƀŀḗ ŧǿ ḿǿḓḗŀ ŧħḗ řḗɋŭīřḗḓ ḓȧŧȧ ŭşīƞɠ ḗẋīşŧīƞɠ ŧḗřḿş ƒřǿḿ ŧħḗ "
+"şŧȧƞḓȧřḓ."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:23
-msgid ""
-"Extensions should be documented and shared so that other publishers and "
-"users can draw upon them, and so that extensions can be considered for "
-"inclusion in a future version of the standard."
+msgid "Extensions should be documented and shared so that other publishers and users can draw upon them, and so that extensions can be considered for inclusion in a future version of the standard."
 msgstr ""
+"Ḗẋŧḗƞşīǿƞş şħǿŭŀḓ ƀḗ ḓǿƈŭḿḗƞŧḗḓ ȧƞḓ şħȧřḗḓ şǿ ŧħȧŧ ǿŧħḗř ƥŭƀŀīşħḗřş ȧƞḓ "
+"ŭşḗřş ƈȧƞ ḓřȧẇ ŭƥǿƞ ŧħḗḿ, ȧƞḓ şǿ ŧħȧŧ ḗẋŧḗƞşīǿƞş ƈȧƞ ƀḗ ƈǿƞşīḓḗřḗḓ ƒǿř "
+"īƞƈŀŭşīǿƞ īƞ ȧ ƒŭŧŭřḗ ṽḗřşīǿƞ ǿƒ ŧħḗ şŧȧƞḓȧřḓ."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:25
-msgid ""
-"You can find a list of proposed extensions in the [Standard Implementation "
-"and Extensions GitHub Repository](https://github.com/open-contracting"
-"/implementation-and-extensions/tree/master/proposed_extensions/)."
+msgid "You can find a list of proposed extensions in the [Standard Implementation and Extensions GitHub Repository](https://github.com/open-contracting/implementation-and-extensions/tree/master/proposed_extensions/)."
 msgstr ""
+"Ẏǿŭ ƈȧƞ ƒīƞḓ ȧ ŀīşŧ ǿƒ ƥřǿƥǿşḗḓ ḗẋŧḗƞşīǿƞş īƞ ŧħḗ [Şŧȧƞḓȧřḓ Īḿƥŀḗḿḗƞŧȧŧīǿƞ "
+"ȧƞḓ Ḗẋŧḗƞşīǿƞş ƓīŧĦŭƀ Řḗƥǿşīŧǿřẏ](https://github.com/open-contracting"
+"/implementation-and-extensions/tree/master/proposed_extensions/)."
 
 #: ../../standard/docs/en/schema/conformance_and_extensions.md:27
-msgid ""
-"The schema for the standard by default allows for new fields, and does not "
-"fail validation of a file which contains unknown fields."
+msgid "The schema for the standard by default allows for new fields, and does not fail validation of a file which contains unknown fields."
 msgstr ""
+"Ŧħḗ şƈħḗḿȧ ƒǿř ŧħḗ şŧȧƞḓȧřḓ ƀẏ ḓḗƒȧŭŀŧ ȧŀŀǿẇş ƒǿř ƞḗẇ ƒīḗŀḓş, ȧƞḓ ḓǿḗş ƞǿŧ "
+"ƒȧīŀ ṽȧŀīḓȧŧīǿƞ ǿƒ ȧ ƒīŀḗ ẇħīƈħ ƈǿƞŧȧīƞş ŭƞķƞǿẇƞ ƒīḗŀḓş."

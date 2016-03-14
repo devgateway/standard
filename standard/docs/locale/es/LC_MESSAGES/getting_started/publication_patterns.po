@@ -1,171 +1,170 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:06+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:0
 msgid "Publication Patterns"
-msgstr ""
+msgstr "Ƥŭƀŀīƈȧŧīǿƞ Ƥȧŧŧḗřƞş"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:3
-msgid ""
-"OCDS supports a 5 ☆ approach to publishing Open Contracting data on the web."
-" Each step builds on the steps before."
+msgid "OCDS supports a 5 ☆ approach to publishing Open Contracting data on the web. Each step builds on the steps before."
 msgstr ""
+"ǾƇḒŞ şŭƥƥǿřŧş ȧ 5 ☆ ȧƥƥřǿȧƈħ ŧǿ ƥŭƀŀīşħīƞɠ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ ǿƞ ŧħḗ ẇḗƀ. "
+"Ḗȧƈħ şŧḗƥ ƀŭīŀḓş ǿƞ ŧħḗ şŧḗƥş ƀḗƒǿřḗ."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:5
 msgid "**☆ Upload basic contracting data and documents to web**"
-msgstr ""
+msgstr "**☆ Ŭƥŀǿȧḓ ƀȧşīƈ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ ȧƞḓ ḓǿƈŭḿḗƞŧş ŧǿ ẇḗƀ**"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:7
-msgid ""
-"Whether or not you can adopt a common standard right now, you should make "
-"sure important notices and documents are freely accessible online."
+msgid "Whether or not you can adopt a common standard right now, you should make sure important notices and documents are freely accessible online."
 msgstr ""
+"Ẇħḗŧħḗř ǿř ƞǿŧ ẏǿŭ ƈȧƞ ȧḓǿƥŧ ȧ ƈǿḿḿǿƞ şŧȧƞḓȧřḓ řīɠħŧ ƞǿẇ, ẏǿŭ şħǿŭŀḓ ḿȧķḗ "
+"şŭřḗ īḿƥǿřŧȧƞŧ ƞǿŧīƈḗş ȧƞḓ ḓǿƈŭḿḗƞŧş ȧřḗ ƒřḗḗŀẏ ȧƈƈḗşşīƀŀḗ ǿƞŀīƞḗ."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:9
 msgid "**☆ ☆ Provide machine-readable data**"
-msgstr ""
+msgstr "**☆ ☆ Ƥřǿṽīḓḗ ḿȧƈħīƞḗ-řḗȧḓȧƀŀḗ ḓȧŧȧ**"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:11
-msgid ""
-"Providing data about your contracting processes in CSV files or other "
-"structured formats makes it easier for others to analyse."
+msgid "Providing data about your contracting processes in CSV files or other structured formats makes it easier for others to analyse."
 msgstr ""
+"Ƥřǿṽīḓīƞɠ ḓȧŧȧ ȧƀǿŭŧ ẏǿŭř ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş īƞ ƇŞṼ ƒīŀḗş ǿř ǿŧħḗř "
+"şŧřŭƈŧŭřḗḓ ƒǿřḿȧŧş ḿȧķḗş īŧ ḗȧşīḗř ƒǿř ǿŧħḗřş ŧǿ ȧƞȧŀẏşḗ."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:13
-msgid ""
-"*If you jump straight to 3 ☆ publication, you can generate flattened CSV "
-"versions of your data using the OCDS flatten tool.*"
+msgid "*If you jump straight to 3 ☆ publication, you can generate flattened CSV versions of your data using the OCDS flatten tool.*"
 msgstr ""
+"*Īƒ ẏǿŭ ĵŭḿƥ şŧřȧīɠħŧ ŧǿ 3 ☆ ƥŭƀŀīƈȧŧīǿƞ, ẏǿŭ ƈȧƞ ɠḗƞḗřȧŧḗ ƒŀȧŧŧḗƞḗḓ ƇŞṼ "
+"ṽḗřşīǿƞş ǿƒ ẏǿŭř ḓȧŧȧ ŭşīƞɠ ŧħḗ ǾƇḒŞ ƒŀȧŧŧḗƞ ŧǿǿŀ.*"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:15
 msgid "**☆ ☆ ☆ Use the OCDS standard**"
-msgstr ""
+msgstr "**☆ ☆ ☆ Ŭşḗ ŧħḗ ǾƇḒŞ şŧȧƞḓȧřḓ**"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:17
-msgid ""
-"Producing bulk releases and records packages using the OCDS standard makes "
-"your data easier to re-use and join-up with other contracting data."
+msgid "Producing bulk releases and records packages using the OCDS standard makes your data easier to re-use and join-up with other contracting data."
 msgstr ""
+"Ƥřǿḓŭƈīƞɠ ƀŭŀķ řḗŀḗȧşḗş ȧƞḓ řḗƈǿřḓş ƥȧƈķȧɠḗş ŭşīƞɠ ŧħḗ ǾƇḒŞ şŧȧƞḓȧřḓ ḿȧķḗş "
+"ẏǿŭř ḓȧŧȧ ḗȧşīḗř ŧǿ řḗ-ŭşḗ ȧƞḓ ĵǿīƞ-ŭƥ ẇīŧħ ǿŧħḗř ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:19
 msgid "**☆ ☆ ☆ ☆ Provide API access to data**"
-msgstr ""
+msgstr "**☆ ☆ ☆ ☆ Ƥřǿṽīḓḗ ȦƤĪ ȧƈƈḗşş ŧǿ ḓȧŧȧ**"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:21
-msgid ""
-"Providing each release and record at it's own persistent URI improves the "
-"usability of your data. Providing APIs helps users locate the information "
-"they are looking for quicker, and enables third-parties to build more "
-"advanced and responsive services on your data."
+msgid "Providing each release and record at it's own persistent URI improves the usability of your data. Providing APIs helps users locate the information they are looking for quicker, and enables third-parties to build more advanced and responsive services on your data."
 msgstr ""
+"Ƥřǿṽīḓīƞɠ ḗȧƈħ řḗŀḗȧşḗ ȧƞḓ řḗƈǿřḓ ȧŧ īŧ'ş ǿẇƞ ƥḗřşīşŧḗƞŧ ŬŘĪ īḿƥřǿṽḗş ŧħḗ "
+"ŭşȧƀīŀīŧẏ ǿƒ ẏǿŭř ḓȧŧȧ. Ƥřǿṽīḓīƞɠ ȦƤĪş ħḗŀƥş ŭşḗřş ŀǿƈȧŧḗ ŧħḗ īƞƒǿřḿȧŧīǿƞ "
+"ŧħḗẏ ȧřḗ ŀǿǿķīƞɠ ƒǿř ɋŭīƈķḗř, ȧƞḓ ḗƞȧƀŀḗş ŧħīřḓ-ƥȧřŧīḗş ŧǿ ƀŭīŀḓ ḿǿřḗ "
+"ȧḓṽȧƞƈḗḓ ȧƞḓ řḗşƥǿƞşīṽḗ şḗřṽīƈḗş ǿƞ ẏǿŭř ḓȧŧȧ."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:23
 msgid "**☆ ☆ ☆ ☆ ☆ Provide joined-up data**"
-msgstr ""
+msgstr "**☆ ☆ ☆ ☆ ☆ Ƥřǿṽīḓḗ ĵǿīƞḗḓ-ŭƥ ḓȧŧȧ**"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:25
-msgid ""
-"Adding links to your contracting data, connecting out to other datasets on "
-"project planning, public spending or company registrations, adds further "
-"value to your data, enabling new kinds of re-use."
+msgid "Adding links to your contracting data, connecting out to other datasets on project planning, public spending or company registrations, adds further value to your data, enabling new kinds of re-use."
 msgstr ""
+"Ȧḓḓīƞɠ ŀīƞķş ŧǿ ẏǿŭř ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ, ƈǿƞƞḗƈŧīƞɠ ǿŭŧ ŧǿ ǿŧħḗř ḓȧŧȧşḗŧş ǿƞ "
+"ƥřǿĵḗƈŧ ƥŀȧƞƞīƞɠ, ƥŭƀŀīƈ şƥḗƞḓīƞɠ ǿř ƈǿḿƥȧƞẏ řḗɠīşŧřȧŧīǿƞş, ȧḓḓş ƒŭřŧħḗř "
+"ṽȧŀŭḗ ŧǿ ẏǿŭř ḓȧŧȧ, ḗƞȧƀŀīƞɠ ƞḗẇ ķīƞḓş ǿƒ řḗ-ŭşḗ."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:0
 msgid "Packaging releases and records"
-msgstr ""
+msgstr "Ƥȧƈķȧɠīƞɠ řḗŀḗȧşḗş ȧƞḓ řḗƈǿřḓş"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:30
-msgid ""
-"When publishing releases and records, they must be provided within a release"
-" or record package. These act as an envelope for the data."
+msgid "When publishing releases and records, they must be provided within a release or record package. These act as an envelope for the data."
 msgstr ""
+"Ẇħḗƞ ƥŭƀŀīşħīƞɠ řḗŀḗȧşḗş ȧƞḓ řḗƈǿřḓş, ŧħḗẏ ḿŭşŧ ƀḗ ƥřǿṽīḓḗḓ ẇīŧħīƞ ȧ řḗŀḗȧşḗ "
+"ǿř řḗƈǿřḓ ƥȧƈķȧɠḗ. Ŧħḗşḗ ȧƈŧ ȧş ȧƞ ḗƞṽḗŀǿƥḗ ƒǿř ŧħḗ ḓȧŧȧ."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:32
 msgid "A package provides information on:"
-msgstr ""
+msgstr "Ȧ ƥȧƈķȧɠḗ ƥřǿṽīḓḗş īƞƒǿřḿȧŧīǿƞ ǿƞ:"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:34
 msgid "Where the data can be accessed (a URI)"
-msgstr ""
+msgstr "Ẇħḗřḗ ŧħḗ ḓȧŧȧ ƈȧƞ ƀḗ ȧƈƈḗşşḗḓ (ȧ ŬŘĪ)"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:35
 msgid "The publisher of the data"
-msgstr ""
+msgstr "Ŧħḗ ƥŭƀŀīşħḗř ǿƒ ŧħḗ ḓȧŧȧ"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:36
 msgid "The date of publication"
-msgstr ""
+msgstr "Ŧħḗ ḓȧŧḗ ǿƒ ƥŭƀŀīƈȧŧīǿƞ"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:37
 msgid "The license the data is provided under"
-msgstr ""
+msgstr "Ŧħḗ ŀīƈḗƞşḗ ŧħḗ ḓȧŧȧ īş ƥřǿṽīḓḗḓ ŭƞḓḗř"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:38
 msgid "Links to a publication policy and further documentation"
-msgstr ""
+msgstr "Ŀīƞķş ŧǿ ȧ ƥŭƀŀīƈȧŧīǿƞ ƥǿŀīƈẏ ȧƞḓ ƒŭřŧħḗř ḓǿƈŭḿḗƞŧȧŧīǿƞ"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:40
-msgid ""
-"A package may contain a single release or record, or may be used to publish "
-"a collection of releases, or a collection of records."
+msgid "A package may contain a single release or record, or may be used to publish a collection of releases, or a collection of records."
 msgstr ""
+"Ȧ ƥȧƈķȧɠḗ ḿȧẏ ƈǿƞŧȧīƞ ȧ şīƞɠŀḗ řḗŀḗȧşḗ ǿř řḗƈǿřḓ, ǿř ḿȧẏ ƀḗ ŭşḗḓ ŧǿ ƥŭƀŀīşħ "
+"ȧ ƈǿŀŀḗƈŧīǿƞ ǿƒ řḗŀḗȧşḗş, ǿř ȧ ƈǿŀŀḗƈŧīǿƞ ǿƒ řḗƈǿřḓş."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:42
-msgid ""
-"Consult the the release package and record package schemas (TODO - ADD "
-"LINKS) to package up your data."
+msgid "Consult the the release package and record package schemas (TODO - ADD LINKS) to package up your data."
 msgstr ""
+"Ƈǿƞşŭŀŧ ŧħḗ ŧħḗ řḗŀḗȧşḗ ƥȧƈķȧɠḗ ȧƞḓ řḗƈǿřḓ ƥȧƈķȧɠḗ şƈħḗḿȧş (ŦǾḒǾ - ȦḒḒ ĿĪȠĶŞ)"
+" ŧǿ ƥȧƈķȧɠḗ ŭƥ ẏǿŭř ḓȧŧȧ."
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:0
 msgid "Example release package"
-msgstr ""
+msgstr "Ḗẋȧḿƥŀḗ řḗŀḗȧşḗ ƥȧƈķȧɠḗ"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:0
 msgid "Bulk and individual files"
-msgstr ""
+msgstr "Ɓŭŀķ ȧƞḓ īƞḓīṽīḓŭȧŀ ƒīŀḗş"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:64
 msgid "For 4 ☆ publication, you should:"
-msgstr ""
+msgstr "Ƒǿř 4 ☆ ƥŭƀŀīƈȧŧīǿƞ, ẏǿŭ şħǿŭŀḓ:"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:66
 msgid "Ensure all documents referenced in OCDS releases are available online;"
-msgstr ""
+msgstr "Ḗƞşŭřḗ ȧŀŀ ḓǿƈŭḿḗƞŧş řḗƒḗřḗƞƈḗḓ īƞ ǾƇḒŞ řḗŀḗȧşḗş ȧřḗ ȧṽȧīŀȧƀŀḗ ǿƞŀīƞḗ;"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:67
 msgid "Publish each release and record at it's own persistent URL;"
-msgstr ""
+msgstr "Ƥŭƀŀīşħ ḗȧƈħ řḗŀḗȧşḗ ȧƞḓ řḗƈǿřḓ ȧŧ īŧ'ş ǿẇƞ ƥḗřşīşŧḗƞŧ ŬŘĿ;"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:68
-msgid ""
-"Additionally, produce bulk packages of releases and records for users to "
-"download;"
+msgid "Additionally, produce bulk packages of releases and records for users to download;"
 msgstr ""
+"Ȧḓḓīŧīǿƞȧŀŀẏ, ƥřǿḓŭƈḗ ƀŭŀķ ƥȧƈķȧɠḗş ǿƒ řḗŀḗȧşḗş ȧƞḓ řḗƈǿřḓş ƒǿř ŭşḗřş ŧǿ "
+"ḓǿẇƞŀǿȧḓ;"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:69
-msgid ""
-"Additionally, produce 'flat' versions of the data for users to access in CSV"
-" for Excel formats"
+msgid "Additionally, produce 'flat' versions of the data for users to access in CSV for Excel formats"
 msgstr ""
+"Ȧḓḓīŧīǿƞȧŀŀẏ, ƥřǿḓŭƈḗ 'ƒŀȧŧ' ṽḗřşīǿƞş ǿƒ ŧħḗ ḓȧŧȧ ƒǿř ŭşḗřş ŧǿ ȧƈƈḗşş īƞ ƇŞṼ "
+"ƒǿř Ḗẋƈḗŀ ƒǿřḿȧŧş"
 
 #: ../../standard/docs/en/getting_started/publication_patterns.md:71
-msgid ""
-"You will need to make decisions about how to segment the data in bulk files,"
-" so that files are easy for users to work with."
+msgid "You will need to make decisions about how to segment the data in bulk files, so that files are easy for users to work with."
 msgstr ""
+"Ẏǿŭ ẇīŀŀ ƞḗḗḓ ŧǿ ḿȧķḗ ḓḗƈīşīǿƞş ȧƀǿŭŧ ħǿẇ ŧǿ şḗɠḿḗƞŧ ŧħḗ ḓȧŧȧ īƞ ƀŭŀķ ƒīŀḗş, "
+"şǿ ŧħȧŧ ƒīŀḗş ȧřḗ ḗȧşẏ ƒǿř ŭşḗřş ŧǿ ẇǿřķ ẇīŧħ."

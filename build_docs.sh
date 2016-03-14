@@ -21,8 +21,8 @@ mv TMP ../build/locale/schema/reference.pot
 
 pybabel extract -F .babel_schema . -o ../build/locale/schema.pot
 pybabel extract -F .babel_codelists . -o ../build/locale/codelists.pot
-pybabel compile -d docs/locale -D schema 
-pybabel compile -d docs/locale -D codelists
+pybabel compile -f -d docs/locale -D schema 
+pybabel compile -f -d docs/locale -D codelists
 
 cd ..
 cp -r standard/assets build

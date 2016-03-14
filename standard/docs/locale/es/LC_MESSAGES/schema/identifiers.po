@@ -1,539 +1,536 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:06+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Identifiers"
-msgstr ""
+msgstr "Īḓḗƞŧīƒīḗřş"
 
 #: ../../standard/docs/en/schema/identifiers.md:3
-msgid ""
-"Consistent identifiers are essential to help join up open contracting data."
+msgid "Consistent identifiers are essential to help join up open contracting data."
 msgstr ""
+"Ƈǿƞşīşŧḗƞŧ īḓḗƞŧīƒīḗřş ȧřḗ ḗşşḗƞŧīȧŀ ŧǿ ħḗŀƥ ĵǿīƞ ŭƥ ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ."
 
 #: ../../standard/docs/en/schema/identifiers.md:5
-msgid ""
-"The Open Contracting ID (OCID) is a globally unique identifier used to join "
-"up data on all stages of a contracting process;"
+msgid "The Open Contracting ID (OCID) is a globally unique identifier used to join up data on all stages of a contracting process;"
 msgstr ""
+"Ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ĪḒ (ǾƇĪḒ) īş ȧ ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ īḓḗƞŧīƒīḗř ŭşḗḓ ŧǿ ĵǿīƞ "
+"ŭƥ ḓȧŧȧ ǿƞ ȧŀŀ şŧȧɠḗş ǿƒ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş;"
 
 #: ../../standard/docs/en/schema/identifiers.md:6
-msgid ""
-"Organisation identifiers are important to know who is involved in each "
-"contract;"
+msgid "Organisation identifiers are important to know who is involved in each contract;"
 msgstr ""
+"Ǿřɠȧƞīşȧŧīǿƞ īḓḗƞŧīƒīḗřş ȧřḗ īḿƥǿřŧȧƞŧ ŧǿ ķƞǿẇ ẇħǿ īş īƞṽǿŀṽḗḓ īƞ ḗȧƈħ "
+"ƈǿƞŧřȧƈŧ;"
 
 #: ../../standard/docs/en/schema/identifiers.md:7
-msgid ""
-"Release, tender, award and contract identifiers are important to help cross-"
-"reference information."
+msgid "Release, tender, award and contract identifiers are important to help cross-reference information."
 msgstr ""
+"Řḗŀḗȧşḗ, ŧḗƞḓḗř, ȧẇȧřḓ ȧƞḓ ƈǿƞŧřȧƈŧ īḓḗƞŧīƒīḗřş ȧřḗ īḿƥǿřŧȧƞŧ ŧǿ ħḗŀƥ ƈřǿşş-"
+"řḗƒḗřḗƞƈḗ īƞƒǿřḿȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Types of identifiers"
-msgstr ""
+msgstr "Ŧẏƥḗş ǿƒ īḓḗƞŧīƒīḗřş"
 
 #: ../../standard/docs/en/schema/identifiers.md:12
 msgid "In OCDS there are two kinds of identifiers: globally unique and local."
-msgstr ""
+msgstr "Īƞ ǾƇḒŞ ŧħḗřḗ ȧřḗ ŧẇǿ ķīƞḓş ǿƒ īḓḗƞŧīƒīḗřş: ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ ȧƞḓ ŀǿƈȧŀ."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Globally unique identifiers"
-msgstr ""
+msgstr "Ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ īḓḗƞŧīƒīḗřş"
 
 #: ../../standard/docs/en/schema/identifiers.md:16
-msgid ""
-"Across the whole universe of OCDS publishers these identifiers should refer "
-"to one specific contracting process or organisation."
+msgid "Across the whole universe of OCDS publishers these identifiers should refer to one specific contracting process or organisation."
 msgstr ""
+"Ȧƈřǿşş ŧħḗ ẇħǿŀḗ ŭƞīṽḗřşḗ ǿƒ ǾƇḒŞ ƥŭƀŀīşħḗřş ŧħḗşḗ īḓḗƞŧīƒīḗřş şħǿŭŀḓ řḗƒḗř "
+"ŧǿ ǿƞḗ şƥḗƈīƒīƈ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ǿř ǿřɠȧƞīşȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/identifiers.md:18
-msgid ""
-"We create globally unique contracting process identifiers by adding a prefix"
-" to the internal identifiers held by publishers."
+msgid "We create globally unique contracting process identifiers by adding a prefix to the internal identifiers held by publishers."
 msgstr ""
+"Ẇḗ ƈřḗȧŧḗ ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş īḓḗƞŧīƒīḗřş ƀẏ ȧḓḓīƞɠ ȧ ƥřḗƒīẋ "
+"ŧǿ ŧħḗ īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗřş ħḗŀḓ ƀẏ ƥŭƀŀīşħḗřş."
 
 #: ../../standard/docs/en/schema/identifiers.md:24
-msgid ""
-"Two government publishers (Town A and Town B) number their contracting "
-"processes from 0 upwards."
+msgid "Two government publishers (Town A and Town B) number their contracting processes from 0 upwards."
 msgstr ""
+"Ŧẇǿ ɠǿṽḗřƞḿḗƞŧ ƥŭƀŀīşħḗřş (Ŧǿẇƞ Ȧ ȧƞḓ Ŧǿẇƞ Ɓ) ƞŭḿƀḗř ŧħḗīř ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşşḗş ƒřǿḿ 0 ŭƥẇȧřḓş."
 
 #: ../../standard/docs/en/schema/identifiers.md:26
-msgid ""
-"Town A publishes information on a contracting process to build a new road. "
-"Internally they know this as contract 0005."
+msgid "Town A publishes information on a contracting process to build a new road. Internally they know this as contract 0005."
 msgstr ""
+"Ŧǿẇƞ Ȧ ƥŭƀŀīşħḗş īƞƒǿřḿȧŧīǿƞ ǿƞ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ŧǿ ƀŭīŀḓ ȧ ƞḗẇ řǿȧḓ. "
+"Īƞŧḗřƞȧŀŀẏ ŧħḗẏ ķƞǿẇ ŧħīş ȧş ƈǿƞŧřȧƈŧ 0005."
 
 #: ../../standard/docs/en/schema/identifiers.md:28
-msgid ""
-"Town B publishes information on a contracting process to buy textbooks for a"
-" school. Internally they also know this as contract 0005."
+msgid "Town B publishes information on a contracting process to buy textbooks for a school. Internally they also know this as contract 0005."
 msgstr ""
+"Ŧǿẇƞ Ɓ ƥŭƀŀīşħḗş īƞƒǿřḿȧŧīǿƞ ǿƞ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ŧǿ ƀŭẏ ŧḗẋŧƀǿǿķş ƒǿř ȧ "
+"şƈħǿǿŀ. Īƞŧḗřƞȧŀŀẏ ŧħḗẏ ȧŀşǿ ķƞǿẇ ŧħīş ȧş ƈǿƞŧřȧƈŧ 0005."
 
 #: ../../standard/docs/en/schema/identifiers.md:30
-msgid ""
-"When they publish their OCDS data, each government adds a unique prefix onto"
-" their internal identifiers."
+msgid "When they publish their OCDS data, each government adds a unique prefix onto their internal identifiers."
 msgstr ""
+"Ẇħḗƞ ŧħḗẏ ƥŭƀŀīşħ ŧħḗīř ǾƇḒŞ ḓȧŧȧ, ḗȧƈħ ɠǿṽḗřƞḿḗƞŧ ȧḓḓş ȧ ŭƞīɋŭḗ ƥřḗƒīẋ ǿƞŧǿ "
+"ŧħḗīř īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗřş."
 
 #: ../../standard/docs/en/schema/identifiers.md:32
-msgid ""
-"Now Town A's contracting process has the ```ocid``` of 'ocds-fh349f-0005' "
-"and Town B's contracting process has the ```ocid``` of 'ocds-twb234-0005'."
+msgid "Now Town A's contracting process has the ```ocid``` of 'ocds-fh349f-0005' and Town B's contracting process has the ```ocid``` of 'ocds-twb234-0005'."
 msgstr ""
+"Ƞǿẇ Ŧǿẇƞ Ȧ'ş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ħȧş ŧħḗ ```ǿƈīḓ``` ǿƒ 'ǿƈḓş-ƒħ349ƒ-0005' "
+"ȧƞḓ Ŧǿẇƞ Ɓ'ş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ħȧş ŧħḗ ```ǿƈīḓ``` ǿƒ 'ǿƈḓş-ŧẇƀ234-0005'."
 
 #: ../../standard/docs/en/schema/identifiers.md:34
-msgid ""
-"There is now no chance of these getting mixed up in a system which imports "
-"data from both towns."
+msgid "There is now no chance of these getting mixed up in a system which imports data from both towns."
 msgstr ""
+"Ŧħḗřḗ īş ƞǿẇ ƞǿ ƈħȧƞƈḗ ǿƒ ŧħḗşḗ ɠḗŧŧīƞɠ ḿīẋḗḓ ŭƥ īƞ ȧ şẏşŧḗḿ ẇħīƈħ īḿƥǿřŧş "
+"ḓȧŧȧ ƒřǿḿ ƀǿŧħ ŧǿẇƞş."
 
 #: ../../standard/docs/en/schema/identifiers.md:36
-msgid ""
-"And, if an independent civil society contract monitoring group want to "
-"publish a report about implementation of Town A's road project, or Town B's "
-"text-book procurement, they have distinct identifiers they can use in their "
-"own data to refer to these."
+msgid "And, if an independent civil society contract monitoring group want to publish a report about implementation of Town A's road project, or Town B's text-book procurement, they have distinct identifiers they can use in their own data to refer to these."
 msgstr ""
+"Ȧƞḓ, īƒ ȧƞ īƞḓḗƥḗƞḓḗƞŧ ƈīṽīŀ şǿƈīḗŧẏ ƈǿƞŧřȧƈŧ ḿǿƞīŧǿřīƞɠ ɠřǿŭƥ ẇȧƞŧ ŧǿ "
+"ƥŭƀŀīşħ ȧ řḗƥǿřŧ ȧƀǿŭŧ īḿƥŀḗḿḗƞŧȧŧīǿƞ ǿƒ Ŧǿẇƞ Ȧ'ş řǿȧḓ ƥřǿĵḗƈŧ, ǿř Ŧǿẇƞ Ɓ'ş "
+"ŧḗẋŧ-ƀǿǿķ ƥřǿƈŭřḗḿḗƞŧ, ŧħḗẏ ħȧṽḗ ḓīşŧīƞƈŧ īḓḗƞŧīƒīḗřş ŧħḗẏ ƈȧƞ ŭşḗ īƞ ŧħḗīř "
+"ǿẇƞ ḓȧŧȧ ŧǿ řḗƒḗř ŧǿ ŧħḗşḗ."
 
 #: ../../standard/docs/en/schema/identifiers.md:40
-msgid ""
-"You can read more about the OCDS approach to identify organisations below."
+msgid "You can read more about the OCDS approach to identify organisations below."
 msgstr ""
+"Ẏǿŭ ƈȧƞ řḗȧḓ ḿǿřḗ ȧƀǿŭŧ ŧħḗ ǾƇḒŞ ȧƥƥřǿȧƈħ ŧǿ īḓḗƞŧīƒẏ ǿřɠȧƞīşȧŧīǿƞş ƀḗŀǿẇ."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Local identifiers"
-msgstr ""
+msgstr "Ŀǿƈȧŀ īḓḗƞŧīƒīḗřş"
 
 #: ../../standard/docs/en/schema/identifiers.md:44
-msgid ""
-"Not all the identifiers in OCDS need to be globally unique. Most only need "
-"to be unique amongst their 'sibling' records."
+msgid "Not all the identifiers in OCDS need to be globally unique. Most only need to be unique amongst their 'sibling' records."
 msgstr ""
+"Ƞǿŧ ȧŀŀ ŧħḗ īḓḗƞŧīƒīḗřş īƞ ǾƇḒŞ ƞḗḗḓ ŧǿ ƀḗ ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ. Ḿǿşŧ ǿƞŀẏ ƞḗḗḓ "
+"ŧǿ ƀḗ ŭƞīɋŭḗ ȧḿǿƞɠşŧ ŧħḗīř 'şīƀŀīƞɠ' řḗƈǿřḓş."
 
 #: ../../standard/docs/en/schema/identifiers.md:46
 msgid "A release ID must be unique within any release package it appears in;"
-msgstr ""
+msgstr "Ȧ řḗŀḗȧşḗ ĪḒ ḿŭşŧ ƀḗ ŭƞīɋŭḗ ẇīŧħīƞ ȧƞẏ řḗŀḗȧşḗ ƥȧƈķȧɠḗ īŧ ȧƥƥḗȧřş īƞ;"
 
 #: ../../standard/docs/en/schema/identifiers.md:47
-msgid ""
-"A tender, award and contract ID must be unique within the contracting "
-"process it appears in;"
+msgid "A tender, award and contract ID must be unique within the contracting process it appears in;"
 msgstr ""
+"Ȧ ŧḗƞḓḗř, ȧẇȧřḓ ȧƞḓ ƈǿƞŧřȧƈŧ ĪḒ ḿŭşŧ ƀḗ ŭƞīɋŭḗ ẇīŧħīƞ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşş īŧ ȧƥƥḗȧřş īƞ;"
 
 #: ../../standard/docs/en/schema/identifiers.md:48
-msgid ""
-"An item, milestone or document ID must be unique within the array it is part"
-" of."
+msgid "An item, milestone or document ID must be unique within the array it is part of."
 msgstr ""
+"Ȧƞ īŧḗḿ, ḿīŀḗşŧǿƞḗ ǿř ḓǿƈŭḿḗƞŧ ĪḒ ḿŭşŧ ƀḗ ŭƞīɋŭḗ ẇīŧħīƞ ŧħḗ ȧřřȧẏ īŧ īş ƥȧřŧ "
+"ǿƒ."
 
 #: ../../standard/docs/en/schema/identifiers.md:50
-msgid ""
-"Local identifiers must be used consistently. For example, if an award is "
-"given the ID '22' in one release, then the same award must have the same ID "
-"(22) in any subsequent releases which contain it."
+msgid "Local identifiers must be used consistently. For example, if an award is given the ID '22' in one release, then the same award must have the same ID (22) in any subsequent releases which contain it."
 msgstr ""
+"Ŀǿƈȧŀ īḓḗƞŧīƒīḗřş ḿŭşŧ ƀḗ ŭşḗḓ ƈǿƞşīşŧḗƞŧŀẏ. Ƒǿř ḗẋȧḿƥŀḗ, īƒ ȧƞ ȧẇȧřḓ īş "
+"ɠīṽḗƞ ŧħḗ ĪḒ '22' īƞ ǿƞḗ řḗŀḗȧşḗ, ŧħḗƞ ŧħḗ şȧḿḗ ȧẇȧřḓ ḿŭşŧ ħȧṽḗ ŧħḗ şȧḿḗ ĪḒ "
+"(22) īƞ ȧƞẏ şŭƀşḗɋŭḗƞŧ řḗŀḗȧşḗş ẇħīƈħ ƈǿƞŧȧīƞ īŧ."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Contracting Process Identifier (OCID)"
-msgstr ""
+msgstr "Ƈǿƞŧřȧƈŧīƞɠ Ƥřǿƈḗşş Īḓḗƞŧīƒīḗř (ǾƇĪḒ)"
 
 #: ../../standard/docs/en/schema/identifiers.md:53
-msgid ""
-"<img src=\"../../../assets/green_compilation.svg.png\" width=\"150\" "
-"align=\"right\"/>"
+msgid "<img src=\"../../../assets/green_compilation.svg.png\" width=\"150\" align=\"right\"/>"
 msgstr ""
+"<img src=\"../../../assets/green_compilation.svg.png\" width=\"150\" align=\""
+"right\"/>"
 
 #: ../../standard/docs/en/schema/identifiers.md:55
-msgid ""
-"An Open Contracting ID (OCID) is a **globally unique identifier** for a "
-"contracting process. Every OCDS release has an ```ocid```."
+msgid "An Open Contracting ID (OCID) is a **globally unique identifier** for a contracting process. Every OCDS release has an ```ocid```."
 msgstr ""
+"Ȧƞ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ĪḒ (ǾƇĪḒ) īş ȧ **ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ īḓḗƞŧīƒīḗř** ƒǿř ȧ "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ḗṽḗřẏ ǾƇḒŞ řḗŀḗȧşḗ ħȧş ȧƞ ```ǿƈīḓ```."
 
 #: ../../standard/docs/en/schema/identifiers.md:57
-msgid ""
-"It can be used to join up information published at different times, and in "
-"different places."
+msgid "It can be used to join up information published at different times, and in different places."
 msgstr ""
+"Īŧ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ ĵǿīƞ ŭƥ īƞƒǿřḿȧŧīǿƞ ƥŭƀŀīşħḗḓ ȧŧ ḓīƒƒḗřḗƞŧ ŧīḿḗş, ȧƞḓ īƞ "
+"ḓīƒƒḗřḗƞŧ ƥŀȧƈḗş."
 
 #: ../../standard/docs/en/schema/identifiers.md:59
 msgid "Setting the ```ocid``` is usually a simple two step process:"
-msgstr ""
+msgstr "Şḗŧŧīƞɠ ŧħḗ ```ǿƈīḓ``` īş ŭşŭȧŀŀẏ ȧ şīḿƥŀḗ ŧẇǿ şŧḗƥ ƥřǿƈḗşş:"
 
 #: ../../standard/docs/en/schema/identifiers.md:61
-msgid ""
-"Identify the best **internal identifier** recorded against the contracting "
-"processes being disclosed;"
+msgid "Identify the best **internal identifier** recorded against the contracting processes being disclosed;"
 msgstr ""
+"Īḓḗƞŧīƒẏ ŧħḗ ƀḗşŧ **īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗř** řḗƈǿřḓḗḓ ȧɠȧīƞşŧ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşşḗş ƀḗīƞɠ ḓīşƈŀǿşḗḓ;"
 
 #: ../../standard/docs/en/schema/identifiers.md:62
 msgid "Register an ```ocid``` prefix to prepend to this internal identifier."
-msgstr ""
+msgstr "Řḗɠīşŧḗř ȧƞ ```ǿƈīḓ``` ƥřḗƒīẋ ŧǿ ƥřḗƥḗƞḓ ŧǿ ŧħīş īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗř."
 
 #: ../../standard/docs/en/schema/identifiers.md:64
-msgid ""
-"In some cases, you may need to consider changes to existing systems to "
-"ensure that different systems handling information about your contracting "
-"processes have a common internal identifier to draw upon."
+msgid "In some cases, you may need to consider changes to existing systems to ensure that different systems handling information about your contracting processes have a common internal identifier to draw upon."
 msgstr ""
+"Īƞ şǿḿḗ ƈȧşḗş, ẏǿŭ ḿȧẏ ƞḗḗḓ ŧǿ ƈǿƞşīḓḗř ƈħȧƞɠḗş ŧǿ ḗẋīşŧīƞɠ şẏşŧḗḿş ŧǿ "
+"ḗƞşŭřḗ ŧħȧŧ ḓīƒƒḗřḗƞŧ şẏşŧḗḿş ħȧƞḓŀīƞɠ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ẏǿŭř ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşşḗş ħȧṽḗ ȧ ƈǿḿḿǿƞ īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗř ŧǿ ḓřȧẇ ŭƥǿƞ."
 
 #: ../../standard/docs/en/schema/identifiers.md:70
-msgid ""
-"In Mexico City, each time a tender or direct contract award process is "
-"initiated, the department responsible assigns an identifier."
+msgid "In Mexico City, each time a tender or direct contract award process is initiated, the department responsible assigns an identifier."
 msgstr ""
+"Īƞ Ḿḗẋīƈǿ Ƈīŧẏ, ḗȧƈħ ŧīḿḗ ȧ ŧḗƞḓḗř ǿř ḓīřḗƈŧ ƈǿƞŧřȧƈŧ ȧẇȧřḓ ƥřǿƈḗşş īş "
+"īƞīŧīȧŧḗḓ, ŧħḗ ḓḗƥȧřŧḿḗƞŧ řḗşƥǿƞşīƀŀḗ ȧşşīɠƞş ȧƞ īḓḗƞŧīƒīḗř."
 
 #: ../../standard/docs/en/schema/identifiers.md:72
-msgid ""
-"These are made up of an identifier for the department responsible for the "
-"procurement, a tender number, and the year."
+msgid "These are made up of an identifier for the department responsible for the procurement, a tender number, and the year."
 msgstr ""
+"Ŧħḗşḗ ȧřḗ ḿȧḓḗ ŭƥ ǿƒ ȧƞ īḓḗƞŧīƒīḗř ƒǿř ŧħḗ ḓḗƥȧřŧḿḗƞŧ řḗşƥǿƞşīƀŀḗ ƒǿř ŧħḗ "
+"ƥřǿƈŭřḗḿḗƞŧ, ȧ ŧḗƞḓḗř ƞŭḿƀḗř, ȧƞḓ ŧħḗ ẏḗȧř."
 
 #: ../../standard/docs/en/schema/identifiers.md:74
 #: ../../standard/docs/en/schema/identifiers.md:180
 msgid "For example:"
-msgstr ""
+msgstr "Ƒǿř ḗẋȧḿƥŀḗ:"
 
 #: ../../standard/docs/en/schema/identifiers.md:76
 msgid "OM-DGRMSG-004-13"
-msgstr ""
+msgstr "ǾḾ-ḒƓŘḾŞƓ-004-13"
 
 #: ../../standard/docs/en/schema/identifiers.md:78
-msgid ""
-"This internal identifier can be exchanged with, and recorded in, any other "
-"systems which process information about this contracting process. For "
-"example, systems for reporting or recording spending transactions to "
-"suppliers."
+msgid "This internal identifier can be exchanged with, and recorded in, any other systems which process information about this contracting process. For example, systems for reporting or recording spending transactions to suppliers."
 msgstr ""
+"Ŧħīş īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗř ƈȧƞ ƀḗ ḗẋƈħȧƞɠḗḓ ẇīŧħ, ȧƞḓ řḗƈǿřḓḗḓ īƞ, ȧƞẏ ǿŧħḗř "
+"şẏşŧḗḿş ẇħīƈħ ƥřǿƈḗşş īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ŧħīş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ƒǿř "
+"ḗẋȧḿƥŀḗ, şẏşŧḗḿş ƒǿř řḗƥǿřŧīƞɠ ǿř řḗƈǿřḓīƞɠ şƥḗƞḓīƞɠ ŧřȧƞşȧƈŧīǿƞş ŧǿ "
+"şŭƥƥŀīḗřş."
 
 #: ../../standard/docs/en/schema/identifiers.md:80
-msgid ""
-"Mexico City then registered a prefix with the OCDS helpdesk. They have been "
-"given the prefix ‘ocds-87sd3t’ which can be added to their unique process "
-"identifiers to give a globally unique ```ocid```. E.g."
+msgid "Mexico City then registered a prefix with the OCDS helpdesk. They have been given the prefix ‘ocds-87sd3t’ which can be added to their unique process identifiers to give a globally unique ```ocid```. E.g."
 msgstr ""
+"Ḿḗẋīƈǿ Ƈīŧẏ ŧħḗƞ řḗɠīşŧḗřḗḓ ȧ ƥřḗƒīẋ ẇīŧħ ŧħḗ ǾƇḒŞ ħḗŀƥḓḗşķ. Ŧħḗẏ ħȧṽḗ ƀḗḗƞ "
+"ɠīṽḗƞ ŧħḗ ƥřḗƒīẋ ‘ǿƈḓş-87şḓ3ŧ’ ẇħīƈħ ƈȧƞ ƀḗ ȧḓḓḗḓ ŧǿ ŧħḗīř ŭƞīɋŭḗ ƥřǿƈḗşş "
+"īḓḗƞŧīƒīḗřş ŧǿ ɠīṽḗ ȧ ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ ```ǿƈīḓ```. Ḗ.ɠ."
 
 #: ../../standard/docs/en/schema/identifiers.md:82
 msgid "ocds-87sd3t-OM-DGRMSG-004-13"
-msgstr ""
+msgstr "ǿƈḓş-87şḓ3ŧ-ǾḾ-ḒƓŘḾŞƓ-004-13"
 
 #: ../../standard/docs/en/schema/identifiers.md:86
-msgid ""
-"The OCDS prefix itself is made up of two parts: a prefix agency identifier "
-"(currently only 'ocds' is used), and a random six-character alphanumeric "
-"string generated for each publisher of data."
+msgid "The OCDS prefix itself is made up of two parts: a prefix agency identifier (currently only 'ocds' is used), and a random six-character alphanumeric string generated for each publisher of data."
 msgstr ""
+"Ŧħḗ ǾƇḒŞ ƥřḗƒīẋ īŧşḗŀƒ īş ḿȧḓḗ ŭƥ ǿƒ ŧẇǿ ƥȧřŧş: ȧ ƥřḗƒīẋ ȧɠḗƞƈẏ īḓḗƞŧīƒīḗř ("
+"ƈŭřřḗƞŧŀẏ ǿƞŀẏ 'ǿƈḓş' īş ŭşḗḓ), ȧƞḓ ȧ řȧƞḓǿḿ şīẋ-ƈħȧřȧƈŧḗř ȧŀƥħȧƞŭḿḗřīƈ "
+"şŧřīƞɠ ɠḗƞḗřȧŧḗḓ ƒǿř ḗȧƈħ ƥŭƀŀīşħḗř ǿƒ ḓȧŧȧ."
 
 #: ../../standard/docs/en/schema/identifiers.md:88
 msgid "The OCID is case sensitive."
-msgstr ""
+msgstr "Ŧħḗ ǾƇĪḒ īş ƈȧşḗ şḗƞşīŧīṽḗ."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Registered prefixes"
-msgstr ""
+msgstr "Řḗɠīşŧḗřḗḓ ƥřḗƒīẋḗş"
 
 #: ../../standard/docs/en/schema/identifiers.md:91
-msgid ""
-"See the [registration pages](../implementation/registration.md) for details "
-"of how to obtain your OCID prefix."
+msgid "See the [registration pages](../implementation/registration.md) for details of how to obtain your OCID prefix."
 msgstr ""
+"Şḗḗ ŧħḗ [řḗɠīşŧřȧŧīǿƞ ƥȧɠḗş](../implementation/registration.md) ƒǿř ḓḗŧȧīŀş "
+"ǿƒ ħǿẇ ŧǿ ǿƀŧȧīƞ ẏǿŭř ǾƇĪḒ ƥřḗƒīẋ."
 
 #: ../../standard/docs/en/schema/identifiers.md:93
-msgid ""
-"Prefix are randomly generated lowercase alpha-numberic strings. A prefix is "
-"assigned to each organisation that holds the existing internal identifier "
-"for a Contracting Processes."
+msgid "Prefix are randomly generated lowercase alpha-numberic strings. A prefix is assigned to each organisation that holds the existing internal identifier for a Contracting Processes."
 msgstr ""
+"Ƥřḗƒīẋ ȧřḗ řȧƞḓǿḿŀẏ ɠḗƞḗřȧŧḗḓ ŀǿẇḗřƈȧşḗ ȧŀƥħȧ-ƞŭḿƀḗřīƈ şŧřīƞɠş. Ȧ ƥřḗƒīẋ īş "
+"ȧşşīɠƞḗḓ ŧǿ ḗȧƈħ ǿřɠȧƞīşȧŧīǿƞ ŧħȧŧ ħǿŀḓş ŧħḗ ḗẋīşŧīƞɠ īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗř "
+"ƒǿř ȧ Ƈǿƞŧřȧƈŧīƞɠ Ƥřǿƈḗşşḗş."
 
 #: ../../standard/docs/en/schema/identifiers.md:95
-msgid ""
-"Currently, only the Open Contracting Partnership issues valid prefixes. In "
-"future, other organisations may be able to issue prefixes, each with their "
-"own prefix agency identifiers."
+msgid "Currently, only the Open Contracting Partnership issues valid prefixes. In future, other organisations may be able to issue prefixes, each with their own prefix agency identifiers."
 msgstr ""
+"Ƈŭřřḗƞŧŀẏ, ǿƞŀẏ ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ƥȧřŧƞḗřşħīƥ īşşŭḗş ṽȧŀīḓ ƥřḗƒīẋḗş. Īƞ "
+"ƒŭŧŭřḗ, ǿŧħḗř ǿřɠȧƞīşȧŧīǿƞş ḿȧẏ ƀḗ ȧƀŀḗ ŧǿ īşşŭḗ ƥřḗƒīẋḗş, ḗȧƈħ ẇīŧħ ŧħḗīř "
+"ǿẇƞ ƥřḗƒīẋ ȧɠḗƞƈẏ īḓḗƞŧīƒīḗřş."
 
 #: ../../standard/docs/en/schema/identifiers.md:97
-msgid ""
-"You can find a [list of registered prefixes here along with a registration "
-"form for creating new prefixes](../implementation/registration.md)."
+msgid "You can find a [list of registered prefixes here along with a registration form for creating new prefixes](../implementation/registration.md)."
 msgstr ""
+"Ẏǿŭ ƈȧƞ ƒīƞḓ ȧ [ŀīşŧ ǿƒ řḗɠīşŧḗřḗḓ ƥřḗƒīẋḗş ħḗřḗ ȧŀǿƞɠ ẇīŧħ ȧ řḗɠīşŧřȧŧīǿƞ "
+"ƒǿřḿ ƒǿř ƈřḗȧŧīƞɠ ƞḗẇ ƥřḗƒīẋḗş](../implementation/registration.md)."
 
 #: ../../standard/docs/en/schema/identifiers.md:99
-msgid ""
-"The registered prefixes are dumb identifiers. They are not intended to carry"
-" any semantics, and their sole purpose is to turn internal identifiers into "
-"globally unique identifiers which can be cross-referenced between systems."
+msgid "The registered prefixes are dumb identifiers. They are not intended to carry any semantics, and their sole purpose is to turn internal identifiers into globally unique identifiers which can be cross-referenced between systems."
 msgstr ""
+"Ŧħḗ řḗɠīşŧḗřḗḓ ƥřḗƒīẋḗş ȧřḗ ḓŭḿƀ īḓḗƞŧīƒīḗřş. Ŧħḗẏ ȧřḗ ƞǿŧ īƞŧḗƞḓḗḓ ŧǿ ƈȧřřẏ "
+"ȧƞẏ şḗḿȧƞŧīƈş, ȧƞḓ ŧħḗīř şǿŀḗ ƥŭřƥǿşḗ īş ŧǿ ŧŭřƞ īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗřş īƞŧǿ "
+"ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ īḓḗƞŧīƒīḗřş ẇħīƈħ ƈȧƞ ƀḗ ƈřǿşş-řḗƒḗřḗƞƈḗḓ ƀḗŧẇḗḗƞ şẏşŧḗḿş."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Publisher namespace"
-msgstr ""
+msgstr "Ƥŭƀŀīşħḗř ƞȧḿḗşƥȧƈḗ"
 
 #: ../../standard/docs/en/schema/identifiers.md:103
-msgid ""
-"Earlier versions of this documentation imposed a stricter pattern on how "
-"internal identifiers should be combined with the ocid prefix, including a "
-"requirement for local namespaces. This requirement has been relaxed in "
-"practice and should be considered deprecated."
+msgid "Earlier versions of this documentation imposed a stricter pattern on how internal identifiers should be combined with the ocid prefix, including a requirement for local namespaces. This requirement has been relaxed in practice and should be considered deprecated."
 msgstr ""
+"Ḗȧřŀīḗř ṽḗřşīǿƞş ǿƒ ŧħīş ḓǿƈŭḿḗƞŧȧŧīǿƞ īḿƥǿşḗḓ ȧ şŧřīƈŧḗř ƥȧŧŧḗřƞ ǿƞ ħǿẇ "
+"īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗřş şħǿŭŀḓ ƀḗ ƈǿḿƀīƞḗḓ ẇīŧħ ŧħḗ ǿƈīḓ ƥřḗƒīẋ, īƞƈŀŭḓīƞɠ ȧ "
+"řḗɋŭīřḗḿḗƞŧ ƒǿř ŀǿƈȧŀ ƞȧḿḗşƥȧƈḗş. Ŧħīş řḗɋŭīřḗḿḗƞŧ ħȧş ƀḗḗƞ řḗŀȧẋḗḓ īƞ "
+"ƥřȧƈŧīƈḗ ȧƞḓ şħǿŭŀḓ ƀḗ ƈǿƞşīḓḗřḗḓ ḓḗƥřḗƈȧŧḗḓ."
 
 #: ../../standard/docs/en/schema/identifiers.md:105
-msgid ""
-"However, publishers are encouraged to consider whether there are any risks "
-"of clashes in local identifiers (e.g. the possibility that two parts of the "
-"publishing body might use the same identifier for different contracting "
-"processes) and to plan to mitigate this when establishing their own patterns"
-" to generate their ```ocid```"
+msgid "However, publishers are encouraged to consider whether there are any risks of clashes in local identifiers (e.g. the possibility that two parts of the publishing body might use the same identifier for different contracting processes) and to plan to mitigate this when establishing their own patterns to generate their ```ocid```"
 msgstr ""
+"Ħǿẇḗṽḗř, ƥŭƀŀīşħḗřş ȧřḗ ḗƞƈǿŭřȧɠḗḓ ŧǿ ƈǿƞşīḓḗř ẇħḗŧħḗř ŧħḗřḗ ȧřḗ ȧƞẏ řīşķş "
+"ǿƒ ƈŀȧşħḗş īƞ ŀǿƈȧŀ īḓḗƞŧīƒīḗřş (ḗ.ɠ. ŧħḗ ƥǿşşīƀīŀīŧẏ ŧħȧŧ ŧẇǿ ƥȧřŧş ǿƒ ŧħḗ "
+"ƥŭƀŀīşħīƞɠ ƀǿḓẏ ḿīɠħŧ ŭşḗ ŧħḗ şȧḿḗ īḓḗƞŧīƒīḗř ƒǿř ḓīƒƒḗřḗƞŧ ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşşḗş) ȧƞḓ ŧǿ ƥŀȧƞ ŧǿ ḿīŧīɠȧŧḗ ŧħīş ẇħḗƞ ḗşŧȧƀŀīşħīƞɠ ŧħḗīř ǿẇƞ ƥȧŧŧḗřƞş "
+"ŧǿ ɠḗƞḗřȧŧḗ ŧħḗīř ```ǿƈīḓ```"
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Organisation IDs"
-msgstr ""
+msgstr "Ǿřɠȧƞīşȧŧīǿƞ ĪḒş"
 
 #: ../../standard/docs/en/schema/identifiers.md:111
-msgid ""
-"<img src=\"../../../assets/green_organisation.svg.png\" width=\"150\" "
-"align=\"right\"/>"
+msgid "<img src=\"../../../assets/green_organisation.svg.png\" width=\"150\" align=\"right\"/>"
 msgstr ""
+"<img src=\"../../../assets/green_organisation.svg.png\" width=\"150\" align="
+"\"right\"/>"
 
 #: ../../standard/docs/en/schema/identifiers.md:113
-msgid ""
-"Reliably identifying the legal entities involved in a contracting process is"
-" vital for transparency and accountability, and for carrying out analysis to"
-" improve procurement and contract management."
+msgid "Reliably identifying the legal entities involved in a contracting process is vital for transparency and accountability, and for carrying out analysis to improve procurement and contract management."
 msgstr ""
+"Řḗŀīȧƀŀẏ īḓḗƞŧīƒẏīƞɠ ŧħḗ ŀḗɠȧŀ ḗƞŧīŧīḗş īƞṽǿŀṽḗḓ īƞ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş īş "
+"ṽīŧȧŀ ƒǿř ŧřȧƞşƥȧřḗƞƈẏ ȧƞḓ ȧƈƈǿŭƞŧȧƀīŀīŧẏ, ȧƞḓ ƒǿř ƈȧřřẏīƞɠ ǿŭŧ ȧƞȧŀẏşīş ŧǿ "
+"īḿƥřǿṽḗ ƥřǿƈŭřḗḿḗƞŧ ȧƞḓ ƈǿƞŧřȧƈŧ ḿȧƞȧɠḗḿḗƞŧ."
 
 #: ../../standard/docs/en/schema/identifiers.md:115
-msgid ""
-"Publishers should seek to collect and record the **legal identifier** from "
-"an official register of any organisations involved in a contracting process "
-"(including procuring organisations, bidders and suppliers), and should "
-"include this in their OCDS files."
+msgid "Publishers should seek to collect and record the **legal identifier** from an official register of any organisations involved in a contracting process (including procuring organisations, bidders and suppliers), and should include this in their OCDS files."
 msgstr ""
+"Ƥŭƀŀīşħḗřş şħǿŭŀḓ şḗḗķ ŧǿ ƈǿŀŀḗƈŧ ȧƞḓ řḗƈǿřḓ ŧħḗ **ŀḗɠȧŀ īḓḗƞŧīƒīḗř** ƒřǿḿ "
+"ȧƞ ǿƒƒīƈīȧŀ řḗɠīşŧḗř ǿƒ ȧƞẏ ǿřɠȧƞīşȧŧīǿƞş īƞṽǿŀṽḗḓ īƞ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ("
+"īƞƈŀŭḓīƞɠ ƥřǿƈŭřīƞɠ ǿřɠȧƞīşȧŧīǿƞş, ƀīḓḓḗřş ȧƞḓ şŭƥƥŀīḗřş), ȧƞḓ şħǿŭŀḓ "
+"īƞƈŀŭḓḗ ŧħīş īƞ ŧħḗīř ǾƇḒŞ ƒīŀḗş."
 
 #: ../../standard/docs/en/schema/identifiers.md:117
-msgid ""
-"There are two parts to expressing an **organisation identifier** in open "
-"contracting data."
+msgid "There are two parts to expressing an **organisation identifier** in open contracting data."
 msgstr ""
+"Ŧħḗřḗ ȧřḗ ŧẇǿ ƥȧřŧş ŧǿ ḗẋƥřḗşşīƞɠ ȧƞ **ǿřɠȧƞīşȧŧīǿƞ īḓḗƞŧīƒīḗř** īƞ ǿƥḗƞ "
+"ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ."
 
 #: ../../standard/docs/en/schema/identifiers.md:119
-msgid ""
-"An **organization register prefix** identifying a **register** in which the "
-"organisation is identified"
+msgid "An **organization register prefix** identifying a **register** in which the organisation is identified"
 msgstr ""
+"Ȧƞ **ǿřɠȧƞīzȧŧīǿƞ řḗɠīşŧḗř ƥřḗƒīẋ** īḓḗƞŧīƒẏīƞɠ ȧ **řḗɠīşŧḗř** īƞ ẇħīƈħ ŧħḗ "
+"ǿřɠȧƞīşȧŧīǿƞ īş īḓḗƞŧīƒīḗḓ"
 
 #: ../../standard/docs/en/schema/identifiers.md:120
 msgid "The **existing organizational ID** provided in that public register"
-msgstr ""
+msgstr "Ŧħḗ **ḗẋīşŧīƞɠ ǿřɠȧƞīzȧŧīǿƞȧŀ ĪḒ** ƥřǿṽīḓḗḓ īƞ ŧħȧŧ ƥŭƀŀīƈ řḗɠīşŧḗř"
 
 #: ../../standard/docs/en/schema/identifiers.md:126
-msgid ""
-"The **organisation register prefix** for UK Companies House is GB-COH. The "
-"organisation **Development Initiatives** has been assigned the company "
-"number ‘06368740’ by Companies House. The globally unique organisation "
-"identifier for Development Initiatives can then expressed as follows:"
+msgid "The **organisation register prefix** for UK Companies House is GB-COH. The organisation **Development Initiatives** has been assigned the company number ‘06368740’ by Companies House. The globally unique organisation identifier for Development Initiatives can then expressed as follows:"
 msgstr ""
+"Ŧħḗ **ǿřɠȧƞīşȧŧīǿƞ řḗɠīşŧḗř ƥřḗƒīẋ** ƒǿř ŬĶ Ƈǿḿƥȧƞīḗş Ħǿŭşḗ īş ƓƁ-ƇǾĦ. Ŧħḗ "
+"ǿřɠȧƞīşȧŧīǿƞ **Ḓḗṽḗŀǿƥḿḗƞŧ Īƞīŧīȧŧīṽḗş** ħȧş ƀḗḗƞ ȧşşīɠƞḗḓ ŧħḗ ƈǿḿƥȧƞẏ "
+"ƞŭḿƀḗř ‘06368740’ ƀẏ Ƈǿḿƥȧƞīḗş Ħǿŭşḗ. Ŧħḗ ɠŀǿƀȧŀŀẏ ŭƞīɋŭḗ ǿřɠȧƞīşȧŧīǿƞ "
+"īḓḗƞŧīƒīḗř ƒǿř Ḓḗṽḗŀǿƥḿḗƞŧ Īƞīŧīȧŧīṽḗş ƈȧƞ ŧħḗƞ ḗẋƥřḗşşḗḓ ȧş ƒǿŀŀǿẇş:"
 
 #: ../../standard/docs/en/schema/identifiers.md:139
-msgid ""
-"In OCDS, the organization register prefix is included in the ```scheme``` "
-"field of an identifier block, with the existing organization id placed in "
-"the ```id``` field. If there is a recognized public URI that uniquely "
-"identifies this organization (for example, drawn from [Open "
-"Corporates](https://opencorporates.com/)) this can also be given in the "
-"```uri``` field."
+msgid "In OCDS, the organization register prefix is included in the ```scheme``` field of an identifier block, with the existing organization id placed in the ```id``` field. If there is a recognized public URI that uniquely identifies this organization (for example, drawn from [Open Corporates](https://opencorporates.com/)) this can also be given in the ```uri``` field."
 msgstr ""
+"Īƞ ǾƇḒŞ, ŧħḗ ǿřɠȧƞīzȧŧīǿƞ řḗɠīşŧḗř ƥřḗƒīẋ īş īƞƈŀŭḓḗḓ īƞ ŧħḗ ```şƈħḗḿḗ``` "
+"ƒīḗŀḓ ǿƒ ȧƞ īḓḗƞŧīƒīḗř ƀŀǿƈķ, ẇīŧħ ŧħḗ ḗẋīşŧīƞɠ ǿřɠȧƞīzȧŧīǿƞ īḓ ƥŀȧƈḗḓ īƞ "
+"ŧħḗ ```īḓ``` ƒīḗŀḓ. Īƒ ŧħḗřḗ īş ȧ řḗƈǿɠƞīzḗḓ ƥŭƀŀīƈ ŬŘĪ ŧħȧŧ ŭƞīɋŭḗŀẏ "
+"īḓḗƞŧīƒīḗş ŧħīş ǿřɠȧƞīzȧŧīǿƞ (ƒǿř ḗẋȧḿƥŀḗ, ḓřȧẇƞ ƒřǿḿ [Ǿƥḗƞ "
+"Ƈǿřƥǿřȧŧḗş](https://opencorporates.com/)) ŧħīş ƈȧƞ ȧŀşǿ ƀḗ ɠīṽḗƞ īƞ ŧħḗ "
+"```ŭřī``` ƒīḗŀḓ."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Choosing an identifier"
-msgstr ""
+msgstr "Ƈħǿǿşīƞɠ ȧƞ īḓḗƞŧīƒīḗř"
 
 #: ../../standard/docs/en/schema/identifiers.md:143
-msgid ""
-"The **organisation register prefix** is used to refer to a register from "
-"which the organisation identifier is drawn. There are a range of different "
-"kinds of **organisation list**:"
+msgid "The **organisation register prefix** is used to refer to a register from which the organisation identifier is drawn. There are a range of different kinds of **organisation list**:"
 msgstr ""
+"Ŧħḗ **ǿřɠȧƞīşȧŧīǿƞ řḗɠīşŧḗř ƥřḗƒīẋ** īş ŭşḗḓ ŧǿ řḗƒḗř ŧǿ ȧ řḗɠīşŧḗř ƒřǿḿ "
+"ẇħīƈħ ŧħḗ ǿřɠȧƞīşȧŧīǿƞ īḓḗƞŧīƒīḗř īş ḓřȧẇƞ. Ŧħḗřḗ ȧřḗ ȧ řȧƞɠḗ ǿƒ ḓīƒƒḗřḗƞŧ "
+"ķīƞḓş ǿƒ **ǿřɠȧƞīşȧŧīǿƞ ŀīşŧ**:"
 
 #: ../../standard/docs/en/schema/identifiers.md:145
-msgid ""
-"**Primary registers** - such as national or state company registrars. An "
-"identifier issued by these bodies has a specific legal meaning. There is a "
-"one to one equivalence between the identifier and a legal entity of a "
-"particular form in a given jurisdiction. The identifier is created at the "
-"same time that the organisation is formally constituted, and changes to the "
-"status of the organisation are recorded against this identifier in an "
-"official register. **Identifiers from a primary register are strongly "
-"preferred in OCDS.**"
+msgid "**Primary registers** - such as national or state company registrars. An identifier issued by these bodies has a specific legal meaning. There is a one to one equivalence between the identifier and a legal entity of a particular form in a given jurisdiction. The identifier is created at the same time that the organisation is formally constituted, and changes to the status of the organisation are recorded against this identifier in an official register. **Identifiers from a primary register are strongly preferred in OCDS.**"
 msgstr ""
+"**Ƥřīḿȧřẏ řḗɠīşŧḗřş** - şŭƈħ ȧş ƞȧŧīǿƞȧŀ ǿř şŧȧŧḗ ƈǿḿƥȧƞẏ řḗɠīşŧřȧřş. Ȧƞ "
+"īḓḗƞŧīƒīḗř īşşŭḗḓ ƀẏ ŧħḗşḗ ƀǿḓīḗş ħȧş ȧ şƥḗƈīƒīƈ ŀḗɠȧŀ ḿḗȧƞīƞɠ. Ŧħḗřḗ īş ȧ "
+"ǿƞḗ ŧǿ ǿƞḗ ḗɋŭīṽȧŀḗƞƈḗ ƀḗŧẇḗḗƞ ŧħḗ īḓḗƞŧīƒīḗř ȧƞḓ ȧ ŀḗɠȧŀ ḗƞŧīŧẏ ǿƒ ȧ "
+"ƥȧřŧīƈŭŀȧř ƒǿřḿ īƞ ȧ ɠīṽḗƞ ĵŭřīşḓīƈŧīǿƞ. Ŧħḗ īḓḗƞŧīƒīḗř īş ƈřḗȧŧḗḓ ȧŧ ŧħḗ "
+"şȧḿḗ ŧīḿḗ ŧħȧŧ ŧħḗ ǿřɠȧƞīşȧŧīǿƞ īş ƒǿřḿȧŀŀẏ ƈǿƞşŧīŧŭŧḗḓ, ȧƞḓ ƈħȧƞɠḗş ŧǿ ŧħḗ "
+"şŧȧŧŭş ǿƒ ŧħḗ ǿřɠȧƞīşȧŧīǿƞ ȧřḗ řḗƈǿřḓḗḓ ȧɠȧīƞşŧ ŧħīş īḓḗƞŧīƒīḗř īƞ ȧƞ "
+"ǿƒƒīƈīȧŀ řḗɠīşŧḗř. **Īḓḗƞŧīƒīḗřş ƒřǿḿ ȧ ƥřīḿȧřẏ řḗɠīşŧḗř ȧřḗ şŧřǿƞɠŀẏ "
+"ƥřḗƒḗřřḗḓ īƞ ǾƇḒŞ.**"
 
 #: ../../standard/docs/en/schema/identifiers.md:147
-msgid ""
-"**Secondary registers** - which record a particular property of an "
-"organisation, such as being registered for VAT, or registered as an "
-"employer. An organisations identifier in such a registry might change "
-"without the organisation itself changing in nature. For example, in some "
-"jurisdictions, an organisation may de-register from VAT, and then re-"
-"register, gaining a new number in the process; or different branches of the "
-"same legal entity might register for different VAT numbers."
+msgid "**Secondary registers** - which record a particular property of an organisation, such as being registered for VAT, or registered as an employer. An organisations identifier in such a registry might change without the organisation itself changing in nature. For example, in some jurisdictions, an organisation may de-register from VAT, and then re-register, gaining a new number in the process; or different branches of the same legal entity might register for different VAT numbers."
 msgstr ""
+"**Şḗƈǿƞḓȧřẏ řḗɠīşŧḗřş** - ẇħīƈħ řḗƈǿřḓ ȧ ƥȧřŧīƈŭŀȧř ƥřǿƥḗřŧẏ ǿƒ ȧƞ "
+"ǿřɠȧƞīşȧŧīǿƞ, şŭƈħ ȧş ƀḗīƞɠ řḗɠīşŧḗřḗḓ ƒǿř ṼȦŦ, ǿř řḗɠīşŧḗřḗḓ ȧş ȧƞ "
+"ḗḿƥŀǿẏḗř. Ȧƞ ǿřɠȧƞīşȧŧīǿƞş īḓḗƞŧīƒīḗř īƞ şŭƈħ ȧ řḗɠīşŧřẏ ḿīɠħŧ ƈħȧƞɠḗ "
+"ẇīŧħǿŭŧ ŧħḗ ǿřɠȧƞīşȧŧīǿƞ īŧşḗŀƒ ƈħȧƞɠīƞɠ īƞ ƞȧŧŭřḗ. Ƒǿř ḗẋȧḿƥŀḗ, īƞ şǿḿḗ "
+"ĵŭřīşḓīƈŧīǿƞş, ȧƞ ǿřɠȧƞīşȧŧīǿƞ ḿȧẏ ḓḗ-řḗɠīşŧḗř ƒřǿḿ ṼȦŦ, ȧƞḓ ŧħḗƞ řḗ-"
+"řḗɠīşŧḗř, ɠȧīƞīƞɠ ȧ ƞḗẇ ƞŭḿƀḗř īƞ ŧħḗ ƥřǿƈḗşş; ǿř ḓīƒƒḗřḗƞŧ ƀřȧƞƈħḗş ǿƒ ŧħḗ "
+"şȧḿḗ ŀḗɠȧŀ ḗƞŧīŧẏ ḿīɠħŧ řḗɠīşŧḗř ƒǿř ḓīƒƒḗřḗƞŧ ṼȦŦ ƞŭḿƀḗřş."
 
 #: ../../standard/docs/en/schema/identifiers.md:149
-msgid ""
-"**Third-party databases** - which compile a list of organisations, and "
-"sometimes their sub-units, on an on-demand basis. These databases do not "
-"confer any legal status or special properties on the organisations, but may "
-"record a mapping between their own identifiers and other primary or "
-"secondary register identifiers for the organisation. A common examples of a "
-"third-party database is the proprietary Dun&Bradstreet number. The OCDS "
-"organisational identifier scheme will recognise identifiers from third-party"
-" databases, but strongly prefers those drawn from non-propietary databases, "
-"which allow users to lookup identifier information."
+msgid "**Third-party databases** - which compile a list of organisations, and sometimes their sub-units, on an on-demand basis. These databases do not confer any legal status or special properties on the organisations, but may record a mapping between their own identifiers and other primary or secondary register identifiers for the organisation. A common examples of a third-party database is the proprietary Dun&Bradstreet number. The OCDS organisational identifier scheme will recognise identifiers from third-party databases, but strongly prefers those drawn from non-propietary databases, which allow users to lookup identifier information."
 msgstr ""
+"**Ŧħīřḓ-ƥȧřŧẏ ḓȧŧȧƀȧşḗş** - ẇħīƈħ ƈǿḿƥīŀḗ ȧ ŀīşŧ ǿƒ ǿřɠȧƞīşȧŧīǿƞş, ȧƞḓ "
+"şǿḿḗŧīḿḗş ŧħḗīř şŭƀ-ŭƞīŧş, ǿƞ ȧƞ ǿƞ-ḓḗḿȧƞḓ ƀȧşīş. Ŧħḗşḗ ḓȧŧȧƀȧşḗş ḓǿ ƞǿŧ "
+"ƈǿƞƒḗř ȧƞẏ ŀḗɠȧŀ şŧȧŧŭş ǿř şƥḗƈīȧŀ ƥřǿƥḗřŧīḗş ǿƞ ŧħḗ ǿřɠȧƞīşȧŧīǿƞş, ƀŭŧ ḿȧẏ "
+"řḗƈǿřḓ ȧ ḿȧƥƥīƞɠ ƀḗŧẇḗḗƞ ŧħḗīř ǿẇƞ īḓḗƞŧīƒīḗřş ȧƞḓ ǿŧħḗř ƥřīḿȧřẏ ǿř "
+"şḗƈǿƞḓȧřẏ řḗɠīşŧḗř īḓḗƞŧīƒīḗřş ƒǿř ŧħḗ ǿřɠȧƞīşȧŧīǿƞ. Ȧ ƈǿḿḿǿƞ ḗẋȧḿƥŀḗş ǿƒ ȧ "
+"ŧħīřḓ-ƥȧřŧẏ ḓȧŧȧƀȧşḗ īş ŧħḗ ƥřǿƥřīḗŧȧřẏ Ḓŭƞ&Ɓřȧḓşŧřḗḗŧ ƞŭḿƀḗř. Ŧħḗ ǾƇḒŞ "
+"ǿřɠȧƞīşȧŧīǿƞȧŀ īḓḗƞŧīƒīḗř şƈħḗḿḗ ẇīŀŀ řḗƈǿɠƞīşḗ īḓḗƞŧīƒīḗřş ƒřǿḿ ŧħīřḓ-ƥȧřŧẏ "
+"ḓȧŧȧƀȧşḗş, ƀŭŧ şŧřǿƞɠŀẏ ƥřḗƒḗřş ŧħǿşḗ ḓřȧẇƞ ƒřǿḿ ƞǿƞ-ƥřǿƥīḗŧȧřẏ ḓȧŧȧƀȧşḗş, "
+"ẇħīƈħ ȧŀŀǿẇ ŭşḗřş ŧǿ ŀǿǿķŭƥ īḓḗƞŧīƒīḗř īƞƒǿřḿȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/identifiers.md:151
-msgid ""
-"**Local lists** - Some publishers do not map their data to external "
-"identifiers, maintaining instead a local list of suppliers. In these cases, "
-"the publisher may use their internal identifiers, and should adopt their own"
-" **organisation list prefix** starting with X- to use. Where possible, the "
-"publisher should also provide their local list on the web, with as much "
-"additional data about each supplier as possible, in order to maximise the "
-"chance of data users matching their local list to some more authoritative "
-"register."
+msgid "**Local lists** - Some publishers do not map their data to external identifiers, maintaining instead a local list of suppliers. In these cases, the publisher may use their internal identifiers, and should adopt their own **organisation list prefix** starting with X- to use. Where possible, the publisher should also provide their local list on the web, with as much additional data about each supplier as possible, in order to maximise the chance of data users matching their local list to some more authoritative register."
 msgstr ""
+"**Ŀǿƈȧŀ ŀīşŧş** - Şǿḿḗ ƥŭƀŀīşħḗřş ḓǿ ƞǿŧ ḿȧƥ ŧħḗīř ḓȧŧȧ ŧǿ ḗẋŧḗřƞȧŀ "
+"īḓḗƞŧīƒīḗřş, ḿȧīƞŧȧīƞīƞɠ īƞşŧḗȧḓ ȧ ŀǿƈȧŀ ŀīşŧ ǿƒ şŭƥƥŀīḗřş. Īƞ ŧħḗşḗ ƈȧşḗş, "
+"ŧħḗ ƥŭƀŀīşħḗř ḿȧẏ ŭşḗ ŧħḗīř īƞŧḗřƞȧŀ īḓḗƞŧīƒīḗřş, ȧƞḓ şħǿŭŀḓ ȧḓǿƥŧ ŧħḗīř ǿẇƞ "
+"**ǿřɠȧƞīşȧŧīǿƞ ŀīşŧ ƥřḗƒīẋ** şŧȧřŧīƞɠ ẇīŧħ Ẋ- ŧǿ ŭşḗ. Ẇħḗřḗ ƥǿşşīƀŀḗ, ŧħḗ "
+"ƥŭƀŀīşħḗř şħǿŭŀḓ ȧŀşǿ ƥřǿṽīḓḗ ŧħḗīř ŀǿƈȧŀ ŀīşŧ ǿƞ ŧħḗ ẇḗƀ, ẇīŧħ ȧş ḿŭƈħ "
+"ȧḓḓīŧīǿƞȧŀ ḓȧŧȧ ȧƀǿŭŧ ḗȧƈħ şŭƥƥŀīḗř ȧş ƥǿşşīƀŀḗ, īƞ ǿřḓḗř ŧǿ ḿȧẋīḿīşḗ ŧħḗ "
+"ƈħȧƞƈḗ ǿƒ ḓȧŧȧ ŭşḗřş ḿȧŧƈħīƞɠ ŧħḗīř ŀǿƈȧŀ ŀīşŧ ŧǿ şǿḿḗ ḿǿřḗ ȧŭŧħǿřīŧȧŧīṽḗ "
+"řḗɠīşŧḗř."
 
 #: ../../standard/docs/en/schema/identifiers.md:153
-msgid ""
-"Local lists may commonly need to be used for identifying public bodies, as "
-"in many countries there is no official list of public agencies."
+msgid "Local lists may commonly need to be used for identifying public bodies, as in many countries there is no official list of public agencies."
 msgstr ""
+"Ŀǿƈȧŀ ŀīşŧş ḿȧẏ ƈǿḿḿǿƞŀẏ ƞḗḗḓ ŧǿ ƀḗ ŭşḗḓ ƒǿř īḓḗƞŧīƒẏīƞɠ ƥŭƀŀīƈ ƀǿḓīḗş, ȧş "
+"īƞ ḿȧƞẏ ƈǿŭƞŧřīḗş ŧħḗřḗ īş ƞǿ ǿƒƒīƈīȧŀ ŀīşŧ ǿƒ ƥŭƀŀīƈ ȧɠḗƞƈīḗş."
 
 #: ../../standard/docs/en/schema/identifiers.md:155
-msgid ""
-"At present, the OCDS standard defers to the organisation list prefixes "
-"provided by the [IATI Organisation Registration Agency "
-"codelist](http://iatistandard.org/codelists/OrganisationRegistrationAgency/)"
-" which cover a wide range of organization types. If you require codes to be "
-"added to this list, please contact the [Open Contracting Data Standard "
-"helpdesk](../support/index.md) and they will work to achieve this."
+msgid "At present, the OCDS standard defers to the organisation list prefixes provided by the [IATI Organisation Registration Agency codelist](http://iatistandard.org/codelists/OrganisationRegistrationAgency/) which cover a wide range of organization types. If you require codes to be added to this list, please contact the [Open Contracting Data Standard helpdesk](../support/index.md) and they will work to achieve this."
 msgstr ""
+"Ȧŧ ƥřḗşḗƞŧ, ŧħḗ ǾƇḒŞ şŧȧƞḓȧřḓ ḓḗƒḗřş ŧǿ ŧħḗ ǿřɠȧƞīşȧŧīǿƞ ŀīşŧ ƥřḗƒīẋḗş "
+"ƥřǿṽīḓḗḓ ƀẏ ŧħḗ [ĪȦŦĪ Ǿřɠȧƞīşȧŧīǿƞ Řḗɠīşŧřȧŧīǿƞ Ȧɠḗƞƈẏ "
+"ƈǿḓḗŀīşŧ](http://iatistandard.org/codelists/OrganisationRegistrationAgency/) "
+"ẇħīƈħ ƈǿṽḗř ȧ ẇīḓḗ řȧƞɠḗ ǿƒ ǿřɠȧƞīzȧŧīǿƞ ŧẏƥḗş. Īƒ ẏǿŭ řḗɋŭīřḗ ƈǿḓḗş ŧǿ ƀḗ "
+"ȧḓḓḗḓ ŧǿ ŧħīş ŀīşŧ, ƥŀḗȧşḗ ƈǿƞŧȧƈŧ ŧħḗ [Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ "
+"ħḗŀƥḓḗşķ](../support/index.md) ȧƞḓ ŧħḗẏ ẇīŀŀ ẇǿřķ ŧǿ ȧƈħīḗṽḗ ŧħīş."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Release ID"
-msgstr ""
+msgstr "Řḗŀḗȧşḗ ĪḒ"
 
 #: ../../standard/docs/en/schema/identifiers.md:160
-msgid ""
-"The release ID must be unique within the contracting process it is part of, "
-"**and** within any given data package it is part of."
+msgid "The release ID must be unique within the contracting process it is part of, **and** within any given data package it is part of."
 msgstr ""
+"Ŧħḗ řḗŀḗȧşḗ ĪḒ ḿŭşŧ ƀḗ ŭƞīɋŭḗ ẇīŧħīƞ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş īŧ īş ƥȧřŧ ǿƒ, "
+"**ȧƞḓ** ẇīŧħīƞ ȧƞẏ ɠīṽḗƞ ḓȧŧȧ ƥȧƈķȧɠḗ īŧ īş ƥȧřŧ ǿƒ."
 
 #: ../../standard/docs/en/schema/identifiers.md:162
-msgid ""
-"Within any release or record package **and** for any given ocid, there "
-"should be no two release IDs that refer to different releases."
+msgid "Within any release or record package **and** for any given ocid, there should be no two release IDs that refer to different releases."
 msgstr ""
+"Ẇīŧħīƞ ȧƞẏ řḗŀḗȧşḗ ǿř řḗƈǿřḓ ƥȧƈķȧɠḗ **ȧƞḓ** ƒǿř ȧƞẏ ɠīṽḗƞ ǿƈīḓ, ŧħḗřḗ "
+"şħǿŭŀḓ ƀḗ ƞǿ ŧẇǿ řḗŀḗȧşḗ ĪḒş ŧħȧŧ řḗƒḗř ŧǿ ḓīƒƒḗřḗƞŧ řḗŀḗȧşḗş."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Tender, Award and Contract"
-msgstr ""
+msgstr "Ŧḗƞḓḗř, Ȧẇȧřḓ ȧƞḓ Ƈǿƞŧřȧƈŧ"
 
 #: ../../standard/docs/en/schema/identifiers.md:166
-msgid ""
-"The tender, award and contract IDs must be unique within the contracting "
-"process it is part of."
+msgid "The tender, award and contract IDs must be unique within the contracting process it is part of."
 msgstr ""
+"Ŧħḗ ŧḗƞḓḗř, ȧẇȧřḓ ȧƞḓ ƈǿƞŧřȧƈŧ ĪḒş ḿŭşŧ ƀḗ ŭƞīɋŭḗ ẇīŧħīƞ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşş īŧ īş ƥȧřŧ ǿƒ."
 
 #: ../../standard/docs/en/schema/identifiers.md:168
-msgid ""
-"For any given ocid, there should be no two tender, award or contract IDs "
-"that refer to different tender, award or contract sections respectively."
+msgid "For any given ocid, there should be no two tender, award or contract IDs that refer to different tender, award or contract sections respectively."
 msgstr ""
+"Ƒǿř ȧƞẏ ɠīṽḗƞ ǿƈīḓ, ŧħḗřḗ şħǿŭŀḓ ƀḗ ƞǿ ŧẇǿ ŧḗƞḓḗř, ȧẇȧřḓ ǿř ƈǿƞŧřȧƈŧ ĪḒş "
+"ŧħȧŧ řḗƒḗř ŧǿ ḓīƒƒḗřḗƞŧ ŧḗƞḓḗř, ȧẇȧřḓ ǿř ƈǿƞŧřȧƈŧ şḗƈŧīǿƞş řḗşƥḗƈŧīṽḗŀẏ."
 
 #: ../../standard/docs/en/schema/identifiers.md:170
-msgid ""
-"Contracts should always cross-reference a related award (using the awardID "
-"property), as key information such as suppliers may be contained in the "
-"related award. There may be multiple contracts referring to a single award, "
-"as in the case of a framework contract where multiple contract are issued "
-"against a single award."
+msgid "Contracts should always cross-reference a related award (using the awardID property), as key information such as suppliers may be contained in the related award. There may be multiple contracts referring to a single award, as in the case of a framework contract where multiple contract are issued against a single award."
 msgstr ""
+"Ƈǿƞŧřȧƈŧş şħǿŭŀḓ ȧŀẇȧẏş ƈřǿşş-řḗƒḗřḗƞƈḗ ȧ řḗŀȧŧḗḓ ȧẇȧřḓ (ŭşīƞɠ ŧħḗ ȧẇȧřḓĪḒ "
+"ƥřǿƥḗřŧẏ), ȧş ķḗẏ īƞƒǿřḿȧŧīǿƞ şŭƈħ ȧş şŭƥƥŀīḗřş ḿȧẏ ƀḗ ƈǿƞŧȧīƞḗḓ īƞ ŧħḗ "
+"řḗŀȧŧḗḓ ȧẇȧřḓ. Ŧħḗřḗ ḿȧẏ ƀḗ ḿŭŀŧīƥŀḗ ƈǿƞŧřȧƈŧş řḗƒḗřřīƞɠ ŧǿ ȧ şīƞɠŀḗ ȧẇȧřḓ, "
+"ȧş īƞ ŧħḗ ƈȧşḗ ǿƒ ȧ ƒřȧḿḗẇǿřķ ƈǿƞŧřȧƈŧ ẇħḗřḗ ḿŭŀŧīƥŀḗ ƈǿƞŧřȧƈŧ ȧřḗ īşşŭḗḓ "
+"ȧɠȧīƞşŧ ȧ şīƞɠŀḗ ȧẇȧřḓ."
 
 #: ../../standard/docs/en/schema/identifiers.md:0
 msgid "Items, Documents and Milestones"
-msgstr ""
+msgstr "Īŧḗḿş, Ḓǿƈŭḿḗƞŧş ȧƞḓ Ḿīŀḗşŧǿƞḗş"
 
 #: ../../standard/docs/en/schema/identifiers.md:174
-msgid ""
-"An item, document or milestone ID must be unique within a given array of "
-"items, and must be used consistently across all the releases in a "
-"contracting process."
+msgid "An item, document or milestone ID must be unique within a given array of items, and must be used consistently across all the releases in a contracting process."
 msgstr ""
+"Ȧƞ īŧḗḿ, ḓǿƈŭḿḗƞŧ ǿř ḿīŀḗşŧǿƞḗ ĪḒ ḿŭşŧ ƀḗ ŭƞīɋŭḗ ẇīŧħīƞ ȧ ɠīṽḗƞ ȧřřȧẏ ǿƒ "
+"īŧḗḿş, ȧƞḓ ḿŭşŧ ƀḗ ŭşḗḓ ƈǿƞşīşŧḗƞŧŀẏ ȧƈřǿşş ȧŀŀ ŧħḗ řḗŀḗȧşḗş īƞ ȧ "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/schema/identifiers.md:176
-msgid ""
-"The same id may be re-used in another array of items within the same "
-"release, and no cross-reference between these identifiers is implied."
+msgid "The same id may be re-used in another array of items within the same release, and no cross-reference between these identifiers is implied."
 msgstr ""
+"Ŧħḗ şȧḿḗ īḓ ḿȧẏ ƀḗ řḗ-ŭşḗḓ īƞ ȧƞǿŧħḗř ȧřřȧẏ ǿƒ īŧḗḿş ẇīŧħīƞ ŧħḗ şȧḿḗ "
+"řḗŀḗȧşḗ, ȧƞḓ ƞǿ ƈřǿşş-řḗƒḗřḗƞƈḗ ƀḗŧẇḗḗƞ ŧħḗşḗ īḓḗƞŧīƒīḗřş īş īḿƥŀīḗḓ."
 
 #: ../../standard/docs/en/schema/identifiers.md:178
-msgid ""
-"The use of an identifier means that subsequent releases can update prior "
-"identified items, documents or milestones, without needing to republish all "
-"the items, documents or milestones."
+msgid "The use of an identifier means that subsequent releases can update prior identified items, documents or milestones, without needing to republish all the items, documents or milestones."
 msgstr ""
+"Ŧħḗ ŭşḗ ǿƒ ȧƞ īḓḗƞŧīƒīḗř ḿḗȧƞş ŧħȧŧ şŭƀşḗɋŭḗƞŧ řḗŀḗȧşḗş ƈȧƞ ŭƥḓȧŧḗ ƥřīǿř "
+"īḓḗƞŧīƒīḗḓ īŧḗḿş, ḓǿƈŭḿḗƞŧş ǿř ḿīŀḗşŧǿƞḗş, ẇīŧħǿŭŧ ƞḗḗḓīƞɠ ŧǿ řḗƥŭƀŀīşħ ȧŀŀ "
+"ŧħḗ īŧḗḿş, ḓǿƈŭḿḗƞŧş ǿř ḿīŀḗşŧǿƞḗş."
 
 #: ../../standard/docs/en/schema/identifiers.md:182
-msgid ""
-"A release may contain tender.items (Items tendered for) and award.items"
-msgstr ""
+msgid "A release may contain tender.items (Items tendered for) and award.items"
+msgstr "Ȧ řḗŀḗȧşḗ ḿȧẏ ƈǿƞŧȧīƞ ŧḗƞḓḗř.īŧḗḿş (Īŧḗḿş ŧḗƞḓḗřḗḓ ƒǿř) ȧƞḓ ȧẇȧřḓ.īŧḗḿş"
 
 #: ../../standard/docs/en/schema/identifiers.md:183
 msgid "tender.items may contain three items, with identifiers of: [1, 2, 3]"
-msgstr ""
+msgstr "ŧḗƞḓḗř.īŧḗḿş ḿȧẏ ƈǿƞŧȧīƞ ŧħřḗḗ īŧḗḿş, ẇīŧħ īḓḗƞŧīƒīḗřş ǿƒ: [1, 2, 3]"
 
 #: ../../standard/docs/en/schema/identifiers.md:184
 msgid "award.items may contain two items, with identifiers of: [3, 4]"
-msgstr ""
+msgstr "ȧẇȧřḓ.īŧḗḿş ḿȧẏ ƈǿƞŧȧīƞ ŧẇǿ īŧḗḿş, ẇīŧħ īḓḗƞŧīƒīḗřş ǿƒ: [3, 4]"
 
 #: ../../standard/docs/en/schema/identifiers.md:185
-msgid ""
-"A second release is issued in which award.items contains six items: [3, 4, "
-"5]"
+msgid "A second release is issued in which award.items contains six items: [3, 4, 5]"
 msgstr ""
+"Ȧ şḗƈǿƞḓ řḗŀḗȧşḗ īş īşşŭḗḓ īƞ ẇħīƈħ ȧẇȧřḓ.īŧḗḿş ƈǿƞŧȧīƞş şīẋ īŧḗḿş: [3, 4, 5]"
 
 #: ../../standard/docs/en/schema/identifiers.md:187
 msgid "In this situation, note that:"
-msgstr ""
+msgstr "Īƞ ŧħīş şīŧŭȧŧīǿƞ, ƞǿŧḗ ŧħȧŧ:"
 
 #: ../../standard/docs/en/schema/identifiers.md:189
-msgid ""
-"There is no implied relationship between the tender.item with id 3 and the "
-"award.item with id 3: these could be entirely different items"
+msgid "There is no implied relationship between the tender.item with id 3 and the award.item with id 3: these could be entirely different items"
 msgstr ""
+"Ŧħḗřḗ īş ƞǿ īḿƥŀīḗḓ řḗŀȧŧīǿƞşħīƥ ƀḗŧẇḗḗƞ ŧħḗ ŧḗƞḓḗř.īŧḗḿ ẇīŧħ īḓ 3 ȧƞḓ ŧħḗ "
+"ȧẇȧřḓ.īŧḗḿ ẇīŧħ īḓ 3: ŧħḗşḗ ƈǿŭŀḓ ƀḗ ḗƞŧīřḗŀẏ ḓīƒƒḗřḗƞŧ īŧḗḿş"
 
 #: ../../standard/docs/en/schema/identifiers.md:190
-msgid ""
-"There is a relationship between the award.items with id 3 and 4 in the first"
-" release, and with award.id of 3 and 4 in the second release. The second "
-"release should be interpreted as updating items 3 and 4, and adding a new "
-"item, 5."
+msgid "There is a relationship between the award.items with id 3 and 4 in the first release, and with award.id of 3 and 4 in the second release. The second release should be interpreted as updating items 3 and 4, and adding a new item, 5."
 msgstr ""
+"Ŧħḗřḗ īş ȧ řḗŀȧŧīǿƞşħīƥ ƀḗŧẇḗḗƞ ŧħḗ ȧẇȧřḓ.īŧḗḿş ẇīŧħ īḓ 3 ȧƞḓ 4 īƞ ŧħḗ ƒīřşŧ "
+"řḗŀḗȧşḗ, ȧƞḓ ẇīŧħ ȧẇȧřḓ.īḓ ǿƒ 3 ȧƞḓ 4 īƞ ŧħḗ şḗƈǿƞḓ řḗŀḗȧşḗ. Ŧħḗ şḗƈǿƞḓ "
+"řḗŀḗȧşḗ şħǿŭŀḓ ƀḗ īƞŧḗřƥřḗŧḗḓ ȧş ŭƥḓȧŧīƞɠ īŧḗḿş 3 ȧƞḓ 4, ȧƞḓ ȧḓḓīƞɠ ȧ ƞḗẇ "
+"īŧḗḿ, 5."

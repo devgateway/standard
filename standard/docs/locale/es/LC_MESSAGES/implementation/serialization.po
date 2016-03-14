@@ -1,31 +1,32 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-09 10:41+0000\n"
-"PO-Revision-Date: 2016-03-09 10:42+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/implementation/serialization.md:0
 msgid "Serialization"
-msgstr ""
+msgstr "Şḗřīȧŀīzȧŧīǿƞ"
 
 #: ../../standard/docs/en/implementation/serialization.md:3
 msgid ""
 "The Open Contracting Data Standard provides a **structured data model** for "
 "capturing in-depth information about all stages of the contracting process."
 msgstr ""
+"Ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ ƥřǿṽīḓḗş ȧ **şŧřŭƈŧŭřḗḓ ḓȧŧȧ ḿǿḓḗŀ** ƒǿř "
+"ƈȧƥŧŭřīƞɠ īƞ-ḓḗƥŧħ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ȧŀŀ şŧȧɠḗş ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/implementation/serialization.md:5
 msgid ""
@@ -34,6 +35,10 @@ msgid ""
 "definitions and structures for the data. The compliance of data with the "
 "Open Contracting Data Standard will be assessed against this schema."
 msgstr ""
+"Ŧħḗ ƈŭřřḗƞŧ ƈȧƞǿƞīƈȧŀ ṽḗřşīǿƞ ǿƒ ŧħīş ḓȧŧȧ ḿǿḓḗŀ īş ƥřǿṽīḓḗḓ ƀẏ ȧ **[ĴŞǾȠ "
+"Şƈħḗḿȧ](../../../schema/release)** ẇħīƈħ ḓḗşƈřīƀḗş ƒīḗŀḓ ƞȧḿḗş, ƒīḗŀḓ "
+"ḓḗƒīƞīŧīǿƞş ȧƞḓ şŧřŭƈŧŭřḗş ƒǿř ŧħḗ ḓȧŧȧ. Ŧħḗ ƈǿḿƥŀīȧƞƈḗ ǿƒ ḓȧŧȧ ẇīŧħ ŧħḗ "
+"Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ ẇīŀŀ ƀḗ ȧşşḗşşḗḓ ȧɠȧīƞşŧ ŧħīş şƈħḗḿȧ."
 
 #: ../../standard/docs/en/implementation/serialization.md:7
 msgid ""
@@ -44,10 +49,16 @@ msgid ""
 "of the standard, but are designed to support implementers in providing "
 "accessible data to a range of different users."
 msgstr ""
+"Ħǿẇḗṽḗř, ŧħḗřḗ ȧřḗ ḿȧƞẏ ŭşḗ ƈȧşḗş ẇħḗřḗ ƥŭƀŀīşħḗřş ȧƞḓ ŭşḗřş ẇīŀŀ ẇȧƞŧ ŧǿ "
+"ẇǿřķ ẇīŧħ ḓȧŧȧ şḗřīȧŀīzḗḓ īƞ ǿŧħḗř ƒǿřḿȧŧş. Ƒǿř ŧħīş řḗȧşǿƞ, ŧħḗ ƈŭřřḗƞŧ "
+"ṽḗřşīǿƞ ǿƒ ǾƇḒŞ şŭƥƥǿřŧş ȧ ƞŭḿƀḗř ǿƒ **şḗƈǿƞḓȧřẏ şḗřīȧŀīzȧŧīǿƞş** ẇħīƈħ ȧřḗ "
+"ƀȧşḗḓ ǿƞ ŧħḗ ƈȧƞǿƞīƈȧŀ şƈħḗḿȧ. Ŧħḗřḗ ȧřḗ ƞǿŧ ƈŭřřḗƞŧŀẏ ǿƒƒīƈīȧŀ ƈǿḿƥǿƞḗƞŧş "
+"ǿƒ ŧħḗ şŧȧƞḓȧřḓ, ƀŭŧ ȧřḗ ḓḗşīɠƞḗḓ ŧǿ şŭƥƥǿřŧ īḿƥŀḗḿḗƞŧḗřş īƞ ƥřǿṽīḓīƞɠ "
+"ȧƈƈḗşşīƀŀḗ ḓȧŧȧ ŧǿ ȧ řȧƞɠḗ ǿƒ ḓīƒƒḗřḗƞŧ ŭşḗřş."
 
 #: ../../standard/docs/en/implementation/serialization.md:0
 msgid "JSON"
-msgstr ""
+msgstr "ĴŞǾȠ"
 
 #: ../../standard/docs/en/implementation/serialization.md:11
 msgid ""
@@ -55,14 +66,17 @@ msgid ""
 "the exchange of data on the web. The JSON schema language provides "
 "validation tools for working with JSON data."
 msgstr ""
+"ĴŞǾȠ şŧȧƞḓş ƒǿř Ĵȧṽȧşƈřīƥŧ Ǿƀĵḗƈŧ Ƞǿŧȧŧīǿƞ, ȧƞḓ īş ȧ ƒǿřḿȧŧ ẇīḓḗŀẏ ŭşḗḓ ƒǿř "
+"ŧħḗ ḗẋƈħȧƞɠḗ ǿƒ ḓȧŧȧ ǿƞ ŧħḗ ẇḗƀ. Ŧħḗ ĴŞǾȠ şƈħḗḿȧ ŀȧƞɠŭȧɠḗ ƥřǿṽīḓḗş "
+"ṽȧŀīḓȧŧīǿƞ ŧǿǿŀş ƒǿř ẇǿřķīƞɠ ẇīŧħ ĴŞǾȠ ḓȧŧȧ."
 
 #: ../../standard/docs/en/implementation/serialization.md:0
 msgid "Generating JSON"
-msgstr ""
+msgstr "Ɠḗƞḗřȧŧīƞɠ ĴŞǾȠ"
 
 #: ../../standard/docs/en/implementation/serialization.md:15
 msgid "Most programming languages provide tools for output data as JSON."
-msgstr ""
+msgstr "Ḿǿşŧ ƥřǿɠřȧḿḿīƞɠ ŀȧƞɠŭȧɠḗş ƥřǿṽīḓḗ ŧǿǿŀş ƒǿř ǿŭŧƥŭŧ ḓȧŧȧ ȧş ĴŞǾȠ."
 
 #: ../../standard/docs/en/implementation/serialization.md:17
 msgid ""
@@ -70,51 +84,67 @@ msgid ""
 "convert from flat CSV files to structured OCDS data based on a mapping "
 "template."
 msgstr ""
+"Ŧħḗ [ǾƇḒŞ Ḿȧƥƥḗř](https://github.com/open-contracting/mapper) ŧǿǿŀ ƈȧƞ "
+"ƈǿƞṽḗřŧ ƒřǿḿ ƒŀȧŧ ƇŞṼ ƒīŀḗş ŧǿ şŧřŭƈŧŭřḗḓ ǾƇḒŞ ḓȧŧȧ ƀȧşḗḓ ǿƞ ȧ ḿȧƥƥīƞɠ "
+"ŧḗḿƥŀȧŧḗ."
 
 #: ../../standard/docs/en/implementation/serialization.md:19
 msgid ""
 "[A range of tools](http://json-schema.org/implementations.html) are "
-"available for working with [JSON-Schema](http://json-schema.org/), including"
-" validation and form generation tools."
+"available for working with [JSON-Schema](http://json-schema.org/), including "
+"validation and form generation tools."
 msgstr ""
+"[Ȧ řȧƞɠḗ ǿƒ ŧǿǿŀş](http://json-schema.org/implementations.html) ȧřḗ "
+"ȧṽȧīŀȧƀŀḗ ƒǿř ẇǿřķīƞɠ ẇīŧħ [ĴŞǾȠ-Şƈħḗḿȧ](http://json-schema.org/), īƞƈŀŭḓīƞɠ "
+"ṽȧŀīḓȧŧīǿƞ ȧƞḓ ƒǿřḿ ɠḗƞḗřȧŧīǿƞ ŧǿǿŀş."
 
 #: ../../standard/docs/en/implementation/serialization.md:0
 msgid "Consuming JSON"
-msgstr ""
+msgstr "Ƈǿƞşŭḿīƞɠ ĴŞǾȠ"
 
 #: ../../standard/docs/en/implementation/serialization.md:23
 msgid "Most programming languages provide tools for reading JSON."
-msgstr ""
+msgstr "Ḿǿşŧ ƥřǿɠřȧḿḿīƞɠ ŀȧƞɠŭȧɠḗş ƥřǿṽīḓḗ ŧǿǿŀş ƒǿř řḗȧḓīƞɠ ĴŞǾȠ."
 
 #: ../../standard/docs/en/implementation/serialization.md:25
 msgid ""
 "A number of [JSON native databases](http://en.wikipedia.org/wiki/NoSQL) are "
-"available for working directly with large collections of JSON documents, and"
-" command line tools such as [jq](http://stedolan.github.io/jq/) support "
+"available for working directly with large collections of JSON documents, and "
+"command line tools such as [jq](http://stedolan.github.io/jq/) support "
 "advanced query and data retrieval with JSON files."
 msgstr ""
+"Ȧ ƞŭḿƀḗř ǿƒ [ĴŞǾȠ ƞȧŧīṽḗ ḓȧŧȧƀȧşḗş](http://en.wikipedia.org/wiki/NoSQL) ȧřḗ "
+"ȧṽȧīŀȧƀŀḗ ƒǿř ẇǿřķīƞɠ ḓīřḗƈŧŀẏ ẇīŧħ ŀȧřɠḗ ƈǿŀŀḗƈŧīǿƞş ǿƒ ĴŞǾȠ ḓǿƈŭḿḗƞŧş, ȧƞḓ "
+"ƈǿḿḿȧƞḓ ŀīƞḗ ŧǿǿŀş şŭƈħ ȧş [ĵɋ](http://stedolan.github.io/jq/) şŭƥƥǿřŧ "
+"ȧḓṽȧƞƈḗḓ ɋŭḗřẏ ȧƞḓ ḓȧŧȧ řḗŧřīḗṽȧŀ ẇīŧħ ĴŞǾȠ ƒīŀḗş."
 
 #: ../../standard/docs/en/implementation/serialization.md:27
 msgid ""
-"There are also a range of generic tools which can convert JSON into flat CSV"
-" structures, including:"
+"There are also a range of generic tools which can convert JSON into flat CSV "
+"structures, including:"
 msgstr ""
+"Ŧħḗřḗ ȧřḗ ȧŀşǿ ȧ řȧƞɠḗ ǿƒ ɠḗƞḗřīƈ ŧǿǿŀş ẇħīƈħ ƈȧƞ ƈǿƞṽḗřŧ ĴŞǾȠ īƞŧǿ ƒŀȧŧ ƇŞṼ "
+"şŧřŭƈŧŭřḗş, īƞƈŀŭḓīƞɠ:"
 
 #: ../../standard/docs/en/implementation/serialization.md:29
 msgid ""
 "[JSON -> CSV](http://konklone.io/json/) - online tool for converting small "
 "documents."
 msgstr ""
+"[ĴŞǾȠ -> ƇŞṼ](http://konklone.io/json/) - ǿƞŀīƞḗ ŧǿǿŀ ƒǿř ƈǿƞṽḗřŧīƞɠ şḿȧŀŀ "
+"ḓǿƈŭḿḗƞŧş."
 
 #: ../../standard/docs/en/implementation/serialization.md:30
 msgid ""
 "[Open Refine](http://openrefine.org/) - desktop tool that can handle large "
 "documents, and supports advanced data manipulation."
 msgstr ""
+"[Ǿƥḗƞ Řḗƒīƞḗ](http://openrefine.org/) - ḓḗşķŧǿƥ ŧǿǿŀ ŧħȧŧ ƈȧƞ ħȧƞḓŀḗ ŀȧřɠḗ "
+"ḓǿƈŭḿḗƞŧş, ȧƞḓ şŭƥƥǿřŧş ȧḓṽȧƞƈḗḓ ḓȧŧȧ ḿȧƞīƥŭŀȧŧīǿƞ."
 
 #: ../../standard/docs/en/implementation/serialization.md:0
 msgid "CSV"
-msgstr ""
+msgstr "ƇŞṼ"
 
 #: ../../standard/docs/en/implementation/serialization.md:34
 msgid ""
@@ -124,34 +154,46 @@ msgid ""
 "data in a single table. However, we propose two models for publishers to "
 "adopt."
 msgstr ""
+"ĴŞǾȠ īş ƀȧşḗḓ ǿƞ ȧ ŧřḗḗ şŧřŭƈŧŭřḗ, ẇīŧħ ḓȧŧȧ ḗŀḗḿḗƞŧş ƞḗşŧḗḓ īƞşīḓḗ ǿƞḗ "
+"ȧƞǿŧħḗř. Ħǿẇḗṽḗř, ḿȧƞẏ ƥḗǿƥŀḗ ȧřḗ ḿǿřḗ ƒȧḿīŀīȧř ẇǿřķīƞɠ ẇīŧħ ŧȧƀŭŀȧř ḓȧŧȧ, "
+"ḿȧḓḗ ŭƥ ǿƒ ƈǿŀŭḿƞş ȧƞḓ řǿẇş. Ŧħḗřḗ īş ƞǿ ḗȧşẏ ẇȧẏ ŧǿ řḗƥřḗşḗƞŧ şŧřŭƈŧŭřḗḓ "
+"ḓȧŧȧ īƞ ȧ şīƞɠŀḗ ŧȧƀŀḗ. Ħǿẇḗṽḗř, ẇḗ ƥřǿƥǿşḗ ŧẇǿ ḿǿḓḗŀş ƒǿř ƥŭƀŀīşħḗřş ŧǿ "
+"ȧḓǿƥŧ."
 
 #: ../../standard/docs/en/implementation/serialization.md:36
 msgid ""
 "**Simplified single table** - for cases where there are no one-to-many "
-"relationships in the data (e.g. each tender has only one award and contract,"
-" and each has only one line-item)."
+"relationships in the data (e.g. each tender has only one award and contract, "
+"and each has only one line-item)."
 msgstr ""
+"**Şīḿƥŀīƒīḗḓ şīƞɠŀḗ ŧȧƀŀḗ** - ƒǿř ƈȧşḗş ẇħḗřḗ ŧħḗřḗ ȧřḗ ƞǿ ǿƞḗ-ŧǿ-ḿȧƞẏ "
+"řḗŀȧŧīǿƞşħīƥş īƞ ŧħḗ ḓȧŧȧ (ḗ.ɠ. ḗȧƈħ ŧḗƞḓḗř ħȧş ǿƞŀẏ ǿƞḗ ȧẇȧřḓ ȧƞḓ ƈǿƞŧřȧƈŧ, "
+"ȧƞḓ ḗȧƈħ ħȧş ǿƞŀẏ ǿƞḗ ŀīƞḗ-īŧḗḿ)."
 
 #: ../../standard/docs/en/implementation/serialization.md:37
 msgid ""
 "**Multi-table** - where more advanced structures are required, but where it "
 "is desirable to be able to work with data in spreadsheet-style layouts"
 msgstr ""
+"**Ḿŭŀŧī-ŧȧƀŀḗ** - ẇħḗřḗ ḿǿřḗ ȧḓṽȧƞƈḗḓ şŧřŭƈŧŭřḗş ȧřḗ řḗɋŭīřḗḓ, ƀŭŧ ẇħḗřḗ īŧ "
+"īş ḓḗşīřȧƀŀḗ ŧǿ ƀḗ ȧƀŀḗ ŧǿ ẇǿřķ ẇīŧħ ḓȧŧȧ īƞ şƥřḗȧḓşħḗḗŧ-şŧẏŀḗ ŀȧẏǿŭŧş"
 
 #: ../../standard/docs/en/implementation/serialization.md:39
 msgid ""
-"In each case, fields are identified by the [json "
-"pointer](http://tools.ietf.org/html/rfc6901) to their JSON equivalent. For "
-"example:"
+"In each case, fields are identified by the [json pointer](http://tools.ietf."
+"org/html/rfc6901) to their JSON equivalent. For example:"
 msgstr ""
+"Īƞ ḗȧƈħ ƈȧşḗ, ƒīḗŀḓş ȧřḗ īḓḗƞŧīƒīḗḓ ƀẏ ŧħḗ [ĵşǿƞ "
+"ƥǿīƞŧḗř](http://tools.ietf.org/html/rfc6901) ŧǿ ŧħḗīř ĴŞǾȠ ḗɋŭīṽȧŀḗƞŧ. Ƒǿř "
+"ḗẋȧḿƥŀḗ:"
 
 #: ../../standard/docs/en/implementation/serialization.md:41
 msgid "**JSON**"
-msgstr ""
+msgstr "**ĴŞǾȠ**"
 
 #: ../../standard/docs/en/implementation/serialization.md:51
 msgid "**CSV**"
-msgstr ""
+msgstr "**ƇŞṼ**"
 
 #: ../../standard/docs/en/implementation/serialization.md:61
 msgid ""
@@ -160,16 +202,22 @@ msgid ""
 "and the OCDS validator includes an option to generate 'flattened' versions "
 "of JSON data."
 msgstr ""
+"Ȧ şḗŧ ǿƒ ƥřǿŧǿŧẏƥḗ ŧǿǿŀş ƒǿř ɠḗƞḗřȧŧīƞɠ ƒŀȧŧ ƇŞṼ ǾƇḒŞ ŧḗḿƥŀȧŧḗş ȧřḗ ["
+"ȧṽȧīŀȧƀŀḗ ǿƞ ƓīŧĦŭƀ](https://github.com/open-contracting/flattening-ocds), "
+"ȧƞḓ ŧħḗ ǾƇḒŞ ṽȧŀīḓȧŧǿř īƞƈŀŭḓḗş ȧƞ ǿƥŧīǿƞ ŧǿ ɠḗƞḗřȧŧḗ 'ƒŀȧŧŧḗƞḗḓ' ṽḗřşīǿƞş "
+"ǿƒ ĴŞǾȠ ḓȧŧȧ."
 
 #: ../../standard/docs/en/implementation/serialization.md:0
 msgid "Simplified single table"
-msgstr ""
+msgstr "Şīḿƥŀīƒīḗḓ şīƞɠŀḗ ŧȧƀŀḗ"
 
 #: ../../standard/docs/en/implementation/serialization.md:65
 msgid ""
 "It is possible to represent a full releases in a single flat CSV row by "
 "using full JSON pointers for each field as the headings."
 msgstr ""
+"Īŧ īş ƥǿşşīƀŀḗ ŧǿ řḗƥřḗşḗƞŧ ȧ ƒŭŀŀ řḗŀḗȧşḗş īƞ ȧ şīƞɠŀḗ ƒŀȧŧ ƇŞṼ řǿẇ ƀẏ "
+"ŭşīƞɠ ƒŭŀŀ ĴŞǾȠ ƥǿīƞŧḗřş ƒǿř ḗȧƈħ ƒīḗŀḓ ȧş ŧħḗ ħḗȧḓīƞɠş."
 
 #: ../../standard/docs/en/implementation/serialization.md:67
 msgid ""
@@ -177,41 +225,55 @@ msgid ""
 "relationships (for example, only one item per tender, and one award and "
 "contract for each tender process)."
 msgstr ""
+"Ŧħīş ȧƥƥřǿȧƈħ īş ɠḗƞḗřȧŀŀẏ ǿƞŀẏ ȧƥƥřǿƥřīȧŧḗ ƒǿř ḓȧŧȧ ẇīŧħǿŭŧ ǿƞḗ-ŧǿ-ḿȧƞẏ "
+"řḗŀȧŧīǿƞşħīƥş (ƒǿř ḗẋȧḿƥŀḗ, ǿƞŀẏ ǿƞḗ īŧḗḿ ƥḗř ŧḗƞḓḗř, ȧƞḓ ǿƞḗ ȧẇȧřḓ ȧƞḓ "
+"ƈǿƞŧřȧƈŧ ƒǿř ḗȧƈħ ŧḗƞḓḗř ƥřǿƈḗşş)."
 
 #: ../../standard/docs/en/implementation/serialization.md:69
 msgid ""
 "It is, however, theoretically possible to represent a full releases in a "
 "single flat CSV row by using full JSON pointers for each field as the "
-"headings. For arrays, this involves adding the array index to the path, such"
-" as ```tender/item/0/id``` and ```tender/item/1/id``` as separate columns to"
-" represent each of the items."
+"headings. For arrays, this involves adding the array index to the path, such "
+"as ```tender/item/0/id``` and ```tender/item/1/id``` as separate columns to "
+"represent each of the items."
 msgstr ""
+"Īŧ īş, ħǿẇḗṽḗř, ŧħḗǿřḗŧīƈȧŀŀẏ ƥǿşşīƀŀḗ ŧǿ řḗƥřḗşḗƞŧ ȧ ƒŭŀŀ řḗŀḗȧşḗş īƞ ȧ "
+"şīƞɠŀḗ ƒŀȧŧ ƇŞṼ řǿẇ ƀẏ ŭşīƞɠ ƒŭŀŀ ĴŞǾȠ ƥǿīƞŧḗřş ƒǿř ḗȧƈħ ƒīḗŀḓ ȧş ŧħḗ "
+"ħḗȧḓīƞɠş. Ƒǿř ȧřřȧẏş, ŧħīş īƞṽǿŀṽḗş ȧḓḓīƞɠ ŧħḗ ȧřřȧẏ īƞḓḗẋ ŧǿ ŧħḗ ƥȧŧħ, şŭƈħ "
+"ȧş ```ŧḗƞḓḗř/item/0/id``` ȧƞḓ ```ŧḗƞḓḗř/item/1/id``` ȧş şḗƥȧřȧŧḗ ƈǿŀŭḿƞş ŧǿ "
+"řḗƥřḗşḗƞŧ ḗȧƈħ ǿƒ ŧħḗ īŧḗḿş."
 
 #: ../../standard/docs/en/implementation/serialization.md:71
 msgid ""
 "For example, to represent a tender release with two items, the CSV file "
 "would include:"
 msgstr ""
+"Ƒǿř ḗẋȧḿƥŀḗ, ŧǿ řḗƥřḗşḗƞŧ ȧ ŧḗƞḓḗř řḗŀḗȧşḗ ẇīŧħ ŧẇǿ īŧḗḿş, ŧħḗ ƇŞṼ ƒīŀḗ "
+"ẇǿŭŀḓ īƞƈŀŭḓḗ:"
 
 #: ../../standard/docs/en/implementation/serialization.md:81
 msgid "The JSON equivalent of this would be:"
-msgstr ""
+msgstr "Ŧħḗ ĴŞǾȠ ḗɋŭīṽȧŀḗƞŧ ǿƒ ŧħīş ẇǿŭŀḓ ƀḗ:"
 
 #: ../../standard/docs/en/implementation/serialization.md:91
 msgid ""
-"Whilst this allows complex data to be expressed in flat CSV, users will need"
-" to rebuild the structure in order to analyse the data."
+"Whilst this allows complex data to be expressed in flat CSV, users will need "
+"to rebuild the structure in order to analyse the data."
 msgstr ""
+"Ẇħīŀşŧ ŧħīş ȧŀŀǿẇş ƈǿḿƥŀḗẋ ḓȧŧȧ ŧǿ ƀḗ ḗẋƥřḗşşḗḓ īƞ ƒŀȧŧ ƇŞṼ, ŭşḗřş ẇīŀŀ ƞḗḗḓ "
+"ŧǿ řḗƀŭīŀḓ ŧħḗ şŧřŭƈŧŭřḗ īƞ ǿřḓḗř ŧǿ ȧƞȧŀẏşḗ ŧħḗ ḓȧŧȧ."
 
 #: ../../standard/docs/en/implementation/serialization.md:93
 msgid ""
 "Instead, data with a one-to-many relationship can be represented using a "
 "multi-table serialization."
 msgstr ""
+"Īƞşŧḗȧḓ, ḓȧŧȧ ẇīŧħ ȧ ǿƞḗ-ŧǿ-ḿȧƞẏ řḗŀȧŧīǿƞşħīƥ ƈȧƞ ƀḗ řḗƥřḗşḗƞŧḗḓ ŭşīƞɠ ȧ "
+"ḿŭŀŧī-ŧȧƀŀḗ şḗřīȧŀīzȧŧīǿƞ."
 
 #: ../../standard/docs/en/implementation/serialization.md:0
 msgid "Multi-table"
-msgstr ""
+msgstr "Ḿŭŀŧī-ŧȧƀŀḗ"
 
 #: ../../standard/docs/en/implementation/serialization.md:97
 msgid ""
@@ -220,34 +282,49 @@ msgid ""
 "to-many relationships, whilst allowing analysts to reconstruct the views of "
 "data they need to carry out analysis."
 msgstr ""
+"Ŧħḗ ḿŭŀŧī-ŧȧƀŀḗ şḗřīȧŀīzȧŧīǿƞ ƀřḗȧķş ķḗẏ şḗƈŧīǿƞş ȧƞḓ ƀŭīŀḓīƞɠ ƀŀǿƈķş ǿƒ "
+"ǾƇḒŞ īƞŧǿ ŧħḗīř ǿẇƞ ŧȧƀŀḗş. Ŧħīş şŭƥƥǿřŧş ƈǿḿƥŀḗẋ ḓȧŧȧ şŧřŭƈŧŭřḗş ẇīŧħ "
+"ǿƞḗ-ŧǿ-ḿȧƞẏ řḗŀȧŧīǿƞşħīƥş, ẇħīŀşŧ ȧŀŀǿẇīƞɠ ȧƞȧŀẏşŧş ŧǿ řḗƈǿƞşŧřŭƈŧ ŧħḗ ṽīḗẇş "
+"ǿƒ ḓȧŧȧ ŧħḗẏ ƞḗḗḓ ŧǿ ƈȧřřẏ ǿŭŧ ȧƞȧŀẏşīş."
 
 #: ../../standard/docs/en/implementation/serialization.md:99
 msgid ""
 "Multiple tables can be packaged together as the tabs of a spreadsheet, or "
 "using the Open Knowledge data package specification."
 msgstr ""
+"Ḿŭŀŧīƥŀḗ ŧȧƀŀḗş ƈȧƞ ƀḗ ƥȧƈķȧɠḗḓ ŧǿɠḗŧħḗř ȧş ŧħḗ ŧȧƀş ǿƒ ȧ şƥřḗȧḓşħḗḗŧ, ǿř "
+"ŭşīƞɠ ŧħḗ Ǿƥḗƞ Ķƞǿẇŀḗḓɠḗ ḓȧŧȧ ƥȧƈķȧɠḗ şƥḗƈīƒīƈȧŧīǿƞ."
 
 #: ../../standard/docs/en/implementation/serialization.md:101
 msgid ""
 "The OCDS approach to multi-table flat serializations is currently under "
-"review. Contact the [helpdesk](../../../support/) if you wish to make use of"
-" this."
+"review. Contact the [helpdesk](../../../support/) if you wish to make use of "
+"this."
 msgstr ""
+"Ŧħḗ ǾƇḒŞ ȧƥƥřǿȧƈħ ŧǿ ḿŭŀŧī-ŧȧƀŀḗ ƒŀȧŧ şḗřīȧŀīzȧŧīǿƞş īş ƈŭřřḗƞŧŀẏ ŭƞḓḗř "
+"řḗṽīḗẇ. Ƈǿƞŧȧƈŧ ŧħḗ [ħḗŀƥḓḗşķ](../../../support/) īƒ ẏǿŭ ẇīşħ ŧǿ ḿȧķḗ ŭşḗ ǿƒ "
+"ŧħīş."
 
 #: ../../standard/docs/en/implementation/serialization.md:0
 msgid "Packaging files with meta-data"
-msgstr ""
+msgstr "Ƥȧƈķȧɠīƞɠ ƒīŀḗş ẇīŧħ ḿḗŧȧ-ḓȧŧȧ"
 
 #: ../../standard/docs/en/implementation/serialization.md:105
 msgid ""
 "Whatever serialisation is used for Open Contracting Data, a single file may "
 "contain one or more release and records."
 msgstr ""
+"Ẇħȧŧḗṽḗř şḗřīȧŀīşȧŧīǿƞ īş ŭşḗḓ ƒǿř Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ, ȧ şīƞɠŀḗ ƒīŀḗ ḿȧẏ "
+"ƈǿƞŧȧīƞ ǿƞḗ ǿř ḿǿřḗ řḗŀḗȧşḗ ȧƞḓ řḗƈǿřḓş."
 
 #: ../../standard/docs/en/implementation/serialization.md:107
 msgid ""
 "The release and record data package schemas describe the key meta-data that "
-"must be supplied for any file providing Open Contracting Data. This includes"
-" the publishedDate, publisher, uri for accessing the file, and the licensing"
-" details for the file."
+"must be supplied for any file providing Open Contracting Data. This includes "
+"the publishedDate, publisher, uri for accessing the file, and the licensing "
+"details for the file."
 msgstr ""
+"Ŧħḗ řḗŀḗȧşḗ ȧƞḓ řḗƈǿřḓ ḓȧŧȧ ƥȧƈķȧɠḗ şƈħḗḿȧş ḓḗşƈřīƀḗ ŧħḗ ķḗẏ ḿḗŧȧ-ḓȧŧȧ ŧħȧŧ "
+"ḿŭşŧ ƀḗ şŭƥƥŀīḗḓ ƒǿř ȧƞẏ ƒīŀḗ ƥřǿṽīḓīƞɠ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ. Ŧħīş īƞƈŀŭḓḗş "
+"ŧħḗ ƥŭƀŀīşħḗḓḒȧŧḗ, ƥŭƀŀīşħḗř, ŭřī ƒǿř ȧƈƈḗşşīƞɠ ŧħḗ ƒīŀḗ, ȧƞḓ ŧħḗ ŀīƈḗƞşīƞɠ "
+"ḓḗŧȧīŀş ƒǿř ŧħḗ ƒīŀḗ."

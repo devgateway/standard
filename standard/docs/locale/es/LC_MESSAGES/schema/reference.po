@@ -1,25 +1,24 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-09 10:41+0000\n"
-"PO-Revision-Date: 2016-03-09 10:42+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Release Reference"
-msgstr ""
+msgstr "Řḗŀḗȧşḗ Řḗƒḗřḗƞƈḗ"
 
 #: ../../standard/docs/en/schema/reference.md:3
 msgid ""
@@ -28,21 +27,28 @@ msgid ""
 "Supplementary schemas show how to combine releases into data packages and "
 "how to compile releases into records."
 msgstr ""
+"Ŧħḗ [Řḗŀḗȧşḗ Şƈħḗḿȧ](řḗŀḗȧşḗ.ḿḓ) ƥřǿṽīḓḗş ȧ ḓḗŧȧīŀḗḓ şƥḗƈīƒīƈȧŧīǿƞ ǿƒ ŧħḗ "
+"ƒīḗŀḓş ȧƞḓ ḓȧŧȧ şŧřŭƈŧŭřḗş ŧǿ ŭşḗ ẇħḗƞ ƥŭƀŀīşħīƞɠ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ. "
+"Şŭƥƥŀḗḿḗƞŧȧřẏ şƈħḗḿȧş şħǿẇ ħǿẇ ŧǿ ƈǿḿƀīƞḗ řḗŀḗȧşḗş īƞŧǿ ḓȧŧȧ ƥȧƈķȧɠḗş ȧƞḓ "
+"ħǿẇ ŧǿ ƈǿḿƥīŀḗ řḗŀḗȧşḗş īƞŧǿ řḗƈǿřḓş."
 
 #: ../../standard/docs/en/schema/reference.md:5
 msgid ""
 "This reference page provides key information on using the release schema."
 msgstr ""
+"Ŧħīş řḗƒḗřḗƞƈḗ ƥȧɠḗ ƥřǿṽīḓḗş ķḗẏ īƞƒǿřḿȧŧīǿƞ ǿƞ ŭşīƞɠ ŧħḗ řḗŀḗȧşḗ şƈħḗḿȧ."
 
 #: ../../standard/docs/en/schema/reference.md:7
 msgid ""
 "**Note: If any conflicts are found between this text, and the text within "
 "the schema, the schema takes precedence**"
 msgstr ""
+"**Ƞǿŧḗ: Īƒ ȧƞẏ ƈǿƞƒŀīƈŧş ȧřḗ ƒǿŭƞḓ ƀḗŧẇḗḗƞ ŧħīş ŧḗẋŧ, ȧƞḓ ŧħḗ ŧḗẋŧ ẇīŧħīƞ "
+"ŧħḗ şƈħḗḿȧ, ŧħḗ şƈħḗḿȧ ŧȧķḗş ƥřḗƈḗḓḗƞƈḗ**"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Release structure"
-msgstr ""
+msgstr "Řḗŀḗȧşḗ şŧřŭƈŧŭřḗ"
 
 #: ../../standard/docs/en/schema/reference.md:11
 msgid ""
@@ -50,43 +56,55 @@ msgid ""
 "releases can be published within a release package. Releases are made up of "
 "a number of sections, including:"
 msgstr ""
+"Ŧħḗ ḿȧĵǿřīŧẏ ǿƒ ǾƇḒŞ ḓȧŧȧ īş ħḗŀḓ ẇīŧħīƞ ȧ řḗŀḗȧşḗ şŧřŭƈŧŭřḗ. Ǿƞḗ ǿř ḿǿřḗ "
+"řḗŀḗȧşḗş ƈȧƞ ƀḗ ƥŭƀŀīşħḗḓ ẇīŧħīƞ ȧ řḗŀḗȧşḗ ƥȧƈķȧɠḗ. Řḗŀḗȧşḗş ȧřḗ ḿȧḓḗ ŭƥ ǿƒ "
+"ȧ ƞŭḿƀḗř ǿƒ şḗƈŧīǿƞş, īƞƈŀŭḓīƞɠ:"
 
 #: ../../standard/docs/en/schema/reference.md:13
 msgid "[planning](#planning)"
-msgstr ""
+msgstr "[ƥŀȧƞƞīƞɠ](#ƥŀȧƞƞīƞɠ)"
 
 #: ../../standard/docs/en/schema/reference.md:14
 msgid "[tender](#tender)"
-msgstr ""
+msgstr "[ŧḗƞḓḗř](#ŧḗƞḓḗř)"
 
 #: ../../standard/docs/en/schema/reference.md:15
 msgid "[award](#award)"
-msgstr ""
+msgstr "[ȧẇȧřḓ](#ȧẇȧřḓ)"
 
 #: ../../standard/docs/en/schema/reference.md:16
 msgid "[contract](#contract)"
-msgstr ""
+msgstr "[ƈǿƞŧřȧƈŧ](#ƈǿƞŧřȧƈŧ)"
 
 #: ../../standard/docs/en/schema/reference.md:17
 msgid "[implementation](#implementation)"
-msgstr ""
+msgstr "[īḿƥŀḗḿḗƞŧȧŧīǿƞ](#īḿƥŀḗḿḗƞŧȧŧīǿƞ)"
 
 #: ../../standard/docs/en/schema/reference.md:19
 msgid ""
 "A release can only contain one tender section, but may contain multiple "
 "award, contract and implementation sections. This is because each OCDS "
-"release relates to [a single contracting "
-"process](../getting_started/contracting_process.md), and we define "
-"contracting processes by their unique initiation (tender) stage."
+"release relates to [a single contracting process](../getting_started/"
+"contracting_process.md), and we define contracting processes by their unique "
+"initiation (tender) stage."
 msgstr ""
+"Ȧ řḗŀḗȧşḗ ƈȧƞ ǿƞŀẏ ƈǿƞŧȧīƞ ǿƞḗ ŧḗƞḓḗř şḗƈŧīǿƞ, ƀŭŧ ḿȧẏ ƈǿƞŧȧīƞ ḿŭŀŧīƥŀḗ "
+"ȧẇȧřḓ, ƈǿƞŧřȧƈŧ ȧƞḓ īḿƥŀḗḿḗƞŧȧŧīǿƞ şḗƈŧīǿƞş. Ŧħīş īş ƀḗƈȧŭşḗ ḗȧƈħ ǾƇḒŞ "
+"řḗŀḗȧşḗ řḗŀȧŧḗş ŧǿ [ȧ şīƞɠŀḗ ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşş](../getting_started/contracting_process.md), ȧƞḓ ẇḗ ḓḗƒīƞḗ "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşşḗş ƀẏ ŧħḗīř ŭƞīɋŭḗ īƞīŧīȧŧīǿƞ (ŧḗƞḓḗř) şŧȧɠḗ."
 
 #: ../../standard/docs/en/schema/reference.md:21
 msgid ""
-"Releases are given a [tag](#release-tag) to indicate the specific stage of a"
-" contracting process they represent. However, there are no formal "
+"Releases are given a [tag](#release-tag) to indicate the specific stage of a "
+"contracting process they represent. However, there are no formal "
 "restrictions on when information about a stage of the contracting process "
 "may be provided."
 msgstr ""
+"Řḗŀḗȧşḗş ȧřḗ ɠīṽḗƞ ȧ [ŧȧɠ](#řḗŀḗȧşḗ-ŧȧɠ) ŧǿ īƞḓīƈȧŧḗ ŧħḗ şƥḗƈīƒīƈ şŧȧɠḗ ǿƒ ȧ "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ŧħḗẏ řḗƥřḗşḗƞŧ. Ħǿẇḗṽḗř, ŧħḗřḗ ȧřḗ ƞǿ ƒǿřḿȧŀ "
+"řḗşŧřīƈŧīǿƞş ǿƞ ẇħḗƞ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ȧ şŧȧɠḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş "
+"ḿȧẏ ƀḗ ƥřǿṽīḓḗḓ."
 
 #: ../../standard/docs/en/schema/reference.md:23
 msgid ""
@@ -95,19 +113,28 @@ msgid ""
 "in order to provide a comprehensive picture of the contracting process to "
 "date which led to that contract being signed."
 msgstr ""
+"Ƒǿř ḗẋȧḿƥŀḗ, ȧ ƥŭƀŀīşħḗř ȧƞƞǿŭƞƈīƞɠ ŧħḗ şīɠƞīƞɠ ǿƒ ȧ ƈǿƞŧřȧƈŧ ẇīŧħ ȧ "
+"'ƈǿƞŧřȧƈŧ' ŧȧɠ, ḿȧẏ ȧŀşǿ īƞƈŀŭḓḗ īƞƒǿřḿȧŧīǿƞ īƞ ŧħḗ ȧẇȧřḓ ȧƞḓ ŧḗƞḓḗř ƀŀǿƈķş "
+"īƞ ǿřḓḗř ŧǿ ƥřǿṽīḓḗ ȧ ƈǿḿƥřḗħḗƞşīṽḗ ƥīƈŧŭřḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ŧǿ "
+"ḓȧŧḗ ẇħīƈħ ŀḗḓ ŧǿ ŧħȧŧ ƈǿƞŧřȧƈŧ ƀḗīƞɠ şīɠƞḗḓ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Package Metadata"
-msgstr ""
+msgstr "Ƥȧƈķȧɠḗ Ḿḗŧȧḓȧŧȧ"
 
 #: ../../standard/docs/en/schema/reference.md:27
 msgid ""
 "Releases must be published within a [release package](release_package.md), "
-"which can contain one or more releases. The release package, modelled on the"
-" [Data Package](http://dataprotocols.org/data-packages/) protocol, provides "
+"which can contain one or more releases. The release package, modelled on the "
+"[Data Package](http://dataprotocols.org/data-packages/) protocol, provides "
 "meta-data about the release(s) it contains, the publisher, and data "
 "licensing information."
 msgstr ""
+"Řḗŀḗȧşḗş ḿŭşŧ ƀḗ ƥŭƀŀīşħḗḓ ẇīŧħīƞ ȧ [řḗŀḗȧşḗ ƥȧƈķȧɠḗ](řḗŀḗȧşḗ_ƥȧƈķȧɠḗ.ḿḓ), "
+"ẇħīƈħ ƈȧƞ ƈǿƞŧȧīƞ ǿƞḗ ǿř ḿǿřḗ řḗŀḗȧşḗş. Ŧħḗ řḗŀḗȧşḗ ƥȧƈķȧɠḗ, ḿǿḓḗŀŀḗḓ ǿƞ ŧħḗ "
+"[Ḓȧŧȧ Ƥȧƈķȧɠḗ](http://dataprotocols.org/data-packages/) ƥřǿŧǿƈǿŀ, ƥřǿṽīḓḗş "
+"ḿḗŧȧ-ḓȧŧȧ ȧƀǿŭŧ ŧħḗ řḗŀḗȧşḗ(ş) īŧ ƈǿƞŧȧīƞş, ŧħḗ ƥŭƀŀīşħḗř, ȧƞḓ ḓȧŧȧ "
+"ŀīƈḗƞşīƞɠ īƞƒǿřḿȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/reference.md:36
 #: ../../standard/docs/en/schema/reference.md:55
@@ -115,75 +142,102 @@ msgstr ""
 #: ../../standard/docs/en/schema/reference.md:312
 #: ../../standard/docs/en/schema/reference.md:353
 msgid "Notes:"
-msgstr ""
+msgstr "Ƞǿŧḗş:"
 
 #: ../../standard/docs/en/schema/reference.md:38
 msgid ""
 "The uri should uniquely identify this release package. Publishers should "
-"provide a [dereferenceable HTTP "
-"URI](http://en.wikipedia.org/wiki/Dereferenceable_Uniform_Resource_Identifier)"
-" wherever possible and should host the data package at this URI, enabling "
-"users to look-up and verify the contents of a release package from its "
-"original source."
+"provide a [dereferenceable HTTP URI](http://en.wikipedia.org/wiki/"
+"Dereferenceable_Uniform_Resource_Identifier) wherever possible and should "
+"host the data package at this URI, enabling users to look-up and verify the "
+"contents of a release package from its original source."
 msgstr ""
+"Ŧħḗ ŭřī şħǿŭŀḓ ŭƞīɋŭḗŀẏ īḓḗƞŧīƒẏ ŧħīş řḗŀḗȧşḗ ƥȧƈķȧɠḗ. Ƥŭƀŀīşħḗřş şħǿŭŀḓ "
+"ƥřǿṽīḓḗ ȧ [ḓḗřḗƒḗřḗƞƈḗȧƀŀḗ ĦŦŦƤ ŬŘĪ](http://en.wikipedia.org/wiki/Dereference"
+"able_Uniform_Resource_Identifier) ẇħḗřḗṽḗř ƥǿşşīƀŀḗ ȧƞḓ şħǿŭŀḓ ħǿşŧ ŧħḗ ḓȧŧȧ "
+"ƥȧƈķȧɠḗ ȧŧ ŧħīş ŬŘĪ, ḗƞȧƀŀīƞɠ ŭşḗřş ŧǿ ŀǿǿķ-ŭƥ ȧƞḓ ṽḗřīƒẏ ŧħḗ ƈǿƞŧḗƞŧş ǿƒ ȧ "
+"řḗŀḗȧşḗ ƥȧƈķȧɠḗ ƒřǿḿ īŧş ǿřīɠīƞȧŀ şǿŭřƈḗ."
 
 #: ../../standard/docs/en/schema/reference.md:39
 msgid ""
-"The [publishedDate](#date) on which this package was published. If a package"
-" is automatically generated and re-published on a regular basis, this date "
+"The [publishedDate](#date) on which this package was published. If a package "
+"is automatically generated and re-published on a regular basis, this date "
 "should reflect the date of the last change to the contents of the package."
 msgstr ""
+"Ŧħḗ [ƥŭƀŀīşħḗḓḒȧŧḗ](#ḓȧŧḗ) ǿƞ ẇħīƈħ ŧħīş ƥȧƈķȧɠḗ ẇȧş ƥŭƀŀīşħḗḓ. Īƒ ȧ ƥȧƈķȧɠḗ "
+"īş ȧŭŧǿḿȧŧīƈȧŀŀẏ ɠḗƞḗřȧŧḗḓ ȧƞḓ řḗ-ƥŭƀŀīşħḗḓ ǿƞ ȧ řḗɠŭŀȧř ƀȧşīş, ŧħīş ḓȧŧḗ "
+"şħǿŭŀḓ řḗƒŀḗƈŧ ŧħḗ ḓȧŧḗ ǿƒ ŧħḗ ŀȧşŧ ƈħȧƞɠḗ ŧǿ ŧħḗ ƈǿƞŧḗƞŧş ǿƒ ŧħḗ ƥȧƈķȧɠḗ."
 
 #: ../../standard/docs/en/schema/reference.md:40
 msgid ""
 "The publisher [publisher](#publisher) block provides space for an "
 "organisation name and identifier."
 msgstr ""
+"Ŧħḗ ƥŭƀŀīşħḗř [ƥŭƀŀīşħḗř](#ƥŭƀŀīşħḗř) ƀŀǿƈķ ƥřǿṽīḓḗş şƥȧƈḗ ƒǿř ȧƞ "
+"ǿřɠȧƞīşȧŧīǿƞ ƞȧḿḗ ȧƞḓ īḓḗƞŧīƒīḗř."
 
 #: ../../standard/docs/en/schema/reference.md:41
 msgid ""
-"````license```` - See the [licensing "
-"guidance](../implementation/licensing.md) for more details on selecting and "
-"publishing license information."
+"````license```` - See the [licensing guidance](../implementation/licensing."
+"md) for more details on selecting and publishing license information."
 msgstr ""
+"````ŀīƈḗƞşḗ```` - Şḗḗ ŧħḗ [ŀīƈḗƞşīƞɠ "
+"ɠŭīḓȧƞƈḗ](../implementation/licensing.md) ƒǿř ḿǿřḗ ḓḗŧȧīŀş ǿƞ şḗŀḗƈŧīƞɠ ȧƞḓ "
+"ƥŭƀŀīşħīƞɠ ŀīƈḗƞşḗ īƞƒǿřḿȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/reference.md:42
 msgid ""
-"````publicationPolicy```` - See the [publication "
-"policy](../implementation/publication_policy.md) guidance for more details."
+"````publicationPolicy```` - See the [publication policy](../implementation/"
+"publication_policy.md) guidance for more details."
 msgstr ""
+"````ƥŭƀŀīƈȧŧīǿƞƤǿŀīƈẏ```` - Şḗḗ ŧħḗ [ƥŭƀŀīƈȧŧīǿƞ "
+"ƥǿŀīƈẏ](../implementation/publication_policy.md) ɠŭīḓȧƞƈḗ ƒǿř ḿǿřḗ ḓḗŧȧīŀş."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Release"
-msgstr ""
+msgstr "Řḗŀḗȧşḗ"
 
 #: ../../standard/docs/en/schema/reference.md:46
 msgid ""
 "The top level of a release consists of the following fields and objects:"
 msgstr ""
+"Ŧħḗ ŧǿƥ ŀḗṽḗŀ ǿƒ ȧ řḗŀḗȧşḗ ƈǿƞşīşŧş ǿƒ ŧħḗ ƒǿŀŀǿẇīƞɠ ƒīḗŀḓş ȧƞḓ ǿƀĵḗƈŧş:"
 
 #: ../../standard/docs/en/schema/reference.md:57
 msgid ""
-"```ocid``` - Providing each [contracting "
-"process](../getting_started/contracting_process.md) with a unique identifier"
-" is essential to enable data about contracts to be linked up across "
-"different releases. Open Contracting IDs are composed of a prefix assigned "
-"to each publisher, and a local identifier drawn from their internal systems "
-"that can be used to tie together tenders, awards, contracts and other key "
-"data points from a specific contracting process. See the [Open Contracting "
-"Identifier guidance](identifiers.md) for details of how to construct an "
-"OCID."
+"```ocid``` - Providing each [contracting process](../getting_started/"
+"contracting_process.md) with a unique identifier is essential to enable data "
+"about contracts to be linked up across different releases. Open Contracting "
+"IDs are composed of a prefix assigned to each publisher, and a local "
+"identifier drawn from their internal systems that can be used to tie "
+"together tenders, awards, contracts and other key data points from a "
+"specific contracting process. See the [Open Contracting Identifier guidance]"
+"(identifiers.md) for details of how to construct an OCID."
 msgstr ""
+"```ǿƈīḓ``` - Ƥřǿṽīḓīƞɠ ḗȧƈħ [ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşş](../getting_started/contracting_process.md) ẇīŧħ ȧ ŭƞīɋŭḗ īḓḗƞŧīƒīḗř "
+"īş ḗşşḗƞŧīȧŀ ŧǿ ḗƞȧƀŀḗ ḓȧŧȧ ȧƀǿŭŧ ƈǿƞŧřȧƈŧş ŧǿ ƀḗ ŀīƞķḗḓ ŭƥ ȧƈřǿşş ḓīƒƒḗřḗƞŧ "
+"řḗŀḗȧşḗş. Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ĪḒş ȧřḗ ƈǿḿƥǿşḗḓ ǿƒ ȧ ƥřḗƒīẋ ȧşşīɠƞḗḓ ŧǿ ḗȧƈħ "
+"ƥŭƀŀīşħḗř, ȧƞḓ ȧ ŀǿƈȧŀ īḓḗƞŧīƒīḗř ḓřȧẇƞ ƒřǿḿ ŧħḗīř īƞŧḗřƞȧŀ şẏşŧḗḿş ŧħȧŧ ƈȧƞ "
+"ƀḗ ŭşḗḓ ŧǿ ŧīḗ ŧǿɠḗŧħḗř ŧḗƞḓḗřş, ȧẇȧřḓş, ƈǿƞŧřȧƈŧş ȧƞḓ ǿŧħḗř ķḗẏ ḓȧŧȧ ƥǿīƞŧş "
+"ƒřǿḿ ȧ şƥḗƈīƒīƈ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Şḗḗ ŧħḗ [Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Īḓḗƞŧīƒīḗř "
+"ɠŭīḓȧƞƈḗ](īḓḗƞŧīƒīḗřş.ḿḓ) ƒǿř ḓḗŧȧīŀş ǿƒ ħǿẇ ŧǿ ƈǿƞşŧřŭƈŧ ȧƞ ǾƇĪḒ."
 
 #: ../../standard/docs/en/schema/reference.md:58
 msgid ""
 "```tag``` - The release tag is used to identify the nature of the release "
 "being made. This can be used by consuming applications to filter releases, "
-"or may in future be used for advanced validation. A release which updates or"
-" amends previous data must always use the appropriate update or amendment "
-"release tag. Values must be drawn from the [releaseTag "
-"codelist](../../codelists/#release-tag)."
+"or may in future be used for advanced validation. A release which updates or "
+"amends previous data must always use the appropriate update or amendment "
+"release tag. Values must be drawn from the [releaseTag codelist](../../"
+"codelists/#release-tag)."
 msgstr ""
+"```ŧȧɠ``` - Ŧħḗ řḗŀḗȧşḗ ŧȧɠ īş ŭşḗḓ ŧǿ īḓḗƞŧīƒẏ ŧħḗ ƞȧŧŭřḗ ǿƒ ŧħḗ řḗŀḗȧşḗ "
+"ƀḗīƞɠ ḿȧḓḗ. Ŧħīş ƈȧƞ ƀḗ ŭşḗḓ ƀẏ ƈǿƞşŭḿīƞɠ ȧƥƥŀīƈȧŧīǿƞş ŧǿ ƒīŀŧḗř řḗŀḗȧşḗş, "
+"ǿř ḿȧẏ īƞ ƒŭŧŭřḗ ƀḗ ŭşḗḓ ƒǿř ȧḓṽȧƞƈḗḓ ṽȧŀīḓȧŧīǿƞ. Ȧ řḗŀḗȧşḗ ẇħīƈħ ŭƥḓȧŧḗş ǿř "
+"ȧḿḗƞḓş ƥřḗṽīǿŭş ḓȧŧȧ ḿŭşŧ ȧŀẇȧẏş ŭşḗ ŧħḗ ȧƥƥřǿƥřīȧŧḗ ŭƥḓȧŧḗ ǿř ȧḿḗƞḓḿḗƞŧ "
+"řḗŀḗȧşḗ ŧȧɠ. Ṽȧŀŭḗş ḿŭşŧ ƀḗ ḓřȧẇƞ ƒřǿḿ ŧħḗ [řḗŀḗȧşḗŦȧɠ "
+"ƈǿḓḗŀīşŧ](../../codelists/#release-tag)."
 
 #: ../../standard/docs/en/schema/reference.md:59
 msgid ""
@@ -191,36 +245,49 @@ msgid ""
 "which the information in this release was disclosed. A release package may "
 "contain release with different release dates."
 msgstr ""
+"```ḓȧŧḗ``` - Ŧħḗ řḗŀḗȧşḗ [ḓȧŧḗ](#ḓȧŧḗ) şħǿŭŀḓ řḗƒŀḗƈŧ ŧħḗ ƥǿīƞŧ īƞ ŧīḿḗ ȧŧ "
+"ẇħīƈħ ŧħḗ īƞƒǿřḿȧŧīǿƞ īƞ ŧħīş řḗŀḗȧşḗ ẇȧş ḓīşƈŀǿşḗḓ. Ȧ řḗŀḗȧşḗ ƥȧƈķȧɠḗ ḿȧẏ "
+"ƈǿƞŧȧīƞ řḗŀḗȧşḗ ẇīŧħ ḓīƒƒḗřḗƞŧ řḗŀḗȧşḗ ḓȧŧḗş."
 
 #: ../../standard/docs/en/schema/reference.md:60
 msgid ""
 "```language``` - see the section on [multi-language support](#language) for "
 "information on language handling."
 msgstr ""
+"```ŀȧƞɠŭȧɠḗ``` - şḗḗ ŧħḗ şḗƈŧīǿƞ ǿƞ [ḿŭŀŧī-ŀȧƞɠŭȧɠḗ şŭƥƥǿřŧ](#ŀȧƞɠŭȧɠḗ) ƒǿř "
+"īƞƒǿřḿȧŧīǿƞ ǿƞ ŀȧƞɠŭȧɠḗ ħȧƞḓŀīƞɠ."
 
 #: ../../standard/docs/en/schema/reference.md:61
 msgid ""
-"```buyer``` - The buyer details are published using an "
-"[organization](#entity) block."
+"```buyer``` - The buyer details are published using an [organization]"
+"(#entity) block."
 msgstr ""
+"```ƀŭẏḗř``` - Ŧħḗ ƀŭẏḗř ḓḗŧȧīŀş ȧřḗ ƥŭƀŀīşħḗḓ ŭşīƞɠ ȧƞ "
+"[ǿřɠȧƞīzȧŧīǿƞ](#ḗƞŧīŧẏ) ƀŀǿƈķ."
 
 #: ../../standard/docs/en/schema/reference.md:63
 msgid ""
 "Further details on each of the blocks contained within release are below."
 msgstr ""
+"Ƒŭřŧħḗř ḓḗŧȧīŀş ǿƞ ḗȧƈħ ǿƒ ŧħḗ ƀŀǿƈķş ƈǿƞŧȧīƞḗḓ ẇīŧħīƞ řḗŀḗȧşḗ ȧřḗ ƀḗŀǿẇ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Planning"
-msgstr ""
+msgstr "Ƥŀȧƞƞīƞɠ"
 
 #: ../../standard/docs/en/schema/reference.md:67
 msgid ""
-"The planning section can be used to describe the background to a contracting"
-" process. This may include details of the budget from which funds are drawn,"
-" or related projects for this contracting process. Background documents such"
-" as a needs assessment, feasibility study and project plan can also be "
+"The planning section can be used to describe the background to a contracting "
+"process. This may include details of the budget from which funds are drawn, "
+"or related projects for this contracting process. Background documents such "
+"as a needs assessment, feasibility study and project plan can also be "
 "included in this section."
 msgstr ""
+"Ŧħḗ ƥŀȧƞƞīƞɠ şḗƈŧīǿƞ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ ḓḗşƈřīƀḗ ŧħḗ ƀȧƈķɠřǿŭƞḓ ŧǿ ȧ ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşş. Ŧħīş ḿȧẏ īƞƈŀŭḓḗ ḓḗŧȧīŀş ǿƒ ŧħḗ ƀŭḓɠḗŧ ƒřǿḿ ẇħīƈħ ƒŭƞḓş ȧřḗ ḓřȧẇƞ, "
+"ǿř řḗŀȧŧḗḓ ƥřǿĵḗƈŧş ƒǿř ŧħīş ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş. Ɓȧƈķɠřǿŭƞḓ ḓǿƈŭḿḗƞŧş şŭƈħ "
+"ȧş ȧ ƞḗḗḓş ȧşşḗşşḿḗƞŧ, ƒḗȧşīƀīŀīŧẏ şŧŭḓẏ ȧƞḓ ƥřǿĵḗƈŧ ƥŀȧƞ ƈȧƞ ȧŀşǿ ƀḗ "
+"īƞƈŀŭḓḗḓ īƞ ŧħīş şḗƈŧīǿƞ."
 
 #: ../../standard/docs/en/schema/reference.md:76
 msgid ""
@@ -233,46 +300,69 @@ msgid ""
 "users to understand the relationship of the contracting process to existing "
 "projects and budgets even where linked data is not available."
 msgstr ""
+"Ȧƥȧřŧ ƒřǿḿ ḓǿƈŭḿḗƞŧş, ŧħḗ ḿȧĵǿřīŧẏ ǿƒ īƞƒǿřḿȧŧīǿƞ īş ħḗŀḓ ẇīŧħīƞ ŧħḗ ƀŭḓɠḗŧ "
+"ƀŀǿƈķ. Ŧħīş īş ḓḗşīɠƞḗḓ ŧǿ ȧŀŀǿẇ ƀǿŧħ ḿȧƈħīƞḗ-řḗȧḓȧƀŀḗ ŀīƞķȧƀŀḗ ḓȧŧȧ ȧƀǿŭŧ "
+"ƀŭḓɠḗŧş, ƈřǿşş-řḗƒḗřḗƞƈīƞɠ ŧǿ ḓȧŧȧ ħḗŀḓ īƞ ǿŧħḗř şŧȧƞḓȧřḓş şŭƈħ ȧş ŧħḗ ["
+"Ƒīşƈȧŀ Ḓȧŧȧ Ƥȧƈķȧɠḗ](http://fiscal.dataprotocols.org/) ǿř [Īƞŧḗřƞȧŧīǿƞȧŀ Ȧīḓ "
+"Ŧřȧƞşƥȧřḗƞƈẏ Īƞīŧīȧŧīṽḗ Şŧȧƞḓȧřḓ](http://www.iatistandard.org), ȧƞḓ ħŭḿȧƞ "
+"řḗȧḓȧƀŀḗ ḓḗşƈřīƥŧīǿƞ ǿƒ ŧħḗ řḗŀȧŧḗḓ ƀŭḓɠḗŧş ȧƞḓ ƥřǿĵḗƈŧş, şŭƥƥǿřŧīƞɠ ŭşḗřş "
+"ŧǿ ŭƞḓḗřşŧȧƞḓ ŧħḗ řḗŀȧŧīǿƞşħīƥ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ŧǿ ḗẋīşŧīƞɠ "
+"ƥřǿĵḗƈŧş ȧƞḓ ƀŭḓɠḗŧş ḗṽḗƞ ẇħḗřḗ ŀīƞķḗḓ ḓȧŧȧ īş ƞǿŧ ȧṽȧīŀȧƀŀḗ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Budget"
-msgstr ""
+msgstr "Ɓŭḓɠḗŧ"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Tender"
-msgstr ""
+msgstr "Ŧḗƞḓḗř"
 
 #: ../../standard/docs/en/schema/reference.md:88
 msgid ""
-"The tender section includes details of the announcement that an organization"
-" intends to source some particular goods, works or services, and to "
-"establish one or more contract(s) for these."
+"The tender section includes details of the announcement that an organization "
+"intends to source some particular goods, works or services, and to establish "
+"one or more contract(s) for these."
 msgstr ""
+"Ŧħḗ ŧḗƞḓḗř şḗƈŧīǿƞ īƞƈŀŭḓḗş ḓḗŧȧīŀş ǿƒ ŧħḗ ȧƞƞǿŭƞƈḗḿḗƞŧ ŧħȧŧ ȧƞ ǿřɠȧƞīzȧŧīǿƞ "
+"īƞŧḗƞḓş ŧǿ şǿŭřƈḗ şǿḿḗ ƥȧřŧīƈŭŀȧř ɠǿǿḓş, ẇǿřķş ǿř şḗřṽīƈḗş, ȧƞḓ ŧǿ ḗşŧȧƀŀīşħ "
+"ǿƞḗ ǿř ḿǿřḗ ƈǿƞŧřȧƈŧ(ş) ƒǿř ŧħḗşḗ."
 
 #: ../../standard/docs/en/schema/reference.md:90
 msgid ""
 "It may contain details of a forthcoming process to receive and evaluate "
-"proposals to supply these goods and services, and may also be used to record"
-" details of how a completed tender process, including details of bids "
+"proposals to supply these goods and services, and may also be used to record "
+"details of how a completed tender process, including details of bids "
 "received."
 msgstr ""
+"Īŧ ḿȧẏ ƈǿƞŧȧīƞ ḓḗŧȧīŀş ǿƒ ȧ ƒǿřŧħƈǿḿīƞɠ ƥřǿƈḗşş ŧǿ řḗƈḗīṽḗ ȧƞḓ ḗṽȧŀŭȧŧḗ "
+"ƥřǿƥǿşȧŀş ŧǿ şŭƥƥŀẏ ŧħḗşḗ ɠǿǿḓş ȧƞḓ şḗřṽīƈḗş, ȧƞḓ ḿȧẏ ȧŀşǿ ƀḗ ŭşḗḓ ŧǿ řḗƈǿřḓ "
+"ḓḗŧȧīŀş ǿƒ ħǿẇ ȧ ƈǿḿƥŀḗŧḗḓ ŧḗƞḓḗř ƥřǿƈḗşş, īƞƈŀŭḓīƞɠ ḓḗŧȧīŀş ǿƒ ƀīḓş "
+"řḗƈḗīṽḗḓ."
 
 #: ../../standard/docs/en/schema/reference.md:101
 msgid ""
-"```tender.id``` - see the [identifiers "
-"guidance](../../identifiers/#tender_award_and_contract) for further "
-"information on the tender identifier. In most cases this can be the same as "
-"the ocid."
+"```tender.id``` - see the [identifiers guidance](../../identifiers/"
+"#tender_award_and_contract) for further information on the tender "
+"identifier. In most cases this can be the same as the ocid."
 msgstr ""
+"```ŧḗƞḓḗř.īḓ``` - şḗḗ ŧħḗ [īḓḗƞŧīƒīḗřş "
+"ɠŭīḓȧƞƈḗ](../../identifiers/#tender_award_and_contract) ƒǿř ƒŭřŧħḗř "
+"īƞƒǿřḿȧŧīǿƞ ǿƞ ŧħḗ ŧḗƞḓḗř īḓḗƞŧīƒīḗř. Īƞ ḿǿşŧ ƈȧşḗş ŧħīş ƈȧƞ ƀḗ ŧħḗ şȧḿḗ ȧş "
+"ŧħḗ ǿƈīḓ."
 
 #: ../../standard/docs/en/schema/reference.md:102
 msgid ""
 "```procuringEntity``` - in some cases the organization managing the "
 "procurement process may be different from the organization whose budget is "
-"being used for the procurement (the 'buyer' in OCDS terminology). If this is"
-" the case, then the details of this procuring organization should be "
-"provided here."
+"being used for the procurement (the 'buyer' in OCDS terminology). If this is "
+"the case, then the details of this procuring organization should be provided "
+"here."
 msgstr ""
+"```ƥřǿƈŭřīƞɠḖƞŧīŧẏ``` - īƞ şǿḿḗ ƈȧşḗş ŧħḗ ǿřɠȧƞīzȧŧīǿƞ ḿȧƞȧɠīƞɠ ŧħḗ "
+"ƥřǿƈŭřḗḿḗƞŧ ƥřǿƈḗşş ḿȧẏ ƀḗ ḓīƒƒḗřḗƞŧ ƒřǿḿ ŧħḗ ǿřɠȧƞīzȧŧīǿƞ ẇħǿşḗ ƀŭḓɠḗŧ īş "
+"ƀḗīƞɠ ŭşḗḓ ƒǿř ŧħḗ ƥřǿƈŭřḗḿḗƞŧ (ŧħḗ 'ƀŭẏḗř' īƞ ǾƇḒŞ ŧḗřḿīƞǿŀǿɠẏ). Īƒ ŧħīş īş "
+"ŧħḗ ƈȧşḗ, ŧħḗƞ ŧħḗ ḓḗŧȧīŀş ǿƒ ŧħīş ƥřǿƈŭřīƞɠ ǿřɠȧƞīzȧŧīǿƞ şħǿŭŀḓ ƀḗ ƥřǿṽīḓḗḓ "
+"ħḗřḗ."
 
 #: ../../standard/docs/en/schema/reference.md:103
 msgid ""
@@ -281,28 +371,45 @@ msgid ""
 "```items```. Descriptions should not be used in place of providing "
 "structured data on items, dates and other details. Instead, title and "
 "description should be used to provide a brief overview of the tender. "
-"Publishers should consider adopting a 'tweet length' title, and should avoid"
-" ALL UPPERCASE titles, or titles containing code words or other artefacts "
+"Publishers should consider adopting a 'tweet length' title, and should avoid "
+"ALL UPPERCASE titles, or titles containing code words or other artefacts "
 "from internal databases. The goal of these fields is to give users a clear "
 "idea of the nature of a tender."
 msgstr ""
+"```ŧīŧŀḗ``` ȧƞḓ ```ḓḗşƈřīƥŧīǿƞ``` - ŧḗƞḓḗř ŧīŧŀḗ ȧƞḓ ḓḗşƈřīƥŧīǿƞ ȧřḗ "
+"ǿƥŧīǿƞȧŀ. Ŧħḗ ḓḗŧȧīŀş ǿƒ īŧḗḿş ŧǿ ƀḗ ƥřǿƈŭřḗḓ şħǿŭŀḓ ȧŀẇȧẏş ƀḗ ƥřǿṽīḓḗḓ īƞ "
+"```īŧḗḿş```. Ḓḗşƈřīƥŧīǿƞş şħǿŭŀḓ ƞǿŧ ƀḗ ŭşḗḓ īƞ ƥŀȧƈḗ ǿƒ ƥřǿṽīḓīƞɠ "
+"şŧřŭƈŧŭřḗḓ ḓȧŧȧ ǿƞ īŧḗḿş, ḓȧŧḗş ȧƞḓ ǿŧħḗř ḓḗŧȧīŀş. Īƞşŧḗȧḓ, ŧīŧŀḗ ȧƞḓ "
+"ḓḗşƈřīƥŧīǿƞ şħǿŭŀḓ ƀḗ ŭşḗḓ ŧǿ ƥřǿṽīḓḗ ȧ ƀřīḗƒ ǿṽḗřṽīḗẇ ǿƒ ŧħḗ ŧḗƞḓḗř. "
+"Ƥŭƀŀīşħḗřş şħǿŭŀḓ ƈǿƞşīḓḗř ȧḓǿƥŧīƞɠ ȧ 'ŧẇḗḗŧ ŀḗƞɠŧħ' ŧīŧŀḗ, ȧƞḓ şħǿŭŀḓ ȧṽǿīḓ "
+"ȦĿĿ ŬƤƤḖŘƇȦŞḖ ŧīŧŀḗş, ǿř ŧīŧŀḗş ƈǿƞŧȧīƞīƞɠ ƈǿḓḗ ẇǿřḓş ǿř ǿŧħḗř ȧřŧḗƒȧƈŧş "
+"ƒřǿḿ īƞŧḗřƞȧŀ ḓȧŧȧƀȧşḗş. Ŧħḗ ɠǿȧŀ ǿƒ ŧħḗşḗ ƒīḗŀḓş īş ŧǿ ɠīṽḗ ŭşḗřş ȧ ƈŀḗȧř "
+"īḓḗȧ ǿƒ ŧħḗ ƞȧŧŭřḗ ǿƒ ȧ ŧḗƞḓḗř."
 
 #: ../../standard/docs/en/schema/reference.md:104
 msgid ""
 "```items``` - publishers should provide details of each of the items to be "
 "procured under this tender."
 msgstr ""
+"```īŧḗḿş``` - ƥŭƀŀīşħḗřş şħǿŭŀḓ ƥřǿṽīḓḗ ḓḗŧȧīŀş ǿƒ ḗȧƈħ ǿƒ ŧħḗ īŧḗḿş ŧǿ ƀḗ "
+"ƥřǿƈŭřḗḓ ŭƞḓḗř ŧħīş ŧḗƞḓḗř."
 
 #: ../../standard/docs/en/schema/reference.md:105
 msgid ""
-"```milestones``` - publishers should list any relevant "
-"[milestones](#milestone) associated with the delivery of the goods and "
-"services covered by this tender. These are the milestones against which the "
-"whole contracting process will be evaluated. Publishers may include "
-"information about key milestones during the tender process itself, but "
-"should not use this in place of ```tenderPeriod```, ```enquiryPeriod``` or "
-"```awardPeriod```."
+"```milestones``` - publishers should list any relevant [milestones]"
+"(#milestone) associated with the delivery of the goods and services covered "
+"by this tender. These are the milestones against which the whole contracting "
+"process will be evaluated. Publishers may include information about key "
+"milestones during the tender process itself, but should not use this in "
+"place of ```tenderPeriod```, ```enquiryPeriod``` or ```awardPeriod```."
 msgstr ""
+"```ḿīŀḗşŧǿƞḗş``` - ƥŭƀŀīşħḗřş şħǿŭŀḓ ŀīşŧ ȧƞẏ řḗŀḗṽȧƞŧ "
+"[ḿīŀḗşŧǿƞḗş](#ḿīŀḗşŧǿƞḗ) ȧşşǿƈīȧŧḗḓ ẇīŧħ ŧħḗ ḓḗŀīṽḗřẏ ǿƒ ŧħḗ ɠǿǿḓş ȧƞḓ "
+"şḗřṽīƈḗş ƈǿṽḗřḗḓ ƀẏ ŧħīş ŧḗƞḓḗř. Ŧħḗşḗ ȧřḗ ŧħḗ ḿīŀḗşŧǿƞḗş ȧɠȧīƞşŧ ẇħīƈħ ŧħḗ "
+"ẇħǿŀḗ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ẇīŀŀ ƀḗ ḗṽȧŀŭȧŧḗḓ. Ƥŭƀŀīşħḗřş ḿȧẏ īƞƈŀŭḓḗ "
+"īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ķḗẏ ḿīŀḗşŧǿƞḗş ḓŭřīƞɠ ŧħḗ ŧḗƞḓḗř ƥřǿƈḗşş īŧşḗŀƒ, ƀŭŧ "
+"şħǿŭŀḓ ƞǿŧ ŭşḗ ŧħīş īƞ ƥŀȧƈḗ ǿƒ ```ŧḗƞḓḗřƤḗřīǿḓ```, ```ḗƞɋŭīřẏƤḗřīǿḓ``` ǿř "
+"```ȧẇȧřḓƤḗřīǿḓ```."
 
 #: ../../standard/docs/en/schema/reference.md:106
 msgid ""
@@ -310,17 +417,26 @@ msgid ""
 "procurement should be given in ```value```. For publishers who also specify "
 "a estimate minimum value, this can be placed in ```minValue```."
 msgstr ""
+"```ṽȧŀŭḗ``` ȧƞḓ ```ḿīƞṼȧŀŭḗ``` - ŧħḗ ŧǿŧȧŀ ŭƥƥḗř ḗşŧīḿȧŧḗḓ ṽȧŀŭḗ ǿƒ ȧ "
+"ƥřǿƈŭřḗḿḗƞŧ şħǿŭŀḓ ƀḗ ɠīṽḗƞ īƞ ```ṽȧŀŭḗ```. Ƒǿř ƥŭƀŀīşħḗřş ẇħǿ ȧŀşǿ şƥḗƈīƒẏ "
+"ȧ ḗşŧīḿȧŧḗ ḿīƞīḿŭḿ ṽȧŀŭḗ, ŧħīş ƈȧƞ ƀḗ ƥŀȧƈḗḓ īƞ ```ḿīƞṼȧŀŭḗ```."
 
 #: ../../standard/docs/en/schema/reference.md:107
 msgid ""
 "```procurementMethod``` and ```procurementMethodRationale```. Tendering "
 "processes can use a variety of methods. Publishers should map their methods "
-"to one of the approved codes according to the [GPA "
-"definitions](http://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm) "
-"of open, selective or limited. A free text explanation of why a given method"
-" was appropriate to this tender can be provided in "
-"```procurementMethodRationale```."
+"to one of the approved codes according to the [GPA definitions](http://www."
+"wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm) of open, selective or "
+"limited. A free text explanation of why a given method was appropriate to "
+"this tender can be provided in ```procurementMethodRationale```."
 msgstr ""
+"```ƥřǿƈŭřḗḿḗƞŧḾḗŧħǿḓ``` ȧƞḓ ```ƥřǿƈŭřḗḿḗƞŧḾḗŧħǿḓŘȧŧīǿƞȧŀḗ```. Ŧḗƞḓḗřīƞɠ "
+"ƥřǿƈḗşşḗş ƈȧƞ ŭşḗ ȧ ṽȧřīḗŧẏ ǿƒ ḿḗŧħǿḓş. Ƥŭƀŀīşħḗřş şħǿŭŀḓ ḿȧƥ ŧħḗīř ḿḗŧħǿḓş "
+"ŧǿ ǿƞḗ ǿƒ ŧħḗ ȧƥƥřǿṽḗḓ ƈǿḓḗş ȧƈƈǿřḓīƞɠ ŧǿ ŧħḗ [ƓƤȦ "
+"ḓḗƒīƞīŧīǿƞş](http://www.wto.org/english/docs_e/legal_e/rev-gpr-94_01_e.htm) "
+"ǿƒ ǿƥḗƞ, şḗŀḗƈŧīṽḗ ǿř ŀīḿīŧḗḓ. Ȧ ƒřḗḗ ŧḗẋŧ ḗẋƥŀȧƞȧŧīǿƞ ǿƒ ẇħẏ ȧ ɠīṽḗƞ ḿḗŧħǿḓ "
+"ẇȧş ȧƥƥřǿƥřīȧŧḗ ŧǿ ŧħīş ŧḗƞḓḗř ƈȧƞ ƀḗ ƥřǿṽīḓḗḓ īƞ "
+"```ƥřǿƈŭřḗḿḗƞŧḾḗŧħǿḓŘȧŧīǿƞȧŀḗ```."
 
 #: ../../standard/docs/en/schema/reference.md:108
 msgid ""
@@ -328,75 +444,111 @@ msgid ""
 "code list](../../codelists/#award-criteria) describes the basis on which "
 "contract awards will be made. This is an open codelist, and so may be "
 "extended with new codes. Free text describing the basis on which bids will "
-"be judged, and made, can be provided in the ```awardCriteriaDetail``` field."
-" Publishers wishing to provide more structured information about selection, "
-"shortlisting and award criteria should propose "
-"[extensions](conformance_and_extensions.md) for this."
+"be judged, and made, can be provided in the ```awardCriteriaDetail``` field. "
+"Publishers wishing to provide more structured information about selection, "
+"shortlisting and award criteria should propose [extensions]"
+"(conformance_and_extensions.md) for this."
 msgstr ""
+"```ȧẇȧřḓƇřīŧḗřīȧ``` ȧƞḓ ```ȧẇȧřḓƇřīŧḗřīȧḒḗŧȧīŀş``` - Ŧħḗ [ȧẇȧřḓ ƈřīŧḗřīȧ "
+"ƈǿḓḗ ŀīşŧ](../../codelists/#award-criteria) ḓḗşƈřīƀḗş ŧħḗ ƀȧşīş ǿƞ ẇħīƈħ "
+"ƈǿƞŧřȧƈŧ ȧẇȧřḓş ẇīŀŀ ƀḗ ḿȧḓḗ. Ŧħīş īş ȧƞ ǿƥḗƞ ƈǿḓḗŀīşŧ, ȧƞḓ şǿ ḿȧẏ ƀḗ "
+"ḗẋŧḗƞḓḗḓ ẇīŧħ ƞḗẇ ƈǿḓḗş. Ƒřḗḗ ŧḗẋŧ ḓḗşƈřīƀīƞɠ ŧħḗ ƀȧşīş ǿƞ ẇħīƈħ ƀīḓş ẇīŀŀ "
+"ƀḗ ĵŭḓɠḗḓ, ȧƞḓ ḿȧḓḗ, ƈȧƞ ƀḗ ƥřǿṽīḓḗḓ īƞ ŧħḗ ```ȧẇȧřḓƇřīŧḗřīȧḒḗŧȧīŀ``` ƒīḗŀḓ. "
+"Ƥŭƀŀīşħḗřş ẇīşħīƞɠ ŧǿ ƥřǿṽīḓḗ ḿǿřḗ şŧřŭƈŧŭřḗḓ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ şḗŀḗƈŧīǿƞ, "
+"şħǿřŧŀīşŧīƞɠ ȧƞḓ ȧẇȧřḓ ƈřīŧḗřīȧ şħǿŭŀḓ ƥřǿƥǿşḗ "
+"[ḗẋŧḗƞşīǿƞş](ƈǿƞƒǿřḿȧƞƈḗ_ȧƞḓ_ḗẋŧḗƞşīǿƞş.ḿḓ) ƒǿř ŧħīş."
 
 #: ../../standard/docs/en/schema/reference.md:109
 msgid ""
-"```documents``` - supporting documentation should be attached to the tender."
-" This may include official legal notices of tender, as well as technical "
+"```documents``` - supporting documentation should be attached to the tender. "
+"This may include official legal notices of tender, as well as technical "
 "specifications, evaluation criteria, and, as a tender process progresses, "
 "clarifications, replies to queries and copies of bids submitted or listings "
 "of shortlisted firms. See the [attachments](#attachments) section for more "
-"details of how to include documents, and consult the [documentType "
-"codelist](codelists.md/#document-type) for suggested documents to include "
-"for basic, intermediate or advanced publication."
+"details of how to include documents, and consult the [documentType codelist]"
+"(codelists.md/#document-type) for suggested documents to include for basic, "
+"intermediate or advanced publication."
 msgstr ""
+"```ḓǿƈŭḿḗƞŧş``` - şŭƥƥǿřŧīƞɠ ḓǿƈŭḿḗƞŧȧŧīǿƞ şħǿŭŀḓ ƀḗ ȧŧŧȧƈħḗḓ ŧǿ ŧħḗ ŧḗƞḓḗř. "
+"Ŧħīş ḿȧẏ īƞƈŀŭḓḗ ǿƒƒīƈīȧŀ ŀḗɠȧŀ ƞǿŧīƈḗş ǿƒ ŧḗƞḓḗř, ȧş ẇḗŀŀ ȧş ŧḗƈħƞīƈȧŀ "
+"şƥḗƈīƒīƈȧŧīǿƞş, ḗṽȧŀŭȧŧīǿƞ ƈřīŧḗřīȧ, ȧƞḓ, ȧş ȧ ŧḗƞḓḗř ƥřǿƈḗşş ƥřǿɠřḗşşḗş, "
+"ƈŀȧřīƒīƈȧŧīǿƞş, řḗƥŀīḗş ŧǿ ɋŭḗřīḗş ȧƞḓ ƈǿƥīḗş ǿƒ ƀīḓş şŭƀḿīŧŧḗḓ ǿř ŀīşŧīƞɠş "
+"ǿƒ şħǿřŧŀīşŧḗḓ ƒīřḿş. Şḗḗ ŧħḗ [ȧŧŧȧƈħḿḗƞŧş](#ȧŧŧȧƈħḿḗƞŧş) şḗƈŧīǿƞ ƒǿř ḿǿřḗ "
+"ḓḗŧȧīŀş ǿƒ ħǿẇ ŧǿ īƞƈŀŭḓḗ ḓǿƈŭḿḗƞŧş, ȧƞḓ ƈǿƞşŭŀŧ ŧħḗ [ḓǿƈŭḿḗƞŧŦẏƥḗ "
+"ƈǿḓḗŀīşŧ](ƈǿḓḗŀīşŧş.ḿḓ/#document-type) ƒǿř şŭɠɠḗşŧḗḓ ḓǿƈŭḿḗƞŧş ŧǿ īƞƈŀŭḓḗ "
+"ƒǿř ƀȧşīƈ, īƞŧḗřḿḗḓīȧŧḗ ǿř ȧḓṽȧƞƈḗḓ ƥŭƀŀīƈȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/reference.md:111
 msgid ""
-"Information on bidders against a contract will be handled by an "
-"[extension](conformance_and_extensions.md) during the period of the standard"
-" release candidate. Publishers wishing to provide detailed information on "
-"bidders should [contact support](../support/index.md)."
+"Information on bidders against a contract will be handled by an [extension]"
+"(conformance_and_extensions.md) during the period of the standard release "
+"candidate. Publishers wishing to provide detailed information on bidders "
+"should [contact support](../support/index.md)."
 msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ ǿƞ ƀīḓḓḗřş ȧɠȧīƞşŧ ȧ ƈǿƞŧřȧƈŧ ẇīŀŀ ƀḗ ħȧƞḓŀḗḓ ƀẏ ȧƞ "
+"[ḗẋŧḗƞşīǿƞ](ƈǿƞƒǿřḿȧƞƈḗ_ȧƞḓ_ḗẋŧḗƞşīǿƞş.ḿḓ) ḓŭřīƞɠ ŧħḗ ƥḗřīǿḓ ǿƒ ŧħḗ şŧȧƞḓȧřḓ "
+"řḗŀḗȧşḗ ƈȧƞḓīḓȧŧḗ. Ƥŭƀŀīşħḗřş ẇīşħīƞɠ ŧǿ ƥřǿṽīḓḗ ḓḗŧȧīŀḗḓ īƞƒǿřḿȧŧīǿƞ ǿƞ "
+"ƀīḓḓḗřş şħǿŭŀḓ [ƈǿƞŧȧƈŧ şŭƥƥǿřŧ](../support/index.md)."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Award"
-msgstr ""
+msgstr "Ȧẇȧřḓ"
 
 #: ../../standard/docs/en/schema/reference.md:115
 msgid ""
 "The award section is used to announce any awards issued for this tender. "
-"There may be multiple awards made. Releases can contain all, or a subset, of"
-" these awards. A related award block is required for every contract, as it "
+"There may be multiple awards made. Releases can contain all, or a subset, of "
+"these awards. A related award block is required for every contract, as it "
 "contains information on the suppliers."
 msgstr ""
+"Ŧħḗ ȧẇȧřḓ şḗƈŧīǿƞ īş ŭşḗḓ ŧǿ ȧƞƞǿŭƞƈḗ ȧƞẏ ȧẇȧřḓş īşşŭḗḓ ƒǿř ŧħīş ŧḗƞḓḗř. "
+"Ŧħḗřḗ ḿȧẏ ƀḗ ḿŭŀŧīƥŀḗ ȧẇȧřḓş ḿȧḓḗ. Řḗŀḗȧşḗş ƈȧƞ ƈǿƞŧȧīƞ ȧŀŀ, ǿř ȧ şŭƀşḗŧ, ǿƒ "
+"ŧħḗşḗ ȧẇȧřḓş. Ȧ řḗŀȧŧḗḓ ȧẇȧřḓ ƀŀǿƈķ īş řḗɋŭīřḗḓ ƒǿř ḗṽḗřẏ ƈǿƞŧřȧƈŧ, ȧş īŧ "
+"ƈǿƞŧȧīƞş īƞƒǿřḿȧŧīǿƞ ǿƞ ŧħḗ şŭƥƥŀīḗřş."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Contract"
-msgstr ""
+msgstr "Ƈǿƞŧřȧƈŧ"
 
 #: ../../standard/docs/en/schema/reference.md:127
 msgid ""
 "The contract section is used to provide details of contracts that have been "
 "entered into. Every contract needs to have a related award, linked via the "
 "```awardID``` property. This is because supplier information is contained "
-"within the 'award'. The framework contract details below help illustrate the"
-" reasons for this."
+"within the 'award'. The framework contract details below help illustrate the "
+"reasons for this."
 msgstr ""
+"Ŧħḗ ƈǿƞŧřȧƈŧ şḗƈŧīǿƞ īş ŭşḗḓ ŧǿ ƥřǿṽīḓḗ ḓḗŧȧīŀş ǿƒ ƈǿƞŧřȧƈŧş ŧħȧŧ ħȧṽḗ ƀḗḗƞ "
+"ḗƞŧḗřḗḓ īƞŧǿ. Ḗṽḗřẏ ƈǿƞŧřȧƈŧ ƞḗḗḓş ŧǿ ħȧṽḗ ȧ řḗŀȧŧḗḓ ȧẇȧřḓ, ŀīƞķḗḓ ṽīȧ ŧħḗ "
+"```ȧẇȧřḓĪḒ``` ƥřǿƥḗřŧẏ. Ŧħīş īş ƀḗƈȧŭşḗ şŭƥƥŀīḗř īƞƒǿřḿȧŧīǿƞ īş ƈǿƞŧȧīƞḗḓ "
+"ẇīŧħīƞ ŧħḗ 'ȧẇȧřḓ'. Ŧħḗ ƒřȧḿḗẇǿřķ ƈǿƞŧřȧƈŧ ḓḗŧȧīŀş ƀḗŀǿẇ ħḗŀƥ īŀŀŭşŧřȧŧḗ ŧħḗ "
+"řḗȧşǿƞş ƒǿř ŧħīş."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Framework contracts"
-msgstr ""
+msgstr "Ƒřȧḿḗẇǿřķ ƈǿƞŧřȧƈŧş"
 
 #: ../../standard/docs/en/schema/reference.md:138
 msgid ""
 "A framework is an agreement with suppliers to establish terms governing "
-"contracts that may be awarded during the life of the "
-"agreement[*](http://www.constructingexcellence.org.uk/tools/frameworkingtoolkit/whatis.jsp)."
+"contracts that may be awarded during the life of the agreement[*](http://www."
+"constructingexcellence.org.uk/tools/frameworkingtoolkit/whatis.jsp)."
 msgstr ""
+"Ȧ ƒřȧḿḗẇǿřķ īş ȧƞ ȧɠřḗḗḿḗƞŧ ẇīŧħ şŭƥƥŀīḗřş ŧǿ ḗşŧȧƀŀīşħ ŧḗřḿş ɠǿṽḗřƞīƞɠ "
+"ƈǿƞŧřȧƈŧş ŧħȧŧ ḿȧẏ ƀḗ ȧẇȧřḓḗḓ ḓŭřīƞɠ ŧħḗ ŀīƒḗ ǿƒ ŧħḗ ȧɠřḗḗḿḗƞŧ[*](http://www."
+"constructingexcellence.org.uk/tools/frameworkingtoolkit/whatis.jsp)."
 
 #: ../../standard/docs/en/schema/reference.md:140
 msgid ""
-"Framework **agreements** can be represented by [awards](#award), which would"
-" each detail a supplier participating in the framework, the line items that "
+"Framework **agreements** can be represented by [awards](#award), which would "
+"each detail a supplier participating in the framework, the line items that "
 "the agreement covers with this supplier, and any maximum value for the "
 "agreement over time."
 msgstr ""
+"Ƒřȧḿḗẇǿřķ **ȧɠřḗḗḿḗƞŧş** ƈȧƞ ƀḗ řḗƥřḗşḗƞŧḗḓ ƀẏ [ȧẇȧřḓş](#ȧẇȧřḓ), ẇħīƈħ ẇǿŭŀḓ "
+"ḗȧƈħ ḓḗŧȧīŀ ȧ şŭƥƥŀīḗř ƥȧřŧīƈīƥȧŧīƞɠ īƞ ŧħḗ ƒřȧḿḗẇǿřķ, ŧħḗ ŀīƞḗ īŧḗḿş ŧħȧŧ "
+"ŧħḗ ȧɠřḗḗḿḗƞŧ ƈǿṽḗřş ẇīŧħ ŧħīş şŭƥƥŀīḗř, ȧƞḓ ȧƞẏ ḿȧẋīḿŭḿ ṽȧŀŭḗ ƒǿř ŧħḗ "
+"ȧɠřḗḗḿḗƞŧ ǿṽḗř ŧīḿḗ."
 
 #: ../../standard/docs/en/schema/reference.md:142
 msgid ""
@@ -404,18 +556,25 @@ msgid ""
 "[contract](#contract), related to the framework agreement [award](#award) "
 "via ```awardID```."
 msgstr ""
+"Ḗȧƈħ ƈȧŀŀ-ǿƒƒ ƥŭřƈħȧşḗ ȧɠȧīƞşŧ ȧ ƒřȧḿḗẇǿřķ ȧɠřḗḗḿḗƞŧ ẇǿŭŀḓ řḗşŭŀŧ īƞ ȧ "
+"[ƈǿƞŧřȧƈŧ](#ƈǿƞŧřȧƈŧ), řḗŀȧŧḗḓ ŧǿ ŧħḗ ƒřȧḿḗẇǿřķ ȧɠřḗḗḿḗƞŧ [ȧẇȧřḓ](#ȧẇȧřḓ) "
+"ṽīȧ ```ȧẇȧřḓĪḒ```."
 
 #: ../../standard/docs/en/schema/reference.md:144
 msgid ""
 "As a result, [award](#award) and [contract](#contract) each contain an "
-"[items](#items) block, allowing the award to describe the possible goods and"
-" services that can be supplied, whilst the contract describes those that are"
-" to be supplied in any particular instance."
+"[items](#items) block, allowing the award to describe the possible goods and "
+"services that can be supplied, whilst the contract describes those that are "
+"to be supplied in any particular instance."
 msgstr ""
+"Ȧş ȧ řḗşŭŀŧ, [ȧẇȧřḓ](#ȧẇȧřḓ) ȧƞḓ [ƈǿƞŧřȧƈŧ](#ƈǿƞŧřȧƈŧ) ḗȧƈħ ƈǿƞŧȧīƞ ȧƞ "
+"[īŧḗḿş](#īŧḗḿş) ƀŀǿƈķ, ȧŀŀǿẇīƞɠ ŧħḗ ȧẇȧřḓ ŧǿ ḓḗşƈřīƀḗ ŧħḗ ƥǿşşīƀŀḗ ɠǿǿḓş ȧƞḓ "
+"şḗřṽīƈḗş ŧħȧŧ ƈȧƞ ƀḗ şŭƥƥŀīḗḓ, ẇħīŀşŧ ŧħḗ ƈǿƞŧřȧƈŧ ḓḗşƈřīƀḗş ŧħǿşḗ ŧħȧŧ ȧřḗ "
+"ŧǿ ƀḗ şŭƥƥŀīḗḓ īƞ ȧƞẏ ƥȧřŧīƈŭŀȧř īƞşŧȧƞƈḗ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Implementation"
-msgstr ""
+msgstr "Īḿƥŀḗḿḗƞŧȧŧīǿƞ"
 
 #: ../../standard/docs/en/schema/reference.md:149
 msgid ""
@@ -423,17 +582,23 @@ msgid ""
 "belongs nested within the contract it relates to. Implementation blocks "
 "include the following elements:"
 msgstr ""
+"Īḿƥŀḗḿḗƞŧȧŧīǿƞ īƞƒǿřḿȧŧīǿƞ ƈȧƞ ƀḗ ŭƥḓȧŧḗḓ ǿṽḗř ŧħḗ ƈǿŭřşḗ ǿƒ ȧ ƈǿƞŧřȧƈŧ. Īŧ "
+"ƀḗŀǿƞɠş ƞḗşŧḗḓ ẇīŧħīƞ ŧħḗ ƈǿƞŧřȧƈŧ īŧ řḗŀȧŧḗş ŧǿ. Īḿƥŀḗḿḗƞŧȧŧīǿƞ ƀŀǿƈķş "
+"īƞƈŀŭḓḗ ŧħḗ ƒǿŀŀǿẇīƞɠ ḗŀḗḿḗƞŧş:"
 
 #: ../../standard/docs/en/schema/reference.md:158
 msgid ""
 "Information on subcontracts is not currently included in the release "
-"candidate schema, but may be handled by [proposed "
-"extensions](conformance_and_extensions.md)"
+"candidate schema, but may be handled by [proposed extensions]"
+"(conformance_and_extensions.md)"
 msgstr ""
+"Īƞƒǿřḿȧŧīǿƞ ǿƞ şŭƀƈǿƞŧřȧƈŧş īş ƞǿŧ ƈŭřřḗƞŧŀẏ īƞƈŀŭḓḗḓ īƞ ŧħḗ řḗŀḗȧşḗ "
+"ƈȧƞḓīḓȧŧḗ şƈħḗḿȧ, ƀŭŧ ḿȧẏ ƀḗ ħȧƞḓŀḗḓ ƀẏ [ƥřǿƥǿşḗḓ "
+"ḗẋŧḗƞşīǿƞş](ƈǿƞƒǿřḿȧƞƈḗ_ȧƞḓ_ḗẋŧḗƞşīǿƞş.ḿḓ)"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Transaction"
-msgstr ""
+msgstr "Ŧřȧƞşȧƈŧīǿƞ"
 
 #: ../../standard/docs/en/schema/reference.md:169
 msgid ""
@@ -445,53 +610,69 @@ msgid ""
 "reference to a third party ```source``` of data, and can re-use identifiers "
 "from that source."
 msgstr ""
+"Ŧħḗ ŧřȧƞşȧƈŧīǿƞ ƀŀǿƈķ īş ḿǿḓḗŀŀḗḓ ǿƞ ŧħḗ [Īƞŧḗřƞȧŧīǿƞȧŀ Ȧīḓ Ŧřȧƞşƥȧřḗƞƈẏ "
+"Īƞīŧīȧŧīṽḗ (ĪȦŦĪ) ŧřȧƞşȧƈŧīǿƞ ḗŀḗḿḗƞŧ](http://iatistandard.org/activity-"
+"standard/iati-activities/iati-activity/transaction/), ȧƞḓ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ "
+"řḗƥřḗşḗƞŧ ȧƈŧŭȧŀ ƒŀǿẇş ǿƒ ḿǿƞḗẏ ƀḗŧẇḗḗƞ ǿřɠȧƞīşȧŧīǿƞş īƞ řḗŀȧŧīǿƞ ŧǿ ŧħīş "
+"ƈǿƞŧřȧƈŧ. Ȧş ẇīŧħ ŧħḗ [ƀŭḓɠḗŧ](#ƀŭḓɠḗŧ) ƀŀǿƈķ, ŧħīş ḿȧẏ ƀḗ ŭşḗḓ ŧǿ ƈřǿşş-"
+"řḗƒḗřḗƞƈḗ ŧǿ ȧ ŧħīřḓ ƥȧřŧẏ ```şǿŭřƈḗ``` ǿƒ ḓȧŧȧ, ȧƞḓ ƈȧƞ řḗ-ŭşḗ īḓḗƞŧīƒīḗřş "
+"ƒřǿḿ ŧħȧŧ şǿŭřƈḗ."
 
 #: ../../standard/docs/en/schema/reference.md:171
 msgid ""
 "In most circumstances, the ```providerOrganization``` identifier should "
-"match that of the ```buyer```, and the ```recieverOrganization``` identifier"
-" should match that of the ```supplier```."
+"match that of the ```buyer```, and the ```recieverOrganization``` identifier "
+"should match that of the ```supplier```."
 msgstr ""
+"Īƞ ḿǿşŧ ƈīřƈŭḿşŧȧƞƈḗş, ŧħḗ ```ƥřǿṽīḓḗřǾřɠȧƞīzȧŧīǿƞ``` īḓḗƞŧīƒīḗř şħǿŭŀḓ "
+"ḿȧŧƈħ ŧħȧŧ ǿƒ ŧħḗ ```ƀŭẏḗř```, ȧƞḓ ŧħḗ ```řḗƈīḗṽḗřǾřɠȧƞīzȧŧīǿƞ``` īḓḗƞŧīƒīḗř "
+"şħǿŭŀḓ ḿȧŧƈħ ŧħȧŧ ǿƒ ŧħḗ ```şŭƥƥŀīḗř```."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Milestones"
-msgstr ""
+msgstr "Ḿīŀḗşŧǿƞḗş"
 
 #: ../../standard/docs/en/schema/reference.md:175
 msgid "See [milestone](#milestone) reference below."
-msgstr ""
+msgstr "Şḗḗ [ḿīŀḗşŧǿƞḗ](#ḿīŀḗşŧǿƞḗ) řḗƒḗřḗƞƈḗ ƀḗŀǿẇ."
 
 #: ../../standard/docs/en/schema/reference.md:177
 msgid ""
-"The implementation milestones should be updated to reflect when they are "
-"met."
+"The implementation milestones should be updated to reflect when they are met."
 msgstr ""
+"Ŧħḗ īḿƥŀḗḿḗƞŧȧŧīǿƞ ḿīŀḗşŧǿƞḗş şħǿŭŀḓ ƀḗ ŭƥḓȧŧḗḓ ŧǿ řḗƒŀḗƈŧ ẇħḗƞ ŧħḗẏ ȧřḗ ḿḗŧ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Documents"
-msgstr ""
+msgstr "Ḓǿƈŭḿḗƞŧş"
 
 #: ../../standard/docs/en/schema/reference.md:181
 msgid ""
-"Documents related to contract implementation should be stored here. This may"
-" include subcontracts."
+"Documents related to contract implementation should be stored here. This may "
+"include subcontracts."
 msgstr ""
+"Ḓǿƈŭḿḗƞŧş řḗŀȧŧḗḓ ŧǿ ƈǿƞŧřȧƈŧ īḿƥŀḗḿḗƞŧȧŧīǿƞ şħǿŭŀḓ ƀḗ şŧǿřḗḓ ħḗřḗ. Ŧħīş ḿȧẏ "
+"īƞƈŀŭḓḗ şŭƀƈǿƞŧřȧƈŧş."
 
 #: ../../standard/docs/en/schema/reference.md:183
 msgid "See [document](#document) reference below."
-msgstr ""
+msgstr "Şḗḗ [ḓǿƈŭḿḗƞŧ](#ḓǿƈŭḿḗƞŧ) řḗƒḗřḗƞƈḗ ƀḗŀǿẇ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Amendment"
-msgstr ""
+msgstr "Ȧḿḗƞḓḿḗƞŧ"
 
 #: ../../standard/docs/en/schema/reference.md:187
 msgid ""
-"A release may amend properties from a previous release. Whilst the release &"
-" record model of OCDS offers the opportunity to keep a full versioned "
-"history of changes, in many cases it is important for changes to a tender, "
-"award or contract to be explicitly declared."
+"A release may amend properties from a previous release. Whilst the release & "
+"record model of OCDS offers the opportunity to keep a full versioned history "
+"of changes, in many cases it is important for changes to a tender, award or "
+"contract to be explicitly declared."
 msgstr ""
+"Ȧ řḗŀḗȧşḗ ḿȧẏ ȧḿḗƞḓ ƥřǿƥḗřŧīḗş ƒřǿḿ ȧ ƥřḗṽīǿŭş řḗŀḗȧşḗ. Ẇħīŀşŧ ŧħḗ řḗŀḗȧşḗ & "
+"řḗƈǿřḓ ḿǿḓḗŀ ǿƒ ǾƇḒŞ ǿƒƒḗřş ŧħḗ ǿƥƥǿřŧŭƞīŧẏ ŧǿ ķḗḗƥ ȧ ƒŭŀŀ ṽḗřşīǿƞḗḓ ħīşŧǿřẏ "
+"ǿƒ ƈħȧƞɠḗş, īƞ ḿȧƞẏ ƈȧşḗş īŧ īş īḿƥǿřŧȧƞŧ ƒǿř ƈħȧƞɠḗş ŧǿ ȧ ŧḗƞḓḗř, ȧẇȧřḓ ǿř "
+"ƈǿƞŧřȧƈŧ ŧǿ ƀḗ ḗẋƥŀīƈīŧŀẏ ḓḗƈŀȧřḗḓ."
 
 #: ../../standard/docs/en/schema/reference.md:189
 msgid ""
@@ -500,32 +681,42 @@ msgid ""
 "provide an explanation for the change, and attach or reference relevant "
 "documentation."
 msgstr ""
+"Ŧħḗ ȧḿḗƞḓḿḗƞŧ ƀŀǿƈķ īƞ ḗȧƈħ ǿƒ ŧḗƞḓḗř, ȧẇȧřḓ ȧƞḓ ƈǿƞŧřȧƈŧ ƀŀǿƈķş ƥřǿṽīḓḗş "
+"ŧħḗ ȧƀīŀīŧẏ ŧǿ ḗẋƥŀīƈīŧŀẏ ḓḗƈŀȧřḗ ƈħȧƞɠḗḓ ƒīḗŀḓş, ŧħḗīř ƒǿřḿḗř ṽȧŀŭḗş, ŧǿ "
+"ƥřǿṽīḓḗ ȧƞ ḗẋƥŀȧƞȧŧīǿƞ ƒǿř ŧħḗ ƈħȧƞɠḗ, ȧƞḓ ȧŧŧȧƈħ ǿř řḗƒḗřḗƞƈḗ řḗŀḗṽȧƞŧ "
+"ḓǿƈŭḿḗƞŧȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/reference.md:198
 msgid ""
 "Amendment information should not be included in compiled records, as it is "
-"not possible to indicate __all__ the former values of a field, only the most"
-" recent known value: whereas the version history of a full record can show "
+"not possible to indicate __all__ the former values of a field, only the most "
+"recent known value: whereas the version history of a full record can show "
 "all previous values."
 msgstr ""
+"Ȧḿḗƞḓḿḗƞŧ īƞƒǿřḿȧŧīǿƞ şħǿŭŀḓ ƞǿŧ ƀḗ īƞƈŀŭḓḗḓ īƞ ƈǿḿƥīŀḗḓ řḗƈǿřḓş, ȧş īŧ īş "
+"ƞǿŧ ƥǿşşīƀŀḗ ŧǿ īƞḓīƈȧŧḗ __ȧŀŀ__ ŧħḗ ƒǿřḿḗř ṽȧŀŭḗş ǿƒ ȧ ƒīḗŀḓ, ǿƞŀẏ ŧħḗ ḿǿşŧ "
+"řḗƈḗƞŧ ķƞǿẇƞ ṽȧŀŭḗ: ẇħḗřḗȧş ŧħḗ ṽḗřşīǿƞ ħīşŧǿřẏ ǿƒ ȧ ƒŭŀŀ řḗƈǿřḓ ƈȧƞ şħǿẇ "
+"ȧŀŀ ƥřḗṽīǿŭş ṽȧŀŭḗş."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Changes"
-msgstr ""
+msgstr "Ƈħȧƞɠḗş"
 
 #: ../../standard/docs/en/schema/reference.md:202
 msgid ""
 "Within each amendment block, publishers should provide an array of items "
 "that have changed, along with their former values."
 msgstr ""
+"Ẇīŧħīƞ ḗȧƈħ ȧḿḗƞḓḿḗƞŧ ƀŀǿƈķ, ƥŭƀŀīşħḗřş şħǿŭŀḓ ƥřǿṽīḓḗ ȧƞ ȧřřȧẏ ǿƒ īŧḗḿş "
+"ŧħȧŧ ħȧṽḗ ƈħȧƞɠḗḓ, ȧŀǿƞɠ ẇīŧħ ŧħḗīř ƒǿřḿḗř ṽȧŀŭḗş."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Field reference"
-msgstr ""
+msgstr "Ƒīḗŀḓ řḗƒḗřḗƞƈḗ"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Organization"
-msgstr ""
+msgstr "Ǿřɠȧƞīzȧŧīǿƞ"
 
 #: ../../standard/docs/en/schema/reference.md:216
 msgid ""
@@ -533,108 +724,135 @@ msgid ""
 "organization, and to give [address](#address) and [contact point](#contact-"
 "point) information."
 msgstr ""
+"Ŧħḗ ǿřɠȧƞīzȧŧīǿƞ ƀŀǿƈķ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ ƥřǿṽīḓḗ ȧ ŀḗɠȧŀ īḓḗƞŧīƒīḗř ƒǿř ȧƞ "
+"ǿřɠȧƞīzȧŧīǿƞ, ȧƞḓ ŧǿ ɠīṽḗ [ȧḓḓřḗşş](#ȧḓḓřḗşş) ȧƞḓ [ƈǿƞŧȧƈŧ "
+"ƥǿīƞŧ](#ƈǿƞŧȧƈŧ-ƥǿīƞŧ) īƞƒǿřḿȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Identifier"
-msgstr ""
+msgstr "Īḓḗƞŧīƒīḗř"
 
 #: ../../standard/docs/en/schema/reference.md:227
 msgid ""
-"The identifier block provides a way to [identify the legal "
-"entities](../../identifiers/#organizations) involved in a contracting "
-"process. If a Contracting Process represents a contract arranged by the "
-"department or branch of a larger organization, the legal entity (usually the"
-" registered organization) should be described in the "
-"[identifier](#identifier) section, with details of the branch or department "
-"given in the name, [address](#address) and [contact point](#contactpoint) as"
-" relevant."
+"The identifier block provides a way to [identify the legal entities](../../"
+"identifiers/#organizations) involved in a contracting process. If a "
+"Contracting Process represents a contract arranged by the department or "
+"branch of a larger organization, the legal entity (usually the registered "
+"organization) should be described in the [identifier](#identifier) section, "
+"with details of the branch or department given in the name, [address]"
+"(#address) and [contact point](#contactpoint) as relevant."
 msgstr ""
+"Ŧħḗ īḓḗƞŧīƒīḗř ƀŀǿƈķ ƥřǿṽīḓḗş ȧ ẇȧẏ ŧǿ [īḓḗƞŧīƒẏ ŧħḗ ŀḗɠȧŀ "
+"ḗƞŧīŧīḗş](../../identifiers/#organizations) īƞṽǿŀṽḗḓ īƞ ȧ ƈǿƞŧřȧƈŧīƞɠ "
+"ƥřǿƈḗşş. Īƒ ȧ Ƈǿƞŧřȧƈŧīƞɠ Ƥřǿƈḗşş řḗƥřḗşḗƞŧş ȧ ƈǿƞŧřȧƈŧ ȧřřȧƞɠḗḓ ƀẏ ŧħḗ "
+"ḓḗƥȧřŧḿḗƞŧ ǿř ƀřȧƞƈħ ǿƒ ȧ ŀȧřɠḗř ǿřɠȧƞīzȧŧīǿƞ, ŧħḗ ŀḗɠȧŀ ḗƞŧīŧẏ (ŭşŭȧŀŀẏ ŧħḗ "
+"řḗɠīşŧḗřḗḓ ǿřɠȧƞīzȧŧīǿƞ) şħǿŭŀḓ ƀḗ ḓḗşƈřīƀḗḓ īƞ ŧħḗ [īḓḗƞŧīƒīḗř](#īḓḗƞŧīƒīḗř)"
+" şḗƈŧīǿƞ, ẇīŧħ ḓḗŧȧīŀş ǿƒ ŧħḗ ƀřȧƞƈħ ǿř ḓḗƥȧřŧḿḗƞŧ ɠīṽḗƞ īƞ ŧħḗ ƞȧḿḗ, "
+"[ȧḓḓřḗşş](#ȧḓḓřḗşş) ȧƞḓ [ƈǿƞŧȧƈŧ ƥǿīƞŧ](#ƈǿƞŧȧƈŧƥǿīƞŧ) ȧş řḗŀḗṽȧƞŧ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Address"
-msgstr ""
+msgstr "Ȧḓḓřḗşş"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "ContactPoint"
-msgstr ""
+msgstr "ƇǿƞŧȧƈŧƤǿīƞŧ"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Document"
-msgstr ""
+msgstr "Ḓǿƈŭḿḗƞŧ"
 
 #: ../../standard/docs/en/schema/reference.md:255
 msgid ""
 "Documents may be attached at a number of points within the standard: to "
-"planning, tenders, awards, contracts and milestones. Each document block can"
-" consist of multiple documents, classified using the "
-"[documentType](../../codelists/#document-type) codelist."
+"planning, tenders, awards, contracts and milestones. Each document block can "
+"consist of multiple documents, classified using the [documentType](../../"
+"codelists/#document-type) codelist."
 msgstr ""
+"Ḓǿƈŭḿḗƞŧş ḿȧẏ ƀḗ ȧŧŧȧƈħḗḓ ȧŧ ȧ ƞŭḿƀḗř ǿƒ ƥǿīƞŧş ẇīŧħīƞ ŧħḗ şŧȧƞḓȧřḓ: ŧǿ "
+"ƥŀȧƞƞīƞɠ, ŧḗƞḓḗřş, ȧẇȧřḓş, ƈǿƞŧřȧƈŧş ȧƞḓ ḿīŀḗşŧǿƞḗş. Ḗȧƈħ ḓǿƈŭḿḗƞŧ ƀŀǿƈķ ƈȧƞ "
+"ƈǿƞşīşŧ ǿƒ ḿŭŀŧīƥŀḗ ḓǿƈŭḿḗƞŧş, ƈŀȧşşīƒīḗḓ ŭşīƞɠ ŧħḗ "
+"[ḓǿƈŭḿḗƞŧŦẏƥḗ](../../codelists/#document-type) ƈǿḓḗŀīşŧ."
 
 #: ../../standard/docs/en/schema/reference.md:257
 msgid ""
 "The document block is also used to link to legal notices, which should have "
 "a documentType of 'notice'."
 msgstr ""
+"Ŧħḗ ḓǿƈŭḿḗƞŧ ƀŀǿƈķ īş ȧŀşǿ ŭşḗḓ ŧǿ ŀīƞķ ŧǿ ŀḗɠȧŀ ƞǿŧīƈḗş, ẇħīƈħ şħǿŭŀḓ ħȧṽḗ "
+"ȧ ḓǿƈŭḿḗƞŧŦẏƥḗ ǿƒ 'ƞǿŧīƈḗ'."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Date"
-msgstr ""
+msgstr "Ḓȧŧḗ"
 
 #: ../../standard/docs/en/schema/reference.md:268
 msgid ""
 "OCDS makes use of [ISO8601](http://en.wikipedia.org/wiki/ISO_8601) date-"
-"times, following [RFC3339 "
-"§5.6](http://tools.ietf.org/html/rfc3339#section-5.6)."
+"times, following [RFC3339 §5.6](http://tools.ietf.org/html/"
+"rfc3339#section-5.6)."
 msgstr ""
+"ǾƇḒŞ ḿȧķḗş ŭşḗ ǿƒ [ĪŞǾ8601](http://en.wikipedia.org/wiki/ISO_8601) ḓȧŧḗ-"
+"ŧīḿḗş, ƒǿŀŀǿẇīƞɠ [ŘƑƇ3339 "
+"§5.6](http://tools.ietf.org/html/rfc3339#section-5.6)."
 
 #: ../../standard/docs/en/schema/reference.md:270
 msgid "A time and timezone/offset MUST always be provided in a date-time."
-msgstr ""
+msgstr "Ȧ ŧīḿḗ ȧƞḓ ŧīḿḗzǿƞḗ/offset ḾŬŞŦ ȧŀẇȧẏş ƀḗ ƥřǿṽīḓḗḓ īƞ ȧ ḓȧŧḗ-ŧīḿḗ."
 
 #: ../../standard/docs/en/schema/reference.md:272
 msgid "The following are valid date-times:"
-msgstr ""
+msgstr "Ŧħḗ ƒǿŀŀǿẇīƞɠ ȧřḗ ṽȧŀīḓ ḓȧŧḗ-ŧīḿḗş:"
 
 #: ../../standard/docs/en/schema/reference.md:274
 msgid "'2014-10-21T09:30:00Z' - 9:30 am on the 21st October 2014, UTC"
-msgstr ""
+msgstr "'2014-10-21Ŧ09:30:00Ẑ' - 9:30 ȧḿ ǿƞ ŧħḗ 21şŧ Ǿƈŧǿƀḗř 2014, ŬŦƇ"
 
 #: ../../standard/docs/en/schema/reference.md:275
 msgid ""
 "'2014-11-18T18:00:00-06:00' - 6pm on 18th November 2014 CST (Central "
 "Standard Time)"
 msgstr ""
+"'2014-11-18Ŧ18:00:00-06:00' - 6ƥḿ ǿƞ 18ŧħ Ƞǿṽḗḿƀḗř 2014 ƇŞŦ (Ƈḗƞŧřȧŀ "
+"Şŧȧƞḓȧřḓ Ŧīḿḗ)"
 
 #: ../../standard/docs/en/schema/reference.md:277
 msgid "The following are not valid:"
-msgstr ""
+msgstr "Ŧħḗ ƒǿŀŀǿẇīƞɠ ȧřḗ ƞǿŧ ṽȧŀīḓ:"
 
 #: ../../standard/docs/en/schema/reference.md:279
 msgid "'2014-10-21' - Missing time portion"
-msgstr ""
+msgstr "'2014-10-21' - Ḿīşşīƞɠ ŧīḿḗ ƥǿřŧīǿƞ"
 
 #: ../../standard/docs/en/schema/reference.md:280
 msgid "'2014-10-21T18:00' - missing seconds in time portion."
-msgstr ""
+msgstr "'2014-10-21Ŧ18:00' - ḿīşşīƞɠ şḗƈǿƞḓş īƞ ŧīḿḗ ƥǿřŧīǿƞ."
 
 #: ../../standard/docs/en/schema/reference.md:281
 msgid "'2014-11-18T18:00:00' - Missing timezone/offset portion"
-msgstr ""
+msgstr "'2014-11-18Ŧ18:00:00' - Ḿīşşīƞɠ ŧīḿḗzǿƞḗ/offset ƥǿřŧīǿƞ"
 
 #: ../../standard/docs/en/schema/reference.md:282
 msgid "'11/18/2014 18:00' - Not following the pattern at all!"
-msgstr ""
+msgstr "'11/18/2014 18:00' - Ƞǿŧ ƒǿŀŀǿẇīƞɠ ŧħḗ ƥȧŧŧḗřƞ ȧŧ ȧŀŀ!"
 
 #: ../../standard/docs/en/schema/reference.md:284
 msgid ""
 "Accurately including the time and timezone offsets is particular important "
 "for tender deadlines and other dates which may have legal significance, and "
 "where users of the data may be from different timezones. The character Z on "
-"the end of a date-time indicates the "
-"[UTC](http://en.wikipedia.org/wiki/Coordinated_Universal_Time) (or Zero "
-"offset) timezone, whereas other timezones are indicated by their value "
-"'+/-hh:mm' UTC on the end of the date-time value."
+"the end of a date-time indicates the [UTC](http://en.wikipedia.org/wiki/"
+"Coordinated_Universal_Time) (or Zero offset) timezone, whereas other "
+"timezones are indicated by their value '+/-hh:mm' UTC on the end of the date-"
+"time value."
 msgstr ""
+"Ȧƈƈŭřȧŧḗŀẏ īƞƈŀŭḓīƞɠ ŧħḗ ŧīḿḗ ȧƞḓ ŧīḿḗzǿƞḗ ǿƒƒşḗŧş īş ƥȧřŧīƈŭŀȧř īḿƥǿřŧȧƞŧ "
+"ƒǿř ŧḗƞḓḗř ḓḗȧḓŀīƞḗş ȧƞḓ ǿŧħḗř ḓȧŧḗş ẇħīƈħ ḿȧẏ ħȧṽḗ ŀḗɠȧŀ şīɠƞīƒīƈȧƞƈḗ, ȧƞḓ "
+"ẇħḗřḗ ŭşḗřş ǿƒ ŧħḗ ḓȧŧȧ ḿȧẏ ƀḗ ƒřǿḿ ḓīƒƒḗřḗƞŧ ŧīḿḗzǿƞḗş. Ŧħḗ ƈħȧřȧƈŧḗř Ẑ ǿƞ "
+"ŧħḗ ḗƞḓ ǿƒ ȧ ḓȧŧḗ-ŧīḿḗ īƞḓīƈȧŧḗş ŧħḗ "
+"[ŬŦƇ](http://en.wikipedia.org/wiki/Coordinated_Universal_Time) (ǿř Ẑḗřǿ "
+"ǿƒƒşḗŧ) ŧīḿḗzǿƞḗ, ẇħḗřḗȧş ǿŧħḗř ŧīḿḗzǿƞḗş ȧřḗ īƞḓīƈȧŧḗḓ ƀẏ ŧħḗīř ṽȧŀŭḗ "
+"'+/-hh:mm' ŬŦƇ ǿƞ ŧħḗ ḗƞḓ ǿƒ ŧħḗ ḓȧŧḗ-ŧīḿḗ ṽȧŀŭḗ."
 
 #: ../../standard/docs/en/schema/reference.md:286
 msgid ""
@@ -648,42 +866,63 @@ msgid ""
 "accepted in standard office hours, these values might be 09:00:00Z and "
 "17:00:00Z respectively."
 msgstr ""
+"Īƞ ŧħḗ ḗṽḗƞŧ ŧħȧŧ ŧħḗ şẏşŧḗḿ ƒřǿḿ ẇħīƈħ ḓȧŧȧ īş ḓřȧẇƞ ǿƞŀẏ īƞƈŀŭḓḗş ḓȧŧḗş, "
+"ȧƞḓ ḓǿḗş ƞǿŧ īƞƈŀŭḓḗ ŧīḿḗ īƞƒǿřḿȧŧīǿƞ, ƥŭƀŀīşħḗřş şħǿŭŀḓ ƈǿƞşīḓḗř şḗƞşīƀŀḗ "
+"ḓḗƒȧŭŀŧş ƒǿř ḗȧƈħ ƒīḗŀḓ. Ƒǿř ḗẋȧḿƥŀḗ, ŧħḗ şŧȧřŧḒȧŧḗ ŧīḿḗ ǿƒ ȧ ƈŀȧřīƒīƈȧŧīǿƞ "
+"ƥḗřīǿḓ ḿȧẏ ƀḗ şḗŧ ŧǿ '00:00:00Ẑ' ŧǿ īƞḓīƈȧŧḗ ŧħȧŧ ƈŀȧřīƒīƈȧŧīǿƞş ƈȧƞ ƀḗ "
+"řḗɋŭḗşŧḗḓ ƒřǿḿ ȧƞẏ ŧīḿḗ ǿƞ ŧħḗ ḓȧŧḗ şŧȧŧḗḓ, ẇīŧħ ŧħḗ ḗƞḓḒȧŧḗ ŧīḿḗ şḗŧ ŧǿ "
+"23:23:59Ẑ ŧǿ īƞḓīƈȧŧḗ ŧħȧŧ ƈŀȧřīƒīƈȧŧīǿƞş ƈȧƞ ƀḗ şḗƞŧ ŭƥ ŭƞŧīŀ ŧħḗ ḗƞḓ ǿƒ "
+"ŧħḗ ḗƞḓḒȧŧḗ ɠīṽḗƞ. Ȧŀŧḗřƞȧŧīṽḗŀẏ, īƒ ƈŀȧřīƒīƈȧŧīǿƞ řḗɋŭḗşŧş ȧřḗ ǿƞŀẏ "
+"ȧƈƈḗƥŧḗḓ īƞ şŧȧƞḓȧřḓ ǿƒƒīƈḗ ħǿŭřş, ŧħḗşḗ ṽȧŀŭḗş ḿīɠħŧ ƀḗ 09:00:00Ẑ ȧƞḓ 17:00:"
+"00Ẑ řḗşƥḗƈŧīṽḗŀẏ."
 
 #: ../../standard/docs/en/schema/reference.md:288
 msgid ""
 "In the event that a date field is not bound to a specific time at all, "
-"publishers should choose a default time value of '23:23:59' and either 'Z' "
-"(for UTC) or the timezone of the publisher, indicating that the time refers "
-"to the end of the given date."
+"publishers should choose a default time value of '23:23:59' and either "
+"'Z' (for UTC) or the timezone of the publisher, indicating that the time "
+"refers to the end of the given date."
 msgstr ""
+"Īƞ ŧħḗ ḗṽḗƞŧ ŧħȧŧ ȧ ḓȧŧḗ ƒīḗŀḓ īş ƞǿŧ ƀǿŭƞḓ ŧǿ ȧ şƥḗƈīƒīƈ ŧīḿḗ ȧŧ ȧŀŀ, "
+"ƥŭƀŀīşħḗřş şħǿŭŀḓ ƈħǿǿşḗ ȧ ḓḗƒȧŭŀŧ ŧīḿḗ ṽȧŀŭḗ ǿƒ '23:23:59' ȧƞḓ ḗīŧħḗř 'Ẑ' ("
+"ƒǿř ŬŦƇ) ǿř ŧħḗ ŧīḿḗzǿƞḗ ǿƒ ŧħḗ ƥŭƀŀīşħḗř, īƞḓīƈȧŧīƞɠ ŧħȧŧ ŧħḗ ŧīḿḗ řḗƒḗřş "
+"ŧǿ ŧħḗ ḗƞḓ ǿƒ ŧħḗ ɠīṽḗƞ ḓȧŧḗ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Period"
-msgstr ""
+msgstr "Ƥḗřīǿḓ"
 
 #: ../../standard/docs/en/schema/reference.md:292
 msgid ""
 "A period is an object consisting of a start date and end date, represented "
 "as date-times."
 msgstr ""
+"Ȧ ƥḗřīǿḓ īş ȧƞ ǿƀĵḗƈŧ ƈǿƞşīşŧīƞɠ ǿƒ ȧ şŧȧřŧ ḓȧŧḗ ȧƞḓ ḗƞḓ ḓȧŧḗ, řḗƥřḗşḗƞŧḗḓ "
+"ȧş ḓȧŧḗ-ŧīḿḗş."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Item"
-msgstr ""
+msgstr "Īŧḗḿ"
 
 #: ../../standard/docs/en/schema/reference.md:303
 msgid ""
 "The items block is used to list the line-items associated with a tender, "
 "award or contract."
 msgstr ""
+"Ŧħḗ īŧḗḿş ƀŀǿƈķ īş ŭşḗḓ ŧǿ ŀīşŧ ŧħḗ ŀīƞḗ-īŧḗḿş ȧşşǿƈīȧŧḗḓ ẇīŧħ ȧ ŧḗƞḓḗř, "
+"ȧẇȧřḓ ǿř ƈǿƞŧřȧƈŧ."
 
 #: ../../standard/docs/en/schema/reference.md:314
 msgid ""
-"The [proposed location extension](../extensions/location.md) can be attached"
-" to items, allowing the point of delivery for a given item or the site of "
-"works to be completed to be indicated in both the tender, award and contract"
-" stage."
+"The [proposed location extension](../extensions/location.md) can be attached "
+"to items, allowing the point of delivery for a given item or the site of "
+"works to be completed to be indicated in both the tender, award and contract "
+"stage."
 msgstr ""
+"Ŧħḗ [ƥřǿƥǿşḗḓ ŀǿƈȧŧīǿƞ ḗẋŧḗƞşīǿƞ](../extensions/location.md) ƈȧƞ ƀḗ ȧŧŧȧƈħḗḓ "
+"ŧǿ īŧḗḿş, ȧŀŀǿẇīƞɠ ŧħḗ ƥǿīƞŧ ǿƒ ḓḗŀīṽḗřẏ ƒǿř ȧ ɠīṽḗƞ īŧḗḿ ǿř ŧħḗ şīŧḗ ǿƒ "
+"ẇǿřķş ŧǿ ƀḗ ƈǿḿƥŀḗŧḗḓ ŧǿ ƀḗ īƞḓīƈȧŧḗḓ īƞ ƀǿŧħ ŧħḗ ŧḗƞḓḗř, ȧẇȧřḓ ȧƞḓ ƈǿƞŧřȧƈŧ "
+"şŧȧɠḗ."
 
 #: ../../standard/docs/en/schema/reference.md:315
 msgid ""
@@ -691,36 +930,49 @@ msgid ""
 "single primary ```classification``` can be given, although an array of "
 "```additionalClassification``` can be provided."
 msgstr ""
+"Īŧḗḿş şħǿŭŀḓ ƀḗ ƈŀȧşşīƒīḗḓ ȧƈƈǿřḓīƞɠ ŧǿ ȧƞ ḗşŧȧƀŀīşħḗḓ şƈħḗḿḗ ǿƒ ƈǿḓḗş. Ȧ "
+"şīƞɠŀḗ ƥřīḿȧřẏ ```ƈŀȧşşīƒīƈȧŧīǿƞ``` ƈȧƞ ƀḗ ɠīṽḗƞ, ȧŀŧħǿŭɠħ ȧƞ ȧřřȧẏ ǿƒ "
+"```ȧḓḓīŧīǿƞȧŀƇŀȧşşīƒīƈȧŧīǿƞ``` ƈȧƞ ƀḗ ƥřǿṽīḓḗḓ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Classification"
-msgstr ""
+msgstr "Ƈŀȧşşīƒīƈȧŧīǿƞ"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Unit"
-msgstr ""
+msgstr "Ŭƞīŧ"
 
 #: ../../standard/docs/en/schema/reference.md:328
 msgid ""
 "The ```unit``` block allows detailed specification of the parameters and "
-"price of units that make up a line-item. Although no code list for units has"
-" been established in the current release of the standard, publishers may "
+"price of units that make up a line-item. Although no code list for units has "
+"been established in the current release of the standard, publishers may "
 "consider using the Units provided by the [Quantities, Units, Dimensions and "
 "Data Types Ontologies](http://www.qudt.org/qudt/owl/1.0.0/unit/) in the "
 "```unit.name``` field (drawing on the CamelCase unit names, such as "
-"SquareMile), in order to provide detailed information the cost per unit of a"
-" line-item."
+"SquareMile), in order to provide detailed information the cost per unit of a "
+"line-item."
 msgstr ""
+"Ŧħḗ ```ŭƞīŧ``` ƀŀǿƈķ ȧŀŀǿẇş ḓḗŧȧīŀḗḓ şƥḗƈīƒīƈȧŧīǿƞ ǿƒ ŧħḗ ƥȧřȧḿḗŧḗřş ȧƞḓ "
+"ƥřīƈḗ ǿƒ ŭƞīŧş ŧħȧŧ ḿȧķḗ ŭƥ ȧ ŀīƞḗ-īŧḗḿ. Ȧŀŧħǿŭɠħ ƞǿ ƈǿḓḗ ŀīşŧ ƒǿř ŭƞīŧş ħȧş "
+"ƀḗḗƞ ḗşŧȧƀŀīşħḗḓ īƞ ŧħḗ ƈŭřřḗƞŧ řḗŀḗȧşḗ ǿƒ ŧħḗ şŧȧƞḓȧřḓ, ƥŭƀŀīşħḗřş ḿȧẏ "
+"ƈǿƞşīḓḗř ŭşīƞɠ ŧħḗ Ŭƞīŧş ƥřǿṽīḓḗḓ ƀẏ ŧħḗ [Ɋŭȧƞŧīŧīḗş, Ŭƞīŧş, Ḓīḿḗƞşīǿƞş ȧƞḓ "
+"Ḓȧŧȧ Ŧẏƥḗş Ǿƞŧǿŀǿɠīḗş](http://www.qudt.org/qudt/owl/1.0.0/unit/) īƞ ŧħḗ "
+"```ŭƞīŧ.ƞȧḿḗ``` ƒīḗŀḓ (ḓřȧẇīƞɠ ǿƞ ŧħḗ ƇȧḿḗŀƇȧşḗ ŭƞīŧ ƞȧḿḗş, şŭƈħ ȧş "
+"ŞɋŭȧřḗḾīŀḗ), īƞ ǿřḓḗř ŧǿ ƥřǿṽīḓḗ ḓḗŧȧīŀḗḓ īƞƒǿřḿȧŧīǿƞ ŧħḗ ƈǿşŧ ƥḗř ŭƞīŧ ǿƒ ȧ "
+"ŀīƞḗ-īŧḗḿ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Milestone"
-msgstr ""
+msgstr "Ḿīŀḗşŧǿƞḗ"
 
 #: ../../standard/docs/en/schema/reference.md:340
 msgid ""
-"Milestone information can be included in the [tender](#tender) and [contract"
-" implementation](#implementation) blocks."
+"Milestone information can be included in the [tender](#tender) and [contract "
+"implementation](#implementation) blocks."
 msgstr ""
+"Ḿīŀḗşŧǿƞḗ īƞƒǿřḿȧŧīǿƞ ƈȧƞ ƀḗ īƞƈŀŭḓḗḓ īƞ ŧħḗ [ŧḗƞḓḗř](#ŧḗƞḓḗř) ȧƞḓ [ƈǿƞŧřȧƈŧ "
+"īḿƥŀḗḿḗƞŧȧŧīǿƞ](#īḿƥŀḗḿḗƞŧȧŧīǿƞ) ƀŀǿƈķş."
 
 #: ../../standard/docs/en/schema/reference.md:342
 msgid ""
@@ -728,6 +980,9 @@ msgid ""
 "of a contract, or key points during the lifetime of the contract. These may "
 "have associated documentation."
 msgstr ""
+"Īƞ ŧħḗ ƈǿƞŧḗẋŧ ǿƒ ȧ ŧḗƞḓḗř ƀŀǿƈķ, ḿīŀḗşŧǿƞḗş ḓḗşƈřīƀḗ ŧħḗ ķḗẏ ḓḗŀīṽḗřȧƀŀḗş "
+"ǿƒ ȧ ƈǿƞŧřȧƈŧ, ǿř ķḗẏ ƥǿīƞŧş ḓŭřīƞɠ ŧħḗ ŀīƒḗŧīḿḗ ǿƒ ŧħḗ ƈǿƞŧřȧƈŧ. Ŧħḗşḗ ḿȧẏ "
+"ħȧṽḗ ȧşşǿƈīȧŧḗḓ ḓǿƈŭḿḗƞŧȧŧīǿƞ."
 
 #: ../../standard/docs/en/schema/reference.md:344
 msgid ""
@@ -735,21 +990,27 @@ msgid ""
 "track progress towards those deliverables and key events set out in the "
 "tender."
 msgstr ""
+"Īƞ ŧħḗ ƈǿƞŧḗẋŧ ǿƒ ȧ ƈǿƞŧřȧƈŧ īḿƥŀḗḿḗƞŧȧŧīǿƞ ƀŀǿƈķ, ḿīŀḗşŧǿƞḗş ȧřḗ ŭşḗḓ ŧǿ "
+"ŧřȧƈķ ƥřǿɠřḗşş ŧǿẇȧřḓş ŧħǿşḗ ḓḗŀīṽḗřȧƀŀḗş ȧƞḓ ķḗẏ ḗṽḗƞŧş şḗŧ ǿŭŧ īƞ ŧħḗ "
+"ŧḗƞḓḗř."
 
 #: ../../standard/docs/en/schema/reference.md:355
 msgid ""
-"The ```dateModified``` field should be changed whenever the progress towards"
-" a milestone is reviewed, and the ```status``` either updated, or re-"
+"The ```dateModified``` field should be changed whenever the progress towards "
+"a milestone is reviewed, and the ```status``` either updated, or re-"
 "confirmed."
 msgstr ""
+"Ŧħḗ ```ḓȧŧḗḾǿḓīƒīḗḓ``` ƒīḗŀḓ şħǿŭŀḓ ƀḗ ƈħȧƞɠḗḓ ẇħḗƞḗṽḗř ŧħḗ ƥřǿɠřḗşş ŧǿẇȧřḓş "
+"ȧ ḿīŀḗşŧǿƞḗ īş řḗṽīḗẇḗḓ, ȧƞḓ ŧħḗ ```şŧȧŧŭş``` ḗīŧħḗř ŭƥḓȧŧḗḓ, ǿř "
+"řḗ-ƈǿƞƒīřḿḗḓ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Value"
-msgstr ""
+msgstr "Ṽȧŀŭḗ"
 
 #: ../../standard/docs/en/schema/reference.md:361
 msgid "Financial values should always be published with a currency attached."
-msgstr ""
+msgstr "Ƒīƞȧƞƈīȧŀ ṽȧŀŭḗş şħǿŭŀḓ ȧŀẇȧẏş ƀḗ ƥŭƀŀīşħḗḓ ẇīŧħ ȧ ƈŭřřḗƞƈẏ ȧŧŧȧƈħḗḓ."
 
 #: ../../standard/docs/en/schema/reference.md:370
 msgid ""
@@ -758,47 +1019,60 @@ msgid ""
 "handling taxation can be found on GitHub](https://github.com/open-"
 "contracting/standard/issues/112)."
 msgstr ""
+"Ḓŭřīƞɠ ŧħḗ ƥḗřīǿḓ ǿƒ ŧħḗ 1.0 ŘƇ, īƒ īƞƒǿřḿȧŧīǿƞ ǿƞ ŧȧẋȧŧīǿƞ řḗŀȧŧḗḓ ŧǿ ȧ "
+"ṽȧŀŭḗ īş řḗɋŭīřḗḓ, ŧħīş ḿȧẏ ƀḗ ħȧƞḓŀḗḓ ƀẏ ȧƞ ḗẋŧḗƞşīǿƞ. Ȧ [ḓīşƈŭşşīǿƞ ǿƒ "
+"ħȧƞḓŀīƞɠ ŧȧẋȧŧīǿƞ ƈȧƞ ƀḗ ƒǿŭƞḓ ǿƞ ƓīŧĦŭƀ](https://github.com/open-"
+"contracting/standard/issues/112)."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Location"
-msgstr ""
+msgstr "Ŀǿƈȧŧīǿƞ"
 
 #: ../../standard/docs/en/schema/reference.md:374
 msgid ""
 "The addition of location information is currently handled through a "
 "[proposed extension](../extensions/location.md) to the standard."
 msgstr ""
+"Ŧħḗ ȧḓḓīŧīǿƞ ǿƒ ŀǿƈȧŧīǿƞ īƞƒǿřḿȧŧīǿƞ īş ƈŭřřḗƞŧŀẏ ħȧƞḓŀḗḓ ŧħřǿŭɠħ ȧ ["
+"ƥřǿƥǿşḗḓ ḗẋŧḗƞşīǿƞ](../extensions/location.md) ŧǿ ŧħḗ şŧȧƞḓȧřḓ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Publisher"
-msgstr ""
+msgstr "Ƥŭƀŀīşħḗř"
 
 #: ../../standard/docs/en/schema/reference.md:378
 msgid ""
 "The publisher block is used in release and record packages to identify the "
 "source of a dataset."
 msgstr ""
+"Ŧħḗ ƥŭƀŀīşħḗř ƀŀǿƈķ īş ŭşḗḓ īƞ řḗŀḗȧşḗ ȧƞḓ řḗƈǿřḓ ƥȧƈķȧɠḗş ŧǿ īḓḗƞŧīƒẏ ŧħḗ "
+"şǿŭřƈḗ ǿƒ ȧ ḓȧŧȧşḗŧ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Language"
-msgstr ""
+msgstr "Ŀȧƞɠŭȧɠḗ"
 
 #: ../../standard/docs/en/schema/reference.md:389
 msgid ""
-"Many publishers need to be able to share key data in multiple languages. All"
-" free-text title and description fields in the Open Contracting Data "
-"Standard can be given in one or more languages."
+"Many publishers need to be able to share key data in multiple languages. All "
+"free-text title and description fields in the Open Contracting Data Standard "
+"can be given in one or more languages."
 msgstr ""
+"Ḿȧƞẏ ƥŭƀŀīşħḗřş ƞḗḗḓ ŧǿ ƀḗ ȧƀŀḗ ŧǿ şħȧřḗ ķḗẏ ḓȧŧȧ īƞ ḿŭŀŧīƥŀḗ ŀȧƞɠŭȧɠḗş. Ȧŀŀ "
+"ƒřḗḗ-ŧḗẋŧ ŧīŧŀḗ ȧƞḓ ḓḗşƈřīƥŧīǿƞ ƒīḗŀḓş īƞ ŧħḗ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ḓȧŧȧ Şŧȧƞḓȧřḓ "
+"ƈȧƞ ƀḗ ɠīṽḗƞ īƞ ǿƞḗ ǿř ḿǿřḗ ŀȧƞɠŭȧɠḗş."
 
 #: ../../standard/docs/en/schema/reference.md:391
 msgid ""
-"Language variations are included by a copy of multi-lingual fields, suffixed"
-" with a language code."
+"Language variations are included by a copy of multi-lingual fields, suffixed "
+"with a language code."
 msgstr ""
+"Ŀȧƞɠŭȧɠḗ ṽȧřīȧŧīǿƞş ȧřḗ īƞƈŀŭḓḗḓ ƀẏ ȧ ƈǿƥẏ ǿƒ ḿŭŀŧī-ŀīƞɠŭȧŀ ƒīḗŀḓş, şŭƒƒīẋḗḓ "
+"ẇīŧħ ȧ ŀȧƞɠŭȧɠḗ ƈǿḓḗ."
 
 #: ../../standard/docs/en/schema/reference.md:393
 msgid "E.g. ```title``` and ```title_es```"
-msgstr ""
+msgstr "Ḗ.ɠ. ```ŧīŧŀḗ``` ȧƞḓ ```ŧīŧŀḗ_ḗş```"
 
 #: ../../standard/docs/en/schema/reference.md:395
 msgid ""
@@ -806,18 +1080,29 @@ msgid ""
 "fields, OCDS release and records should declare the default language in the "
 "```language``` field."
 msgstr ""
+"Īƞ ǿřḓḗř ŧǿ ȧŀŀǿẇ ŭşḗřş ŧǿ īḓḗƞŧīƒẏ ŧħḗ ŀȧƞɠŭȧɠḗ ŭşḗḓ īƞ ƞǿƞ-şŭƒƒīẋḗḓ "
+"ƒīḗŀḓş, ǾƇḒŞ řḗŀḗȧşḗ ȧƞḓ řḗƈǿřḓş şħǿŭŀḓ ḓḗƈŀȧřḗ ŧħḗ ḓḗƒȧŭŀŧ ŀȧƞɠŭȧɠḗ īƞ ŧħḗ "
+"```ŀȧƞɠŭȧɠḗ``` ƒīḗŀḓ."
 
 #: ../../standard/docs/en/schema/reference.md:397
 msgid ""
-"Languages should be identified using language tags taken from "
-"[BCP47](http://tools.ietf.org/html/bcp47). The specification allows BCP47 "
-"values in order to accommodate variations in dialect where this is "
-"important. However, publishers **should** use the two letter [ISO-639-1 two-"
-"digit language tags](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) "
-"in the vast majority of circumstances, and should not assume that the users "
-"are able to distinguish between sub-tag variations (for example, OCDS "
-"publishers should strongly prefer 'en' over 'en_US' or 'en_GB')."
+"Languages should be identified using language tags taken from [BCP47](http://"
+"tools.ietf.org/html/bcp47). The specification allows BCP47 values in order "
+"to accommodate variations in dialect where this is important. However, "
+"publishers **should** use the two letter [ISO-639-1 two-digit language tags]"
+"(http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) in the vast majority "
+"of circumstances, and should not assume that the users are able to "
+"distinguish between sub-tag variations (for example, OCDS publishers should "
+"strongly prefer 'en' over 'en_US' or 'en_GB')."
 msgstr ""
+"Ŀȧƞɠŭȧɠḗş şħǿŭŀḓ ƀḗ īḓḗƞŧīƒīḗḓ ŭşīƞɠ ŀȧƞɠŭȧɠḗ ŧȧɠş ŧȧķḗƞ ƒřǿḿ "
+"[ƁƇƤ47](http://tools.ietf.org/html/bcp47). Ŧħḗ şƥḗƈīƒīƈȧŧīǿƞ ȧŀŀǿẇş ƁƇƤ47 "
+"ṽȧŀŭḗş īƞ ǿřḓḗř ŧǿ ȧƈƈǿḿḿǿḓȧŧḗ ṽȧřīȧŧīǿƞş īƞ ḓīȧŀḗƈŧ ẇħḗřḗ ŧħīş īş "
+"īḿƥǿřŧȧƞŧ. Ħǿẇḗṽḗř, ƥŭƀŀīşħḗřş **şħǿŭŀḓ** ŭşḗ ŧħḗ ŧẇǿ ŀḗŧŧḗř [ĪŞǾ-639-1 ŧẇǿ-"
+"ḓīɠīŧ ŀȧƞɠŭȧɠḗ ŧȧɠş](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) "
+"īƞ ŧħḗ ṽȧşŧ ḿȧĵǿřīŧẏ ǿƒ ƈīřƈŭḿşŧȧƞƈḗş, ȧƞḓ şħǿŭŀḓ ƞǿŧ ȧşşŭḿḗ ŧħȧŧ ŧħḗ ŭşḗřş "
+"ȧřḗ ȧƀŀḗ ŧǿ ḓīşŧīƞɠŭīşħ ƀḗŧẇḗḗƞ şŭƀ-ŧȧɠ ṽȧřīȧŧīǿƞş (ƒǿř ḗẋȧḿƥŀḗ, ǾƇḒŞ "
+"ƥŭƀŀīşħḗřş şħǿŭŀḓ şŧřǿƞɠŀẏ ƥřḗƒḗř 'ḗƞ' ǿṽḗř 'ḗƞ_ŬŞ' ǿř 'ḗƞ_ƓƁ')."
 
 #: ../../standard/docs/en/schema/reference.md:399
 msgid ""
@@ -825,30 +1110,37 @@ msgid ""
 "suffixed with _ and the appropriate language tag. For example: "
 "```title_es``` for Spanish."
 msgstr ""
+"Ŧǿ īƞƈŀŭḓḗ ȧ ŀȧƞɠŭȧɠḗ ṽȧřīȧŧīǿƞ ǿƒ ȧ ƒīḗŀḓ, ŧħḗ ƒīḗŀḓ ƞȧḿḗ şħǿŭŀḓ ƀḗ "
+"şŭƒƒīẋḗḓ ẇīŧħ _ ȧƞḓ ŧħḗ ȧƥƥřǿƥřīȧŧḗ ŀȧƞɠŭȧɠḗ ŧȧɠ. Ƒǿř ḗẋȧḿƥŀḗ: ```ŧīŧŀḗ_ḗş```"
+" ƒǿř Şƥȧƞīşħ."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Worked example"
-msgstr ""
+msgstr "Ẇǿřķḗḓ ḗẋȧḿƥŀḗ"
 
 #: ../../standard/docs/en/schema/reference.md:403
 msgid ""
 "A contract is for ‘Software consultancy services’ may be published in a "
 "release with the default language sent to ‘en’ (the ISO-639-1 code for "
-"English). The following examples give the description of an item as English,"
-" French and Spanish."
+"English). The following examples give the description of an item as English, "
+"French and Spanish."
 msgstr ""
+"Ȧ ƈǿƞŧřȧƈŧ īş ƒǿř ‘Şǿƒŧẇȧřḗ ƈǿƞşŭŀŧȧƞƈẏ şḗřṽīƈḗş’ ḿȧẏ ƀḗ ƥŭƀŀīşħḗḓ īƞ ȧ "
+"řḗŀḗȧşḗ ẇīŧħ ŧħḗ ḓḗƒȧŭŀŧ ŀȧƞɠŭȧɠḗ şḗƞŧ ŧǿ ‘ḗƞ’ (ŧħḗ ĪŞǾ-639-1 ƈǿḓḗ ƒǿř "
+"Ḗƞɠŀīşħ). Ŧħḗ ƒǿŀŀǿẇīƞɠ ḗẋȧḿƥŀḗş ɠīṽḗ ŧħḗ ḓḗşƈřīƥŧīǿƞ ǿƒ ȧƞ īŧḗḿ ȧş Ḗƞɠŀīşħ, "
+"Ƒřḗƞƈħ ȧƞḓ Şƥȧƞīşħ."
 
 #: ../../standard/docs/en/schema/reference.md:405
 msgid "**json**"
-msgstr ""
+msgstr "**ĵşǿƞ**"
 
 #: ../../standard/docs/en/schema/reference.md:415
 msgid "**csv**"
-msgstr ""
+msgstr "**ƈşṽ**"
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Release handling"
-msgstr ""
+msgstr "Řḗŀḗȧşḗ ħȧƞḓŀīƞɠ"
 
 #: ../../standard/docs/en/schema/reference.md:426
 msgid ""
@@ -858,6 +1150,11 @@ msgid ""
 "what needs to be updated in any system that is tracking the progress of a "
 "contracting process."
 msgstr ""
+"Ŧħḗ ƒŭŀŀ ǾƇḒŞ ḓȧŧȧ ḿǿḓḗŀ īş ƀȧşḗḓ ǿƞ ŧħḗ īḓḗȧ ǿƒ ƥŭƀŀīşħīƞɠ ȧ ƞḗẇ řḗŀḗȧşḗ "
+"ḗṽḗřẏ ŧīḿḗ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ȧ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş ƈħȧƞɠḗş. Ŧħīş ẇȧẏ, ŭşḗřş "
+"ƈȧƞ ɠȧīƞ ȧ ƒŭŀŀ ṽīḗẇ ǿƒ ƈħȧƞɠḗ ǿṽḗř ŧīḿḗ, ȧƞḓ ŧħīřḓ-ƥȧřŧīḗş ƈȧƞ  ŭƞḓḗřşŧȧƞḓ "
+"ẇħȧŧ ƞḗḗḓş ŧǿ ƀḗ ŭƥḓȧŧḗḓ īƞ ȧƞẏ şẏşŧḗḿ ŧħȧŧ īş ŧřȧƈķīƞɠ ŧħḗ ƥřǿɠřḗşş ǿƒ ȧ "
+"ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/schema/reference.md:428
 msgid ""
@@ -866,32 +1163,40 @@ msgid ""
 "should be based on an understanding the [merging process](merging.md) that "
 "is used to generate a snapshot record of a full contracting process."
 msgstr ""
+"Ƥŭƀŀīşħḗřş ẇīŀŀ ƞḗḗḓ ŧǿ ƈħǿǿşḗ ħǿẇ ŧǿ ɠḗƞḗřȧŧḗ ƞḗẇ řḗŀḗȧşḗş, ȧƞḓ ẇħḗŧħḗř ŧǿ "
+"řḗƥḗȧŧ īƞƒǿřḿȧŧīǿƞ īƞ ḗȧƈħ řḗŀḗȧşḗ, ǿř ĵŭşŧ ŧǿ ƥřǿṽīḓḗ ƈħȧƞɠḗş. Ŧħīş ƈħǿīƈḗ "
+"şħǿŭŀḓ ƀḗ ƀȧşḗḓ ǿƞ ȧƞ ŭƞḓḗřşŧȧƞḓīƞɠ ŧħḗ [ḿḗřɠīƞɠ ƥřǿƈḗşş](ḿḗřɠīƞɠ.ḿḓ) ŧħȧŧ "
+"īş ŭşḗḓ ŧǿ ɠḗƞḗřȧŧḗ ȧ şƞȧƥşħǿŧ řḗƈǿřḓ ǿƒ ȧ ƒŭŀŀ ƈǿƞŧřȧƈŧīƞɠ ƥřǿƈḗşş."
 
 #: ../../standard/docs/en/schema/reference.md:430
 msgid ""
 "This model also requires publishers to pay careful attention to null values "
 "and missing fields."
 msgstr ""
+"Ŧħīş ḿǿḓḗŀ ȧŀşǿ řḗɋŭīřḗş ƥŭƀŀīşħḗřş ŧǿ ƥȧẏ ƈȧřḗƒŭŀ ȧŧŧḗƞŧīǿƞ ŧǿ ƞŭŀŀ ṽȧŀŭḗş "
+"ȧƞḓ ḿīşşīƞɠ ƒīḗŀḓş."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Empty fields"
-msgstr ""
+msgstr "Ḗḿƥŧẏ ƒīḗŀḓş"
 
 #: ../../standard/docs/en/schema/reference.md:434
 msgid ""
 "Fields that are not being used, or that have no value, can be excluded in "
 "their entirety (key and value) from a published file."
 msgstr ""
+"Ƒīḗŀḓş ŧħȧŧ ȧřḗ ƞǿŧ ƀḗīƞɠ ŭşḗḓ, ǿř ŧħȧŧ ħȧṽḗ ƞǿ ṽȧŀŭḗ, ƈȧƞ ƀḗ ḗẋƈŀŭḓḗḓ īƞ "
+"ŧħḗīř ḗƞŧīřḗŧẏ (ķḗẏ ȧƞḓ ṽȧŀŭḗ) ƒřǿḿ ȧ ƥŭƀŀīşħḗḓ ƒīŀḗ."
 
 #: ../../standard/docs/en/schema/reference.md:436
 msgid ""
-"Only including fields which have values will keep versioned datasets "
-"cleaner."
+"Only including fields which have values will keep versioned datasets cleaner."
 msgstr ""
+"Ǿƞŀẏ īƞƈŀŭḓīƞɠ ƒīḗŀḓş ẇħīƈħ ħȧṽḗ ṽȧŀŭḗş ẇīŀŀ ķḗḗƥ ṽḗřşīǿƞḗḓ ḓȧŧȧşḗŧş ƈŀḗȧƞḗř."
 
 #: ../../standard/docs/en/schema/reference.md:0
 msgid "Emptying fields and values"
-msgstr ""
+msgstr "Ḗḿƥŧẏīƞɠ ƒīḗŀḓş ȧƞḓ ṽȧŀŭḗş"
 
 #: ../../standard/docs/en/schema/reference.md:440
 msgid ""
@@ -899,29 +1204,43 @@ msgid ""
 "value which was set in a previous release. In this case, the fields should "
 "explicitly be set to null."
 msgstr ""
+"Ŧħḗřḗ ḿȧẏ ƀḗ ƈȧşḗş ẇħḗřḗ ȧ ƥŭƀŀīşħḗř ƞḗḗḓş ŧǿ řḗḿǿṽḗ, řȧŧħḗř ŧħȧƞ ŭƥḓȧŧḗ, ȧ "
+"ṽȧŀŭḗ ẇħīƈħ ẇȧş şḗŧ īƞ ȧ ƥřḗṽīǿŭş řḗŀḗȧşḗ. Īƞ ŧħīş ƈȧşḗ, ŧħḗ ƒīḗŀḓş şħǿŭŀḓ "
+"ḗẋƥŀīƈīŧŀẏ ƀḗ şḗŧ ŧǿ ƞŭŀŀ."
 
 #: ../../standard/docs/en/schema/reference.md:442
 msgid ""
 "The following describes how null values will be handled in the compilation "
 "of a record:"
 msgstr ""
+"Ŧħḗ ƒǿŀŀǿẇīƞɠ ḓḗşƈřīƀḗş ħǿẇ ƞŭŀŀ ṽȧŀŭḗş ẇīŀŀ ƀḗ ħȧƞḓŀḗḓ īƞ ŧħḗ ƈǿḿƥīŀȧŧīǿƞ "
+"ǿƒ ȧ řḗƈǿřḓ:"
 
 #: ../../standard/docs/en/schema/reference.md:444
 msgid ""
 "If a field is included with a value in one release, and then set to "
 "```null``` in a subsequent release, that field will be recorded as null in "
-"the compiled record (though past values of it should remain in the versioned"
-" section of the record)."
+"the compiled record (though past values of it should remain in the versioned "
+"section of the record)."
 msgstr ""
+"Īƒ ȧ ƒīḗŀḓ īş īƞƈŀŭḓḗḓ ẇīŧħ ȧ ṽȧŀŭḗ īƞ ǿƞḗ řḗŀḗȧşḗ, ȧƞḓ ŧħḗƞ şḗŧ ŧǿ "
+"```ƞŭŀŀ``` īƞ ȧ şŭƀşḗɋŭḗƞŧ řḗŀḗȧşḗ, ŧħȧŧ ƒīḗŀḓ ẇīŀŀ ƀḗ řḗƈǿřḓḗḓ ȧş ƞŭŀŀ īƞ "
+"ŧħḗ ƈǿḿƥīŀḗḓ řḗƈǿřḓ (ŧħǿŭɠħ ƥȧşŧ ṽȧŀŭḗş ǿƒ īŧ şħǿŭŀḓ řḗḿȧīƞ īƞ ŧħḗ ṽḗřşīǿƞḗḓ "
+"şḗƈŧīǿƞ ǿƒ ŧħḗ řḗƈǿřḓ)."
 
 #: ../../standard/docs/en/schema/reference.md:445
 msgid ""
-"If a field is set to null in one release, and is also set to ```null``` in a"
-" subsequent release, it will be recorded as null as per the original "
-"release, and the record will not show any change based on the subsequent "
-"release I.e. fields that are set to null are recorded as such and then only "
-"changed if the value is set."
+"If a field is set to null in one release, and is also set to ```null``` in a "
+"subsequent release, it will be recorded as null as per the original release, "
+"and the record will not show any change based on the subsequent release I.e. "
+"fields that are set to null are recorded as such and then only changed if "
+"the value is set."
 msgstr ""
+"Īƒ ȧ ƒīḗŀḓ īş şḗŧ ŧǿ ƞŭŀŀ īƞ ǿƞḗ řḗŀḗȧşḗ, ȧƞḓ īş ȧŀşǿ şḗŧ ŧǿ ```ƞŭŀŀ``` īƞ ȧ "
+"şŭƀşḗɋŭḗƞŧ řḗŀḗȧşḗ, īŧ ẇīŀŀ ƀḗ řḗƈǿřḓḗḓ ȧş ƞŭŀŀ ȧş ƥḗř ŧħḗ ǿřīɠīƞȧŀ řḗŀḗȧşḗ, "
+"ȧƞḓ ŧħḗ řḗƈǿřḓ ẇīŀŀ ƞǿŧ şħǿẇ ȧƞẏ ƈħȧƞɠḗ ƀȧşḗḓ ǿƞ ŧħḗ şŭƀşḗɋŭḗƞŧ řḗŀḗȧşḗ Ī.ḗ. "
+"ƒīḗŀḓş ŧħȧŧ ȧřḗ şḗŧ ŧǿ ƞŭŀŀ ȧřḗ řḗƈǿřḓḗḓ ȧş şŭƈħ ȧƞḓ ŧħḗƞ ǿƞŀẏ ƈħȧƞɠḗḓ īƒ "
+"ŧħḗ ṽȧŀŭḗ īş şḗŧ."
 
 #: ../../standard/docs/en/schema/reference.md:446
 msgid ""
@@ -929,6 +1248,9 @@ msgid ""
 "subsequent release, it will first appear in the record, and the version "
 "section of the record as ```null``` and then with the subsequent value."
 msgstr ""
+"Īƒ ȧ ƒīḗŀḓ īş şḗŧ ŧǿ ```ƞŭŀŀ``` īƞ ǿƞḗ řḗŀḗȧşḗ, ȧƞḓ ŧħḗƞ ħȧş ȧ ṽȧŀŭḗ īƞ ȧ "
+"şŭƀşḗɋŭḗƞŧ řḗŀḗȧşḗ, īŧ ẇīŀŀ ƒīřşŧ ȧƥƥḗȧř īƞ ŧħḗ řḗƈǿřḓ, ȧƞḓ ŧħḗ ṽḗřşīǿƞ "
+"şḗƈŧīǿƞ ǿƒ ŧħḗ řḗƈǿřḓ ȧş ```ƞŭŀŀ``` ȧƞḓ ŧħḗƞ ẇīŧħ ŧħḗ şŭƀşḗɋŭḗƞŧ ṽȧŀŭḗ."
 
 #: ../../standard/docs/en/schema/reference.md:447
 msgid ""
@@ -937,3 +1259,7 @@ msgid ""
 "section of the record, when the first release that contains it is compiled "
 "into the record."
 msgstr ""
+"Īƒ ȧ ƒīḗŀḓ ḓǿḗş ƞǿŧ ȧƥƥḗȧř īƞ ǿƞḗ řḗŀḗȧşḗ, ȧƞḓ ŧħḗƞ ȧƥƥḗȧřş ẇīŧħ ȧ ṽȧŀŭḗ īƞ "
+"ȧ şŭƀşḗɋŭḗƞŧ řḗŀḗȧşḗ, īŧ ẇīŀŀ ƒīřşŧ ȧƥƥḗȧř īƞ ŧħḗ řḗƈǿřḓ, ȧƞḓ ŧħḗ ṽḗřşīǿƞ "
+"şḗƈŧīǿƞ ǿƒ ŧħḗ řḗƈǿřḓ, ẇħḗƞ ŧħḗ ƒīřşŧ řḗŀḗȧşḗ ŧħȧŧ ƈǿƞŧȧīƞş īŧ īş ƈǿḿƥīŀḗḓ "
+"īƞŧǿ ŧħḗ řḗƈǿřḓ."

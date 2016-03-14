@@ -1,105 +1,104 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:07+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/support/tools.md:0
 msgid "Tools"
-msgstr ""
+msgstr "Ŧǿǿŀş"
 
 #: ../../standard/docs/en/support/tools.md:3
-msgid ""
-"There are a growing number of tools available to support implementation of "
-"OCDS."
+msgid "There are a growing number of tools available to support implementation of OCDS."
 msgstr ""
+"Ŧħḗřḗ ȧřḗ ȧ ɠřǿẇīƞɠ ƞŭḿƀḗř ǿƒ ŧǿǿŀş ȧṽȧīŀȧƀŀḗ ŧǿ şŭƥƥǿřŧ īḿƥŀḗḿḗƞŧȧŧīǿƞ ǿƒ "
+"ǾƇḒŞ."
 
 #: ../../standard/docs/en/support/tools.md:5
-msgid ""
-"Tools developed by the core team will be available at [https://github.com"
-"/open-contracting/](https://github.com/open-contracting/)."
+msgid "Tools developed by the core team will be available at [https://github.com/open-contracting/](https://github.com/open-contracting/)."
 msgstr ""
+"Ŧǿǿŀş ḓḗṽḗŀǿƥḗḓ ƀẏ ŧħḗ ƈǿřḗ ŧḗȧḿ ẇīŀŀ ƀḗ ȧṽȧīŀȧƀŀḗ ȧŧ [https://github.com"
+"/open-contracting/](https://github.com/open-contracting/)."
 
 #: ../../standard/docs/en/support/tools.md:0
 msgid "Core tools"
-msgstr ""
+msgstr "Ƈǿřḗ ŧǿǿŀş"
 
 #: ../../standard/docs/en/support/tools.md:0
 msgid "OCDS Validator"
-msgstr ""
+msgstr "ǾƇḒŞ Ṽȧŀīḓȧŧǿř"
 
 #: ../../standard/docs/en/support/tools.md:11
-msgid ""
-"The OCDS validator can be found at [http://standard.open-"
-"contracting.org/validator/](http://standard.open-contracting.org/validator/)"
-" and can be used to:"
+msgid "The OCDS validator can be found at [http://standard.open-contracting.org/validator/](http://standard.open-contracting.org/validator/) and can be used to:"
 msgstr ""
+"Ŧħḗ ǾƇḒŞ ṽȧŀīḓȧŧǿř ƈȧƞ ƀḗ ƒǿŭƞḓ ȧŧ [http://standard.open-"
+"contracting.org/validator/](http://standard.open-contracting.org/validator/) "
+"ȧƞḓ ƈȧƞ ƀḗ ŭşḗḓ ŧǿ:"
 
 #: ../../standard/docs/en/support/tools.md:13
 msgid "Check releases and records against the JSON OCDS schema;"
-msgstr ""
+msgstr "Ƈħḗƈķ řḗŀḗȧşḗş ȧƞḓ řḗƈǿřḓş ȧɠȧīƞşŧ ŧħḗ ĴŞǾȠ ǾƇḒŞ şƈħḗḿȧ;"
 
 #: ../../standard/docs/en/support/tools.md:14
 msgid "Provide basic statistics on the data contained within OCDS files;"
-msgstr ""
+msgstr "Ƥřǿṽīḓḗ ƀȧşīƈ şŧȧŧīşŧīƈş ǿƞ ŧħḗ ḓȧŧȧ ƈǿƞŧȧīƞḗḓ ẇīŧħīƞ ǾƇḒŞ ƒīŀḗş;"
 
 #: ../../standard/docs/en/support/tools.md:15
 msgid "Convert between flat and structured JSON formats."
-msgstr ""
+msgstr "Ƈǿƞṽḗřŧ ƀḗŧẇḗḗƞ ƒŀȧŧ ȧƞḓ şŧřŭƈŧŭřḗḓ ĴŞǾȠ ƒǿřḿȧŧş."
 
 #: ../../standard/docs/en/support/tools.md:0
 msgid "OCDS Merge"
-msgstr ""
+msgstr "ǾƇḒŞ Ḿḗřɠḗ"
 
 #: ../../standard/docs/en/support/tools.md:19
-msgid ""
-"This python library provides functions to merge a list of OCDS Releases into"
-" either a compiledRelease or a versionedRelease needed to create an OCDS "
-"record."
+msgid "This python library provides functions to merge a list of OCDS Releases into either a compiledRelease or a versionedRelease needed to create an OCDS record."
 msgstr ""
+"Ŧħīş ƥẏŧħǿƞ ŀīƀřȧřẏ ƥřǿṽīḓḗş ƒŭƞƈŧīǿƞş ŧǿ ḿḗřɠḗ ȧ ŀīşŧ ǿƒ ǾƇḒŞ Řḗŀḗȧşḗş īƞŧǿ "
+"ḗīŧħḗř ȧ ƈǿḿƥīŀḗḓŘḗŀḗȧşḗ ǿř ȧ ṽḗřşīǿƞḗḓŘḗŀḗȧşḗ ƞḗḗḓḗḓ ŧǿ ƈřḗȧŧḗ ȧƞ ǾƇḒŞ "
+"řḗƈǿřḓ."
 
 #: ../../standard/docs/en/support/tools.md:21
-msgid ""
-"```ocdsmerge``` is available as a python package, [or on "
-"GitHub](https://github.com/open-contracting/ocds-merge) along with usage "
-"instructions."
+msgid "```ocdsmerge``` is available as a python package, [or on GitHub](https://github.com/open-contracting/ocds-merge) along with usage instructions."
 msgstr ""
+"```ǿƈḓşḿḗřɠḗ``` īş ȧṽȧīŀȧƀŀḗ ȧş ȧ ƥẏŧħǿƞ ƥȧƈķȧɠḗ, [ǿř ǿƞ "
+"ƓīŧĦŭƀ](https://github.com/open-contracting/ocds-merge) ȧŀǿƞɠ ẇīŧħ ŭşȧɠḗ "
+"īƞşŧřŭƈŧīǿƞş."
 
 #: ../../standard/docs/en/support/tools.md:0
 msgid "Community tools"
-msgstr ""
+msgstr "Ƈǿḿḿŭƞīŧẏ ŧǿǿŀş"
 
 #: ../../standard/docs/en/support/tools.md:25
-msgid ""
-"We will be developing a list of community developed tools which consume or "
-"produce OCDS data here."
+msgid "We will be developing a list of community developed tools which consume or produce OCDS data here."
 msgstr ""
+"Ẇḗ ẇīŀŀ ƀḗ ḓḗṽḗŀǿƥīƞɠ ȧ ŀīşŧ ǿƒ ƈǿḿḿŭƞīŧẏ ḓḗṽḗŀǿƥḗḓ ŧǿǿŀş ẇħīƈħ ƈǿƞşŭḿḗ ǿř "
+"ƥřǿḓŭƈḗ ǾƇḒŞ ḓȧŧȧ ħḗřḗ."
 
 #: ../../standard/docs/en/support/tools.md:27
-msgid ""
-"In the meantime, please share suggestions for tools with the mailing list."
+msgid "In the meantime, please share suggestions for tools with the mailing list."
 msgstr ""
+"Īƞ ŧħḗ ḿḗȧƞŧīḿḗ, ƥŀḗȧşḗ şħȧřḗ şŭɠɠḗşŧīǿƞş ƒǿř ŧǿǿŀş ẇīŧħ ŧħḗ ḿȧīŀīƞɠ ŀīşŧ."
 
 #: ../../standard/docs/en/support/tools.md:0
 msgid "Archived tools"
-msgstr ""
+msgstr "Ȧřƈħīṽḗḓ ŧǿǿŀş"
 
 #: ../../standard/docs/en/support/tools.md:31
-msgid ""
-"A number of older tools, created during the development of the standard, can"
-" be found in the [Open Contracting Archive github "
-"organization](https://github.com/open-contracting-archive)."
+msgid "A number of older tools, created during the development of the standard, can be found in the [Open Contracting Archive github organization](https://github.com/open-contracting-archive)."
 msgstr ""
+"Ȧ ƞŭḿƀḗř ǿƒ ǿŀḓḗř ŧǿǿŀş, ƈřḗȧŧḗḓ ḓŭřīƞɠ ŧħḗ ḓḗṽḗŀǿƥḿḗƞŧ ǿƒ ŧħḗ şŧȧƞḓȧřḓ, ƈȧƞ "
+"ƀḗ ƒǿŭƞḓ īƞ ŧħḗ [Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ Ȧřƈħīṽḗ ɠīŧħŭƀ "
+"ǿřɠȧƞīzȧŧīǿƞ](https://github.com/open-contracting-archive)."

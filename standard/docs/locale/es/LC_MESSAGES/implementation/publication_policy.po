@@ -1,86 +1,85 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C)
+# Copyright (C) 
 # This file is distributed under the same license as the OCDS package.
-# 
-# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: open-contracting-standard-1.0\n"
+"Project-Id-Version: OCDS 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-24 18:05+0000\n"
-"PO-Revision-Date: 2016-02-24 18:07+0000\n"
-"Last-Translator: Ben Webb <ben.webb@opendataservices.coop>\n"
-"Language-Team: Spanish (http://www.transifex.com/OpenDataServices/open-contracting-standard-1-0/language/es/)\n"
+"POT-Creation-Date: 2016-03-14 15:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../../standard/docs/en/implementation/publication_policy.md:0
 msgid "Publication policies"
-msgstr ""
+msgstr "Ƥŭƀŀīƈȧŧīǿƞ ƥǿŀīƈīḗş"
 
 #: ../../standard/docs/en/implementation/publication_policy.md:3
-msgid ""
-"Publishing Open Contracting data involves making a number of choices about "
-"what data and documents to include and how to classify and categorise "
-"different items. To allow users to understand the choices that a publisher "
-"has made, a publisher should provide a public web page or document that "
-"details the decisions they have made concerning the issues listed below."
+msgid "Publishing Open Contracting data involves making a number of choices about what data and documents to include and how to classify and categorise different items. To allow users to understand the choices that a publisher has made, a publisher should provide a public web page or document that details the decisions they have made concerning the issues listed below."
 msgstr ""
+"Ƥŭƀŀīşħīƞɠ Ǿƥḗƞ Ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ īƞṽǿŀṽḗş ḿȧķīƞɠ ȧ ƞŭḿƀḗř ǿƒ ƈħǿīƈḗş ȧƀǿŭŧ "
+"ẇħȧŧ ḓȧŧȧ ȧƞḓ ḓǿƈŭḿḗƞŧş ŧǿ īƞƈŀŭḓḗ ȧƞḓ ħǿẇ ŧǿ ƈŀȧşşīƒẏ ȧƞḓ ƈȧŧḗɠǿřīşḗ "
+"ḓīƒƒḗřḗƞŧ īŧḗḿş. Ŧǿ ȧŀŀǿẇ ŭşḗřş ŧǿ ŭƞḓḗřşŧȧƞḓ ŧħḗ ƈħǿīƈḗş ŧħȧŧ ȧ ƥŭƀŀīşħḗř "
+"ħȧş ḿȧḓḗ, ȧ ƥŭƀŀīşħḗř şħǿŭŀḓ ƥřǿṽīḓḗ ȧ ƥŭƀŀīƈ ẇḗƀ ƥȧɠḗ ǿř ḓǿƈŭḿḗƞŧ ŧħȧŧ "
+"ḓḗŧȧīŀş ŧħḗ ḓḗƈīşīǿƞş ŧħḗẏ ħȧṽḗ ḿȧḓḗ ƈǿƞƈḗřƞīƞɠ ŧħḗ īşşŭḗş ŀīşŧḗḓ ƀḗŀǿẇ."
 
 #: ../../standard/docs/en/implementation/publication_policy.md:5
-msgid ""
-"This document should also contain information about future plans for changes"
-" to the data and who to contact with enquiries about the data."
+msgid "This document should also contain information about future plans for changes to the data and who to contact with enquiries about the data."
 msgstr ""
+"Ŧħīş ḓǿƈŭḿḗƞŧ şħǿŭŀḓ ȧŀşǿ ƈǿƞŧȧīƞ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ ƒŭŧŭřḗ ƥŀȧƞş ƒǿř ƈħȧƞɠḗş "
+"ŧǿ ŧħḗ ḓȧŧȧ ȧƞḓ ẇħǿ ŧǿ ƈǿƞŧȧƈŧ ẇīŧħ ḗƞɋŭīřīḗş ȧƀǿŭŧ ŧħḗ ḓȧŧȧ."
 
 #: ../../standard/docs/en/implementation/publication_policy.md:7
 msgid "Publication policy pages should include information about:"
-msgstr ""
+msgstr "Ƥŭƀŀīƈȧŧīǿƞ ƥǿŀīƈẏ ƥȧɠḗş şħǿŭŀḓ īƞƈŀŭḓḗ īƞƒǿřḿȧŧīǿƞ ȧƀǿŭŧ:"
 
 #: ../../standard/docs/en/implementation/publication_policy.md:9
-msgid ""
-"Who is responsible for providing this data - including appropriate contact "
-"details and locations of where to offer feedback."
+msgid "Who is responsible for providing this data - including appropriate contact details and locations of where to offer feedback."
 msgstr ""
+"Ẇħǿ īş řḗşƥǿƞşīƀŀḗ ƒǿř ƥřǿṽīḓīƞɠ ŧħīş ḓȧŧȧ - īƞƈŀŭḓīƞɠ ȧƥƥřǿƥřīȧŧḗ ƈǿƞŧȧƈŧ "
+"ḓḗŧȧīŀş ȧƞḓ ŀǿƈȧŧīǿƞş ǿƒ ẇħḗřḗ ŧǿ ǿƒƒḗř ƒḗḗḓƀȧƈķ."
 
 #: ../../standard/docs/en/implementation/publication_policy.md:10
-msgid ""
-"How the data is generated, and how often - for example, a brief summary "
-"describing the systems the data is generated from, how often the source data"
-" is updated, and any processes that operate between the source data and the "
-"published open contracting data and documents."
+msgid "How the data is generated, and how often - for example, a brief summary describing the systems the data is generated from, how often the source data is updated, and any processes that operate between the source data and the published open contracting data and documents."
 msgstr ""
+"Ħǿẇ ŧħḗ ḓȧŧȧ īş ɠḗƞḗřȧŧḗḓ, ȧƞḓ ħǿẇ ǿƒŧḗƞ - ƒǿř ḗẋȧḿƥŀḗ, ȧ ƀřīḗƒ şŭḿḿȧřẏ "
+"ḓḗşƈřīƀīƞɠ ŧħḗ şẏşŧḗḿş ŧħḗ ḓȧŧȧ īş ɠḗƞḗřȧŧḗḓ ƒřǿḿ, ħǿẇ ǿƒŧḗƞ ŧħḗ şǿŭřƈḗ ḓȧŧȧ "
+"īş ŭƥḓȧŧḗḓ, ȧƞḓ ȧƞẏ ƥřǿƈḗşşḗş ŧħȧŧ ǿƥḗřȧŧḗ ƀḗŧẇḗḗƞ ŧħḗ şǿŭřƈḗ ḓȧŧȧ ȧƞḓ ŧħḗ "
+"ƥŭƀŀīşħḗḓ ǿƥḗƞ ƈǿƞŧřȧƈŧīƞɠ ḓȧŧȧ ȧƞḓ ḓǿƈŭḿḗƞŧş."
 
 #: ../../standard/docs/en/implementation/publication_policy.md:11
-msgid ""
-"Any exclusions from the data - such as information which is not disclosed "
-"for reasons of privacy and security. This may describe the fields which are "
-"excluded for a selection of records, and/or the policy applied to decide if "
-"any information should be withheld from a public OCDS release."
+msgid "Any exclusions from the data - such as information which is not disclosed for reasons of privacy and security. This may describe the fields which are excluded for a selection of records, and/or the policy applied to decide if any information should be withheld from a public OCDS release."
 msgstr ""
+"Ȧƞẏ ḗẋƈŀŭşīǿƞş ƒřǿḿ ŧħḗ ḓȧŧȧ - şŭƈħ ȧş īƞƒǿřḿȧŧīǿƞ ẇħīƈħ īş ƞǿŧ ḓīşƈŀǿşḗḓ "
+"ƒǿř řḗȧşǿƞş ǿƒ ƥřīṽȧƈẏ ȧƞḓ şḗƈŭřīŧẏ. Ŧħīş ḿȧẏ ḓḗşƈřīƀḗ ŧħḗ ƒīḗŀḓş ẇħīƈħ ȧřḗ "
+"ḗẋƈŀŭḓḗḓ ƒǿř ȧ şḗŀḗƈŧīǿƞ ǿƒ řḗƈǿřḓş, ȧƞḓ/ǿř ŧħḗ ƥǿŀīƈẏ ȧƥƥŀīḗḓ ŧǿ ḓḗƈīḓḗ īƒ "
+"ȧƞẏ īƞƒǿřḿȧŧīǿƞ şħǿŭŀḓ ƀḗ ẇīŧħħḗŀḓ ƒřǿḿ ȧ ƥŭƀŀīƈ ǾƇḒŞ řḗŀḗȧşḗ."
 
 #: ../../standard/docs/en/implementation/publication_policy.md:12
-msgid ""
-"Any custom code lists used - or custom codes added to existing codelists."
+msgid "Any custom code lists used - or custom codes added to existing codelists."
 msgstr ""
+"Ȧƞẏ ƈŭşŧǿḿ ƈǿḓḗ ŀīşŧş ŭşḗḓ - ǿř ƈŭşŧǿḿ ƈǿḓḗş ȧḓḓḗḓ ŧǿ ḗẋīşŧīƞɠ ƈǿḓḗŀīşŧş."
 
 #: ../../standard/docs/en/implementation/publication_policy.md:13
-msgid ""
-"Future development plans - brief notes on the future plans of the publisher "
-"to improve their data."
+msgid "Future development plans - brief notes on the future plans of the publisher to improve their data."
 msgstr ""
+"Ƒŭŧŭřḗ ḓḗṽḗŀǿƥḿḗƞŧ ƥŀȧƞş - ƀřīḗƒ ƞǿŧḗş ǿƞ ŧħḗ ƒŭŧŭřḗ ƥŀȧƞş ǿƒ ŧħḗ ƥŭƀŀīşħḗř "
+"ŧǿ īḿƥřǿṽḗ ŧħḗīř ḓȧŧȧ."
 
 #: ../../standard/docs/en/implementation/publication_policy.md:15
-msgid ""
-"Publishers may also wish to apply for, and include the results of, an [Open "
-"Data Certificate](https://certificates.theodi.org/), on their publication "
-"policy pages."
+msgid "Publishers may also wish to apply for, and include the results of, an [Open Data Certificate](https://certificates.theodi.org/), on their publication policy pages."
 msgstr ""
+"Ƥŭƀŀīşħḗřş ḿȧẏ ȧŀşǿ ẇīşħ ŧǿ ȧƥƥŀẏ ƒǿř, ȧƞḓ īƞƈŀŭḓḗ ŧħḗ řḗşŭŀŧş ǿƒ, ȧƞ [Ǿƥḗƞ "
+"Ḓȧŧȧ Ƈḗřŧīƒīƈȧŧḗ](https://certificates.theodi.org/), ǿƞ ŧħḗīř ƥŭƀŀīƈȧŧīǿƞ "
+"ƥǿŀīƈẏ ƥȧɠḗş."
 
 #: ../../standard/docs/en/implementation/publication_policy.md:17
-msgid ""
-"A link to the publication policy can be embedded within the data package."
+msgid "A link to the publication policy can be embedded within the data package."
 msgstr ""
+"Ȧ ŀīƞķ ŧǿ ŧħḗ ƥŭƀŀīƈȧŧīǿƞ ƥǿŀīƈẏ ƈȧƞ ƀḗ ḗḿƀḗḓḓḗḓ ẇīŧħīƞ ŧħḗ ḓȧŧȧ ƥȧƈķȧɠḗ."
